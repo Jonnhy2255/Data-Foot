@@ -35,18 +35,11 @@ jobs:
 
       # 6️⃣ Commit et push uniquement si des fichiers ont changé
       - name: 🆙 Commit et Push si changements
-        run: |
-          git config --global user.name "softbot"
-          git config --global user.email "softbot@users.noreply.github.com"
+  run: |
+    git config --global user.name "softbot"
+    git config --global user.email "softbot@users.noreply.github.com"
 
-          # Vérifier que les fichiers existent avant git add
-          for f in $FILES; do
-            if [ -f "$f" ]; then
-              git add "$f"
-            fi
-          done
+    git add data/*.json
 
-          # Commit uniquement s'il y a des changements
-          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Mise à jour automatique des matchs du $(date -u +'%Y-%m-%d')"
-
-          git push
+    git diff --cached --quiet || git commit -m "🔄 Mise à jour automatique des matchs du $(date -u +'%Y-%m-%d')"
+    git push
