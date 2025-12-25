@@ -1,0 +1,52 @@
+name: Mise à jour quotidienne des ligues
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Tous les jours à 00h UTC
+  workflow_dispatch:  # Permet un lancement manuel
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Cloner le dépôt
+      - name: 📥 Cloner le repo
+        uses: actions/checkout@v3
+
+      # 2️⃣ Installer Python
+      - name: 🐍 Installer Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      # 3️⃣ Installer les dépendances nécessaires
+      - name: 📦 Installer les dépendances
+        run: pip install beautifulsoup4 requests
+
+      # 4️⃣ Définir la liste des fichiers JSON
+      - name: 🔢 Définir la liste des fichiers JSON
+        run: |
+          echo "FILES=p_league.json laliga.json bundesliga.json Argentina_Primera_Nacional.json Austria_Bundesliga.json Belgium_Jupiler_Pro_League.json Brazil_Serie_A.json Brazil_Serie_B.json Chile_Primera_Division.json China_Super_League.json Colombia_Primera_A.json England_National_League.json France_Ligue_1.json Greece_Super_League_1.json Italy_Serie_A.json Japan_J1_League.json Mexico_Liga_MX.json Netherlands_Eredivisie.json Paraguay_Division_Profesional.json Peru_Primera_Division.json Portugal_Primeira_Liga.json Romania_Liga_I.json Russia_Premier_League.json Saudi_Arabia_Pro_League.json Sweden_Allsvenskan.json Switzerland_Super_League.json Turkey_Super_Lig.json USA_Major_League_Soccer.json Venezuela_Primera_Division.json UEFA_Champions_League.json UEFA_Europa_League.json FIFA_Club_World_Cup.json" >> $GITHUB_ENV
+
+      # 5️⃣ Lancer le script de mise à jour
+      - name: 🔄 Lancer p_league.py
+        run: python p_league.py
+
+      # 6️⃣ Commit et push uniquement si des fichiers ont changé
+      - name: 🆙 Commit et Push si changements
+        run: |
+          git config --global user.name "softbot"
+          git config --global user.email "softbot@users.noreply.github.com"
+
+          # Vérifier que les fichiers existent avant git add
+          for f in $FILES; do
+            if [ -f "$f" ]; then
+              git add "$f"
+            fi
+          done
+
+          # Commit uniquement s'il y a des changements
+          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Mise à jour automatique des matchs du $(date -u +'%Y-%m-%d')"
+
+          git push
