@@ -1,45 +1,96 @@
-name: Mise à jour quotidienne des ligues
+name: Scrape ESPN Soccer Matches
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Tous les jours à 00h UTC
-  workflow_dispatch:  # Permet un lancement manuel
+    - cron: '0 */6 * * *'   # toutes les 6 heures
+  workflow_dispatch:        # permet lancement manuel
 
 jobs:
-  update-json:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
       # 1️⃣ Cloner le dépôt
-      - name: 📥 Cloner le repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       # 2️⃣ Installer Python
-      - name: 🐍 Installer Python
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.11
+          python-version: '3.11'
 
-      # 3️⃣ Installer les dépendances nécessaires
-      - name: 📦 Installer les dépendances
-        run: pip install beautifulsoup4 requests
-
-      # 4️⃣ Définir la liste des fichiers JSON
-      - name: 🔢 Définir la liste des fichiers JSON
+      # 3️⃣ Installer les dépendances
+      - name: Install dependencies
         run: |
-          echo "FILES=p_league.json laliga.json bundesliga.json Argentina_Primera_Nacional.json Austria_Bundesliga.json Belgium_Jupiler_Pro_League.json Brazil_Serie_A.json Brazil_Serie_B.json Chile_Primera_Division.json China_Super_League.json Colombia_Primera_A.json England_National_League.json France_Ligue_1.json Greece_Super_League_1.json Italy_Serie_A.json Japan_J1_League.json Mexico_Liga_MX.json Netherlands_Eredivisie.json Paraguay_Division_Profesional.json Peru_Primera_Division.json Portugal_Primeira_Liga.json Romania_Liga_I.json Russia_Premier_League.json Saudi_Arabia_Pro_League.json Sweden_Allsvenskan.json Switzerland_Super_League.json Turkey_Super_Lig.json USA_Major_League_Soccer.json Venezuela_Primera_Division.json UEFA_Champions_League.json UEFA_Europa_League.json FIFA_Club_World_Cup.json" >> $GITHUB_ENV
+          pip install --upgrade pip
+          pip install requests beautifulsoup4
 
-      # 5️⃣ Lancer le script de mise à jour
-      - name: 🔄 Lancer p_league.py
-        run: python p_league.py
+      # 4️⃣ Lancer le scraper
+      - name: Run scraper
+        run: python scraper.py
 
-      # 6️⃣ Commit et push uniquement si des fichiers ont changé
-      - name: 🆙 Commit et Push si changements
-  run: |
-    git config --global user.name "softbot"
-    git config --global user.email "softbot@users.noreply.github.com"
+      # 5️⃣ Commit et push uniquement si des fichiers ont changé
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-    git add data/*.json
+          # Liste complète des fichiers JSON
+          FILES="
+            data/p_league.json
+            data/laliga.json
+            data/bundesliga.json
+            data/Argentina_Primera_Nacional.json
+            data/Austria_Bundesliga.json
+            data/Belgium_Jupiler_Pro_League.json
+            data/Brazil_Serie_A.json
+            data/Brazil_Serie_B.json
+            data/Chile_Primera_Division.json
+            data/China_Super_League.json
+            data/Colombia_Primera_A.json
+            data/England_National_League.json
+            data/France_Ligue_1.json
+            data/Greece_Super_League_1.json
+            data/Italy_Serie_A.json
+            data/Japan_J1_League.json
+            data/Mexico_Liga_MX.json
+            data/Netherlands_Eredivisie.json
+            data/Paraguay_Division_Profesional.json
+            data/Peru_Primera_Division.json
+            data/Portugal_Primeira_Liga.json
+            data/Romania_Liga_I.json
+            data/Russia_Premier_League.json
+            data/Saudi_Arabia_Pro_League.json
+            data/Sweden_Allsvenskan.json
+            data/Switzerland_Super_League.json
+            data/Turkey_Super_Lig.json
+            data/USA_Major_League_Soccer.json
+            data/Venezuela_Primera_Division.json
+            data/UEFA_Champions_League.json
+            data/UEFA_Europa_League.json
+            data/FIFA_Club_World_Cup.json
+          "
 
-    git diff --cached --quiet || git commit -m "🔄 Mise à jour automatique des matchs du $(date -u +'%Y-%m-%d')"
-    git push
+          # Ajouter uniquement les fichiers qui existent
+          for f in $FILES; do
+            if [ -f "$f" ]; then
+              git add "$f"
+            fi
+          done
+
+          # Compter le nombre de fichiers ajoutés
+          FILES_CHANGED=$(git diff --cached --name-only | wc -l)
+
+          if [ "$FILES_CHANGED" -eq "0" ]; then
+            echo "✅ Aucun changement détecté dans les JSON."
+          else
+            echo "🔄 $FILES_CHANGED fichier(s) modifié(s), commit en cours..."
+            git commit -m "🔄 Mise à jour automatique des matchs $(date +'%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "✅ Push terminé."
+          fi
+
+      # 6️⃣ Log des fichiers pour vérification
+      - name: List JSON files
+        run: ls -lh data/*.json
