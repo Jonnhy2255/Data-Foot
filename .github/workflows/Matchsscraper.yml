@@ -28,7 +28,7 @@ jobs:
 
       # 4️⃣ Lancer le scraper
       - name: Run scraper
-        run: python scraper.py
+        run: python p_league.py
 
       # 5️⃣ Commit et push uniquement si des fichiers ont changé
       - name: Commit and push changes
