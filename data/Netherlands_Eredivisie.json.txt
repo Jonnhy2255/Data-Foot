@@ -1,0 +1,4151 @@
+[
+  {
+    "gameId": "705206",
+    "date": "Friday, August 9, 2024",
+    "team1": "FC Groningen",
+    "score": "4 - 1",
+    "team2": "NAC Breda",
+    "title": "FC Groningen VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705206/nac-breda-fc-groningen"
+  },
+  {
+    "gameId": "705207",
+    "date": "Saturday, August 10, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "1 - 1",
+    "team2": "Willem II",
+    "title": "Feyenoord Rotterdam VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705207/willem-ii-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705208",
+    "date": "Saturday, August 10, 2024",
+    "team1": "NEC Nijmegen",
+    "score": "1 - 2",
+    "team2": "FC Twente",
+    "title": "NEC Nijmegen VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705208/fc-twente-nec-nijmegen"
+  },
+  {
+    "gameId": "705212",
+    "date": "Saturday, August 10, 2024",
+    "team1": "Almere City",
+    "score": "0 - 1",
+    "team2": "AZ Alkmaar",
+    "title": "Almere City VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705212/az-alkmaar-almere-city"
+  },
+  {
+    "gameId": "705210",
+    "date": "Saturday, August 10, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "5 - 1",
+    "team2": "RKC Waalwijk",
+    "title": "PSV Eindhoven VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705210/rkc-waalwijk-psv-eindhoven"
+  },
+  {
+    "gameId": "705211",
+    "date": "Sunday, August 11, 2024",
+    "team1": "Sparta Rotterdam",
+    "score": "0 - 0",
+    "team2": "Heracles Almelo",
+    "title": "Sparta Rotterdam VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705211/heracles-almelo-sparta-rotterdam"
+  },
+  {
+    "gameId": "705209",
+    "date": "Sunday, August 11, 2024",
+    "team1": "FC Utrecht",
+    "score": "1 - 0",
+    "team2": "PEC Zwolle",
+    "title": "FC Utrecht VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705209/pec-zwolle-fc-utrecht"
+  },
+  {
+    "gameId": "705213",
+    "date": "Sunday, August 11, 2024",
+    "team1": "Go Ahead Eagles",
+    "score": "0 - 2",
+    "team2": "Fortuna Sittard",
+    "title": "Go Ahead Eagles VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705213/fortuna-sittard-go-ahead-eagles"
+  },
+  {
+    "gameId": "705214",
+    "date": "Sunday, August 11, 2024",
+    "team1": "Ajax Amsterdam",
+    "score": "1 - 0",
+    "team2": "Heerenveen",
+    "title": "Ajax Amsterdam VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705214/heerenveen-ajax-amsterdam"
+  },
+  {
+    "gameId": "705215",
+    "date": "Friday, August 16, 2024",
+    "team1": "Fortuna Sittard",
+    "score": "3 - 0",
+    "team2": "Almere City",
+    "title": "Fortuna Sittard VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705215/almere-city-fortuna-sittard"
+  },
+  {
+    "gameId": "705216",
+    "date": "Saturday, August 17, 2024",
+    "team1": "Heerenveen",
+    "score": "1 - 1",
+    "team2": "FC Utrecht",
+    "title": "Heerenveen VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705216/fc-utrecht-heerenveen"
+  },
+  {
+    "gameId": "705217",
+    "date": "Saturday, August 17, 2024",
+    "team1": "FC Twente",
+    "score": "1 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "FC Twente VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705217/sparta-rotterdam-fc-twente"
+  },
+  {
+    "gameId": "705218",
+    "date": "Saturday, August 17, 2024",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 0",
+    "team2": "NEC Nijmegen",
+    "title": "AZ Alkmaar VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705218/nec-nijmegen-az-alkmaar"
+  },
+  {
+    "gameId": "705219",
+    "date": "Saturday, August 17, 2024",
+    "team1": "RKC Waalwijk",
+    "score": "1 - 2",
+    "team2": "FC Groningen",
+    "title": "RKC Waalwijk VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705219/fc-groningen-rkc-waalwijk"
+  },
+  {
+    "gameId": "705220",
+    "date": "Sunday, August 18, 2024",
+    "team1": "Heracles Almelo",
+    "score": "1 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "Heracles Almelo VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705220/psv-eindhoven-heracles-almelo"
+  },
+  {
+    "gameId": "705221",
+    "date": "Sunday, August 18, 2024",
+    "team1": "PEC Zwolle",
+    "score": "1 - 5",
+    "team2": "Feyenoord Rotterdam",
+    "title": "PEC Zwolle VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705221/feyenoord-rotterdam-pec-zwolle"
+  },
+  {
+    "gameId": "705222",
+    "date": "Sunday, August 18, 2024",
+    "team1": "Willem II",
+    "score": "2 - 0",
+    "team2": "Go Ahead Eagles",
+    "title": "Willem II VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705222/go-ahead-eagles-willem-ii"
+  },
+  {
+    "gameId": "705223",
+    "date": "Sunday, August 18, 2024",
+    "team1": "NAC Breda",
+    "score": "2 - 1",
+    "team2": "Ajax Amsterdam",
+    "title": "NAC Breda VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705223/ajax-amsterdam-nac-breda"
+  },
+  {
+    "gameId": "705224",
+    "date": "Saturday, August 24, 2024",
+    "team1": "NEC Nijmegen",
+    "score": "1 - 0",
+    "team2": "PEC Zwolle",
+    "title": "NEC Nijmegen VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705224/pec-zwolle-nec-nijmegen"
+  },
+  {
+    "gameId": "705225",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Almere City",
+    "score": "1 - 7",
+    "team2": "PSV Eindhoven",
+    "title": "Almere City VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705225/psv-eindhoven-almere-city"
+  },
+  {
+    "gameId": "705226",
+    "date": "Saturday, August 24, 2024",
+    "team1": "NAC Breda",
+    "score": "1 - 2",
+    "team2": "FC Utrecht",
+    "title": "NAC Breda VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705226/fc-utrecht-nac-breda"
+  },
+  {
+    "gameId": "705229",
+    "date": "Sunday, August 25, 2024",
+    "team1": "FC Groningen",
+    "score": "0 - 0",
+    "team2": "AZ Alkmaar",
+    "title": "FC Groningen VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705229/az-alkmaar-fc-groningen"
+  },
+  {
+    "gameId": "705231",
+    "date": "Sunday, August 25, 2024",
+    "team1": "Heracles Almelo",
+    "score": "1 - 1",
+    "team2": "Willem II",
+    "title": "Heracles Almelo VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705231/willem-ii-heracles-almelo"
+  },
+  {
+    "gameId": "705230",
+    "date": "Sunday, August 25, 2024",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Sparta Rotterdam VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705230/feyenoord-rotterdam-sparta-rotterdam"
+  },
+  {
+    "gameId": "705232",
+    "date": "Sunday, August 25, 2024",
+    "team1": "Go Ahead Eagles",
+    "score": "2 - 0",
+    "team2": "RKC Waalwijk",
+    "title": "Go Ahead Eagles VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705232/rkc-waalwijk-go-ahead-eagles"
+  },
+  {
+    "gameId": "705234",
+    "date": "Friday, August 30, 2024",
+    "team1": "RKC Waalwijk",
+    "score": "0 - 3",
+    "team2": "AZ Alkmaar",
+    "title": "RKC Waalwijk VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705234/az-alkmaar-rkc-waalwijk"
+  },
+  {
+    "gameId": "705237",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Almere City",
+    "score": "1 - 1",
+    "team2": "FC Groningen",
+    "title": "Almere City VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705237/fc-groningen-almere-city"
+  },
+  {
+    "gameId": "705235",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Fortuna Sittard",
+    "score": "0 - 3",
+    "team2": "NEC Nijmegen",
+    "title": "Fortuna Sittard VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705235/nec-nijmegen-fortuna-sittard"
+  },
+  {
+    "gameId": "705236",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Heerenveen",
+    "score": "4 - 0",
+    "team2": "NAC Breda",
+    "title": "Heerenveen VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705236/nac-breda-heerenveen"
+  },
+  {
+    "gameId": "705233",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Willem II",
+    "score": "1 - 2",
+    "team2": "Sparta Rotterdam",
+    "title": "Willem II VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705233/sparta-rotterdam-willem-ii"
+  },
+  {
+    "gameId": "705238",
+    "date": "Sunday, September 1, 2024",
+    "team1": "FC Utrecht",
+    "score": "2 - 1",
+    "team2": "FC Twente",
+    "title": "FC Utrecht VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705238/fc-twente-fc-utrecht"
+  },
+  {
+    "gameId": "705240",
+    "date": "Sunday, September 1, 2024",
+    "team1": "PEC Zwolle",
+    "score": "3 - 0",
+    "team2": "Heracles Almelo",
+    "title": "PEC Zwolle VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705240/heracles-almelo-pec-zwolle"
+  },
+  {
+    "gameId": "705241",
+    "date": "Sunday, September 1, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "3 - 0",
+    "team2": "Go Ahead Eagles",
+    "title": "PSV Eindhoven VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705241/go-ahead-eagles-psv-eindhoven"
+  },
+  {
+    "gameId": "705242",
+    "date": "Saturday, September 14, 2024",
+    "team1": "FC Twente",
+    "score": "1 - 1",
+    "team2": "PEC Zwolle",
+    "title": "FC Twente VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705242/pec-zwolle-fc-twente"
+  },
+  {
+    "gameId": "705246",
+    "date": "Saturday, September 14, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "2 - 0",
+    "team2": "NEC Nijmegen",
+    "title": "PSV Eindhoven VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705246/nec-nijmegen-psv-eindhoven"
+  },
+  {
+    "gameId": "705243",
+    "date": "Saturday, September 14, 2024",
+    "team1": "FC Groningen",
+    "score": "2 - 2",
+    "team2": "Feyenoord Rotterdam",
+    "title": "FC Groningen VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705243/feyenoord-rotterdam-fc-groningen"
+  },
+  {
+    "gameId": "705244",
+    "date": "Saturday, September 14, 2024",
+    "team1": "NAC Breda",
+    "score": "1 - 0",
+    "team2": "Fortuna Sittard",
+    "title": "NAC Breda VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705244/fortuna-sittard-nac-breda"
+  },
+  {
+    "gameId": "705245",
+    "date": "Saturday, September 14, 2024",
+    "team1": "AZ Alkmaar",
+    "score": "9 - 1",
+    "team2": "Heerenveen",
+    "title": "AZ Alkmaar VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705245/heerenveen-az-alkmaar"
+  },
+  {
+    "gameId": "705247",
+    "date": "Sunday, September 15, 2024",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "Sparta Rotterdam VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705247/go-ahead-eagles-sparta-rotterdam"
+  },
+  {
+    "gameId": "705248",
+    "date": "Sunday, September 15, 2024",
+    "team1": "Willem II",
+    "score": "3 - 0",
+    "team2": "RKC Waalwijk",
+    "title": "Willem II VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705248/rkc-waalwijk-willem-ii"
+  },
+  {
+    "gameId": "705250",
+    "date": "Sunday, September 15, 2024",
+    "team1": "Heracles Almelo",
+    "score": "0 - 0",
+    "team2": "Almere City",
+    "title": "Heracles Almelo VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705250/almere-city-heracles-almelo"
+  },
+  {
+    "gameId": "705228",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "FC Twente",
+    "score": "2 - 0",
+    "team2": "Heerenveen",
+    "title": "FC Twente VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705228/heerenveen-fc-twente"
+  },
+  {
+    "gameId": "705227",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Ajax Amsterdam",
+    "score": "5 - 0",
+    "team2": "Fortuna Sittard",
+    "title": "Ajax Amsterdam VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705227/fortuna-sittard-ajax-amsterdam"
+  },
+  {
+    "gameId": "705251",
+    "date": "Friday, September 20, 2024",
+    "team1": "PEC Zwolle",
+    "score": "1 - 2",
+    "team2": "AZ Alkmaar",
+    "title": "PEC Zwolle VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705251/az-alkmaar-pec-zwolle"
+  },
+  {
+    "gameId": "705252",
+    "date": "Saturday, September 21, 2024",
+    "team1": "FC Utrecht",
+    "score": "3 - 2",
+    "team2": "Willem II",
+    "title": "FC Utrecht VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705252/willem-ii-fc-utrecht"
+  },
+  {
+    "gameId": "705253",
+    "date": "Saturday, September 21, 2024",
+    "team1": "RKC Waalwijk",
+    "score": "1 - 2",
+    "team2": "Sparta Rotterdam",
+    "title": "RKC Waalwijk VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705253/sparta-rotterdam-rkc-waalwijk"
+  },
+  {
+    "gameId": "705254",
+    "date": "Saturday, September 21, 2024",
+    "team1": "Go Ahead Eagles",
+    "score": "1 - 1",
+    "team2": "Ajax Amsterdam",
+    "title": "Go Ahead Eagles VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705254/ajax-amsterdam-go-ahead-eagles"
+  },
+  {
+    "gameId": "705255",
+    "date": "Saturday, September 21, 2024",
+    "team1": "NEC Nijmegen",
+    "score": "1 - 2",
+    "team2": "Heracles Almelo",
+    "title": "NEC Nijmegen VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705255/heracles-almelo-nec-nijmegen"
+  },
+  {
+    "gameId": "705256",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Heerenveen",
+    "score": "2 - 1",
+    "team2": "FC Groningen",
+    "title": "Heerenveen VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705256/fc-groningen-heerenveen"
+  },
+  {
+    "gameId": "705257",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Almere City",
+    "score": "0 - 5",
+    "team2": "FC Twente",
+    "title": "Almere City VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705257/fc-twente-almere-city"
+  },
+  {
+    "gameId": "705258",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "2 - 0",
+    "team2": "NAC Breda",
+    "title": "Feyenoord Rotterdam VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705258/nac-breda-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705259",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "Fortuna Sittard VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705259/psv-eindhoven-fortuna-sittard"
+  },
+  {
+    "gameId": "705260",
+    "date": "Friday, September 27, 2024",
+    "team1": "Heracles Almelo",
+    "score": "2 - 1",
+    "team2": "Heerenveen",
+    "title": "Heracles Almelo VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705260/heerenveen-heracles-almelo"
+  },
+  {
+    "gameId": "705264",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Willem II",
+    "score": "0 - 2",
+    "team2": "PSV Eindhoven",
+    "title": "Willem II VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705264/psv-eindhoven-willem-ii"
+  },
+  {
+    "gameId": "705262",
+    "date": "Saturday, September 28, 2024",
+    "team1": "NEC Nijmegen",
+    "score": "1 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "NEC Nijmegen VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705262/feyenoord-rotterdam-nec-nijmegen"
+  },
+  {
+    "gameId": "705263",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 1",
+    "team2": "Fortuna Sittard",
+    "title": "Sparta Rotterdam VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705263/fortuna-sittard-sparta-rotterdam"
+  },
+  {
+    "gameId": "705265",
+    "date": "Sunday, September 29, 2024",
+    "team1": "PEC Zwolle",
+    "score": "1 - 0",
+    "team2": "Almere City",
+    "title": "PEC Zwolle VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705265/almere-city-pec-zwolle"
+  },
+  {
+    "gameId": "705266",
+    "date": "Sunday, September 29, 2024",
+    "team1": "FC Groningen",
+    "score": "0 - 1",
+    "team2": "Go Ahead Eagles",
+    "title": "FC Groningen VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705266/go-ahead-eagles-fc-groningen"
+  },
+  {
+    "gameId": "705261",
+    "date": "Sunday, September 29, 2024",
+    "team1": "FC Twente",
+    "score": "1 - 0",
+    "team2": "NAC Breda",
+    "title": "FC Twente VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705261/nac-breda-fc-twente"
+  },
+  {
+    "gameId": "705267",
+    "date": "Sunday, September 29, 2024",
+    "team1": "RKC Waalwijk",
+    "score": "0 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "RKC Waalwijk VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705267/ajax-amsterdam-rkc-waalwijk"
+  },
+  {
+    "gameId": "705268",
+    "date": "Sunday, September 29, 2024",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 2",
+    "team2": "FC Utrecht",
+    "title": "AZ Alkmaar VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705268/fc-utrecht-az-alkmaar"
+  },
+  {
+    "gameId": "705270",
+    "date": "Friday, October 4, 2024",
+    "team1": "Almere City",
+    "score": "0 - 1",
+    "team2": "Willem II",
+    "title": "Almere City VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705270/willem-ii-almere-city"
+  },
+  {
+    "gameId": "705269",
+    "date": "Saturday, October 5, 2024",
+    "team1": "NAC Breda",
+    "score": "1 - 0",
+    "team2": "NEC Nijmegen",
+    "title": "NAC Breda VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705269/nec-nijmegen-nac-breda"
+  },
+  {
+    "gameId": "705272",
+    "date": "Saturday, October 5, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "2 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "PSV Eindhoven VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705272/sparta-rotterdam-psv-eindhoven"
+  },
+  {
+    "gameId": "705273",
+    "date": "Saturday, October 5, 2024",
+    "team1": "FC Utrecht",
+    "score": "3 - 2",
+    "team2": "RKC Waalwijk",
+    "title": "FC Utrecht VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705273/rkc-waalwijk-fc-utrecht"
+  },
+  {
+    "gameId": "705276",
+    "date": "Sunday, October 6, 2024",
+    "team1": "Go Ahead Eagles",
+    "score": "4 - 1",
+    "team2": "Heracles Almelo",
+    "title": "Go Ahead Eagles VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705276/heracles-almelo-go-ahead-eagles"
+  },
+  {
+    "gameId": "705274",
+    "date": "Sunday, October 6, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "2 - 1",
+    "team2": "FC Twente",
+    "title": "Feyenoord Rotterdam VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705274/fc-twente-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705271",
+    "date": "Sunday, October 6, 2024",
+    "team1": "Heerenveen",
+    "score": "1 - 1",
+    "team2": "PEC Zwolle",
+    "title": "Heerenveen VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705271/pec-zwolle-heerenveen"
+  },
+  {
+    "gameId": "705275",
+    "date": "Sunday, October 6, 2024",
+    "team1": "Ajax Amsterdam",
+    "score": "3 - 1",
+    "team2": "FC Groningen",
+    "title": "Ajax Amsterdam VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705275/fc-groningen-ajax-amsterdam"
+  },
+  {
+    "gameId": "705277",
+    "date": "Sunday, October 6, 2024",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 0",
+    "team2": "AZ Alkmaar",
+    "title": "Fortuna Sittard VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705277/az-alkmaar-fortuna-sittard"
+  },
+  {
+    "gameId": "705278",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Sparta Rotterdam",
+    "score": "2 - 2",
+    "team2": "Almere City",
+    "title": "Sparta Rotterdam VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705278/almere-city-sparta-rotterdam"
+  },
+  {
+    "gameId": "705279",
+    "date": "Saturday, October 19, 2024",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 2",
+    "team2": "PSV Eindhoven",
+    "title": "AZ Alkmaar VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705279/psv-eindhoven-az-alkmaar"
+  },
+  {
+    "gameId": "705280",
+    "date": "Saturday, October 19, 2024",
+    "team1": "NEC Nijmegen",
+    "score": "3 - 0",
+    "team2": "Heerenveen",
+    "title": "NEC Nijmegen VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705280/heerenveen-nec-nijmegen"
+  },
+  {
+    "gameId": "705281",
+    "date": "Saturday, October 19, 2024",
+    "team1": "RKC Waalwijk",
+    "score": "2 - 2",
+    "team2": "FC Twente",
+    "title": "RKC Waalwijk VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705281/fc-twente-rkc-waalwijk"
+  },
+  {
+    "gameId": "705282",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Go Ahead Eagles",
+    "score": "1 - 5",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Go Ahead Eagles VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705282/feyenoord-rotterdam-go-ahead-eagles"
+  },
+  {
+    "gameId": "705283",
+    "date": "Sunday, October 20, 2024",
+    "team1": "Willem II",
+    "score": "0 - 0",
+    "team2": "Fortuna Sittard",
+    "title": "Willem II VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705283/fortuna-sittard-willem-ii"
+  },
+  {
+    "gameId": "705284",
+    "date": "Sunday, October 20, 2024",
+    "team1": "FC Groningen",
+    "score": "0 - 1",
+    "team2": "FC Utrecht",
+    "title": "FC Groningen VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705284/fc-utrecht-fc-groningen"
+  },
+  {
+    "gameId": "705285",
+    "date": "Sunday, October 20, 2024",
+    "team1": "Heracles Almelo",
+    "score": "3 - 4",
+    "team2": "Ajax Amsterdam",
+    "title": "Heracles Almelo VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705285/ajax-amsterdam-heracles-almelo"
+  },
+  {
+    "gameId": "705286",
+    "date": "Sunday, October 20, 2024",
+    "team1": "PEC Zwolle",
+    "score": "1 - 2",
+    "team2": "NAC Breda",
+    "title": "PEC Zwolle VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705286/nac-breda-pec-zwolle"
+  },
+  {
+    "gameId": "705287",
+    "date": "Friday, October 25, 2024",
+    "team1": "Almere City",
+    "score": "1 - 0",
+    "team2": "NEC Nijmegen",
+    "title": "Almere City VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705287/nec-nijmegen-almere-city"
+  },
+  {
+    "gameId": "705288",
+    "date": "Saturday, October 26, 2024",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 0",
+    "team2": "FC Groningen",
+    "title": "Fortuna Sittard VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705288/fc-groningen-fortuna-sittard"
+  },
+  {
+    "gameId": "705290",
+    "date": "Saturday, October 26, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "6 - 0",
+    "team2": "PEC Zwolle",
+    "title": "PSV Eindhoven VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705290/pec-zwolle-psv-eindhoven"
+  },
+  {
+    "gameId": "705289",
+    "date": "Saturday, October 26, 2024",
+    "team1": "NAC Breda",
+    "score": "4 - 1",
+    "team2": "RKC Waalwijk",
+    "title": "NAC Breda VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705289/rkc-waalwijk-nac-breda"
+  },
+  {
+    "gameId": "705291",
+    "date": "Saturday, October 26, 2024",
+    "team1": "Heerenveen",
+    "score": "2 - 0",
+    "team2": "Sparta Rotterdam",
+    "title": "Heerenveen VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705291/sparta-rotterdam-heerenveen"
+  },
+  {
+    "gameId": "705292",
+    "date": "Sunday, October 27, 2024",
+    "team1": "FC Utrecht",
+    "score": "0 - 2",
+    "team2": "Feyenoord Rotterdam",
+    "title": "FC Utrecht VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705292/feyenoord-rotterdam-fc-utrecht"
+  },
+  {
+    "gameId": "705294",
+    "date": "Sunday, October 27, 2024",
+    "team1": "FC Twente",
+    "score": "5 - 0",
+    "team2": "Heracles Almelo",
+    "title": "FC Twente VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705294/heracles-almelo-fc-twente"
+  },
+  {
+    "gameId": "705295",
+    "date": "Sunday, October 27, 2024",
+    "team1": "Ajax Amsterdam",
+    "score": "1 - 0",
+    "team2": "Willem II",
+    "title": "Ajax Amsterdam VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705295/willem-ii-ajax-amsterdam"
+  },
+  {
+    "gameId": "705293",
+    "date": "Sunday, October 27, 2024",
+    "team1": "AZ Alkmaar",
+    "score": "2 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "AZ Alkmaar VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705293/go-ahead-eagles-az-alkmaar"
+  },
+  {
+    "gameId": "705239",
+    "date": "Wednesday, October 30, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "0 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "Feyenoord Rotterdam VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705239/ajax-amsterdam-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705298",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Willem II",
+    "score": "0 - 1",
+    "team2": "FC Twente",
+    "title": "Willem II VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705298/fc-twente-willem-ii"
+  },
+  {
+    "gameId": "705299",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Ajax Amsterdam",
+    "score": "3 - 2",
+    "team2": "PSV Eindhoven",
+    "title": "Ajax Amsterdam VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705299/psv-eindhoven-ajax-amsterdam"
+  },
+  {
+    "gameId": "705297",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Heracles Almelo",
+    "score": "2 - 0",
+    "team2": "NAC Breda",
+    "title": "Heracles Almelo VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705297/nac-breda-heracles-almelo"
+  },
+  {
+    "gameId": "705296",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "3 - 2",
+    "team2": "AZ Alkmaar",
+    "title": "Feyenoord Rotterdam VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705296/az-alkmaar-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705300",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Fortuna Sittard",
+    "score": "3 - 0",
+    "team2": "Heerenveen",
+    "title": "Fortuna Sittard VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705300/heerenveen-fortuna-sittard"
+  },
+  {
+    "gameId": "705301",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Go Ahead Eagles",
+    "score": "2 - 2",
+    "team2": "PEC Zwolle",
+    "title": "Go Ahead Eagles VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705301/pec-zwolle-go-ahead-eagles"
+  },
+  {
+    "gameId": "705302",
+    "date": "Sunday, November 3, 2024",
+    "team1": "NEC Nijmegen",
+    "score": "6 - 0",
+    "team2": "FC Groningen",
+    "title": "NEC Nijmegen VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705302/fc-groningen-nec-nijmegen"
+  },
+  {
+    "gameId": "705303",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 4",
+    "team2": "FC Utrecht",
+    "title": "Sparta Rotterdam VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705303/fc-utrecht-sparta-rotterdam"
+  },
+  {
+    "gameId": "705304",
+    "date": "Sunday, November 3, 2024",
+    "team1": "RKC Waalwijk",
+    "score": "2 - 0",
+    "team2": "Almere City",
+    "title": "RKC Waalwijk VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705304/almere-city-rkc-waalwijk"
+  },
+  {
+    "gameId": "705305",
+    "date": "Friday, November 8, 2024",
+    "team1": "FC Utrecht",
+    "score": "1 - 0",
+    "team2": "Heracles Almelo",
+    "title": "FC Utrecht VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705305/heracles-almelo-fc-utrecht"
+  },
+  {
+    "gameId": "705306",
+    "date": "Saturday, November 9, 2024",
+    "team1": "FC Groningen",
+    "score": "1 - 0",
+    "team2": "Sparta Rotterdam",
+    "title": "FC Groningen VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705306/sparta-rotterdam-fc-groningen"
+  },
+  {
+    "gameId": "705307",
+    "date": "Saturday, November 9, 2024",
+    "team1": "PEC Zwolle",
+    "score": "3 - 1",
+    "team2": "Fortuna Sittard",
+    "title": "PEC Zwolle VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705307/fortuna-sittard-pec-zwolle"
+  },
+  {
+    "gameId": "705308",
+    "date": "Saturday, November 9, 2024",
+    "team1": "NAC Breda",
+    "score": "0 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "NAC Breda VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705308/psv-eindhoven-nac-breda"
+  },
+  {
+    "gameId": "705309",
+    "date": "Saturday, November 9, 2024",
+    "team1": "RKC Waalwijk",
+    "score": "0 - 3",
+    "team2": "NEC Nijmegen",
+    "title": "RKC Waalwijk VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705309/nec-nijmegen-rkc-waalwijk"
+  },
+  {
+    "gameId": "705310",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Almere City",
+    "score": "1 - 4",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Almere City VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705310/feyenoord-rotterdam-almere-city"
+  },
+  {
+    "gameId": "705311",
+    "date": "Sunday, November 10, 2024",
+    "team1": "FC Twente",
+    "score": "2 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "FC Twente VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705311/ajax-amsterdam-fc-twente"
+  },
+  {
+    "gameId": "705312",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Heerenveen",
+    "score": "1 - 0",
+    "team2": "Go Ahead Eagles",
+    "title": "Heerenveen VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705312/go-ahead-eagles-heerenveen"
+  },
+  {
+    "gameId": "705313",
+    "date": "Sunday, November 10, 2024",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 2",
+    "team2": "Willem II",
+    "title": "AZ Alkmaar VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705313/willem-ii-az-alkmaar"
+  },
+  {
+    "gameId": "705315",
+    "date": "Saturday, November 23, 2024",
+    "team1": "Go Ahead Eagles",
+    "score": "3 - 0",
+    "team2": "Almere City",
+    "title": "Go Ahead Eagles VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705315/almere-city-go-ahead-eagles"
+  },
+  {
+    "gameId": "705317",
+    "date": "Saturday, November 23, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "3 - 0",
+    "team2": "Heerenveen",
+    "title": "Feyenoord Rotterdam VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705317/heerenveen-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705316",
+    "date": "Saturday, November 23, 2024",
+    "team1": "Heracles Almelo",
+    "score": "2 - 2",
+    "team2": "RKC Waalwijk",
+    "title": "Heracles Almelo VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705316/rkc-waalwijk-heracles-almelo"
+  },
+  {
+    "gameId": "705318",
+    "date": "Saturday, November 23, 2024",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 2",
+    "team2": "FC Twente",
+    "title": "Fortuna Sittard VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705318/fc-twente-fortuna-sittard"
+  },
+  {
+    "gameId": "705314",
+    "date": "Saturday, November 23, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "5 - 0",
+    "team2": "FC Groningen",
+    "title": "PSV Eindhoven VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705314/fc-groningen-psv-eindhoven"
+  },
+  {
+    "gameId": "705319",
+    "date": "Sunday, November 24, 2024",
+    "team1": "NEC Nijmegen",
+    "score": "1 - 2",
+    "team2": "FC Utrecht",
+    "title": "NEC Nijmegen VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705319/fc-utrecht-nec-nijmegen"
+  },
+  {
+    "gameId": "705320",
+    "date": "Sunday, November 24, 2024",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 2",
+    "team2": "AZ Alkmaar",
+    "title": "Sparta Rotterdam VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705320/az-alkmaar-sparta-rotterdam"
+  },
+  {
+    "gameId": "705321",
+    "date": "Sunday, November 24, 2024",
+    "team1": "Willem II",
+    "score": "2 - 2",
+    "team2": "NAC Breda",
+    "title": "Willem II VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705321/nac-breda-willem-ii"
+  },
+  {
+    "gameId": "705322",
+    "date": "Sunday, November 24, 2024",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 0",
+    "team2": "PEC Zwolle",
+    "title": "Ajax Amsterdam VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705322/pec-zwolle-ajax-amsterdam"
+  },
+  {
+    "gameId": "705323",
+    "date": "Friday, November 29, 2024",
+    "team1": "Heerenveen",
+    "score": "1 - 1",
+    "team2": "RKC Waalwijk",
+    "title": "Heerenveen VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705323/rkc-waalwijk-heerenveen"
+  },
+  {
+    "gameId": "705324",
+    "date": "Saturday, November 30, 2024",
+    "team1": "NAC Breda",
+    "score": "1 - 0",
+    "team2": "Almere City",
+    "title": "NAC Breda VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705324/almere-city-nac-breda"
+  },
+  {
+    "gameId": "705325",
+    "date": "Saturday, November 30, 2024",
+    "team1": "FC Groningen",
+    "score": "2 - 0",
+    "team2": "Willem II",
+    "title": "FC Groningen VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705325/willem-ii-fc-groningen"
+  },
+  {
+    "gameId": "705326",
+    "date": "Saturday, November 30, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "1 - 1",
+    "team2": "Fortuna Sittard",
+    "title": "Feyenoord Rotterdam VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705326/fortuna-sittard-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705327",
+    "date": "Saturday, November 30, 2024",
+    "team1": "PEC Zwolle",
+    "score": "1 - 0",
+    "team2": "Sparta Rotterdam",
+    "title": "PEC Zwolle VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705327/sparta-rotterdam-pec-zwolle"
+  },
+  {
+    "gameId": "705328",
+    "date": "Sunday, December 1, 2024",
+    "team1": "FC Utrecht",
+    "score": "2 - 5",
+    "team2": "PSV Eindhoven",
+    "title": "FC Utrecht VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705328/psv-eindhoven-fc-utrecht"
+  },
+  {
+    "gameId": "705329",
+    "date": "Sunday, December 1, 2024",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 0",
+    "team2": "Heracles Almelo",
+    "title": "AZ Alkmaar VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705329/heracles-almelo-az-alkmaar"
+  },
+  {
+    "gameId": "705330",
+    "date": "Sunday, December 1, 2024",
+    "team1": "FC Twente",
+    "score": "3 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "FC Twente VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705330/go-ahead-eagles-fc-twente"
+  },
+  {
+    "gameId": "705331",
+    "date": "Sunday, December 1, 2024",
+    "team1": "NEC Nijmegen",
+    "score": "1 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "NEC Nijmegen VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705331/ajax-amsterdam-nec-nijmegen"
+  },
+  {
+    "gameId": "705249",
+    "date": "Wednesday, December 4, 2024",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 2",
+    "team2": "FC Utrecht",
+    "title": "Ajax Amsterdam VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705249/fc-utrecht-ajax-amsterdam"
+  },
+  {
+    "gameId": "705339",
+    "date": "Friday, December 6, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "6 - 1",
+    "team2": "FC Twente",
+    "title": "PSV Eindhoven VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705339/fc-twente-psv-eindhoven"
+  },
+  {
+    "gameId": "705333",
+    "date": "Saturday, December 7, 2024",
+    "team1": "Go Ahead Eagles",
+    "score": "5 - 0",
+    "team2": "NEC Nijmegen",
+    "title": "Go Ahead Eagles VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705333/nec-nijmegen-go-ahead-eagles"
+  },
+  {
+    "gameId": "705337",
+    "date": "Saturday, December 7, 2024",
+    "team1": "Sparta Rotterdam",
+    "score": "0 - 2",
+    "team2": "NAC Breda",
+    "title": "Sparta Rotterdam VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705337/nac-breda-sparta-rotterdam"
+  },
+  {
+    "gameId": "705340",
+    "date": "Saturday, December 7, 2024",
+    "team1": "RKC Waalwijk",
+    "score": "2 - 3",
+    "team2": "Feyenoord Rotterdam",
+    "title": "RKC Waalwijk VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705340/feyenoord-rotterdam-rkc-waalwijk"
+  },
+  {
+    "gameId": "705336",
+    "date": "Saturday, December 7, 2024",
+    "team1": "Heracles Almelo",
+    "score": "2 - 2",
+    "team2": "Fortuna Sittard",
+    "title": "Heracles Almelo VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705336/fortuna-sittard-heracles-almelo"
+  },
+  {
+    "gameId": "705332",
+    "date": "Sunday, December 8, 2024",
+    "team1": "FC Groningen",
+    "score": "0 - 0",
+    "team2": "PEC Zwolle",
+    "title": "FC Groningen VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705332/pec-zwolle-fc-groningen"
+  },
+  {
+    "gameId": "705334",
+    "date": "Sunday, December 8, 2024",
+    "team1": "AZ Alkmaar",
+    "score": "2 - 1",
+    "team2": "Ajax Amsterdam",
+    "title": "AZ Alkmaar VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705334/ajax-amsterdam-az-alkmaar"
+  },
+  {
+    "gameId": "705338",
+    "date": "Sunday, December 8, 2024",
+    "team1": "Willem II",
+    "score": "1 - 2",
+    "team2": "Heerenveen",
+    "title": "Willem II VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705338/heerenveen-willem-ii"
+  },
+  {
+    "gameId": "705335",
+    "date": "Sunday, December 8, 2024",
+    "team1": "Almere City",
+    "score": "1 - 3",
+    "team2": "FC Utrecht",
+    "title": "Almere City VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705335/fc-utrecht-almere-city"
+  },
+  {
+    "gameId": "705349",
+    "date": "Friday, December 13, 2024",
+    "team1": "PEC Zwolle",
+    "score": "0 - 1",
+    "team2": "Willem II",
+    "title": "PEC Zwolle VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705349/willem-ii-pec-zwolle"
+  },
+  {
+    "gameId": "705348",
+    "date": "Saturday, December 14, 2024",
+    "team1": "Heerenveen",
+    "score": "1 - 0",
+    "team2": "PSV Eindhoven",
+    "title": "Heerenveen VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705348/psv-eindhoven-heerenveen"
+  },
+  {
+    "gameId": "705347",
+    "date": "Saturday, December 14, 2024",
+    "team1": "Fortuna Sittard",
+    "score": "3 - 2",
+    "team2": "RKC Waalwijk",
+    "title": "Fortuna Sittard VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705347/rkc-waalwijk-fortuna-sittard"
+  },
+  {
+    "gameId": "705343",
+    "date": "Saturday, December 14, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "5 - 2",
+    "team2": "Heracles Almelo",
+    "title": "Feyenoord Rotterdam VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705343/heracles-almelo-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705344",
+    "date": "Sunday, December 15, 2024",
+    "team1": "FC Utrecht",
+    "score": "3 - 3",
+    "team2": "Go Ahead Eagles",
+    "title": "FC Utrecht VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705344/go-ahead-eagles-fc-utrecht"
+  },
+  {
+    "gameId": "705341",
+    "date": "Sunday, December 15, 2024",
+    "team1": "FC Twente",
+    "score": "2 - 0",
+    "team2": "FC Groningen",
+    "title": "FC Twente VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705341/fc-groningen-fc-twente"
+  },
+  {
+    "gameId": "705342",
+    "date": "Sunday, December 15, 2024",
+    "team1": "NEC Nijmegen",
+    "score": "1 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "NEC Nijmegen VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705342/sparta-rotterdam-nec-nijmegen"
+  },
+  {
+    "gameId": "705345",
+    "date": "Sunday, December 15, 2024",
+    "team1": "Ajax Amsterdam",
+    "score": "3 - 0",
+    "team2": "Almere City",
+    "title": "Ajax Amsterdam VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705345/almere-city-ajax-amsterdam"
+  },
+  {
+    "gameId": "705346",
+    "date": "Sunday, December 15, 2024",
+    "team1": "NAC Breda",
+    "score": "1 - 2",
+    "team2": "AZ Alkmaar",
+    "title": "NAC Breda VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705346/az-alkmaar-nac-breda"
+  },
+  {
+    "gameId": "705354",
+    "date": "Friday, December 20, 2024",
+    "team1": "RKC Waalwijk",
+    "score": "1 - 1",
+    "team2": "PEC Zwolle",
+    "title": "RKC Waalwijk VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705354/pec-zwolle-rkc-waalwijk"
+  },
+  {
+    "gameId": "705353",
+    "date": "Saturday, December 21, 2024",
+    "team1": "Go Ahead Eagles",
+    "score": "2 - 1",
+    "team2": "NAC Breda",
+    "title": "Go Ahead Eagles VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705353/nac-breda-go-ahead-eagles"
+  },
+  {
+    "gameId": "705351",
+    "date": "Saturday, December 21, 2024",
+    "team1": "Almere City",
+    "score": "3 - 0",
+    "team2": "Heerenveen",
+    "title": "Almere City VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705351/heerenveen-almere-city"
+  },
+  {
+    "gameId": "705358",
+    "date": "Saturday, December 21, 2024",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 0",
+    "team2": "FC Twente",
+    "title": "AZ Alkmaar VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705358/fc-twente-az-alkmaar"
+  },
+  {
+    "gameId": "705357",
+    "date": "Sunday, December 22, 2024",
+    "team1": "Sparta Rotterdam",
+    "score": "0 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "Sparta Rotterdam VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705357/ajax-amsterdam-sparta-rotterdam"
+  },
+  {
+    "gameId": "705350",
+    "date": "Sunday, December 22, 2024",
+    "team1": "FC Utrecht",
+    "score": "2 - 5",
+    "team2": "Fortuna Sittard",
+    "title": "FC Utrecht VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705350/fortuna-sittard-fc-utrecht"
+  },
+  {
+    "gameId": "705355",
+    "date": "Sunday, December 22, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "3 - 0",
+    "team2": "Feyenoord Rotterdam",
+    "title": "PSV Eindhoven VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705355/feyenoord-rotterdam-psv-eindhoven"
+  },
+  {
+    "gameId": "705356",
+    "date": "Sunday, December 22, 2024",
+    "team1": "Willem II",
+    "score": "4 - 1",
+    "team2": "NEC Nijmegen",
+    "title": "Willem II VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705356/nec-nijmegen-willem-ii"
+  },
+  {
+    "gameId": "705363",
+    "date": "Friday, January 10, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "0 - 3",
+    "team2": "Go Ahead Eagles",
+    "title": "Fortuna Sittard VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705363/go-ahead-eagles-fortuna-sittard"
+  },
+  {
+    "gameId": "705364",
+    "date": "Saturday, January 11, 2025",
+    "team1": "Heracles Almelo",
+    "score": "1 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "Heracles Almelo VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705364/sparta-rotterdam-heracles-almelo"
+  },
+  {
+    "gameId": "705359",
+    "date": "Saturday, January 11, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 1",
+    "team2": "RKC Waalwijk",
+    "title": "Ajax Amsterdam VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705359/rkc-waalwijk-ajax-amsterdam"
+  },
+  {
+    "gameId": "705366",
+    "date": "Saturday, January 11, 2025",
+    "team1": "PEC Zwolle",
+    "score": "0 - 1",
+    "team2": "NEC Nijmegen",
+    "title": "PEC Zwolle VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705366/nec-nijmegen-pec-zwolle"
+  },
+  {
+    "gameId": "705367",
+    "date": "Saturday, January 11, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "2 - 2",
+    "team2": "AZ Alkmaar",
+    "title": "PSV Eindhoven VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705367/az-alkmaar-psv-eindhoven"
+  },
+  {
+    "gameId": "705361",
+    "date": "Sunday, January 12, 2025",
+    "team1": "FC Twente",
+    "score": "6 - 2",
+    "team2": "Willem II",
+    "title": "FC Twente VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705361/willem-ii-fc-twente"
+  },
+  {
+    "gameId": "705360",
+    "date": "Sunday, January 12, 2025",
+    "team1": "FC Groningen",
+    "score": "0 - 0",
+    "team2": "Almere City",
+    "title": "FC Groningen VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705360/almere-city-fc-groningen"
+  },
+  {
+    "gameId": "705362",
+    "date": "Sunday, January 12, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "1 - 2",
+    "team2": "FC Utrecht",
+    "title": "Feyenoord Rotterdam VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705362/fc-utrecht-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705365",
+    "date": "Sunday, January 12, 2025",
+    "team1": "NAC Breda",
+    "score": "2 - 4",
+    "team2": "Heerenveen",
+    "title": "NAC Breda VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705365/heerenveen-nac-breda"
+  },
+  {
+    "gameId": "705373",
+    "date": "Saturday, January 18, 2025",
+    "team1": "PEC Zwolle",
+    "score": "3 - 1",
+    "team2": "PSV Eindhoven",
+    "title": "PEC Zwolle VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705373/psv-eindhoven-pec-zwolle"
+  },
+  {
+    "gameId": "705369",
+    "date": "Saturday, January 18, 2025",
+    "team1": "FC Utrecht",
+    "score": "0 - 0",
+    "team2": "AZ Alkmaar",
+    "title": "FC Utrecht VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705369/az-alkmaar-fc-utrecht"
+  },
+  {
+    "gameId": "705375",
+    "date": "Saturday, January 18, 2025",
+    "team1": "Willem II",
+    "score": "1 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Willem II VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705375/feyenoord-rotterdam-willem-ii"
+  },
+  {
+    "gameId": "705370",
+    "date": "Saturday, January 18, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "2 - 1",
+    "team2": "FC Groningen",
+    "title": "Go Ahead Eagles VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705370/fc-groningen-go-ahead-eagles"
+  },
+  {
+    "gameId": "705372",
+    "date": "Sunday, January 19, 2025",
+    "team1": "NAC Breda",
+    "score": "2 - 1",
+    "team2": "FC Twente",
+    "title": "NAC Breda VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705372/fc-twente-nac-breda"
+  },
+  {
+    "gameId": "705368",
+    "date": "Sunday, January 19, 2025",
+    "team1": "Almere City",
+    "score": "0 - 2",
+    "team2": "Heracles Almelo",
+    "title": "Almere City VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705368/heracles-almelo-almere-city"
+  },
+  {
+    "gameId": "705376",
+    "date": "Sunday, January 19, 2025",
+    "team1": "Heerenveen",
+    "score": "0 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "Heerenveen VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705376/ajax-amsterdam-heerenveen"
+  },
+  {
+    "gameId": "705371",
+    "date": "Sunday, January 19, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "4 - 1",
+    "team2": "Fortuna Sittard",
+    "title": "NEC Nijmegen VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705371/fortuna-sittard-nec-nijmegen"
+  },
+  {
+    "gameId": "705374",
+    "date": "Sunday, January 19, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 1",
+    "team2": "RKC Waalwijk",
+    "title": "Sparta Rotterdam VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705374/rkc-waalwijk-sparta-rotterdam"
+  },
+  {
+    "gameId": "705383",
+    "date": "Friday, January 24, 2025",
+    "team1": "Heracles Almelo",
+    "score": "1 - 1",
+    "team2": "FC Utrecht",
+    "title": "Heracles Almelo VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705383/fc-utrecht-heracles-almelo"
+  },
+  {
+    "gameId": "705384",
+    "date": "Saturday, January 25, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "3 - 2",
+    "team2": "NAC Breda",
+    "title": "PSV Eindhoven VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705384/nac-breda-psv-eindhoven"
+  },
+  {
+    "gameId": "705379",
+    "date": "Saturday, January 25, 2025",
+    "team1": "FC Groningen",
+    "score": "1 - 0",
+    "team2": "Heerenveen",
+    "title": "FC Groningen VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705379/heerenveen-fc-groningen"
+  },
+  {
+    "gameId": "705382",
+    "date": "Sunday, January 26, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 4",
+    "team2": "PEC Zwolle",
+    "title": "Fortuna Sittard VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705382/pec-zwolle-fortuna-sittard"
+  },
+  {
+    "gameId": "705385",
+    "date": "Sunday, January 26, 2025",
+    "team1": "RKC Waalwijk",
+    "score": "2 - 0",
+    "team2": "Willem II",
+    "title": "RKC Waalwijk VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705385/willem-ii-rkc-waalwijk"
+  },
+  {
+    "gameId": "705377",
+    "date": "Sunday, January 26, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 2",
+    "team2": "Sparta Rotterdam",
+    "title": "AZ Alkmaar VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705377/sparta-rotterdam-az-alkmaar"
+  },
+  {
+    "gameId": "705352",
+    "date": "Tuesday, January 28, 2025",
+    "team1": "Heracles Almelo",
+    "score": "1 - 1",
+    "team2": "FC Groningen",
+    "title": "Heracles Almelo VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705352/fc-groningen-heracles-almelo"
+  },
+  {
+    "gameId": "705390",
+    "date": "Friday, January 31, 2025",
+    "team1": "NAC Breda",
+    "score": "1 - 1",
+    "team2": "Heracles Almelo",
+    "title": "NAC Breda VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705390/heracles-almelo-nac-breda"
+  },
+  {
+    "gameId": "705391",
+    "date": "Saturday, February 1, 2025",
+    "team1": "PEC Zwolle",
+    "score": "3 - 3",
+    "team2": "FC Utrecht",
+    "title": "PEC Zwolle VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705391/fc-utrecht-pec-zwolle"
+  },
+  {
+    "gameId": "705394",
+    "date": "Saturday, February 1, 2025",
+    "team1": "Heerenveen",
+    "score": "2 - 2",
+    "team2": "Fortuna Sittard",
+    "title": "Heerenveen VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705394/fortuna-sittard-heerenveen"
+  },
+  {
+    "gameId": "705389",
+    "date": "Saturday, February 1, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "3 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "NEC Nijmegen VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705389/psv-eindhoven-nec-nijmegen"
+  },
+  {
+    "gameId": "705387",
+    "date": "Sunday, February 2, 2025",
+    "team1": "Almere City",
+    "score": "1 - 4",
+    "team2": "RKC Waalwijk",
+    "title": "Almere City VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705387/rkc-waalwijk-almere-city"
+  },
+  {
+    "gameId": "705386",
+    "date": "Sunday, February 2, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Ajax Amsterdam VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705386/feyenoord-rotterdam-ajax-amsterdam"
+  },
+  {
+    "gameId": "705388",
+    "date": "Sunday, February 2, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "2 - 2",
+    "team2": "FC Twente",
+    "title": "Go Ahead Eagles VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705388/fc-twente-go-ahead-eagles"
+  },
+  {
+    "gameId": "705392",
+    "date": "Sunday, February 2, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 0",
+    "team2": "FC Groningen",
+    "title": "Sparta Rotterdam VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705392/fc-groningen-sparta-rotterdam"
+  },
+  {
+    "gameId": "705393",
+    "date": "Sunday, February 2, 2025",
+    "team1": "Willem II",
+    "score": "0 - 2",
+    "team2": "AZ Alkmaar",
+    "title": "Willem II VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705393/az-alkmaar-willem-ii"
+  },
+  {
+    "gameId": "705400",
+    "date": "Saturday, February 8, 2025",
+    "team1": "Heracles Almelo",
+    "score": "4 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "Heracles Almelo VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705400/go-ahead-eagles-heracles-almelo"
+  },
+  {
+    "gameId": "705401",
+    "date": "Saturday, February 8, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "1 - 1",
+    "team2": "Willem II",
+    "title": "PSV Eindhoven VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705401/willem-ii-psv-eindhoven"
+  },
+  {
+    "gameId": "705396",
+    "date": "Saturday, February 8, 2025",
+    "team1": "FC Groningen",
+    "score": "2 - 1",
+    "team2": "NEC Nijmegen",
+    "title": "FC Groningen VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705396/nec-nijmegen-fc-groningen"
+  },
+  {
+    "gameId": "705398",
+    "date": "Saturday, February 8, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "3 - 0",
+    "team2": "Sparta Rotterdam",
+    "title": "Feyenoord Rotterdam VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705398/sparta-rotterdam-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705397",
+    "date": "Sunday, February 9, 2025",
+    "team1": "FC Utrecht",
+    "score": "0 - 1",
+    "team2": "Almere City",
+    "title": "FC Utrecht VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705397/almere-city-fc-utrecht"
+  },
+  {
+    "gameId": "705399",
+    "date": "Sunday, February 9, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "0 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "Fortuna Sittard VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705399/ajax-amsterdam-fortuna-sittard"
+  },
+  {
+    "gameId": "705402",
+    "date": "Sunday, February 9, 2025",
+    "team1": "RKC Waalwijk",
+    "score": "5 - 0",
+    "team2": "NAC Breda",
+    "title": "RKC Waalwijk VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705402/nac-breda-rkc-waalwijk"
+  },
+  {
+    "gameId": "705395",
+    "date": "Sunday, February 9, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "2 - 0",
+    "team2": "PEC Zwolle",
+    "title": "AZ Alkmaar VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705395/pec-zwolle-az-alkmaar"
+  },
+  {
+    "gameId": "705403",
+    "date": "Sunday, February 9, 2025",
+    "team1": "Heerenveen",
+    "score": "3 - 3",
+    "team2": "FC Twente",
+    "title": "Heerenveen VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705403/fc-twente-heerenveen"
+  },
+  {
+    "gameId": "705407",
+    "date": "Friday, February 14, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "1 - 0",
+    "team2": "Sparta Rotterdam",
+    "title": "Go Ahead Eagles VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705407/sparta-rotterdam-go-ahead-eagles"
+  },
+  {
+    "gameId": "705408",
+    "date": "Saturday, February 15, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "2 - 2",
+    "team2": "FC Utrecht",
+    "title": "PSV Eindhoven VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705408/fc-utrecht-psv-eindhoven"
+  },
+  {
+    "gameId": "705409",
+    "date": "Saturday, February 15, 2025",
+    "team1": "NAC Breda",
+    "score": "0 - 0",
+    "team2": "Feyenoord Rotterdam",
+    "title": "NAC Breda VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705409/feyenoord-rotterdam-nac-breda"
+  },
+  {
+    "gameId": "705411",
+    "date": "Saturday, February 15, 2025",
+    "team1": "Willem II",
+    "score": "1 - 3",
+    "team2": "FC Groningen",
+    "title": "Willem II VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705411/fc-groningen-willem-ii"
+  },
+  {
+    "gameId": "705412",
+    "date": "Sunday, February 16, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "2 - 2",
+    "team2": "Almere City",
+    "title": "NEC Nijmegen VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705412/almere-city-nec-nijmegen"
+  },
+  {
+    "gameId": "705406",
+    "date": "Sunday, February 16, 2025",
+    "team1": "FC Twente",
+    "score": "2 - 0",
+    "team2": "RKC Waalwijk",
+    "title": "FC Twente VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705406/rkc-waalwijk-fc-twente"
+  },
+  {
+    "gameId": "705410",
+    "date": "Sunday, February 16, 2025",
+    "team1": "PEC Zwolle",
+    "score": "1 - 1",
+    "team2": "Heerenveen",
+    "title": "PEC Zwolle VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705410/heerenveen-pec-zwolle"
+  },
+  {
+    "gameId": "705405",
+    "date": "Sunday, February 16, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "4 - 0",
+    "team2": "Heracles Almelo",
+    "title": "Ajax Amsterdam VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705405/heracles-almelo-ajax-amsterdam"
+  },
+  {
+    "gameId": "705381",
+    "date": "Saturday, February 22, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "2 - 1",
+    "team2": "Almere City",
+    "title": "Feyenoord Rotterdam VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705381/almere-city-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705378",
+    "date": "Sunday, February 23, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 0",
+    "team2": "Go Ahead Eagles",
+    "title": "Ajax Amsterdam VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705378/go-ahead-eagles-ajax-amsterdam"
+  },
+  {
+    "gameId": "705380",
+    "date": "Sunday, February 23, 2025",
+    "team1": "FC Twente",
+    "score": "2 - 0",
+    "team2": "NEC Nijmegen",
+    "title": "FC Twente VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705380/nec-nijmegen-fc-twente"
+  },
+  {
+    "gameId": "705404",
+    "date": "Sunday, February 23, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 0",
+    "team2": "Fortuna Sittard",
+    "title": "AZ Alkmaar VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705404/fortuna-sittard-az-alkmaar"
+  },
+  {
+    "gameId": "705419",
+    "date": "Friday, February 28, 2025",
+    "team1": "RKC Waalwijk",
+    "score": "1 - 2",
+    "team2": "Fortuna Sittard",
+    "title": "RKC Waalwijk VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705419/fortuna-sittard-rkc-waalwijk"
+  },
+  {
+    "gameId": "705415",
+    "date": "Saturday, March 1, 2025",
+    "team1": "FC Utrecht",
+    "score": "1 - 0",
+    "team2": "NAC Breda",
+    "title": "FC Utrecht VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705415/nac-breda-fc-utrecht"
+  },
+  {
+    "gameId": "705421",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "3 - 2",
+    "team2": "PSV Eindhoven",
+    "title": "Go Ahead Eagles VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705421/psv-eindhoven-go-ahead-eagles"
+  },
+  {
+    "gameId": "705414",
+    "date": "Saturday, March 1, 2025",
+    "team1": "FC Groningen",
+    "score": "1 - 1",
+    "team2": "FC Twente",
+    "title": "FC Groningen VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705414/fc-twente-fc-groningen"
+  },
+  {
+    "gameId": "705417",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "0 - 0",
+    "team2": "NEC Nijmegen",
+    "title": "Feyenoord Rotterdam VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705417/nec-nijmegen-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705416",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Heerenveen",
+    "score": "3 - 1",
+    "team2": "AZ Alkmaar",
+    "title": "Heerenveen VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705416/az-alkmaar-heerenveen"
+  },
+  {
+    "gameId": "705413",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Almere City",
+    "score": "0 - 1",
+    "team2": "Ajax Amsterdam",
+    "title": "Almere City VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705413/ajax-amsterdam-almere-city"
+  },
+  {
+    "gameId": "705418",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Heracles Almelo",
+    "score": "4 - 2",
+    "team2": "PEC Zwolle",
+    "title": "Heracles Almelo VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705418/pec-zwolle-heracles-almelo"
+  },
+  {
+    "gameId": "705420",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "4 - 0",
+    "team2": "Willem II",
+    "title": "Sparta Rotterdam VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705420/willem-ii-sparta-rotterdam"
+  },
+  {
+    "gameId": "705427",
+    "date": "Friday, March 7, 2025",
+    "team1": "NAC Breda",
+    "score": "1 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "NAC Breda VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705427/sparta-rotterdam-nac-breda"
+  },
+  {
+    "gameId": "705425",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 0",
+    "team2": "Heracles Almelo",
+    "title": "Fortuna Sittard VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705425/heracles-almelo-fortuna-sittard"
+  },
+  {
+    "gameId": "705429",
+    "date": "Saturday, March 8, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "2 - 1",
+    "team2": "Heerenveen",
+    "title": "PSV Eindhoven VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705429/heerenveen-psv-eindhoven"
+  },
+  {
+    "gameId": "705430",
+    "date": "Sunday, March 9, 2025",
+    "team1": "Willem II",
+    "score": "2 - 3",
+    "team2": "FC Utrecht",
+    "title": "Willem II VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705430/fc-utrecht-willem-ii"
+  },
+  {
+    "gameId": "705426",
+    "date": "Sunday, March 9, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "2 - 3",
+    "team2": "Go Ahead Eagles",
+    "title": "NEC Nijmegen VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705426/go-ahead-eagles-nec-nijmegen"
+  },
+  {
+    "gameId": "705428",
+    "date": "Sunday, March 9, 2025",
+    "team1": "PEC Zwolle",
+    "score": "0 - 1",
+    "team2": "Ajax Amsterdam",
+    "title": "PEC Zwolle VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705428/ajax-amsterdam-pec-zwolle"
+  },
+  {
+    "gameId": "705423",
+    "date": "Sunday, March 9, 2025",
+    "team1": "FC Twente",
+    "score": "1 - 0",
+    "team2": "Almere City",
+    "title": "FC Twente VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705423/almere-city-fc-twente"
+  },
+  {
+    "gameId": "705432",
+    "date": "Friday, March 14, 2025",
+    "team1": "Almere City",
+    "score": "1 - 1",
+    "team2": "NAC Breda",
+    "title": "Almere City VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705432/nac-breda-almere-city"
+  },
+  {
+    "gameId": "705435",
+    "date": "Saturday, March 15, 2025",
+    "team1": "FC Utrecht",
+    "score": "0 - 1",
+    "team2": "NEC Nijmegen",
+    "title": "FC Utrecht VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705435/nec-nijmegen-fc-utrecht"
+  },
+  {
+    "gameId": "705438",
+    "date": "Saturday, March 15, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 1",
+    "team2": "PEC Zwolle",
+    "title": "Sparta Rotterdam VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705438/pec-zwolle-sparta-rotterdam"
+  },
+  {
+    "gameId": "705437",
+    "date": "Saturday, March 15, 2025",
+    "team1": "RKC Waalwijk",
+    "score": "0 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "RKC Waalwijk VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705437/psv-eindhoven-rkc-waalwijk"
+  },
+  {
+    "gameId": "705439",
+    "date": "Saturday, March 15, 2025",
+    "team1": "Heerenveen",
+    "score": "1 - 1",
+    "team2": "Heracles Almelo",
+    "title": "Heerenveen VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705439/heracles-almelo-heerenveen"
+  },
+  {
+    "gameId": "705436",
+    "date": "Sunday, March 16, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "1 - 0",
+    "team2": "Willem II",
+    "title": "Go Ahead Eagles VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705436/willem-ii-go-ahead-eagles"
+  },
+  {
+    "gameId": "705433",
+    "date": "Sunday, March 16, 2025",
+    "team1": "FC Groningen",
+    "score": "1 - 0",
+    "team2": "Fortuna Sittard",
+    "title": "FC Groningen VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705433/fortuna-sittard-fc-groningen"
+  },
+  {
+    "gameId": "705434",
+    "date": "Sunday, March 16, 2025",
+    "team1": "FC Twente",
+    "score": "2 - 6",
+    "team2": "Feyenoord Rotterdam",
+    "title": "FC Twente VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705434/feyenoord-rotterdam-fc-twente"
+  },
+  {
+    "gameId": "705431",
+    "date": "Sunday, March 16, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 2",
+    "team2": "AZ Alkmaar",
+    "title": "Ajax Amsterdam VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705431/az-alkmaar-ajax-amsterdam"
+  },
+  {
+    "gameId": "705445",
+    "date": "Saturday, March 29, 2025",
+    "team1": "NAC Breda",
+    "score": "1 - 1",
+    "team2": "FC Groningen",
+    "title": "NAC Breda VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705445/fc-groningen-nac-breda"
+  },
+  {
+    "gameId": "705442",
+    "date": "Saturday, March 29, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "0 - 3",
+    "team2": "Sparta Rotterdam",
+    "title": "Fortuna Sittard VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705442/sparta-rotterdam-fortuna-sittard"
+  },
+  {
+    "gameId": "705448",
+    "date": "Saturday, March 29, 2025",
+    "team1": "Willem II",
+    "score": "0 - 2",
+    "team2": "Almere City",
+    "title": "Willem II VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705448/almere-city-willem-ii"
+  },
+  {
+    "gameId": "705444",
+    "date": "Saturday, March 29, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "3 - 3",
+    "team2": "AZ Alkmaar",
+    "title": "NEC Nijmegen VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705444/az-alkmaar-nec-nijmegen"
+  },
+  {
+    "gameId": "705446",
+    "date": "Saturday, March 29, 2025",
+    "team1": "PEC Zwolle",
+    "score": "2 - 0",
+    "team2": "RKC Waalwijk",
+    "title": "PEC Zwolle VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705446/rkc-waalwijk-pec-zwolle"
+  },
+  {
+    "gameId": "705440",
+    "date": "Sunday, March 30, 2025",
+    "team1": "FC Utrecht",
+    "score": "2 - 0",
+    "team2": "Heerenveen",
+    "title": "FC Utrecht VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705440/heerenveen-fc-utrecht"
+  },
+  {
+    "gameId": "705443",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Heracles Almelo",
+    "score": "2 - 1",
+    "team2": "FC Twente",
+    "title": "Heracles Almelo VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705443/fc-twente-heracles-almelo"
+  },
+  {
+    "gameId": "705447",
+    "date": "Sunday, March 30, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "0 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "PSV Eindhoven VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705447/ajax-amsterdam-psv-eindhoven"
+  },
+  {
+    "gameId": "705441",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "3 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "Feyenoord Rotterdam VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705441/go-ahead-eagles-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705422",
+    "date": "Tuesday, April 1, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "2 - 2",
+    "team2": "RKC Waalwijk",
+    "title": "AZ Alkmaar VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705422/rkc-waalwijk-az-alkmaar"
+  },
+  {
+    "gameId": "705424",
+    "date": "Wednesday, April 2, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "4 - 1",
+    "team2": "FC Groningen",
+    "title": "Feyenoord Rotterdam VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705424/fc-groningen-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705457",
+    "date": "Friday, April 4, 2025",
+    "team1": "Heerenveen",
+    "score": "3 - 1",
+    "team2": "Willem II",
+    "title": "Heerenveen VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705457/willem-ii-heerenveen"
+  },
+  {
+    "gameId": "705449",
+    "date": "Saturday, April 5, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "0 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "AZ Alkmaar VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705449/feyenoord-rotterdam-az-alkmaar"
+  },
+  {
+    "gameId": "705453",
+    "date": "Saturday, April 5, 2025",
+    "team1": "FC Twente",
+    "score": "1 - 1",
+    "team2": "Fortuna Sittard",
+    "title": "FC Twente VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705453/fortuna-sittard-fc-twente"
+  },
+  {
+    "gameId": "705452",
+    "date": "Saturday, April 5, 2025",
+    "team1": "FC Groningen",
+    "score": "1 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "FC Groningen VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705452/psv-eindhoven-fc-groningen"
+  },
+  {
+    "gameId": "705451",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Almere City",
+    "score": "2 - 2",
+    "team2": "PEC Zwolle",
+    "title": "Almere City VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705451/pec-zwolle-almere-city"
+  },
+  {
+    "gameId": "705455",
+    "date": "Sunday, April 6, 2025",
+    "team1": "RKC Waalwijk",
+    "score": "0 - 0",
+    "team2": "Heracles Almelo",
+    "title": "RKC Waalwijk VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705455/heracles-almelo-rkc-waalwijk"
+  },
+  {
+    "gameId": "705454",
+    "date": "Sunday, April 6, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "2 - 2",
+    "team2": "FC Utrecht",
+    "title": "Go Ahead Eagles VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705454/fc-utrecht-go-ahead-eagles"
+  },
+  {
+    "gameId": "705456",
+    "date": "Sunday, April 6, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "2 - 0",
+    "team2": "NEC Nijmegen",
+    "title": "Sparta Rotterdam VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705456/nec-nijmegen-sparta-rotterdam"
+  },
+  {
+    "gameId": "705450",
+    "date": "Sunday, April 6, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "3 - 1",
+    "team2": "NAC Breda",
+    "title": "Ajax Amsterdam VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705450/nac-breda-ajax-amsterdam"
+  },
+  {
+    "gameId": "705461",
+    "date": "Friday, April 11, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "2 - 1",
+    "team2": "RKC Waalwijk",
+    "title": "NEC Nijmegen VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705461/rkc-waalwijk-nec-nijmegen"
+  },
+  {
+    "gameId": "705459",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "0 - 2",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Fortuna Sittard VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705459/feyenoord-rotterdam-fortuna-sittard"
+  },
+  {
+    "gameId": "705465",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "3 - 1",
+    "team2": "Heerenveen",
+    "title": "Sparta Rotterdam VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705465/heerenveen-sparta-rotterdam"
+  },
+  {
+    "gameId": "705464",
+    "date": "Saturday, April 12, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "5 - 0",
+    "team2": "Almere City",
+    "title": "PSV Eindhoven VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705464/almere-city-psv-eindhoven"
+  },
+  {
+    "gameId": "705462",
+    "date": "Saturday, April 12, 2025",
+    "team1": "NAC Breda",
+    "score": "1 - 1",
+    "team2": "Go Ahead Eagles",
+    "title": "NAC Breda VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705462/go-ahead-eagles-nac-breda"
+  },
+  {
+    "gameId": "705458",
+    "date": "Sunday, April 13, 2025",
+    "team1": "FC Utrecht",
+    "score": "3 - 1",
+    "team2": "FC Groningen",
+    "title": "FC Utrecht VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705458/fc-groningen-fc-utrecht"
+  },
+  {
+    "gameId": "705460",
+    "date": "Sunday, April 13, 2025",
+    "team1": "Heracles Almelo",
+    "score": "1 - 0",
+    "team2": "AZ Alkmaar",
+    "title": "Heracles Almelo VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705460/az-alkmaar-heracles-almelo"
+  },
+  {
+    "gameId": "705463",
+    "date": "Sunday, April 13, 2025",
+    "team1": "PEC Zwolle",
+    "score": "1 - 1",
+    "team2": "FC Twente",
+    "title": "PEC Zwolle VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705463/fc-twente-pec-zwolle"
+  },
+  {
+    "gameId": "705466",
+    "date": "Sunday, April 13, 2025",
+    "team1": "Willem II",
+    "score": "1 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "Willem II VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705466/ajax-amsterdam-willem-ii"
+  },
+  {
+    "gameId": "705479",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Heerenveen",
+    "score": "2 - 1",
+    "team2": "Almere City",
+    "title": "Heerenveen VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705479/almere-city-heerenveen"
+  },
+  {
+    "gameId": "705477",
+    "date": "Sunday, April 20, 2025",
+    "team1": "FC Utrecht",
+    "score": "4 - 0",
+    "team2": "Ajax Amsterdam",
+    "title": "FC Utrecht VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705477/ajax-amsterdam-fc-utrecht"
+  },
+  {
+    "gameId": "705470",
+    "date": "Wednesday, April 23, 2025",
+    "team1": "FC Groningen",
+    "score": "4 - 1",
+    "team2": "Heracles Almelo",
+    "title": "FC Groningen VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705470/heracles-almelo-fc-groningen"
+  },
+  {
+    "gameId": "705467",
+    "date": "Thursday, April 24, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 1",
+    "team2": "NAC Breda",
+    "title": "AZ Alkmaar VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705467/nac-breda-az-alkmaar"
+  },
+  {
+    "gameId": "705475",
+    "date": "Thursday, April 24, 2025",
+    "team1": "FC Twente",
+    "score": "1 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "FC Twente VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705475/psv-eindhoven-fc-twente"
+  },
+  {
+    "gameId": "705471",
+    "date": "Friday, April 25, 2025",
+    "team1": "RKC Waalwijk",
+    "score": "0 - 4",
+    "team2": "FC Utrecht",
+    "title": "RKC Waalwijk VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705471/fc-utrecht-rkc-waalwijk"
+  },
+  {
+    "gameId": "705472",
+    "date": "Friday, April 25, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "4 - 0",
+    "team2": "PEC Zwolle",
+    "title": "Feyenoord Rotterdam VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705472/pec-zwolle-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705473",
+    "date": "Sunday, April 27, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 0",
+    "team2": "Willem II",
+    "title": "Fortuna Sittard VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705473/willem-ii-fortuna-sittard"
+  },
+  {
+    "gameId": "705468",
+    "date": "Sunday, April 27, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "1 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "Ajax Amsterdam VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705468/sparta-rotterdam-ajax-amsterdam"
+  },
+  {
+    "gameId": "705474",
+    "date": "Sunday, April 27, 2025",
+    "team1": "Heerenveen",
+    "score": "1 - 0",
+    "team2": "NEC Nijmegen",
+    "title": "Heerenveen VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705474/nec-nijmegen-heerenveen"
+  },
+  {
+    "gameId": "705469",
+    "date": "Sunday, April 27, 2025",
+    "team1": "Almere City",
+    "score": "0 - 0",
+    "team2": "Go Ahead Eagles",
+    "title": "Almere City VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705469/go-ahead-eagles-almere-city"
+  },
+  {
+    "gameId": "705484",
+    "date": "Saturday, May 3, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "1 - 1",
+    "team2": "Willem II",
+    "title": "NEC Nijmegen VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705484/willem-ii-nec-nijmegen"
+  },
+  {
+    "gameId": "705480",
+    "date": "Saturday, May 3, 2025",
+    "team1": "Heracles Almelo",
+    "score": "1 - 4",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Heracles Almelo VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705480/feyenoord-rotterdam-heracles-almelo"
+  },
+  {
+    "gameId": "705476",
+    "date": "Saturday, May 3, 2025",
+    "team1": "FC Groningen",
+    "score": "6 - 1",
+    "team2": "RKC Waalwijk",
+    "title": "FC Groningen VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705476/rkc-waalwijk-fc-groningen"
+  },
+  {
+    "gameId": "705482",
+    "date": "Saturday, May 3, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "4 - 1",
+    "team2": "Fortuna Sittard",
+    "title": "PSV Eindhoven VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705482/fortuna-sittard-psv-eindhoven"
+  },
+  {
+    "gameId": "705481",
+    "date": "Sunday, May 4, 2025",
+    "team1": "NAC Breda",
+    "score": "1 - 3",
+    "team2": "PEC Zwolle",
+    "title": "NAC Breda VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705481/pec-zwolle-nac-breda"
+  },
+  {
+    "gameId": "705478",
+    "date": "Sunday, May 4, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "0 - 3",
+    "team2": "AZ Alkmaar",
+    "title": "Go Ahead Eagles VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705478/az-alkmaar-go-ahead-eagles"
+  },
+  {
+    "gameId": "705483",
+    "date": "Sunday, May 4, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "0 - 2",
+    "team2": "FC Twente",
+    "title": "Sparta Rotterdam VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705483/fc-twente-sparta-rotterdam"
+  },
+  {
+    "gameId": "705493",
+    "date": "Friday, May 9, 2025",
+    "team1": "Willem II",
+    "score": "1 - 2",
+    "team2": "Heracles Almelo",
+    "title": "Willem II VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705493/heracles-almelo-willem-ii"
+  },
+  {
+    "gameId": "705492",
+    "date": "Saturday, May 10, 2025",
+    "team1": "RKC Waalwijk",
+    "score": "3 - 1",
+    "team2": "Heerenveen",
+    "title": "RKC Waalwijk VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705492/heerenveen-rkc-waalwijk"
+  },
+  {
+    "gameId": "705490",
+    "date": "Saturday, May 10, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 0",
+    "team2": "NAC Breda",
+    "title": "Fortuna Sittard VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705490/nac-breda-fortuna-sittard"
+  },
+  {
+    "gameId": "705487",
+    "date": "Saturday, May 10, 2025",
+    "team1": "Almere City",
+    "score": "0 - 3",
+    "team2": "Sparta Rotterdam",
+    "title": "Almere City VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705487/sparta-rotterdam-almere-city"
+  },
+  {
+    "gameId": "705491",
+    "date": "Sunday, May 11, 2025",
+    "team1": "PEC Zwolle",
+    "score": "1 - 1",
+    "team2": "Go Ahead Eagles",
+    "title": "PEC Zwolle VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705491/go-ahead-eagles-pec-zwolle"
+  },
+  {
+    "gameId": "705488",
+    "date": "Sunday, May 11, 2025",
+    "team1": "FC Twente",
+    "score": "2 - 0",
+    "team2": "FC Utrecht",
+    "title": "FC Twente VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705488/fc-utrecht-fc-twente"
+  },
+  {
+    "gameId": "705489",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "2 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "Feyenoord Rotterdam VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705489/psv-eindhoven-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705486",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "0 - 3",
+    "team2": "NEC Nijmegen",
+    "title": "Ajax Amsterdam VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705486/nec-nijmegen-ajax-amsterdam"
+  },
+  {
+    "gameId": "705485",
+    "date": "Sunday, May 11, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "3 - 0",
+    "team2": "FC Groningen",
+    "title": "AZ Alkmaar VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705485/fc-groningen-az-alkmaar"
+  },
+  {
+    "gameId": "705494",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "Almere City",
+    "score": "1 - 1",
+    "team2": "Fortuna Sittard",
+    "title": "Almere City VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705494/fortuna-sittard-almere-city"
+  },
+  {
+    "gameId": "705495",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "FC Groningen",
+    "score": "2 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "FC Groningen VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705495/ajax-amsterdam-fc-groningen"
+  },
+  {
+    "gameId": "705496",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "FC Twente",
+    "score": "2 - 3",
+    "team2": "AZ Alkmaar",
+    "title": "FC Twente VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705496/az-alkmaar-fc-twente"
+  },
+  {
+    "gameId": "705497",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "FC Utrecht",
+    "score": "1 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "FC Utrecht VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705497/sparta-rotterdam-fc-utrecht"
+  },
+  {
+    "gameId": "705498",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "2 - 0",
+    "team2": "RKC Waalwijk",
+    "title": "Feyenoord Rotterdam VS RKC Waalwijk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705498/rkc-waalwijk-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "705499",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "1 - 0",
+    "team2": "Heerenveen",
+    "title": "Go Ahead Eagles VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705499/heerenveen-go-ahead-eagles"
+  },
+  {
+    "gameId": "705500",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "3 - 0",
+    "team2": "NAC Breda",
+    "title": "NEC Nijmegen VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705500/nac-breda-nec-nijmegen"
+  },
+  {
+    "gameId": "705501",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "4 - 1",
+    "team2": "Heracles Almelo",
+    "title": "PSV Eindhoven VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705501/heracles-almelo-psv-eindhoven"
+  },
+  {
+    "gameId": "705502",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "Willem II",
+    "score": "1 - 2",
+    "team2": "PEC Zwolle",
+    "title": "Willem II VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705502/pec-zwolle-willem-ii"
+  },
+  {
+    "gameId": "705504",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 0",
+    "team2": "FC Twente",
+    "title": "Ajax Amsterdam VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705504/fc-twente-ajax-amsterdam"
+  },
+  {
+    "gameId": "705503",
+    "date": "Sunday, May 18, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 1",
+    "team2": "Almere City",
+    "title": "AZ Alkmaar VS Almere City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705503/almere-city-az-alkmaar"
+  },
+  {
+    "gameId": "705505",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "0 - 0",
+    "team2": "FC Utrecht",
+    "title": "Fortuna Sittard VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705505/fc-utrecht-fortuna-sittard"
+  },
+  {
+    "gameId": "705511",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Heerenveen",
+    "score": "2 - 0",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Heerenveen VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705511/feyenoord-rotterdam-heerenveen"
+  },
+  {
+    "gameId": "705506",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Heracles Almelo",
+    "score": "1 - 2",
+    "team2": "NEC Nijmegen",
+    "title": "Heracles Almelo VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705506/nec-nijmegen-heracles-almelo"
+  },
+  {
+    "gameId": "705507",
+    "date": "Sunday, May 18, 2025",
+    "team1": "NAC Breda",
+    "score": "1 - 1",
+    "team2": "Willem II",
+    "title": "NAC Breda VS Willem II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705507/willem-ii-nac-breda"
+  },
+  {
+    "gameId": "705508",
+    "date": "Sunday, May 18, 2025",
+    "team1": "PEC Zwolle",
+    "score": "2 - 0",
+    "team2": "FC Groningen",
+    "title": "PEC Zwolle VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705508/fc-groningen-pec-zwolle"
+  },
+  {
+    "gameId": "705509",
+    "date": "Sunday, May 18, 2025",
+    "team1": "RKC Waalwijk",
+    "score": "5 - 3",
+    "team2": "Go Ahead Eagles",
+    "title": "RKC Waalwijk VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705509/go-ahead-eagles-rkc-waalwijk"
+  },
+  {
+    "gameId": "705510",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "Sparta Rotterdam VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705510/psv-eindhoven-sparta-rotterdam"
+  },
+  {
+    "gameId": "735819",
+    "date": "Thursday, May 22, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "4 - 1",
+    "team2": "Heerenveen",
+    "title": "AZ Alkmaar VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735819/heerenveen-az-alkmaar"
+  },
+  {
+    "gameId": "735820",
+    "date": "Thursday, May 22, 2025",
+    "team1": "FC Twente",
+    "score": "3 - 2",
+    "team2": "NEC Nijmegen",
+    "title": "FC Twente VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735820/nec-nijmegen-fc-twente"
+  },
+  {
+    "gameId": "735915",
+    "date": "Sunday, May 25, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "3 - 2",
+    "team2": "FC Twente",
+    "title": "AZ Alkmaar VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735915/fc-twente-az-alkmaar"
+  },
+  {
+    "gameId": "740976",
+    "date": "Friday, August 8, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "2 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "Fortuna Sittard VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740976/go-ahead-eagles-fortuna-sittard"
+  },
+  {
+    "gameId": "740977",
+    "date": "Saturday, August 9, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "5 - 0",
+    "team2": "Excelsior",
+    "title": "NEC Nijmegen VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740977/excelsior-nec-nijmegen"
+  },
+  {
+    "gameId": "740978",
+    "date": "Saturday, August 9, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "2 - 0",
+    "team2": "NAC Breda",
+    "title": "Feyenoord Rotterdam VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740978/nac-breda-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "740979",
+    "date": "Saturday, August 9, 2025",
+    "team1": "Heerenveen",
+    "score": "1 - 1",
+    "team2": "FC Volendam",
+    "title": "Heerenveen VS FC Volendam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740979/fc-volendam-heerenveen"
+  },
+  {
+    "gameId": "740980",
+    "date": "Saturday, August 9, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "6 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "PSV Eindhoven VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740980/sparta-rotterdam-psv-eindhoven"
+  },
+  {
+    "gameId": "740981",
+    "date": "Sunday, August 10, 2025",
+    "team1": "PEC Zwolle",
+    "score": "1 - 0",
+    "team2": "FC Twente",
+    "title": "PEC Zwolle VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740981/fc-twente-pec-zwolle"
+  },
+  {
+    "gameId": "740983",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 0",
+    "team2": "Telstar",
+    "title": "Ajax Amsterdam VS Telstar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740983/telstar-ajax-amsterdam"
+  },
+  {
+    "gameId": "740982",
+    "date": "Sunday, August 10, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "4 - 1",
+    "team2": "FC Groningen",
+    "title": "AZ Alkmaar VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740982/fc-groningen-az-alkmaar"
+  },
+  {
+    "gameId": "740984",
+    "date": "Sunday, August 10, 2025",
+    "team1": "FC Utrecht",
+    "score": "4 - 0",
+    "team2": "Heracles Almelo",
+    "title": "FC Utrecht VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740984/heracles-almelo-fc-utrecht"
+  },
+  {
+    "gameId": "740985",
+    "date": "Friday, August 15, 2025",
+    "team1": "Telstar",
+    "score": "0 - 2",
+    "team2": "PEC Zwolle",
+    "title": "Telstar VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740985/pec-zwolle-telstar"
+  },
+  {
+    "gameId": "740987",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Excelsior",
+    "score": "1 - 2",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Excelsior VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740987/feyenoord-rotterdam-excelsior"
+  },
+  {
+    "gameId": "740988",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Heracles Almelo",
+    "score": "1 - 4",
+    "team2": "NEC Nijmegen",
+    "title": "Heracles Almelo VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740988/nec-nijmegen-heracles-almelo"
+  },
+  {
+    "gameId": "740986",
+    "date": "Saturday, August 16, 2025",
+    "team1": "FC Groningen",
+    "score": "2 - 1",
+    "team2": "Heerenveen",
+    "title": "FC Groningen VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740986/heerenveen-fc-groningen"
+  },
+  {
+    "gameId": "740989",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "2 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "Go Ahead Eagles VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740989/ajax-amsterdam-go-ahead-eagles"
+  },
+  {
+    "gameId": "740990",
+    "date": "Sunday, August 17, 2025",
+    "team1": "FC Twente",
+    "score": "0 - 2",
+    "team2": "PSV Eindhoven",
+    "title": "FC Twente VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740990/psv-eindhoven-fc-twente"
+  },
+  {
+    "gameId": "740991",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "2 - 1",
+    "team2": "FC Utrecht",
+    "title": "Sparta Rotterdam VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740991/fc-utrecht-sparta-rotterdam"
+  },
+  {
+    "gameId": "740992",
+    "date": "Sunday, August 17, 2025",
+    "team1": "FC Volendam",
+    "score": "2 - 2",
+    "team2": "AZ Alkmaar",
+    "title": "FC Volendam VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740992/az-alkmaar-fc-volendam"
+  },
+  {
+    "gameId": "740993",
+    "date": "Sunday, August 17, 2025",
+    "team1": "NAC Breda",
+    "score": "2 - 1",
+    "team2": "Fortuna Sittard",
+    "title": "NAC Breda VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740993/fortuna-sittard-nac-breda"
+  },
+  {
+    "gameId": "740994",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "0 - 3",
+    "team2": "Sparta Rotterdam",
+    "title": "Go Ahead Eagles VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740994/sparta-rotterdam-go-ahead-eagles"
+  },
+  {
+    "gameId": "740995",
+    "date": "Saturday, August 23, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "4 - 2",
+    "team2": "FC Groningen",
+    "title": "PSV Eindhoven VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740995/fc-groningen-psv-eindhoven"
+  },
+  {
+    "gameId": "740996",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Telstar",
+    "score": "2 - 2",
+    "team2": "FC Volendam",
+    "title": "Telstar VS FC Volendam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740996/fc-volendam-telstar"
+  },
+  {
+    "gameId": "740998",
+    "date": "Sunday, August 24, 2025",
+    "team1": "Heerenveen",
+    "score": "1 - 2",
+    "team2": "FC Twente",
+    "title": "Heerenveen VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740998/fc-twente-heerenveen"
+  },
+  {
+    "gameId": "740999",
+    "date": "Sunday, August 24, 2025",
+    "team1": "FC Utrecht",
+    "score": "4 - 1",
+    "team2": "Excelsior",
+    "title": "FC Utrecht VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740999/excelsior-fc-utrecht"
+  },
+  {
+    "gameId": "741000",
+    "date": "Sunday, August 24, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "3 - 0",
+    "team2": "NAC Breda",
+    "title": "NEC Nijmegen VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741000/nac-breda-nec-nijmegen"
+  },
+  {
+    "gameId": "741001",
+    "date": "Sunday, August 24, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 0",
+    "team2": "Heracles Almelo",
+    "title": "Ajax Amsterdam VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741001/heracles-almelo-ajax-amsterdam"
+  },
+  {
+    "gameId": "741002",
+    "date": "Friday, August 29, 2025",
+    "team1": "FC Groningen",
+    "score": "4 - 0",
+    "team2": "Heracles Almelo",
+    "title": "FC Groningen VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741002/heracles-almelo-fc-groningen"
+  },
+  {
+    "gameId": "741003",
+    "date": "Saturday, August 30, 2025",
+    "team1": "FC Volendam",
+    "score": "1 - 1",
+    "team2": "Ajax Amsterdam",
+    "title": "FC Volendam VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741003/ajax-amsterdam-fc-volendam"
+  },
+  {
+    "gameId": "741004",
+    "date": "Saturday, August 30, 2025",
+    "team1": "Heerenveen",
+    "score": "2 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "Heerenveen VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741004/go-ahead-eagles-heerenveen"
+  },
+  {
+    "gameId": "741005",
+    "date": "Saturday, August 30, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "0 - 2",
+    "team2": "Telstar",
+    "title": "PSV Eindhoven VS Telstar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741005/telstar-psv-eindhoven"
+  },
+  {
+    "gameId": "741006",
+    "date": "Saturday, August 30, 2025",
+    "team1": "Excelsior",
+    "score": "1 - 0",
+    "team2": "FC Twente",
+    "title": "Excelsior VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741006/fc-twente-excelsior"
+  },
+  {
+    "gameId": "741007",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "3 - 2",
+    "team2": "NEC Nijmegen",
+    "title": "Fortuna Sittard VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741007/nec-nijmegen-fortuna-sittard"
+  },
+  {
+    "gameId": "741009",
+    "date": "Sunday, August 31, 2025",
+    "team1": "PEC Zwolle",
+    "score": "0 - 2",
+    "team2": "FC Utrecht",
+    "title": "PEC Zwolle VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741009/fc-utrecht-pec-zwolle"
+  },
+  {
+    "gameId": "741008",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "0 - 4",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Sparta Rotterdam VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741008/feyenoord-rotterdam-sparta-rotterdam"
+  },
+  {
+    "gameId": "741010",
+    "date": "Sunday, August 31, 2025",
+    "team1": "NAC Breda",
+    "score": "0 - 1",
+    "team2": "AZ Alkmaar",
+    "title": "NAC Breda VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741010/az-alkmaar-nac-breda"
+  },
+  {
+    "gameId": "741011",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "3 - 1",
+    "team2": "PEC Zwolle",
+    "title": "Ajax Amsterdam VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741011/pec-zwolle-ajax-amsterdam"
+  },
+  {
+    "gameId": "741013",
+    "date": "Saturday, September 13, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "3 - 5",
+    "team2": "PSV Eindhoven",
+    "title": "NEC Nijmegen VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741013/psv-eindhoven-nec-nijmegen"
+  },
+  {
+    "gameId": "741012",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "3 - 0",
+    "team2": "FC Volendam",
+    "title": "Go Ahead Eagles VS FC Volendam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741012/fc-volendam-go-ahead-eagles"
+  },
+  {
+    "gameId": "741014",
+    "date": "Saturday, September 13, 2025",
+    "team1": "FC Twente",
+    "score": "2 - 2",
+    "team2": "NAC Breda",
+    "title": "FC Twente VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741014/nac-breda-fc-twente"
+  },
+  {
+    "gameId": "741015",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "1 - 0",
+    "team2": "Heerenveen",
+    "title": "Feyenoord Rotterdam VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741015/heerenveen-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741016",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Excelsior",
+    "score": "0 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "Excelsior VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741016/sparta-rotterdam-excelsior"
+  },
+  {
+    "gameId": "741017",
+    "date": "Sunday, September 14, 2025",
+    "team1": "FC Utrecht",
+    "score": "0 - 1",
+    "team2": "FC Groningen",
+    "title": "FC Utrecht VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741017/fc-groningen-fc-utrecht"
+  },
+  {
+    "gameId": "741018",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Heracles Almelo",
+    "score": "1 - 2",
+    "team2": "AZ Alkmaar",
+    "title": "Heracles Almelo VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741018/az-alkmaar-heracles-almelo"
+  },
+  {
+    "gameId": "741019",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Telstar",
+    "score": "1 - 3",
+    "team2": "Fortuna Sittard",
+    "title": "Telstar VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741019/fortuna-sittard-telstar"
+  },
+  {
+    "gameId": "741020",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "2 - 0",
+    "team2": "Fortuna Sittard",
+    "title": "Feyenoord Rotterdam VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741020/fortuna-sittard-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741021",
+    "date": "Friday, September 19, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 5",
+    "team2": "FC Twente",
+    "title": "Sparta Rotterdam VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741021/fc-twente-sparta-rotterdam"
+  },
+  {
+    "gameId": "741022",
+    "date": "Saturday, September 20, 2025",
+    "team1": "FC Volendam",
+    "score": "1 - 2",
+    "team2": "Excelsior",
+    "title": "FC Volendam VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741022/excelsior-fc-volendam"
+  },
+  {
+    "gameId": "741023",
+    "date": "Saturday, September 20, 2025",
+    "team1": "FC Groningen",
+    "score": "2 - 0",
+    "team2": "Telstar",
+    "title": "FC Groningen VS Telstar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741023/telstar-fc-groningen"
+  },
+  {
+    "gameId": "741024",
+    "date": "Saturday, September 20, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 0",
+    "team2": "FC Utrecht",
+    "title": "Fortuna Sittard VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741024/fc-utrecht-fortuna-sittard"
+  },
+  {
+    "gameId": "741025",
+    "date": "Saturday, September 20, 2025",
+    "team1": "NAC Breda",
+    "score": "2 - 1",
+    "team2": "Heracles Almelo",
+    "title": "NAC Breda VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741025/heracles-almelo-nac-breda"
+  },
+  {
+    "gameId": "741026",
+    "date": "Sunday, September 21, 2025",
+    "team1": "PEC Zwolle",
+    "score": "0 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "PEC Zwolle VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741026/go-ahead-eagles-pec-zwolle"
+  },
+  {
+    "gameId": "741028",
+    "date": "Sunday, September 21, 2025",
+    "team1": "Heerenveen",
+    "score": "3 - 2",
+    "team2": "NEC Nijmegen",
+    "title": "Heerenveen VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741028/nec-nijmegen-heerenveen"
+  },
+  {
+    "gameId": "741027",
+    "date": "Sunday, September 21, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "2 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "PSV Eindhoven VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741027/ajax-amsterdam-psv-eindhoven"
+  },
+  {
+    "gameId": "741029",
+    "date": "Sunday, September 21, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "3 - 3",
+    "team2": "Feyenoord Rotterdam",
+    "title": "AZ Alkmaar VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741029/feyenoord-rotterdam-az-alkmaar"
+  },
+  {
+    "gameId": "740997",
+    "date": "Wednesday, September 24, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "2 - 2",
+    "team2": "PEC Zwolle",
+    "title": "AZ Alkmaar VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740997/pec-zwolle-az-alkmaar"
+  },
+  {
+    "gameId": "741030",
+    "date": "Friday, September 26, 2025",
+    "team1": "FC Twente",
+    "score": "3 - 2",
+    "team2": "Fortuna Sittard",
+    "title": "FC Twente VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741030/fortuna-sittard-fc-twente"
+  },
+  {
+    "gameId": "741032",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 1",
+    "team2": "NAC Breda",
+    "title": "Ajax Amsterdam VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741032/nac-breda-ajax-amsterdam"
+  },
+  {
+    "gameId": "741033",
+    "date": "Saturday, September 27, 2025",
+    "team1": "FC Volendam",
+    "score": "2 - 1",
+    "team2": "PEC Zwolle",
+    "title": "FC Volendam VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741033/pec-zwolle-fc-volendam"
+  },
+  {
+    "gameId": "741034",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Excelsior",
+    "score": "1 - 2",
+    "team2": "PSV Eindhoven",
+    "title": "Excelsior VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741034/psv-eindhoven-excelsior"
+  },
+  {
+    "gameId": "741037",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Heracles Almelo",
+    "score": "3 - 0",
+    "team2": "Sparta Rotterdam",
+    "title": "Heracles Almelo VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741037/sparta-rotterdam-heracles-almelo"
+  },
+  {
+    "gameId": "741035",
+    "date": "Sunday, September 28, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "2 - 1",
+    "team2": "AZ Alkmaar",
+    "title": "NEC Nijmegen VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741035/az-alkmaar-nec-nijmegen"
+  },
+  {
+    "gameId": "741031",
+    "date": "Sunday, September 28, 2025",
+    "team1": "FC Groningen",
+    "score": "0 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "FC Groningen VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741031/feyenoord-rotterdam-fc-groningen"
+  },
+  {
+    "gameId": "741036",
+    "date": "Sunday, September 28, 2025",
+    "team1": "FC Utrecht",
+    "score": "2 - 2",
+    "team2": "Heerenveen",
+    "title": "FC Utrecht VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741036/heerenveen-fc-utrecht"
+  },
+  {
+    "gameId": "741038",
+    "date": "Sunday, September 28, 2025",
+    "team1": "Telstar",
+    "score": "4 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "Telstar VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741038/go-ahead-eagles-telstar"
+  },
+  {
+    "gameId": "741039",
+    "date": "Friday, October 3, 2025",
+    "team1": "NAC Breda",
+    "score": "1 - 2",
+    "team2": "FC Groningen",
+    "title": "NAC Breda VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741039/fc-groningen-nac-breda"
+  },
+  {
+    "gameId": "741040",
+    "date": "Saturday, October 4, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "3 - 3",
+    "team2": "Ajax Amsterdam",
+    "title": "Sparta Rotterdam VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741040/ajax-amsterdam-sparta-rotterdam"
+  },
+  {
+    "gameId": "741041",
+    "date": "Saturday, October 4, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 0",
+    "team2": "FC Volendam",
+    "title": "Fortuna Sittard VS FC Volendam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741041/fc-volendam-fortuna-sittard"
+  },
+  {
+    "gameId": "741042",
+    "date": "Saturday, October 4, 2025",
+    "team1": "PEC Zwolle",
+    "score": "0 - 4",
+    "team2": "PSV Eindhoven",
+    "title": "PEC Zwolle VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741042/psv-eindhoven-pec-zwolle"
+  },
+  {
+    "gameId": "741043",
+    "date": "Saturday, October 4, 2025",
+    "team1": "Heerenveen",
+    "score": "2 - 1",
+    "team2": "Excelsior",
+    "title": "Heerenveen VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741043/excelsior-heerenveen"
+  },
+  {
+    "gameId": "741044",
+    "date": "Sunday, October 5, 2025",
+    "team1": "FC Twente",
+    "score": "2 - 1",
+    "team2": "Heracles Almelo",
+    "title": "FC Twente VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741044/heracles-almelo-fc-twente"
+  },
+  {
+    "gameId": "741045",
+    "date": "Sunday, October 5, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "3 - 2",
+    "team2": "FC Utrecht",
+    "title": "Feyenoord Rotterdam VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741045/fc-utrecht-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741046",
+    "date": "Sunday, October 5, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "2 - 1",
+    "team2": "Telstar",
+    "title": "AZ Alkmaar VS Telstar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741046/telstar-az-alkmaar"
+  },
+  {
+    "gameId": "741047",
+    "date": "Sunday, October 5, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "1 - 1",
+    "team2": "NEC Nijmegen",
+    "title": "Go Ahead Eagles VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741047/nec-nijmegen-go-ahead-eagles"
+  },
+  {
+    "gameId": "741056",
+    "date": "Saturday, October 18, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "3 - 3",
+    "team2": "FC Twente",
+    "title": "NEC Nijmegen VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741056/fc-twente-nec-nijmegen"
+  },
+  {
+    "gameId": "741050",
+    "date": "Saturday, October 18, 2025",
+    "team1": "FC Utrecht",
+    "score": "3 - 1",
+    "team2": "FC Volendam",
+    "title": "FC Utrecht VS FC Volendam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741050/fc-volendam-fc-utrecht"
+  },
+  {
+    "gameId": "741049",
+    "date": "Saturday, October 18, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "2 - 1",
+    "team2": "Go Ahead Eagles",
+    "title": "PSV Eindhoven VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741049/go-ahead-eagles-psv-eindhoven"
+  },
+  {
+    "gameId": "741052",
+    "date": "Saturday, October 18, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "0 - 2",
+    "team2": "AZ Alkmaar",
+    "title": "Ajax Amsterdam VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741052/az-alkmaar-ajax-amsterdam"
+  },
+  {
+    "gameId": "741051",
+    "date": "Saturday, October 18, 2025",
+    "team1": "NAC Breda",
+    "score": "2 - 2",
+    "team2": "PEC Zwolle",
+    "title": "NAC Breda VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741051/pec-zwolle-nac-breda"
+  },
+  {
+    "gameId": "741055",
+    "date": "Sunday, October 19, 2025",
+    "team1": "Telstar",
+    "score": "2 - 3",
+    "team2": "Heerenveen",
+    "title": "Telstar VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741055/heerenveen-telstar"
+  },
+  {
+    "gameId": "741054",
+    "date": "Sunday, October 19, 2025",
+    "team1": "Excelsior",
+    "score": "1 - 0",
+    "team2": "Fortuna Sittard",
+    "title": "Excelsior VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741054/fortuna-sittard-excelsior"
+  },
+  {
+    "gameId": "741053",
+    "date": "Sunday, October 19, 2025",
+    "team1": "FC Groningen",
+    "score": "0 - 2",
+    "team2": "Sparta Rotterdam",
+    "title": "FC Groningen VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741053/sparta-rotterdam-fc-groningen"
+  },
+  {
+    "gameId": "741048",
+    "date": "Sunday, October 19, 2025",
+    "team1": "Heracles Almelo",
+    "score": "0 - 7",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Heracles Almelo VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741048/feyenoord-rotterdam-heracles-almelo"
+  },
+  {
+    "gameId": "741057",
+    "date": "Friday, October 24, 2025",
+    "team1": "Heerenveen",
+    "score": "3 - 3",
+    "team2": "NAC Breda",
+    "title": "Heerenveen VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741057/nac-breda-heerenveen"
+  },
+  {
+    "gameId": "741058",
+    "date": "Saturday, October 25, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 2",
+    "team2": "FC Groningen",
+    "title": "Fortuna Sittard VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741058/fc-groningen-fortuna-sittard"
+  },
+  {
+    "gameId": "741060",
+    "date": "Saturday, October 25, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 0",
+    "team2": "Telstar",
+    "title": "Sparta Rotterdam VS Telstar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741060/telstar-sparta-rotterdam"
+  },
+  {
+    "gameId": "741059",
+    "date": "Saturday, October 25, 2025",
+    "team1": "FC Volendam",
+    "score": "3 - 0",
+    "team2": "Heracles Almelo",
+    "title": "FC Volendam VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741059/heracles-almelo-fc-volendam"
+  },
+  {
+    "gameId": "741061",
+    "date": "Saturday, October 25, 2025",
+    "team1": "PEC Zwolle",
+    "score": "2 - 2",
+    "team2": "NEC Nijmegen",
+    "title": "PEC Zwolle VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741061/nec-nijmegen-pec-zwolle"
+  },
+  {
+    "gameId": "741062",
+    "date": "Sunday, October 26, 2025",
+    "team1": "FC Twente",
+    "score": "2 - 3",
+    "team2": "Ajax Amsterdam",
+    "title": "FC Twente VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741062/ajax-amsterdam-fc-twente"
+  },
+  {
+    "gameId": "741064",
+    "date": "Sunday, October 26, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "2 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "Feyenoord Rotterdam VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741064/psv-eindhoven-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741065",
+    "date": "Sunday, October 26, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "4 - 1",
+    "team2": "FC Utrecht",
+    "title": "AZ Alkmaar VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741065/fc-utrecht-az-alkmaar"
+  },
+  {
+    "gameId": "741063",
+    "date": "Sunday, October 26, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "2 - 0",
+    "team2": "Excelsior",
+    "title": "Go Ahead Eagles VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741063/excelsior-go-ahead-eagles"
+  },
+  {
+    "gameId": "741066",
+    "date": "Friday, October 31, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "5 - 2",
+    "team2": "Fortuna Sittard",
+    "title": "PSV Eindhoven VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741066/fortuna-sittard-psv-eindhoven"
+  },
+  {
+    "gameId": "741069",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "1 - 1",
+    "team2": "Heerenveen",
+    "title": "Ajax Amsterdam VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741069/heerenveen-ajax-amsterdam"
+  },
+  {
+    "gameId": "741068",
+    "date": "Saturday, November 1, 2025",
+    "team1": "NAC Breda",
+    "score": "1 - 0",
+    "team2": "Go Ahead Eagles",
+    "title": "NAC Breda VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741068/go-ahead-eagles-nac-breda"
+  },
+  {
+    "gameId": "741067",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "3 - 1",
+    "team2": "FC Volendam",
+    "title": "Feyenoord Rotterdam VS FC Volendam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741067/fc-volendam-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741070",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Telstar",
+    "score": "2 - 2",
+    "team2": "Excelsior",
+    "title": "Telstar VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741070/excelsior-telstar"
+  },
+  {
+    "gameId": "741071",
+    "date": "Sunday, November 2, 2025",
+    "team1": "Heracles Almelo",
+    "score": "8 - 2",
+    "team2": "PEC Zwolle",
+    "title": "Heracles Almelo VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741071/pec-zwolle-heracles-almelo"
+  },
+  {
+    "gameId": "741072",
+    "date": "Sunday, November 2, 2025",
+    "team1": "FC Groningen",
+    "score": "1 - 1",
+    "team2": "FC Twente",
+    "title": "FC Groningen VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741072/fc-twente-fc-groningen"
+  },
+  {
+    "gameId": "741073",
+    "date": "Sunday, November 2, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "0 - 1",
+    "team2": "AZ Alkmaar",
+    "title": "Sparta Rotterdam VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741073/az-alkmaar-sparta-rotterdam"
+  },
+  {
+    "gameId": "741074",
+    "date": "Sunday, November 2, 2025",
+    "team1": "FC Utrecht",
+    "score": "1 - 0",
+    "team2": "NEC Nijmegen",
+    "title": "FC Utrecht VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741074/nec-nijmegen-fc-utrecht"
+  },
+  {
+    "gameId": "741075",
+    "date": "Friday, November 7, 2025",
+    "team1": "FC Twente",
+    "score": "0 - 0",
+    "team2": "Telstar",
+    "title": "FC Twente VS Telstar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741075/telstar-fc-twente"
+  },
+  {
+    "gameId": "741076",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Excelsior",
+    "score": "1 - 2",
+    "team2": "Heracles Almelo",
+    "title": "Excelsior VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741076/heracles-almelo-excelsior"
+  },
+  {
+    "gameId": "741077",
+    "date": "Saturday, November 8, 2025",
+    "team1": "FC Volendam",
+    "score": "2 - 1",
+    "team2": "NAC Breda",
+    "title": "FC Volendam VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741077/nac-breda-fc-volendam"
+  },
+  {
+    "gameId": "741078",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "2 - 0",
+    "team2": "Heerenveen",
+    "title": "Fortuna Sittard VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741078/heerenveen-fortuna-sittard"
+  },
+  {
+    "gameId": "741079",
+    "date": "Saturday, November 8, 2025",
+    "team1": "PEC Zwolle",
+    "score": "1 - 0",
+    "team2": "Sparta Rotterdam",
+    "title": "PEC Zwolle VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741079/sparta-rotterdam-pec-zwolle"
+  },
+  {
+    "gameId": "741080",
+    "date": "Sunday, November 9, 2025",
+    "team1": "FC Utrecht",
+    "score": "2 - 1",
+    "team2": "Ajax Amsterdam",
+    "title": "FC Utrecht VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741080/ajax-amsterdam-fc-utrecht"
+  },
+  {
+    "gameId": "741082",
+    "date": "Sunday, November 9, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "2 - 0",
+    "team2": "FC Groningen",
+    "title": "NEC Nijmegen VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741082/fc-groningen-nec-nijmegen"
+  },
+  {
+    "gameId": "741081",
+    "date": "Sunday, November 9, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 5",
+    "team2": "PSV Eindhoven",
+    "title": "AZ Alkmaar VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741081/psv-eindhoven-az-alkmaar"
+  },
+  {
+    "gameId": "741083",
+    "date": "Sunday, November 9, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "2 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Go Ahead Eagles VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741083/feyenoord-rotterdam-go-ahead-eagles"
+  },
+  {
+    "gameId": "741088",
+    "date": "Saturday, November 22, 2025",
+    "team1": "NAC Breda",
+    "score": "0 - 1",
+    "team2": "PSV Eindhoven",
+    "title": "NAC Breda VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741088/psv-eindhoven-nac-breda"
+  },
+  {
+    "gameId": "741084",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "1 - 2",
+    "team2": "Excelsior",
+    "title": "Ajax Amsterdam VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741084/excelsior-ajax-amsterdam"
+  },
+  {
+    "gameId": "741091",
+    "date": "Saturday, November 22, 2025",
+    "team1": "FC Volendam",
+    "score": "1 - 1",
+    "team2": "FC Twente",
+    "title": "FC Volendam VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741091/fc-twente-fc-volendam"
+  },
+  {
+    "gameId": "741089",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Heracles Almelo",
+    "score": "4 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "Heracles Almelo VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741089/go-ahead-eagles-heracles-almelo"
+  },
+  {
+    "gameId": "741087",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 1",
+    "team2": "Fortuna Sittard",
+    "title": "Sparta Rotterdam VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741087/fortuna-sittard-sparta-rotterdam"
+  },
+  {
+    "gameId": "741085",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Heerenveen",
+    "score": "3 - 1",
+    "team2": "AZ Alkmaar",
+    "title": "Heerenveen VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741085/az-alkmaar-heerenveen"
+  },
+  {
+    "gameId": "741090",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "2 - 4",
+    "team2": "NEC Nijmegen",
+    "title": "Feyenoord Rotterdam VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741090/nec-nijmegen-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741086",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Telstar",
+    "score": "1 - 1",
+    "team2": "FC Utrecht",
+    "title": "Telstar VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741086/fc-utrecht-telstar"
+  },
+  {
+    "gameId": "741092",
+    "date": "Sunday, November 23, 2025",
+    "team1": "FC Groningen",
+    "score": "2 - 2",
+    "team2": "PEC Zwolle",
+    "title": "FC Groningen VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741092/pec-zwolle-fc-groningen"
+  },
+  {
+    "gameId": "741094",
+    "date": "Friday, November 28, 2025",
+    "team1": "PEC Zwolle",
+    "score": "2 - 1",
+    "team2": "Heerenveen",
+    "title": "PEC Zwolle VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741094/heerenveen-pec-zwolle"
+  },
+  {
+    "gameId": "741099",
+    "date": "Saturday, November 29, 2025",
+    "team1": "Excelsior",
+    "score": "1 - 0",
+    "team2": "NAC Breda",
+    "title": "Excelsior VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741099/nac-breda-excelsior"
+  },
+  {
+    "gameId": "741101",
+    "date": "Saturday, November 29, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 1",
+    "team2": "Heracles Almelo",
+    "title": "Fortuna Sittard VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741101/heracles-almelo-fortuna-sittard"
+  },
+  {
+    "gameId": "741095",
+    "date": "Saturday, November 29, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "3 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "NEC Nijmegen VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741095/sparta-rotterdam-nec-nijmegen"
+  },
+  {
+    "gameId": "741100",
+    "date": "Sunday, November 30, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "0 - 0",
+    "team2": "FC Groningen",
+    "title": "Ajax Amsterdam VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741100/fc-groningen-ajax-amsterdam"
+  },
+  {
+    "gameId": "741093",
+    "date": "20251129",
+    "team1": "PSV Eindhoven",
+    "score": "3 - 0",
+    "team2": "FC Volendam",
+    "title": "PSV Eindhoven VS FC Volendam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741093/fc-volendam-psv-eindhoven"
+  },
+  {
+    "gameId": "741096",
+    "date": "20251129",
+    "team1": "Go Ahead Eagles",
+    "score": "2 - 2",
+    "team2": "FC Utrecht",
+    "title": "Go Ahead Eagles VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741096/fc-utrecht-go-ahead-eagles"
+  },
+  {
+    "gameId": "741097",
+    "date": "20251129",
+    "team1": "Telstar",
+    "score": "1 - 2",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Telstar VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741097/feyenoord-rotterdam-telstar"
+  },
+  {
+    "gameId": "741098",
+    "date": "20251129",
+    "team1": "FC Twente",
+    "score": "1 - 0",
+    "team2": "AZ Alkmaar",
+    "title": "FC Twente VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741098/az-alkmaar-fc-twente"
+  },
+  {
+    "gameId": "741103",
+    "date": "Friday, December 5, 2025",
+    "team1": "Excelsior",
+    "score": "0 - 2",
+    "team2": "FC Groningen",
+    "title": "Excelsior VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741103/fc-groningen-excelsior"
+  },
+  {
+    "gameId": "741110",
+    "date": "Saturday, December 6, 2025",
+    "team1": "Heerenveen",
+    "score": "0 - 2",
+    "team2": "PSV Eindhoven",
+    "title": "Heerenveen VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741110/psv-eindhoven-heerenveen"
+  },
+  {
+    "gameId": "741107",
+    "date": "Saturday, December 6, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "1 - 3",
+    "team2": "Ajax Amsterdam",
+    "title": "Fortuna Sittard VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741107/ajax-amsterdam-fortuna-sittard"
+  },
+  {
+    "gameId": "741108",
+    "date": "Saturday, December 6, 2025",
+    "team1": "Heracles Almelo",
+    "score": "1 - 1",
+    "team2": "Telstar",
+    "title": "Heracles Almelo VS Telstar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741108/telstar-heracles-almelo"
+  },
+  {
+    "gameId": "741106",
+    "date": "Saturday, December 6, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "6 - 1",
+    "team2": "PEC Zwolle",
+    "title": "Feyenoord Rotterdam VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741106/pec-zwolle-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741104",
+    "date": "Sunday, December 7, 2025",
+    "team1": "FC Utrecht",
+    "score": "1 - 1",
+    "team2": "FC Twente",
+    "title": "FC Utrecht VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741104/fc-twente-fc-utrecht"
+  },
+  {
+    "gameId": "741102",
+    "date": "Sunday, December 7, 2025",
+    "team1": "AZ Alkmaar",
+    "score": "2 - 2",
+    "team2": "Go Ahead Eagles",
+    "title": "AZ Alkmaar VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741102/go-ahead-eagles-az-alkmaar"
+  },
+  {
+    "gameId": "741105",
+    "date": "Sunday, December 7, 2025",
+    "team1": "FC Volendam",
+    "score": "2 - 3",
+    "team2": "NEC Nijmegen",
+    "title": "FC Volendam VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741105/nec-nijmegen-fc-volendam"
+  },
+  {
+    "gameId": "741109",
+    "date": "Sunday, December 7, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "1 - 0",
+    "team2": "NAC Breda",
+    "title": "Sparta Rotterdam VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741109/nac-breda-sparta-rotterdam"
+  },
+  {
+    "gameId": "741113",
+    "date": "Saturday, December 13, 2025",
+    "team1": "Telstar",
+    "score": "2 - 2",
+    "team2": "NEC Nijmegen",
+    "title": "Telstar VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741113/nec-nijmegen-telstar"
+  },
+  {
+    "gameId": "741119",
+    "date": "Saturday, December 13, 2025",
+    "team1": "FC Groningen",
+    "score": "3 - 0",
+    "team2": "FC Volendam",
+    "title": "FC Groningen VS FC Volendam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741119/fc-volendam-fc-groningen"
+  },
+  {
+    "gameId": "741115",
+    "date": "Saturday, December 13, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "4 - 3",
+    "team2": "Heracles Almelo",
+    "title": "PSV Eindhoven VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741115/heracles-almelo-psv-eindhoven"
+  },
+  {
+    "gameId": "741116",
+    "date": "Saturday, December 13, 2025",
+    "team1": "PEC Zwolle",
+    "score": "1 - 0",
+    "team2": "Fortuna Sittard",
+    "title": "PEC Zwolle VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741116/fortuna-sittard-pec-zwolle"
+  },
+  {
+    "gameId": "741114",
+    "date": "Sunday, December 14, 2025",
+    "team1": "Sparta Rotterdam",
+    "score": "0 - 3",
+    "team2": "Heerenveen",
+    "title": "Sparta Rotterdam VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741114/heerenveen-sparta-rotterdam"
+  },
+  {
+    "gameId": "741112",
+    "date": "Sunday, December 14, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "2 - 0",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Ajax Amsterdam VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741112/feyenoord-rotterdam-ajax-amsterdam"
+  },
+  {
+    "gameId": "741118",
+    "date": "Sunday, December 14, 2025",
+    "team1": "FC Twente",
+    "score": "2 - 0",
+    "team2": "Go Ahead Eagles",
+    "title": "FC Twente VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741118/go-ahead-eagles-fc-twente"
+  },
+  {
+    "gameId": "741117",
+    "date": "Sunday, December 14, 2025",
+    "team1": "NAC Breda",
+    "score": "1 - 1",
+    "team2": "FC Utrecht",
+    "title": "NAC Breda VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741117/fc-utrecht-nac-breda"
+  },
+  {
+    "gameId": "741122",
+    "date": "Saturday, December 20, 2025",
+    "team1": "Heracles Almelo",
+    "score": "0 - 3",
+    "team2": "Heerenveen",
+    "title": "Heracles Almelo VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741122/heerenveen-heracles-almelo"
+  },
+  {
+    "gameId": "741120",
+    "date": "Saturday, December 20, 2025",
+    "team1": "Excelsior",
+    "score": "2 - 1",
+    "team2": "PEC Zwolle",
+    "title": "Excelsior VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741120/pec-zwolle-excelsior"
+  },
+  {
+    "gameId": "741121",
+    "date": "Saturday, December 20, 2025",
+    "team1": "NEC Nijmegen",
+    "score": "2 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "NEC Nijmegen VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741121/ajax-amsterdam-nec-nijmegen"
+  },
+  {
+    "gameId": "741124",
+    "date": "Saturday, December 20, 2025",
+    "team1": "NAC Breda",
+    "score": "0 - 1",
+    "team2": "Telstar",
+    "title": "NAC Breda VS Telstar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741124/telstar-nac-breda"
+  },
+  {
+    "gameId": "741127",
+    "date": "Sunday, December 21, 2025",
+    "team1": "FC Utrecht",
+    "score": "1 - 2",
+    "team2": "PSV Eindhoven",
+    "title": "FC Utrecht VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741127/psv-eindhoven-fc-utrecht"
+  },
+  {
+    "gameId": "741125",
+    "date": "Sunday, December 21, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "1 - 1",
+    "team2": "FC Twente",
+    "title": "Feyenoord Rotterdam VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741125/fc-twente-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741123",
+    "date": "Sunday, December 21, 2025",
+    "team1": "Go Ahead Eagles",
+    "score": "1 - 1",
+    "team2": "FC Groningen",
+    "title": "Go Ahead Eagles VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741123/fc-groningen-go-ahead-eagles"
+  },
+  {
+    "gameId": "741126",
+    "date": "Sunday, December 21, 2025",
+    "team1": "FC Volendam",
+    "score": "0 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "FC Volendam VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741126/sparta-rotterdam-fc-volendam"
+  },
+  {
+    "gameId": "741128",
+    "date": "Sunday, December 21, 2025",
+    "team1": "Fortuna Sittard",
+    "score": "4 - 3",
+    "team2": "AZ Alkmaar",
+    "title": "Fortuna Sittard VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741128/az-alkmaar-fortuna-sittard"
+  }
+]

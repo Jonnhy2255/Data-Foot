@@ -1,0 +1,146 @@
+[
+  {
+    "gameId": "731934",
+    "date": "Friday, October 31, 2025",
+    "team1": "Shanghai Port",
+    "score": "3 - 0",
+    "team2": "Zhejiang Professional FC",
+    "title": "Shanghai Port VS Zhejiang Professional FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731934/zhejiang-professional-fc-shanghai-port"
+  },
+  {
+    "gameId": "731935",
+    "date": "Friday, October 31, 2025",
+    "team1": "Chengdu Rongcheng",
+    "score": "1 - 2",
+    "team2": "Henan Songshan Longmen",
+    "title": "Chengdu Rongcheng VS Henan Songshan Longmen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731935/henan-songshan-longmen-chengdu-rongcheng"
+  },
+  {
+    "gameId": "731936",
+    "date": "Friday, October 31, 2025",
+    "team1": "Shanghai Shenhua",
+    "score": "1 - 0",
+    "team2": "Shenzhen Xinpengcheng",
+    "title": "Shanghai Shenhua VS Shenzhen Xinpengcheng",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731936/shenzhen-xinpengcheng-shanghai-shenhua"
+  },
+  {
+    "gameId": "731937",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Changchun Yatai",
+    "score": "0 - 4",
+    "team2": "Beijing Guoan",
+    "title": "Changchun Yatai VS Beijing Guoan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731937/beijing-guoan-changchun-yatai"
+  },
+  {
+    "gameId": "731938",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Shandong Taishan",
+    "score": "2 - 1",
+    "team2": "Tianjin Jinmen Tiger",
+    "title": "Shandong Taishan VS Tianjin Jinmen Tiger",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731938/tianjin-jinmen-tiger-shandong-taishan"
+  },
+  {
+    "gameId": "731939",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Meizhou Hakka",
+    "score": "2 - 2",
+    "team2": "Dalian Yingbo",
+    "title": "Meizhou Hakka VS Dalian Yingbo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731939/dalian-yingbo-meizhou-hakka"
+  },
+  {
+    "gameId": "731940",
+    "date": "Sunday, November 2, 2025",
+    "team1": "Qingdao Hainiu",
+    "score": "1 - 0",
+    "team2": "Wuhan Three Towns",
+    "title": "Qingdao Hainiu VS Wuhan Three Towns",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731940/wuhan-three-towns-qingdao-hainiu"
+  },
+  {
+    "gameId": "731941",
+    "date": "Sunday, November 2, 2025",
+    "team1": "Yunnan Yukun",
+    "score": "1 - 0",
+    "team2": "Qingdao West Coast",
+    "title": "Yunnan Yukun VS Qingdao West Coast",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731941/qingdao-west-coast-yunnan-yukun"
+  },
+  {
+    "gameId": "731942",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Beijing Guoan",
+    "score": "5 - 1",
+    "team2": "Meizhou Hakka",
+    "title": "Beijing Guoan VS Meizhou Hakka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731942/meizhou-hakka-beijing-guoan"
+  },
+  {
+    "gameId": "731945",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Dalian Yingbo",
+    "score": "0 - 1",
+    "team2": "Shanghai Port",
+    "title": "Dalian Yingbo VS Shanghai Port",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731945/shanghai-port-dalian-yingbo"
+  },
+  {
+    "gameId": "731943",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Henan Songshan Longmen",
+    "score": "1 - 1",
+    "team2": "Yunnan Yukun",
+    "title": "Henan Songshan Longmen VS Yunnan Yukun",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731943/yunnan-yukun-henan-songshan-longmen"
+  },
+  {
+    "gameId": "731949",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Qingdao West Coast",
+    "score": "1 - 0",
+    "team2": "Changchun Yatai",
+    "title": "Qingdao West Coast VS Changchun Yatai",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731949/changchun-yatai-qingdao-west-coast"
+  },
+  {
+    "gameId": "731946",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Shenzhen Xinpengcheng",
+    "score": "1 - 1",
+    "team2": "Chengdu Rongcheng",
+    "title": "Shenzhen Xinpengcheng VS Chengdu Rongcheng",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731946/chengdu-rongcheng-shenzhen-xinpengcheng"
+  },
+  {
+    "gameId": "731948",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Tianjin Jinmen Tiger",
+    "score": "1 - 3",
+    "team2": "Shanghai Shenhua",
+    "title": "Tianjin Jinmen Tiger VS Shanghai Shenhua",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731948/shanghai-shenhua-tianjin-jinmen-tiger"
+  },
+  {
+    "gameId": "731947",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Wuhan Three Towns",
+    "score": "1 - 5",
+    "team2": "Shandong Taishan",
+    "title": "Wuhan Three Towns VS Shandong Taishan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731947/shandong-taishan-wuhan-three-towns"
+  },
+  {
+    "gameId": "731944",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Zhejiang Professional FC",
+    "score": "2 - 2",
+    "team2": "Qingdao Hainiu",
+    "title": "Zhejiang Professional FC VS Qingdao Hainiu",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731944/qingdao-hainiu-zhejiang-professional-fc"
+  }
+]

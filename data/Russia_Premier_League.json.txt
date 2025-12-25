@@ -1,0 +1,3422 @@
+[
+  {
+    "gameId": "706054",
+    "date": "Sunday, July 21, 2024",
+    "team1": "Gazovik Orenburg",
+    "score": "2 - 0",
+    "team2": "Spartak Moscow",
+    "title": "Gazovik Orenburg VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706054/spartak-moscow-gazovik-orenburg"
+  },
+  {
+    "gameId": "706057",
+    "date": "Sunday, July 21, 2024",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 1",
+    "team2": "Krasnodar",
+    "title": "Akhmat Grozny VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706057/krasnodar-akhmat-grozny"
+  },
+  {
+    "gameId": "706058",
+    "date": "Sunday, July 21, 2024",
+    "team1": "FC Khimki",
+    "score": "1 - 1",
+    "team2": "Dynamo Makhachkala",
+    "title": "FC Khimki VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706058/dynamo-makhachkala-fc-khimki"
+  },
+  {
+    "gameId": "706053",
+    "date": "Monday, July 22, 2024",
+    "team1": "Nizhny Novgorod",
+    "score": "2 - 4",
+    "team2": "Rubin Kazan",
+    "title": "Nizhny Novgorod VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706053/rubin-kazan-nizhny-novgorod"
+  },
+  {
+    "gameId": "706063",
+    "date": "Friday, July 26, 2024",
+    "team1": "Krylia Sovetov",
+    "score": "1 - 3",
+    "team2": "Rostov",
+    "title": "Krylia Sovetov VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706063/rostov-krylia-sovetov"
+  },
+  {
+    "gameId": "706064",
+    "date": "Saturday, July 27, 2024",
+    "team1": "Nizhny Novgorod",
+    "score": "0 - 3",
+    "team2": "CSKA Moscow",
+    "title": "Nizhny Novgorod VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706064/cska-moscow-nizhny-novgorod"
+  },
+  {
+    "gameId": "706066",
+    "date": "Saturday, July 27, 2024",
+    "team1": "Dinamo Moscow",
+    "score": "3 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "Dinamo Moscow VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706066/lokomotiv-moscow-dinamo-moscow"
+  },
+  {
+    "gameId": "706067",
+    "date": "Saturday, July 27, 2024",
+    "team1": "Rubin Kazan",
+    "score": "0 - 4",
+    "team2": "Zenit St Petersburg",
+    "title": "Rubin Kazan VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706067/zenit-st-petersburg-rubin-kazan"
+  },
+  {
+    "gameId": "706062",
+    "date": "Saturday, July 27, 2024",
+    "team1": "Fakel Voronezh",
+    "score": "0 - 2",
+    "team2": "Akron Tolyatti",
+    "title": "Fakel Voronezh VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706062/akron-tolyatti-fakel-voronezh"
+  },
+  {
+    "gameId": "706061",
+    "date": "Sunday, July 28, 2024",
+    "team1": "FC Khimki",
+    "score": "1 - 3",
+    "team2": "Spartak Moscow",
+    "title": "FC Khimki VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706061/spartak-moscow-fc-khimki"
+  },
+  {
+    "gameId": "706065",
+    "date": "Sunday, July 28, 2024",
+    "team1": "Gazovik Orenburg",
+    "score": "0 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "Gazovik Orenburg VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706065/akhmat-grozny-gazovik-orenburg"
+  },
+  {
+    "gameId": "706068",
+    "date": "Sunday, July 28, 2024",
+    "team1": "Krasnodar",
+    "score": "0 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Krasnodar VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706068/dynamo-makhachkala-krasnodar"
+  },
+  {
+    "gameId": "706072",
+    "date": "Saturday, August 3, 2024",
+    "team1": "Akron Tolyatti",
+    "score": "0 - 2",
+    "team2": "Dinamo Moscow",
+    "title": "Akron Tolyatti VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706072/dinamo-moscow-akron-tolyatti"
+  },
+  {
+    "gameId": "706070",
+    "date": "Saturday, August 3, 2024",
+    "team1": "Zenit St Petersburg",
+    "score": "5 - 0",
+    "team2": "Rostov",
+    "title": "Zenit St Petersburg VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706070/rostov-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706074",
+    "date": "Saturday, August 3, 2024",
+    "team1": "Rubin Kazan",
+    "score": "2 - 3",
+    "team2": "FC Khimki",
+    "title": "Rubin Kazan VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706074/fc-khimki-rubin-kazan"
+  },
+  {
+    "gameId": "706076",
+    "date": "Sunday, August 4, 2024",
+    "team1": "CSKA Moscow",
+    "score": "5 - 1",
+    "team2": "Gazovik Orenburg",
+    "title": "CSKA Moscow VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706076/gazovik-orenburg-cska-moscow"
+  },
+  {
+    "gameId": "706075",
+    "date": "Sunday, August 4, 2024",
+    "team1": "Fakel Voronezh",
+    "score": "0 - 0",
+    "team2": "Krasnodar",
+    "title": "Fakel Voronezh VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706075/krasnodar-fakel-voronezh"
+  },
+  {
+    "gameId": "706071",
+    "date": "Sunday, August 4, 2024",
+    "team1": "Akhmat Grozny",
+    "score": "0 - 5",
+    "team2": "Lokomotiv Moscow",
+    "title": "Akhmat Grozny VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706071/lokomotiv-moscow-akhmat-grozny"
+  },
+  {
+    "gameId": "706069",
+    "date": "Sunday, August 4, 2024",
+    "team1": "Dynamo Makhachkala",
+    "score": "0 - 1",
+    "team2": "Nizhny Novgorod",
+    "title": "Dynamo Makhachkala VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706069/nizhny-novgorod-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706073",
+    "date": "Monday, August 5, 2024",
+    "team1": "Spartak Moscow",
+    "score": "3 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "Spartak Moscow VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706073/krylia-sovetov-spartak-moscow"
+  },
+  {
+    "gameId": "706081",
+    "date": "Friday, August 9, 2024",
+    "team1": "Nizhny Novgorod",
+    "score": "1 - 0",
+    "team2": "FC Khimki",
+    "title": "Nizhny Novgorod VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706081/fc-khimki-nizhny-novgorod"
+  },
+  {
+    "gameId": "706083",
+    "date": "Friday, August 9, 2024",
+    "team1": "Rostov",
+    "score": "1 - 1",
+    "team2": "Rubin Kazan",
+    "title": "Rostov VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706083/rubin-kazan-rostov"
+  },
+  {
+    "gameId": "706077",
+    "date": "Saturday, August 10, 2024",
+    "team1": "Lokomotiv Moscow",
+    "score": "2 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Lokomotiv Moscow VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706077/dynamo-makhachkala-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706082",
+    "date": "Saturday, August 10, 2024",
+    "team1": "Gazovik Orenburg",
+    "score": "2 - 2",
+    "team2": "Akron Tolyatti",
+    "title": "Gazovik Orenburg VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706082/akron-tolyatti-gazovik-orenburg"
+  },
+  {
+    "gameId": "706078",
+    "date": "Saturday, August 10, 2024",
+    "team1": "Zenit St Petersburg",
+    "score": "1 - 0",
+    "team2": "Dinamo Moscow",
+    "title": "Zenit St Petersburg VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706078/dinamo-moscow-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706079",
+    "date": "Saturday, August 10, 2024",
+    "team1": "Krasnodar",
+    "score": "2 - 1",
+    "team2": "CSKA Moscow",
+    "title": "Krasnodar VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706079/cska-moscow-krasnodar"
+  },
+  {
+    "gameId": "706080",
+    "date": "Sunday, August 11, 2024",
+    "team1": "Krylia Sovetov",
+    "score": "2 - 0",
+    "team2": "Fakel Voronezh",
+    "title": "Krylia Sovetov VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706080/fakel-voronezh-krylia-sovetov"
+  },
+  {
+    "gameId": "706084",
+    "date": "Sunday, August 11, 2024",
+    "team1": "Spartak Moscow",
+    "score": "0 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "Spartak Moscow VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706084/akhmat-grozny-spartak-moscow"
+  },
+  {
+    "gameId": "706087",
+    "date": "Saturday, August 17, 2024",
+    "team1": "Dinamo Moscow",
+    "score": "1 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "Dinamo Moscow VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706087/krylia-sovetov-dinamo-moscow"
+  },
+  {
+    "gameId": "706090",
+    "date": "Saturday, August 17, 2024",
+    "team1": "Rostov",
+    "score": "3 - 2",
+    "team2": "Gazovik Orenburg",
+    "title": "Rostov VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706090/gazovik-orenburg-rostov"
+  },
+  {
+    "gameId": "706085",
+    "date": "Sunday, August 18, 2024",
+    "team1": "FC Khimki",
+    "score": "1 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "FC Khimki VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706085/zenit-st-petersburg-fc-khimki"
+  },
+  {
+    "gameId": "706091",
+    "date": "Sunday, August 18, 2024",
+    "team1": "CSKA Moscow",
+    "score": "0 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "CSKA Moscow VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706091/lokomotiv-moscow-cska-moscow"
+  },
+  {
+    "gameId": "706263",
+    "date": "Sunday, August 18, 2024",
+    "team1": "Spartak Moscow",
+    "score": "3 - 0",
+    "team2": "Fakel Voronezh",
+    "title": "Spartak Moscow VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706263/fakel-voronezh-spartak-moscow"
+  },
+  {
+    "gameId": "706088",
+    "date": "Sunday, August 18, 2024",
+    "team1": "Krasnodar",
+    "score": "2 - 1",
+    "team2": "Nizhny Novgorod",
+    "title": "Krasnodar VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706088/nizhny-novgorod-krasnodar"
+  },
+  {
+    "gameId": "706092",
+    "date": "Monday, August 19, 2024",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 2",
+    "team2": "Rubin Kazan",
+    "title": "Akron Tolyatti VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706092/rubin-kazan-akron-tolyatti"
+  },
+  {
+    "gameId": "706086",
+    "date": "Monday, August 19, 2024",
+    "team1": "Dynamo Makhachkala",
+    "score": "1 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "Dynamo Makhachkala VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706086/akhmat-grozny-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706093",
+    "date": "Friday, August 23, 2024",
+    "team1": "Rubin Kazan",
+    "score": "2 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Rubin Kazan VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706093/dynamo-makhachkala-rubin-kazan"
+  },
+  {
+    "gameId": "706099",
+    "date": "Saturday, August 24, 2024",
+    "team1": "CSKA Moscow",
+    "score": "4 - 0",
+    "team2": "Akron Tolyatti",
+    "title": "CSKA Moscow VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706099/akron-tolyatti-cska-moscow"
+  },
+  {
+    "gameId": "706098",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Fakel Voronezh",
+    "score": "1 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "Fakel Voronezh VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706098/gazovik-orenburg-fakel-voronezh"
+  },
+  {
+    "gameId": "706094",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Zenit St Petersburg",
+    "score": "0 - 0",
+    "team2": "Spartak Moscow",
+    "title": "Zenit St Petersburg VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706094/spartak-moscow-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706095",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Akhmat Grozny",
+    "score": "3 - 3",
+    "team2": "FC Khimki",
+    "title": "Akhmat Grozny VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706095/fc-khimki-akhmat-grozny"
+  },
+  {
+    "gameId": "706097",
+    "date": "Sunday, August 25, 2024",
+    "team1": "Krylia Sovetov",
+    "score": "3 - 1",
+    "team2": "Nizhny Novgorod",
+    "title": "Krylia Sovetov VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706097/nizhny-novgorod-krylia-sovetov"
+  },
+  {
+    "gameId": "706100",
+    "date": "Sunday, August 25, 2024",
+    "team1": "Dinamo Moscow",
+    "score": "0 - 1",
+    "team2": "Krasnodar",
+    "title": "Dinamo Moscow VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706100/krasnodar-dinamo-moscow"
+  },
+  {
+    "gameId": "706096",
+    "date": "Sunday, August 25, 2024",
+    "team1": "Lokomotiv Moscow",
+    "score": "3 - 2",
+    "team2": "Rostov",
+    "title": "Lokomotiv Moscow VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706096/rostov-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706108",
+    "date": "Saturday, August 31, 2024",
+    "team1": "FC Khimki",
+    "score": "0 - 2",
+    "team2": "CSKA Moscow",
+    "title": "FC Khimki VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706108/cska-moscow-fc-khimki"
+  },
+  {
+    "gameId": "706106",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Nizhny Novgorod",
+    "score": "0 - 3",
+    "team2": "Zenit St Petersburg",
+    "title": "Nizhny Novgorod VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706106/zenit-st-petersburg-nizhny-novgorod"
+  },
+  {
+    "gameId": "706102",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Spartak Moscow",
+    "score": "1 - 0",
+    "team2": "Rubin Kazan",
+    "title": "Spartak Moscow VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706102/rubin-kazan-spartak-moscow"
+  },
+  {
+    "gameId": "706103",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Akhmat Grozny",
+    "score": "0 - 0",
+    "team2": "Akron Tolyatti",
+    "title": "Akhmat Grozny VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706103/akron-tolyatti-akhmat-grozny"
+  },
+  {
+    "gameId": "706105",
+    "date": "Sunday, September 1, 2024",
+    "team1": "Gazovik Orenburg",
+    "score": "2 - 2",
+    "team2": "Dinamo Moscow",
+    "title": "Gazovik Orenburg VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706105/dinamo-moscow-gazovik-orenburg"
+  },
+  {
+    "gameId": "706101",
+    "date": "Sunday, September 1, 2024",
+    "team1": "Krylia Sovetov",
+    "score": "0 - 1",
+    "team2": "Dynamo Makhachkala",
+    "title": "Krylia Sovetov VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706101/dynamo-makhachkala-krylia-sovetov"
+  },
+  {
+    "gameId": "706107",
+    "date": "Sunday, September 1, 2024",
+    "team1": "Lokomotiv Moscow",
+    "score": "0 - 3",
+    "team2": "Krasnodar",
+    "title": "Lokomotiv Moscow VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706107/krasnodar-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706104",
+    "date": "Sunday, September 1, 2024",
+    "team1": "Rostov",
+    "score": "4 - 1",
+    "team2": "Fakel Voronezh",
+    "title": "Rostov VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706104/fakel-voronezh-rostov"
+  },
+  {
+    "gameId": "706110",
+    "date": "Friday, September 13, 2024",
+    "team1": "Rubin Kazan",
+    "score": "0 - 2",
+    "team2": "Krylia Sovetov",
+    "title": "Rubin Kazan VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706110/krylia-sovetov-rubin-kazan"
+  },
+  {
+    "gameId": "706116",
+    "date": "Saturday, September 14, 2024",
+    "team1": "Gazovik Orenburg",
+    "score": "2 - 4",
+    "team2": "Lokomotiv Moscow",
+    "title": "Gazovik Orenburg VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706116/lokomotiv-moscow-gazovik-orenburg"
+  },
+  {
+    "gameId": "706115",
+    "date": "Saturday, September 14, 2024",
+    "team1": "Fakel Voronezh",
+    "score": "0 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "Fakel Voronezh VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706115/nizhny-novgorod-fakel-voronezh"
+  },
+  {
+    "gameId": "706112",
+    "date": "Saturday, September 14, 2024",
+    "team1": "CSKA Moscow",
+    "score": "0 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "CSKA Moscow VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706112/zenit-st-petersburg-cska-moscow"
+  },
+  {
+    "gameId": "706114",
+    "date": "Saturday, September 14, 2024",
+    "team1": "Krasnodar",
+    "score": "2 - 0",
+    "team2": "Rostov",
+    "title": "Krasnodar VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706114/rostov-krasnodar"
+  },
+  {
+    "gameId": "706113",
+    "date": "Sunday, September 15, 2024",
+    "team1": "Dinamo Moscow",
+    "score": "4 - 2",
+    "team2": "Akhmat Grozny",
+    "title": "Dinamo Moscow VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706113/akhmat-grozny-dinamo-moscow"
+  },
+  {
+    "gameId": "706111",
+    "date": "Sunday, September 15, 2024",
+    "team1": "Akron Tolyatti",
+    "score": "3 - 0",
+    "team2": "FC Khimki",
+    "title": "Akron Tolyatti VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706111/fc-khimki-akron-tolyatti"
+  },
+  {
+    "gameId": "706109",
+    "date": "Sunday, September 15, 2024",
+    "team1": "Dynamo Makhachkala",
+    "score": "1 - 1",
+    "team2": "Spartak Moscow",
+    "title": "Dynamo Makhachkala VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706109/spartak-moscow-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706120",
+    "date": "Saturday, September 21, 2024",
+    "team1": "Akron Tolyatti",
+    "score": "2 - 5",
+    "team2": "Krasnodar",
+    "title": "Akron Tolyatti VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706120/krasnodar-akron-tolyatti"
+  },
+  {
+    "gameId": "706119",
+    "date": "Saturday, September 21, 2024",
+    "team1": "Zenit St Petersburg",
+    "score": "3 - 1",
+    "team2": "Fakel Voronezh",
+    "title": "Zenit St Petersburg VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706119/fakel-voronezh-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706117",
+    "date": "Saturday, September 21, 2024",
+    "team1": "Rubin Kazan",
+    "score": "1 - 1",
+    "team2": "CSKA Moscow",
+    "title": "Rubin Kazan VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706117/cska-moscow-rubin-kazan"
+  },
+  {
+    "gameId": "706123",
+    "date": "Sunday, September 22, 2024",
+    "team1": "FC Khimki",
+    "score": "0 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "FC Khimki VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706123/gazovik-orenburg-fc-khimki"
+  },
+  {
+    "gameId": "706124",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Rostov",
+    "score": "0 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Rostov VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706124/dynamo-makhachkala-rostov"
+  },
+  {
+    "gameId": "706118",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Spartak Moscow",
+    "score": "2 - 2",
+    "team2": "Dinamo Moscow",
+    "title": "Spartak Moscow VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706118/dinamo-moscow-spartak-moscow"
+  },
+  {
+    "gameId": "706122",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Nizhny Novgorod",
+    "score": "1 - 3",
+    "team2": "Lokomotiv Moscow",
+    "title": "Nizhny Novgorod VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706122/lokomotiv-moscow-nizhny-novgorod"
+  },
+  {
+    "gameId": "706121",
+    "date": "Monday, September 23, 2024",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 1",
+    "team2": "Krylia Sovetov",
+    "title": "Akhmat Grozny VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706121/krylia-sovetov-akhmat-grozny"
+  },
+  {
+    "gameId": "706126",
+    "date": "Friday, September 27, 2024",
+    "team1": "Gazovik Orenburg",
+    "score": "1 - 2",
+    "team2": "Nizhny Novgorod",
+    "title": "Gazovik Orenburg VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706126/nizhny-novgorod-gazovik-orenburg"
+  },
+  {
+    "gameId": "706129",
+    "date": "Friday, September 27, 2024",
+    "team1": "Fakel Voronezh",
+    "score": "0 - 0",
+    "team2": "Rubin Kazan",
+    "title": "Fakel Voronezh VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706129/rubin-kazan-fakel-voronezh"
+  },
+  {
+    "gameId": "706132",
+    "date": "Saturday, September 28, 2024",
+    "team1": "CSKA Moscow",
+    "score": "3 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "CSKA Moscow VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706132/akhmat-grozny-cska-moscow"
+  },
+  {
+    "gameId": "706127",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Lokomotiv Moscow",
+    "score": "3 - 1",
+    "team2": "Spartak Moscow",
+    "title": "Lokomotiv Moscow VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706127/spartak-moscow-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706130",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Krasnodar",
+    "score": "2 - 0",
+    "team2": "Zenit St Petersburg",
+    "title": "Krasnodar VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706130/zenit-st-petersburg-krasnodar"
+  },
+  {
+    "gameId": "706131",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Rostov",
+    "score": "0 - 2",
+    "team2": "Akron Tolyatti",
+    "title": "Rostov VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706131/akron-tolyatti-rostov"
+  },
+  {
+    "gameId": "706128",
+    "date": "Sunday, September 29, 2024",
+    "team1": "Krylia Sovetov",
+    "score": "0 - 0",
+    "team2": "FC Khimki",
+    "title": "Krylia Sovetov VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706128/fc-khimki-krylia-sovetov"
+  },
+  {
+    "gameId": "706125",
+    "date": "Sunday, September 29, 2024",
+    "team1": "Dynamo Makhachkala",
+    "score": "0 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Dynamo Makhachkala VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706125/dinamo-moscow-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706138",
+    "date": "Saturday, October 5, 2024",
+    "team1": "Akron Tolyatti",
+    "score": "2 - 2",
+    "team2": "Nizhny Novgorod",
+    "title": "Akron Tolyatti VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706138/nizhny-novgorod-akron-tolyatti"
+  },
+  {
+    "gameId": "706133",
+    "date": "Saturday, October 5, 2024",
+    "team1": "Zenit St Petersburg",
+    "score": "1 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "Zenit St Petersburg VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706133/gazovik-orenburg-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706135",
+    "date": "Saturday, October 5, 2024",
+    "team1": "Rubin Kazan",
+    "score": "2 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "Rubin Kazan VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706135/akhmat-grozny-rubin-kazan"
+  },
+  {
+    "gameId": "706134",
+    "date": "Saturday, October 5, 2024",
+    "team1": "Spartak Moscow",
+    "score": "3 - 0",
+    "team2": "Rostov",
+    "title": "Spartak Moscow VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706134/rostov-spartak-moscow"
+  },
+  {
+    "gameId": "706136",
+    "date": "Sunday, October 6, 2024",
+    "team1": "Fakel Voronezh",
+    "score": "1 - 1",
+    "team2": "Dynamo Makhachkala",
+    "title": "Fakel Voronezh VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706136/dynamo-makhachkala-fakel-voronezh"
+  },
+  {
+    "gameId": "706137",
+    "date": "Sunday, October 6, 2024",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "Lokomotiv Moscow VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706137/krylia-sovetov-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706139",
+    "date": "Sunday, October 6, 2024",
+    "team1": "Dinamo Moscow",
+    "score": "1 - 2",
+    "team2": "CSKA Moscow",
+    "title": "Dinamo Moscow VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706139/cska-moscow-dinamo-moscow"
+  },
+  {
+    "gameId": "706140",
+    "date": "Sunday, October 6, 2024",
+    "team1": "Krasnodar",
+    "score": "4 - 0",
+    "team2": "FC Khimki",
+    "title": "Krasnodar VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706140/fc-khimki-krasnodar"
+  },
+  {
+    "gameId": "706148",
+    "date": "Friday, October 18, 2024",
+    "team1": "Akron Tolyatti",
+    "score": "0 - 5",
+    "team2": "Zenit St Petersburg",
+    "title": "Akron Tolyatti VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706148/zenit-st-petersburg-akron-tolyatti"
+  },
+  {
+    "gameId": "706147",
+    "date": "Friday, October 18, 2024",
+    "team1": "Akhmat Grozny",
+    "score": "2 - 3",
+    "team2": "Fakel Voronezh",
+    "title": "Akhmat Grozny VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706147/fakel-voronezh-akhmat-grozny"
+  },
+  {
+    "gameId": "706142",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Nizhny Novgorod",
+    "score": "1 - 1",
+    "team2": "Rostov",
+    "title": "Nizhny Novgorod VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706142/rostov-nizhny-novgorod"
+  },
+  {
+    "gameId": "706146",
+    "date": "Saturday, October 19, 2024",
+    "team1": "FC Khimki",
+    "score": "2 - 0",
+    "team2": "Lokomotiv Moscow",
+    "title": "FC Khimki VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706146/lokomotiv-moscow-fc-khimki"
+  },
+  {
+    "gameId": "706145",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Spartak Moscow",
+    "score": "0 - 3",
+    "team2": "Krasnodar",
+    "title": "Spartak Moscow VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706145/krasnodar-spartak-moscow"
+  },
+  {
+    "gameId": "706141",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Dynamo Makhachkala",
+    "score": "0 - 1",
+    "team2": "CSKA Moscow",
+    "title": "Dynamo Makhachkala VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706141/cska-moscow-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706143",
+    "date": "Sunday, October 20, 2024",
+    "team1": "Gazovik Orenburg",
+    "score": "2 - 2",
+    "team2": "Krylia Sovetov",
+    "title": "Gazovik Orenburg VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706143/krylia-sovetov-gazovik-orenburg"
+  },
+  {
+    "gameId": "706144",
+    "date": "Sunday, October 20, 2024",
+    "team1": "Rubin Kazan",
+    "score": "0 - 4",
+    "team2": "Dinamo Moscow",
+    "title": "Rubin Kazan VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706144/dinamo-moscow-rubin-kazan"
+  },
+  {
+    "gameId": "706152",
+    "date": "Saturday, October 26, 2024",
+    "team1": "Dynamo Makhachkala",
+    "score": "1 - 1",
+    "team2": "Akron Tolyatti",
+    "title": "Dynamo Makhachkala VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706152/akron-tolyatti-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706149",
+    "date": "Saturday, October 26, 2024",
+    "team1": "CSKA Moscow",
+    "score": "0 - 0",
+    "team2": "Fakel Voronezh",
+    "title": "CSKA Moscow VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706149/fakel-voronezh-cska-moscow"
+  },
+  {
+    "gameId": "706150",
+    "date": "Saturday, October 26, 2024",
+    "team1": "Rostov",
+    "score": "2 - 3",
+    "team2": "Akhmat Grozny",
+    "title": "Rostov VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706150/akhmat-grozny-rostov"
+  },
+  {
+    "gameId": "706156",
+    "date": "Sunday, October 27, 2024",
+    "team1": "Gazovik Orenburg",
+    "score": "1 - 2",
+    "team2": "Rubin Kazan",
+    "title": "Gazovik Orenburg VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706156/rubin-kazan-gazovik-orenburg"
+  },
+  {
+    "gameId": "706155",
+    "date": "Sunday, October 27, 2024",
+    "team1": "Nizhny Novgorod",
+    "score": "0 - 2",
+    "team2": "Spartak Moscow",
+    "title": "Nizhny Novgorod VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706155/spartak-moscow-nizhny-novgorod"
+  },
+  {
+    "gameId": "706151",
+    "date": "Sunday, October 27, 2024",
+    "team1": "FC Khimki",
+    "score": "3 - 4",
+    "team2": "Dinamo Moscow",
+    "title": "FC Khimki VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706151/dinamo-moscow-fc-khimki"
+  },
+  {
+    "gameId": "706153",
+    "date": "Sunday, October 27, 2024",
+    "team1": "Zenit St Petersburg",
+    "score": "1 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "Zenit St Petersburg VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706153/lokomotiv-moscow-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706154",
+    "date": "Monday, October 28, 2024",
+    "team1": "Krylia Sovetov",
+    "score": "1 - 2",
+    "team2": "Krasnodar",
+    "title": "Krylia Sovetov VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706154/krasnodar-krylia-sovetov"
+  },
+  {
+    "gameId": "706160",
+    "date": "Friday, November 1, 2024",
+    "team1": "Dinamo Moscow",
+    "score": "1 - 1",
+    "team2": "Rostov",
+    "title": "Dinamo Moscow VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706160/rostov-dinamo-moscow"
+  },
+  {
+    "gameId": "706158",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 0",
+    "team2": "Rubin Kazan",
+    "title": "Lokomotiv Moscow VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706158/rubin-kazan-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706157",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Zenit St Petersburg",
+    "score": "2 - 1",
+    "team2": "Dynamo Makhachkala",
+    "title": "Zenit St Petersburg VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706157/dynamo-makhachkala-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706159",
+    "date": "Saturday, November 2, 2024",
+    "team1": "CSKA Moscow",
+    "score": "0 - 2",
+    "team2": "Spartak Moscow",
+    "title": "CSKA Moscow VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706159/spartak-moscow-cska-moscow"
+  },
+  {
+    "gameId": "706163",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Akron Tolyatti",
+    "score": "2 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "Akron Tolyatti VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706163/krylia-sovetov-akron-tolyatti"
+  },
+  {
+    "gameId": "706164",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Akhmat Grozny",
+    "score": "0 - 2",
+    "team2": "Nizhny Novgorod",
+    "title": "Akhmat Grozny VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706164/nizhny-novgorod-akhmat-grozny"
+  },
+  {
+    "gameId": "706162",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Fakel Voronezh",
+    "score": "1 - 1",
+    "team2": "FC Khimki",
+    "title": "Fakel Voronezh VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706162/fc-khimki-fakel-voronezh"
+  },
+  {
+    "gameId": "706161",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Krasnodar",
+    "score": "4 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "Krasnodar VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706161/gazovik-orenburg-krasnodar"
+  },
+  {
+    "gameId": "706169",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Lokomotiv Moscow",
+    "score": "2 - 1",
+    "team2": "Fakel Voronezh",
+    "title": "Lokomotiv Moscow VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706169/fakel-voronezh-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706165",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Dynamo Makhachkala",
+    "score": "2 - 1",
+    "team2": "Gazovik Orenburg",
+    "title": "Dynamo Makhachkala VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706165/gazovik-orenburg-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706170",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Rostov",
+    "score": "3 - 1",
+    "team2": "FC Khimki",
+    "title": "Rostov VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706170/fc-khimki-rostov"
+  },
+  {
+    "gameId": "706167",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Dinamo Moscow",
+    "score": "3 - 1",
+    "team2": "Nizhny Novgorod",
+    "title": "Dinamo Moscow VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706167/nizhny-novgorod-dinamo-moscow"
+  },
+  {
+    "gameId": "706168",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Krylia Sovetov",
+    "score": "1 - 2",
+    "team2": "CSKA Moscow",
+    "title": "Krylia Sovetov VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706168/cska-moscow-krylia-sovetov"
+  },
+  {
+    "gameId": "706166",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Spartak Moscow",
+    "score": "4 - 0",
+    "team2": "Akron Tolyatti",
+    "title": "Spartak Moscow VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706166/akron-tolyatti-spartak-moscow"
+  },
+  {
+    "gameId": "706172",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 2",
+    "team2": "Zenit St Petersburg",
+    "title": "Akhmat Grozny VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706172/zenit-st-petersburg-akhmat-grozny"
+  },
+  {
+    "gameId": "706171",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Rubin Kazan",
+    "score": "1 - 1",
+    "team2": "Krasnodar",
+    "title": "Rubin Kazan VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706171/krasnodar-rubin-kazan"
+  },
+  {
+    "gameId": "706177",
+    "date": "Friday, November 22, 2024",
+    "team1": "Rubin Kazan",
+    "score": "3 - 0",
+    "team2": "Akron Tolyatti",
+    "title": "Rubin Kazan VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706177/akron-tolyatti-rubin-kazan"
+  },
+  {
+    "gameId": "706179",
+    "date": "Saturday, November 23, 2024",
+    "team1": "Gazovik Orenburg",
+    "score": "0 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "Gazovik Orenburg VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706179/zenit-st-petersburg-gazovik-orenburg"
+  },
+  {
+    "gameId": "706173",
+    "date": "Saturday, November 23, 2024",
+    "team1": "CSKA Moscow",
+    "score": "1 - 2",
+    "team2": "Rostov",
+    "title": "CSKA Moscow VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706173/rostov-cska-moscow"
+  },
+  {
+    "gameId": "706176",
+    "date": "Saturday, November 23, 2024",
+    "team1": "FC Khimki",
+    "score": "2 - 2",
+    "team2": "Krasnodar",
+    "title": "FC Khimki VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706176/krasnodar-fc-khimki"
+  },
+  {
+    "gameId": "706178",
+    "date": "Saturday, November 23, 2024",
+    "team1": "Spartak Moscow",
+    "score": "5 - 2",
+    "team2": "Lokomotiv Moscow",
+    "title": "Spartak Moscow VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706178/lokomotiv-moscow-spartak-moscow"
+  },
+  {
+    "gameId": "706174",
+    "date": "Sunday, November 24, 2024",
+    "team1": "Krylia Sovetov",
+    "score": "2 - 1",
+    "team2": "Akhmat Grozny",
+    "title": "Krylia Sovetov VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706174/akhmat-grozny-krylia-sovetov"
+  },
+  {
+    "gameId": "706175",
+    "date": "Sunday, November 24, 2024",
+    "team1": "Fakel Voronezh",
+    "score": "1 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Fakel Voronezh VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706175/dinamo-moscow-fakel-voronezh"
+  },
+  {
+    "gameId": "706180",
+    "date": "Sunday, November 24, 2024",
+    "team1": "Nizhny Novgorod",
+    "score": "0 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Nizhny Novgorod VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706180/dynamo-makhachkala-nizhny-novgorod"
+  },
+  {
+    "gameId": "706187",
+    "date": "Saturday, November 30, 2024",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "Akron Tolyatti VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706187/gazovik-orenburg-akron-tolyatti"
+  },
+  {
+    "gameId": "706182",
+    "date": "Saturday, November 30, 2024",
+    "team1": "CSKA Moscow",
+    "score": "2 - 2",
+    "team2": "Rubin Kazan",
+    "title": "CSKA Moscow VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706182/rubin-kazan-cska-moscow"
+  },
+  {
+    "gameId": "706185",
+    "date": "Saturday, November 30, 2024",
+    "team1": "Rostov",
+    "score": "4 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "Rostov VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706185/nizhny-novgorod-rostov"
+  },
+  {
+    "gameId": "706184",
+    "date": "Sunday, December 1, 2024",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 3",
+    "team2": "FC Khimki",
+    "title": "Lokomotiv Moscow VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706184/fc-khimki-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706186",
+    "date": "Sunday, December 1, 2024",
+    "team1": "Zenit St Petersburg",
+    "score": "2 - 3",
+    "team2": "Krylia Sovetov",
+    "title": "Zenit St Petersburg VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706186/krylia-sovetov-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706181",
+    "date": "Sunday, December 1, 2024",
+    "team1": "Dynamo Makhachkala",
+    "score": "0 - 0",
+    "team2": "Fakel Voronezh",
+    "title": "Dynamo Makhachkala VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706181/fakel-voronezh-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706183",
+    "date": "Sunday, December 1, 2024",
+    "team1": "Krasnodar",
+    "score": "0 - 3",
+    "team2": "Spartak Moscow",
+    "title": "Krasnodar VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706183/spartak-moscow-krasnodar"
+  },
+  {
+    "gameId": "706188",
+    "date": "Monday, December 2, 2024",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Akhmat Grozny VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706188/dinamo-moscow-akhmat-grozny"
+  },
+  {
+    "gameId": "706192",
+    "date": "Saturday, December 7, 2024",
+    "team1": "Spartak Moscow",
+    "score": "3 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "Spartak Moscow VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706192/nizhny-novgorod-spartak-moscow"
+  },
+  {
+    "gameId": "706189",
+    "date": "Saturday, December 7, 2024",
+    "team1": "Rostov",
+    "score": "3 - 1",
+    "team2": "Krylia Sovetov",
+    "title": "Rostov VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706189/krylia-sovetov-rostov"
+  },
+  {
+    "gameId": "706193",
+    "date": "Saturday, December 7, 2024",
+    "team1": "Zenit St Petersburg",
+    "score": "1 - 2",
+    "team2": "Akron Tolyatti",
+    "title": "Zenit St Petersburg VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706193/akron-tolyatti-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706194",
+    "date": "Saturday, December 7, 2024",
+    "team1": "Dynamo Makhachkala",
+    "score": "2 - 3",
+    "team2": "Rubin Kazan",
+    "title": "Dynamo Makhachkala VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706194/rubin-kazan-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706196",
+    "date": "Sunday, December 8, 2024",
+    "team1": "Dinamo Moscow",
+    "score": "4 - 1",
+    "team2": "FC Khimki",
+    "title": "Dinamo Moscow VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706196/fc-khimki-dinamo-moscow"
+  },
+  {
+    "gameId": "706190",
+    "date": "Sunday, December 8, 2024",
+    "team1": "Fakel Voronezh",
+    "score": "0 - 1",
+    "team2": "CSKA Moscow",
+    "title": "Fakel Voronezh VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706190/cska-moscow-fakel-voronezh"
+  },
+  {
+    "gameId": "706191",
+    "date": "Sunday, December 8, 2024",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "Akhmat Grozny VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706191/gazovik-orenburg-akhmat-grozny"
+  },
+  {
+    "gameId": "706195",
+    "date": "Sunday, December 8, 2024",
+    "team1": "Krasnodar",
+    "score": "0 - 0",
+    "team2": "Lokomotiv Moscow",
+    "title": "Krasnodar VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706195/lokomotiv-moscow-krasnodar"
+  },
+  {
+    "gameId": "706200",
+    "date": "Friday, February 28, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "1 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "Dynamo Makhachkala VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706200/lokomotiv-moscow-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706204",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "2 - 1",
+    "team2": "Akron Tolyatti",
+    "title": "Nizhny Novgorod VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706204/akron-tolyatti-nizhny-novgorod"
+  },
+  {
+    "gameId": "706203",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "0 - 0",
+    "team2": "CSKA Moscow",
+    "title": "Zenit St Petersburg VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706203/cska-moscow-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706197",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "2 - 1",
+    "team2": "Rubin Kazan",
+    "title": "Akhmat Grozny VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706197/rubin-kazan-akhmat-grozny"
+  },
+  {
+    "gameId": "706199",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Krasnodar",
+    "score": "1 - 1",
+    "team2": "Krylia Sovetov",
+    "title": "Krasnodar VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706199/krylia-sovetov-krasnodar"
+  },
+  {
+    "gameId": "706198",
+    "date": "Sunday, March 2, 2025",
+    "team1": "FC Khimki",
+    "score": "1 - 0",
+    "team2": "Fakel Voronezh",
+    "title": "FC Khimki VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706198/fakel-voronezh-fc-khimki"
+  },
+  {
+    "gameId": "706202",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Spartak Moscow",
+    "score": "2 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "Spartak Moscow VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706202/gazovik-orenburg-spartak-moscow"
+  },
+  {
+    "gameId": "706201",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Rostov",
+    "score": "1 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Rostov VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706201/dinamo-moscow-rostov"
+  },
+  {
+    "gameId": "706210",
+    "date": "Friday, March 7, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "0 - 3",
+    "team2": "Krasnodar",
+    "title": "Nizhny Novgorod VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706210/krasnodar-nizhny-novgorod"
+  },
+  {
+    "gameId": "706211",
+    "date": "Friday, March 7, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 1",
+    "team2": "Akhmat Grozny",
+    "title": "Lokomotiv Moscow VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706211/akhmat-grozny-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706209",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "1 - 2",
+    "team2": "Rostov",
+    "title": "Gazovik Orenburg VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706209/rostov-gazovik-orenburg"
+  },
+  {
+    "gameId": "706205",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Fakel Voronezh",
+    "score": "0 - 2",
+    "team2": "Zenit St Petersburg",
+    "title": "Fakel Voronezh VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706205/zenit-st-petersburg-fakel-voronezh"
+  },
+  {
+    "gameId": "706206",
+    "date": "Saturday, March 8, 2025",
+    "team1": "CSKA Moscow",
+    "score": "1 - 0",
+    "team2": "FC Khimki",
+    "title": "CSKA Moscow VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706206/fc-khimki-cska-moscow"
+  },
+  {
+    "gameId": "706212",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "4 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Dinamo Moscow VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706212/dynamo-makhachkala-dinamo-moscow"
+  },
+  {
+    "gameId": "706207",
+    "date": "Sunday, March 9, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "0 - 2",
+    "team2": "Akron Tolyatti",
+    "title": "Krylia Sovetov VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706207/akron-tolyatti-krylia-sovetov"
+  },
+  {
+    "gameId": "706208",
+    "date": "Sunday, March 9, 2025",
+    "team1": "Rubin Kazan",
+    "score": "2 - 1",
+    "team2": "Spartak Moscow",
+    "title": "Rubin Kazan VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706208/spartak-moscow-rubin-kazan"
+  },
+  {
+    "gameId": "706218",
+    "date": "Saturday, March 15, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "1 - 0",
+    "team2": "Fakel Voronezh",
+    "title": "Gazovik Orenburg VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706218/fakel-voronezh-gazovik-orenburg"
+  },
+  {
+    "gameId": "706214",
+    "date": "Saturday, March 15, 2025",
+    "team1": "FC Khimki",
+    "score": "1 - 1",
+    "team2": "Akhmat Grozny",
+    "title": "FC Khimki VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706214/akhmat-grozny-fc-khimki"
+  },
+  {
+    "gameId": "706215",
+    "date": "Saturday, March 15, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "4 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "Dynamo Makhachkala VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706215/krylia-sovetov-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706217",
+    "date": "Saturday, March 15, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "2 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Lokomotiv Moscow VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706217/dinamo-moscow-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706213",
+    "date": "Sunday, March 16, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 2",
+    "team2": "CSKA Moscow",
+    "title": "Akron Tolyatti VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706213/cska-moscow-akron-tolyatti"
+  },
+  {
+    "gameId": "706220",
+    "date": "Sunday, March 16, 2025",
+    "team1": "Rubin Kazan",
+    "score": "1 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "Rubin Kazan VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706220/nizhny-novgorod-rubin-kazan"
+  },
+  {
+    "gameId": "706219",
+    "date": "Sunday, March 16, 2025",
+    "team1": "Rostov",
+    "score": "0 - 1",
+    "team2": "Krasnodar",
+    "title": "Rostov VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706219/krasnodar-rostov"
+  },
+  {
+    "gameId": "706216",
+    "date": "Sunday, March 16, 2025",
+    "team1": "Spartak Moscow",
+    "score": "2 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "Spartak Moscow VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706216/zenit-st-petersburg-spartak-moscow"
+  },
+  {
+    "gameId": "706225",
+    "date": "Friday, March 28, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "5 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "Krylia Sovetov VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706225/lokomotiv-moscow-krylia-sovetov"
+  },
+  {
+    "gameId": "706227",
+    "date": "Saturday, March 29, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "5 - 1",
+    "team2": "Gazovik Orenburg",
+    "title": "Dinamo Moscow VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706227/gazovik-orenburg-dinamo-moscow"
+  },
+  {
+    "gameId": "706223",
+    "date": "Saturday, March 29, 2025",
+    "team1": "FC Khimki",
+    "score": "2 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "FC Khimki VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706223/nizhny-novgorod-fc-khimki"
+  },
+  {
+    "gameId": "706228",
+    "date": "Saturday, March 29, 2025",
+    "team1": "CSKA Moscow",
+    "score": "2 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "CSKA Moscow VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706228/dynamo-makhachkala-cska-moscow"
+  },
+  {
+    "gameId": "706224",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Krasnodar",
+    "score": "5 - 0",
+    "team2": "Fakel Voronezh",
+    "title": "Krasnodar VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706224/fakel-voronezh-krasnodar"
+  },
+  {
+    "gameId": "706221",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "0 - 0",
+    "team2": "Spartak Moscow",
+    "title": "Akhmat Grozny VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706221/spartak-moscow-akhmat-grozny"
+  },
+  {
+    "gameId": "706226",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "4 - 0",
+    "team2": "Rubin Kazan",
+    "title": "Zenit St Petersburg VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706226/rubin-kazan-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706222",
+    "date": "Monday, March 31, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "2 - 3",
+    "team2": "Rostov",
+    "title": "Akron Tolyatti VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706222/rostov-akron-tolyatti"
+  },
+  {
+    "gameId": "706235",
+    "date": "Friday, April 4, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "1 - 2",
+    "team2": "Gazovik Orenburg",
+    "title": "Nizhny Novgorod VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706235/gazovik-orenburg-nizhny-novgorod"
+  },
+  {
+    "gameId": "706233",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "1 - 1",
+    "team2": "Rubin Kazan",
+    "title": "Krylia Sovetov VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706233/rubin-kazan-krylia-sovetov"
+  },
+  {
+    "gameId": "706232",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Fakel Voronezh",
+    "score": "0 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "Fakel Voronezh VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706232/akhmat-grozny-fakel-voronezh"
+  },
+  {
+    "gameId": "706234",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "Lokomotiv Moscow VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706234/zenit-st-petersburg-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706230",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Krasnodar",
+    "score": "1 - 0",
+    "team2": "Akron Tolyatti",
+    "title": "Krasnodar VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706230/akron-tolyatti-krasnodar"
+  },
+  {
+    "gameId": "706231",
+    "date": "Sunday, April 6, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "4 - 1",
+    "team2": "FC Khimki",
+    "title": "Dynamo Makhachkala VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706231/fc-khimki-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706229",
+    "date": "Sunday, April 6, 2025",
+    "team1": "Rostov",
+    "score": "0 - 3",
+    "team2": "Spartak Moscow",
+    "title": "Rostov VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706229/spartak-moscow-rostov"
+  },
+  {
+    "gameId": "706236",
+    "date": "Sunday, April 6, 2025",
+    "team1": "CSKA Moscow",
+    "score": "3 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "CSKA Moscow VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706236/dinamo-moscow-cska-moscow"
+  },
+  {
+    "gameId": "706238",
+    "date": "Friday, April 11, 2025",
+    "team1": "Spartak Moscow",
+    "score": "1 - 2",
+    "team2": "Dynamo Makhachkala",
+    "title": "Spartak Moscow VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706238/dynamo-makhachkala-spartak-moscow"
+  },
+  {
+    "gameId": "706243",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "0 - 2",
+    "team2": "CSKA Moscow",
+    "title": "Gazovik Orenburg VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706243/cska-moscow-gazovik-orenburg"
+  },
+  {
+    "gameId": "706240",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "1 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Nizhny Novgorod VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706240/dinamo-moscow-nizhny-novgorod"
+  },
+  {
+    "gameId": "706242",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Rubin Kazan",
+    "score": "1 - 0",
+    "team2": "Lokomotiv Moscow",
+    "title": "Rubin Kazan VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706242/lokomotiv-moscow-rubin-kazan"
+  },
+  {
+    "gameId": "706239",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "2 - 1",
+    "team2": "Rostov",
+    "title": "Akhmat Grozny VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706239/rostov-akhmat-grozny"
+  },
+  {
+    "gameId": "706237",
+    "date": "Sunday, April 13, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 0",
+    "team2": "Fakel Voronezh",
+    "title": "Akron Tolyatti VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706237/fakel-voronezh-akron-tolyatti"
+  },
+  {
+    "gameId": "706241",
+    "date": "Sunday, April 13, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "4 - 1",
+    "team2": "Krasnodar",
+    "title": "Zenit St Petersburg VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706241/krasnodar-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706244",
+    "date": "Sunday, April 13, 2025",
+    "team1": "FC Khimki",
+    "score": "1 - 3",
+    "team2": "Krylia Sovetov",
+    "title": "FC Khimki VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706244/krylia-sovetov-fc-khimki"
+  },
+  {
+    "gameId": "706252",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "2 - 1",
+    "team2": "Dynamo Makhachkala",
+    "title": "Gazovik Orenburg VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706252/dynamo-makhachkala-gazovik-orenburg"
+  },
+  {
+    "gameId": "706250",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "2 - 3",
+    "team2": "Spartak Moscow",
+    "title": "Akron Tolyatti VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706250/spartak-moscow-akron-tolyatti"
+  },
+  {
+    "gameId": "706246",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "3 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "Lokomotiv Moscow VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706246/nizhny-novgorod-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706248",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Krasnodar",
+    "score": "3 - 1",
+    "team2": "Akhmat Grozny",
+    "title": "Krasnodar VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706248/akhmat-grozny-krasnodar"
+  },
+  {
+    "gameId": "706249",
+    "date": "Sunday, April 20, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "3 - 1",
+    "team2": "Rubin Kazan",
+    "title": "Dinamo Moscow VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706249/rubin-kazan-dinamo-moscow"
+  },
+  {
+    "gameId": "706247",
+    "date": "Sunday, April 20, 2025",
+    "team1": "Fakel Voronezh",
+    "score": "0 - 2",
+    "team2": "Rostov",
+    "title": "Fakel Voronezh VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706247/rostov-fakel-voronezh"
+  },
+  {
+    "gameId": "706245",
+    "date": "Sunday, April 20, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "1 - 0",
+    "team2": "FC Khimki",
+    "title": "Zenit St Petersburg VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706245/fc-khimki-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706251",
+    "date": "Sunday, April 20, 2025",
+    "team1": "CSKA Moscow",
+    "score": "1 - 1",
+    "team2": "Krylia Sovetov",
+    "title": "CSKA Moscow VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706251/krylia-sovetov-cska-moscow"
+  },
+  {
+    "gameId": "706258",
+    "date": "Friday, April 25, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "2 - 3",
+    "team2": "Krasnodar",
+    "title": "Dynamo Makhachkala VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706258/krasnodar-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706257",
+    "date": "Saturday, April 26, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "1 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "Dinamo Moscow VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706257/zenit-st-petersburg-dinamo-moscow"
+  },
+  {
+    "gameId": "706254",
+    "date": "Saturday, April 26, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "1 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "Nizhny Novgorod VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706254/akhmat-grozny-nizhny-novgorod"
+  },
+  {
+    "gameId": "706253",
+    "date": "Saturday, April 26, 2025",
+    "team1": "Rostov",
+    "score": "1 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "Rostov VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706253/lokomotiv-moscow-rostov"
+  },
+  {
+    "gameId": "706260",
+    "date": "Saturday, April 26, 2025",
+    "team1": "Spartak Moscow",
+    "score": "1 - 2",
+    "team2": "CSKA Moscow",
+    "title": "Spartak Moscow VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706260/cska-moscow-spartak-moscow"
+  },
+  {
+    "gameId": "706255",
+    "date": "Sunday, April 27, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "2 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "Krylia Sovetov VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706255/gazovik-orenburg-krylia-sovetov"
+  },
+  {
+    "gameId": "706256",
+    "date": "Sunday, April 27, 2025",
+    "team1": "FC Khimki",
+    "score": "2 - 2",
+    "team2": "Akron Tolyatti",
+    "title": "FC Khimki VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706256/akron-tolyatti-fc-khimki"
+  },
+  {
+    "gameId": "706259",
+    "date": "Sunday, April 27, 2025",
+    "team1": "Rubin Kazan",
+    "score": "2 - 1",
+    "team2": "Fakel Voronezh",
+    "title": "Rubin Kazan VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706259/fakel-voronezh-rubin-kazan"
+  },
+  {
+    "gameId": "706261",
+    "date": "Friday, May 2, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Akron Tolyatti VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706261/dynamo-makhachkala-akron-tolyatti"
+  },
+  {
+    "gameId": "706265",
+    "date": "Saturday, May 3, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 1",
+    "team2": "Gazovik Orenburg",
+    "title": "Lokomotiv Moscow VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706265/gazovik-orenburg-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706267",
+    "date": "Saturday, May 3, 2025",
+    "team1": "Krasnodar",
+    "score": "2 - 1",
+    "team2": "Rubin Kazan",
+    "title": "Krasnodar VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706267/rubin-kazan-krasnodar"
+  },
+  {
+    "gameId": "706089",
+    "date": "Sunday, May 4, 2025",
+    "team1": "Fakel Voronezh",
+    "score": "0 - 0",
+    "team2": "Spartak Moscow",
+    "title": "Fakel Voronezh VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706089/spartak-moscow-fakel-voronezh"
+  },
+  {
+    "gameId": "706262",
+    "date": "Sunday, May 4, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 1",
+    "team2": "CSKA Moscow",
+    "title": "Akhmat Grozny VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706262/cska-moscow-akhmat-grozny"
+  },
+  {
+    "gameId": "706268",
+    "date": "Sunday, May 4, 2025",
+    "team1": "FC Khimki",
+    "score": "1 - 1",
+    "team2": "Rostov",
+    "title": "FC Khimki VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706268/rostov-fc-khimki"
+  },
+  {
+    "gameId": "706264",
+    "date": "Sunday, May 4, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "2 - 1",
+    "team2": "Nizhny Novgorod",
+    "title": "Zenit St Petersburg VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706264/nizhny-novgorod-zenit-st-petersburg"
+  },
+  {
+    "gameId": "706266",
+    "date": "Monday, May 5, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "1 - 3",
+    "team2": "Dinamo Moscow",
+    "title": "Krylia Sovetov VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706266/dinamo-moscow-krylia-sovetov"
+  },
+  {
+    "gameId": "706270",
+    "date": "Saturday, May 10, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "1 - 1",
+    "team2": "FC Khimki",
+    "title": "Gazovik Orenburg VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706270/fc-khimki-gazovik-orenburg"
+  },
+  {
+    "gameId": "706276",
+    "date": "Saturday, May 10, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "0 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "Dynamo Makhachkala VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706276/zenit-st-petersburg-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706273",
+    "date": "Saturday, May 10, 2025",
+    "team1": "CSKA Moscow",
+    "score": "1 - 0",
+    "team2": "Krasnodar",
+    "title": "CSKA Moscow VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706273/krasnodar-cska-moscow"
+  },
+  {
+    "gameId": "706272",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "3 - 2",
+    "team2": "Akhmat Grozny",
+    "title": "Akron Tolyatti VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706272/akhmat-grozny-akron-tolyatti"
+  },
+  {
+    "gameId": "706275",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Fakel Voronezh",
+    "score": "0 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "Fakel Voronezh VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706275/lokomotiv-moscow-fakel-voronezh"
+  },
+  {
+    "gameId": "706274",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "2 - 0",
+    "team2": "Spartak Moscow",
+    "title": "Dinamo Moscow VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706274/spartak-moscow-dinamo-moscow"
+  },
+  {
+    "gameId": "706271",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Rubin Kazan",
+    "score": "1 - 0",
+    "team2": "Rostov",
+    "title": "Rubin Kazan VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706271/rostov-rubin-kazan"
+  },
+  {
+    "gameId": "706269",
+    "date": "Monday, May 12, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "5 - 2",
+    "team2": "Krylia Sovetov",
+    "title": "Nizhny Novgorod VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706269/krylia-sovetov-nizhny-novgorod"
+  },
+  {
+    "gameId": "706281",
+    "date": "Saturday, May 17, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "1 - 2",
+    "team2": "Krasnodar",
+    "title": "Gazovik Orenburg VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706281/krasnodar-gazovik-orenburg"
+  },
+  {
+    "gameId": "706277",
+    "date": "Saturday, May 17, 2025",
+    "team1": "FC Khimki",
+    "score": "3 - 2",
+    "team2": "Rubin Kazan",
+    "title": "FC Khimki VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706277/rubin-kazan-fc-khimki"
+  },
+  {
+    "gameId": "706280",
+    "date": "Saturday, May 17, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "1 - 1",
+    "team2": "Fakel Voronezh",
+    "title": "Nizhny Novgorod VS Fakel Voronezh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706280/fakel-voronezh-nizhny-novgorod"
+  },
+  {
+    "gameId": "706278",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "0 - 2",
+    "team2": "Spartak Moscow",
+    "title": "Krylia Sovetov VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706278/spartak-moscow-krylia-sovetov"
+  },
+  {
+    "gameId": "706284",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 1",
+    "team2": "Dynamo Makhachkala",
+    "title": "Akhmat Grozny VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706284/dynamo-makhachkala-akhmat-grozny"
+  },
+  {
+    "gameId": "706282",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "2 - 1",
+    "team2": "Akron Tolyatti",
+    "title": "Dinamo Moscow VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706282/akron-tolyatti-dinamo-moscow"
+  },
+  {
+    "gameId": "706283",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Rostov",
+    "score": "0 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "Rostov VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706283/zenit-st-petersburg-rostov"
+  },
+  {
+    "gameId": "706279",
+    "date": "Monday, May 19, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "2 - 2",
+    "team2": "CSKA Moscow",
+    "title": "Lokomotiv Moscow VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706279/cska-moscow-lokomotiv-moscow"
+  },
+  {
+    "gameId": "706289",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 4",
+    "team2": "Lokomotiv Moscow",
+    "title": "Akron Tolyatti VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706289/lokomotiv-moscow-akron-tolyatti"
+  },
+  {
+    "gameId": "706287",
+    "date": "Saturday, May 24, 2025",
+    "team1": "CSKA Moscow",
+    "score": "2 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "CSKA Moscow VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706287/nizhny-novgorod-cska-moscow"
+  },
+  {
+    "gameId": "706290",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "1 - 1",
+    "team2": "Rostov",
+    "title": "Dynamo Makhachkala VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706290/rostov-dynamo-makhachkala"
+  },
+  {
+    "gameId": "706285",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Fakel Voronezh",
+    "score": "1 - 1",
+    "team2": "Krylia Sovetov",
+    "title": "Fakel Voronezh VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706285/krylia-sovetov-fakel-voronezh"
+  },
+  {
+    "gameId": "706286",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Krasnodar",
+    "score": "3 - 0",
+    "team2": "Dinamo Moscow",
+    "title": "Krasnodar VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706286/dinamo-moscow-krasnodar"
+  },
+  {
+    "gameId": "706291",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Rubin Kazan",
+    "score": "4 - 2",
+    "team2": "Gazovik Orenburg",
+    "title": "Rubin Kazan VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706291/gazovik-orenburg-rubin-kazan"
+  },
+  {
+    "gameId": "706292",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Spartak Moscow",
+    "score": "5 - 0",
+    "team2": "FC Khimki",
+    "title": "Spartak Moscow VS FC Khimki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706292/fc-khimki-spartak-moscow"
+  },
+  {
+    "gameId": "706288",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "3 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "Zenit St Petersburg VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/706288/akhmat-grozny-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743500",
+    "date": "Friday, July 18, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "1 - 1",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "Dinamo Moscow VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743500/fc-baltika-kaliningrad-dinamo-moscow"
+  },
+  {
+    "gameId": "743499",
+    "date": "Saturday, July 19, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 1",
+    "team2": "Krylia Sovetov",
+    "title": "Akron Tolyatti VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743499/krylia-sovetov-akron-tolyatti"
+  },
+  {
+    "gameId": "743501",
+    "date": "Saturday, July 19, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "3 - 0",
+    "team2": "Sochi",
+    "title": "Lokomotiv Moscow VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743501/sochi-lokomotiv-moscow"
+  },
+  {
+    "gameId": "743503",
+    "date": "Saturday, July 19, 2025",
+    "team1": "Spartak Moscow",
+    "score": "1 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Spartak Moscow VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743503/dynamo-makhachkala-spartak-moscow"
+  },
+  {
+    "gameId": "743502",
+    "date": "Sunday, July 20, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "0 - 3",
+    "team2": "Krasnodar",
+    "title": "Nizhny Novgorod VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743502/krasnodar-nizhny-novgorod"
+  },
+  {
+    "gameId": "743505",
+    "date": "Sunday, July 20, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "2 - 1",
+    "team2": "Rostov",
+    "title": "Zenit St Petersburg VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743505/rostov-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743498",
+    "date": "Sunday, July 20, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "0 - 2",
+    "team2": "Rubin Kazan",
+    "title": "Akhmat Grozny VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743498/rubin-kazan-akhmat-grozny"
+  },
+  {
+    "gameId": "743504",
+    "date": "Monday, July 21, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "0 - 0",
+    "team2": "CSKA Moscow",
+    "title": "Gazovik Orenburg VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743504/cska-moscow-gazovik-orenburg"
+  },
+  {
+    "gameId": "743509",
+    "date": "Friday, July 25, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "2 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "Krylia Sovetov VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743509/nizhny-novgorod-krylia-sovetov"
+  },
+  {
+    "gameId": "743512",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Spartak Moscow",
+    "score": "0 - 3",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "Spartak Moscow VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743512/fc-baltika-kaliningrad-spartak-moscow"
+  },
+  {
+    "gameId": "743507",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "1 - 0",
+    "team2": "Rostov",
+    "title": "Dinamo Moscow VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743507/rostov-dinamo-moscow"
+  },
+  {
+    "gameId": "743508",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Krasnodar",
+    "score": "1 - 2",
+    "team2": "Lokomotiv Moscow",
+    "title": "Krasnodar VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743508/lokomotiv-moscow-krasnodar"
+  },
+  {
+    "gameId": "743511",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Sochi",
+    "score": "0 - 4",
+    "team2": "Akron Tolyatti",
+    "title": "Sochi VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743511/akron-tolyatti-sochi"
+  },
+  {
+    "gameId": "743506",
+    "date": "Sunday, July 27, 2025",
+    "team1": "CSKA Moscow",
+    "score": "2 - 1",
+    "team2": "Akhmat Grozny",
+    "title": "CSKA Moscow VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743506/akhmat-grozny-cska-moscow"
+  },
+  {
+    "gameId": "743513",
+    "date": "Sunday, July 27, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "1 - 1",
+    "team2": "Dynamo Makhachkala",
+    "title": "Gazovik Orenburg VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743513/dynamo-makhachkala-gazovik-orenburg"
+  },
+  {
+    "gameId": "743510",
+    "date": "Sunday, July 27, 2025",
+    "team1": "Rubin Kazan",
+    "score": "2 - 2",
+    "team2": "Zenit St Petersburg",
+    "title": "Rubin Kazan VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743510/zenit-st-petersburg-rubin-kazan"
+  },
+  {
+    "gameId": "743519",
+    "date": "Saturday, August 2, 2025",
+    "team1": "Rostov",
+    "score": "1 - 4",
+    "team2": "Krylia Sovetov",
+    "title": "Rostov VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743519/krylia-sovetov-rostov"
+  },
+  {
+    "gameId": "743517",
+    "date": "Saturday, August 2, 2025",
+    "team1": "Krasnodar",
+    "score": "1 - 0",
+    "team2": "Dinamo Moscow",
+    "title": "Krasnodar VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743517/dinamo-moscow-krasnodar"
+  },
+  {
+    "gameId": "743518",
+    "date": "Saturday, August 2, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "2 - 3",
+    "team2": "Lokomotiv Moscow",
+    "title": "Nizhny Novgorod VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743518/lokomotiv-moscow-nizhny-novgorod"
+  },
+  {
+    "gameId": "743516",
+    "date": "Sunday, August 3, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 1",
+    "team2": "Spartak Moscow",
+    "title": "Akron Tolyatti VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743516/spartak-moscow-akron-tolyatti"
+  },
+  {
+    "gameId": "743515",
+    "date": "Sunday, August 3, 2025",
+    "team1": "FC Baltika Kaliningrad",
+    "score": "3 - 2",
+    "team2": "Gazovik Orenburg",
+    "title": "FC Baltika Kaliningrad VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743515/gazovik-orenburg-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743514",
+    "date": "Sunday, August 3, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "1 - 1",
+    "team2": "CSKA Moscow",
+    "title": "Zenit St Petersburg VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743514/cska-moscow-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743521",
+    "date": "Sunday, August 3, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "1 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "Dynamo Makhachkala VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743521/akhmat-grozny-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743520",
+    "date": "Monday, August 4, 2025",
+    "team1": "Rubin Kazan",
+    "score": "2 - 1",
+    "team2": "Sochi",
+    "title": "Rubin Kazan VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743520/sochi-rubin-kazan"
+  },
+  {
+    "gameId": "743524",
+    "date": "Friday, August 8, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "1 - 1",
+    "team2": "Akron Tolyatti",
+    "title": "Dynamo Makhachkala VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743524/akron-tolyatti-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743525",
+    "date": "Saturday, August 9, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "1 - 1",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "Krylia Sovetov VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743525/fc-baltika-kaliningrad-krylia-sovetov"
+  },
+  {
+    "gameId": "743523",
+    "date": "Saturday, August 9, 2025",
+    "team1": "CSKA Moscow",
+    "score": "5 - 1",
+    "team2": "Rubin Kazan",
+    "title": "CSKA Moscow VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743523/rubin-kazan-cska-moscow"
+  },
+  {
+    "gameId": "743526",
+    "date": "Saturday, August 9, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "4 - 2",
+    "team2": "Spartak Moscow",
+    "title": "Lokomotiv Moscow VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743526/spartak-moscow-lokomotiv-moscow"
+  },
+  {
+    "gameId": "743522",
+    "date": "Saturday, August 9, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 0",
+    "team2": "Zenit St Petersburg",
+    "title": "Akhmat Grozny VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743522/zenit-st-petersburg-akhmat-grozny"
+  },
+  {
+    "gameId": "743529",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "0 - 1",
+    "team2": "Krasnodar",
+    "title": "Gazovik Orenburg VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743529/krasnodar-gazovik-orenburg"
+  },
+  {
+    "gameId": "743528",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Sochi",
+    "score": "1 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Sochi VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743528/dinamo-moscow-sochi"
+  },
+  {
+    "gameId": "743527",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Rostov",
+    "score": "1 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "Rostov VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743527/nizhny-novgorod-rostov"
+  },
+  {
+    "gameId": "743532",
+    "date": "Saturday, August 16, 2025",
+    "team1": "FC Baltika Kaliningrad",
+    "score": "1 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "FC Baltika Kaliningrad VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743532/lokomotiv-moscow-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743537",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Spartak Moscow",
+    "score": "2 - 2",
+    "team2": "Zenit St Petersburg",
+    "title": "Spartak Moscow VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743537/zenit-st-petersburg-spartak-moscow"
+  },
+  {
+    "gameId": "743530",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "3 - 1",
+    "team2": "Krylia Sovetov",
+    "title": "Akhmat Grozny VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743530/krylia-sovetov-akhmat-grozny"
+  },
+  {
+    "gameId": "743531",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 2",
+    "team2": "Gazovik Orenburg",
+    "title": "Akron Tolyatti VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743531/gazovik-orenburg-akron-tolyatti"
+  },
+  {
+    "gameId": "743536",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Rubin Kazan",
+    "score": "1 - 0",
+    "team2": "Rostov",
+    "title": "Rubin Kazan VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743536/rostov-rubin-kazan"
+  },
+  {
+    "gameId": "743533",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "1 - 3",
+    "team2": "CSKA Moscow",
+    "title": "Dinamo Moscow VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743533/cska-moscow-dinamo-moscow"
+  },
+  {
+    "gameId": "743534",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Krasnodar",
+    "score": "5 - 1",
+    "team2": "Sochi",
+    "title": "Krasnodar VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743534/sochi-krasnodar"
+  },
+  {
+    "gameId": "743535",
+    "date": "Monday, August 18, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "2 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Nizhny Novgorod VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743535/dynamo-makhachkala-nizhny-novgorod"
+  },
+  {
+    "gameId": "743544",
+    "date": "Friday, August 22, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "2 - 2",
+    "team2": "Akhmat Grozny",
+    "title": "Gazovik Orenburg VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743544/akhmat-grozny-gazovik-orenburg"
+  },
+  {
+    "gameId": "743542",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Rubin Kazan",
+    "score": "0 - 2",
+    "team2": "Spartak Moscow",
+    "title": "Rubin Kazan VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743542/spartak-moscow-rubin-kazan"
+  },
+  {
+    "gameId": "743545",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "4 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Zenit St Petersburg VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743545/dynamo-makhachkala-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743541",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "3 - 3",
+    "team2": "Rostov",
+    "title": "Lokomotiv Moscow VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743541/rostov-lokomotiv-moscow"
+  },
+  {
+    "gameId": "743539",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "3 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "Dinamo Moscow VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743539/nizhny-novgorod-dinamo-moscow"
+  },
+  {
+    "gameId": "743540",
+    "date": "Sunday, August 24, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "0 - 6",
+    "team2": "Krasnodar",
+    "title": "Krylia Sovetov VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743540/krasnodar-krylia-sovetov"
+  },
+  {
+    "gameId": "743538",
+    "date": "Sunday, August 24, 2025",
+    "team1": "CSKA Moscow",
+    "score": "3 - 1",
+    "team2": "Akron Tolyatti",
+    "title": "CSKA Moscow VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743538/akron-tolyatti-cska-moscow"
+  },
+  {
+    "gameId": "743543",
+    "date": "Sunday, August 24, 2025",
+    "team1": "Sochi",
+    "score": "0 - 2",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "Sochi VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743543/fc-baltika-kaliningrad-sochi"
+  },
+  {
+    "gameId": "743548",
+    "date": "Saturday, August 30, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "2 - 2",
+    "team2": "Rubin Kazan",
+    "title": "Gazovik Orenburg VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743548/rubin-kazan-gazovik-orenburg"
+  },
+  {
+    "gameId": "743553",
+    "date": "Saturday, August 30, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "2 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "Zenit St Petersburg VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743553/nizhny-novgorod-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743547",
+    "date": "Saturday, August 30, 2025",
+    "team1": "Spartak Moscow",
+    "score": "2 - 1",
+    "team2": "Sochi",
+    "title": "Spartak Moscow VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743547/sochi-spartak-moscow"
+  },
+  {
+    "gameId": "743551",
+    "date": "Saturday, August 30, 2025",
+    "team1": "Rostov",
+    "score": "1 - 1",
+    "team2": "Akhmat Grozny",
+    "title": "Rostov VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743551/akhmat-grozny-rostov"
+  },
+  {
+    "gameId": "743546",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "0 - 2",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "Akron Tolyatti VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743546/fc-baltika-kaliningrad-akron-tolyatti"
+  },
+  {
+    "gameId": "743552",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "2 - 2",
+    "team2": "Krylia Sovetov",
+    "title": "Lokomotiv Moscow VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743552/krylia-sovetov-lokomotiv-moscow"
+  },
+  {
+    "gameId": "743550",
+    "date": "Sunday, August 31, 2025",
+    "team1": "CSKA Moscow",
+    "score": "1 - 1",
+    "team2": "Krasnodar",
+    "title": "CSKA Moscow VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743550/krasnodar-cska-moscow"
+  },
+  {
+    "gameId": "743549",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "1 - 0",
+    "team2": "Dinamo Moscow",
+    "title": "Dynamo Makhachkala VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743549/dinamo-moscow-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743561",
+    "date": "Friday, September 12, 2025",
+    "team1": "Rubin Kazan",
+    "score": "1 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Rubin Kazan VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743561/dynamo-makhachkala-rubin-kazan"
+  },
+  {
+    "gameId": "743559",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "3 - 1",
+    "team2": "Gazovik Orenburg",
+    "title": "Nizhny Novgorod VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743559/gazovik-orenburg-nizhny-novgorod"
+  },
+  {
+    "gameId": "743554",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "Akhmat Grozny VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743554/lokomotiv-moscow-akhmat-grozny"
+  },
+  {
+    "gameId": "743556",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "2 - 2",
+    "team2": "Spartak Moscow",
+    "title": "Dinamo Moscow VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743556/spartak-moscow-dinamo-moscow"
+  },
+  {
+    "gameId": "743557",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Krasnodar",
+    "score": "2 - 1",
+    "team2": "Akron Tolyatti",
+    "title": "Krasnodar VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743557/akron-tolyatti-krasnodar"
+  },
+  {
+    "gameId": "743558",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "2 - 0",
+    "team2": "Sochi",
+    "title": "Krylia Sovetov VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743558/sochi-krylia-sovetov"
+  },
+  {
+    "gameId": "743555",
+    "date": "Sunday, September 14, 2025",
+    "team1": "FC Baltika Kaliningrad",
+    "score": "0 - 0",
+    "team2": "Zenit St Petersburg",
+    "title": "FC Baltika Kaliningrad VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743555/zenit-st-petersburg-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743560",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Rostov",
+    "score": "1 - 0",
+    "team2": "CSKA Moscow",
+    "title": "Rostov VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743560/cska-moscow-rostov"
+  },
+  {
+    "gameId": "743566",
+    "date": "Saturday, September 20, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "1 - 2",
+    "team2": "Akhmat Grozny",
+    "title": "Nizhny Novgorod VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743566/akhmat-grozny-nizhny-novgorod"
+  },
+  {
+    "gameId": "743562",
+    "date": "Saturday, September 20, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "2 - 2",
+    "team2": "Rubin Kazan",
+    "title": "Akron Tolyatti VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743562/rubin-kazan-akron-tolyatti"
+  },
+  {
+    "gameId": "743564",
+    "date": "Saturday, September 20, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "1 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "Dynamo Makhachkala VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743564/lokomotiv-moscow-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743569",
+    "date": "Sunday, September 21, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "1 - 3",
+    "team2": "Dinamo Moscow",
+    "title": "Gazovik Orenburg VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743569/dinamo-moscow-gazovik-orenburg"
+  },
+  {
+    "gameId": "743568",
+    "date": "Sunday, September 21, 2025",
+    "team1": "Spartak Moscow",
+    "score": "2 - 1",
+    "team2": "Krylia Sovetov",
+    "title": "Spartak Moscow VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743568/krylia-sovetov-spartak-moscow"
+  },
+  {
+    "gameId": "743563",
+    "date": "Sunday, September 21, 2025",
+    "team1": "FC Baltika Kaliningrad",
+    "score": "0 - 0",
+    "team2": "Rostov",
+    "title": "FC Baltika Kaliningrad VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743563/rostov-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743565",
+    "date": "Sunday, September 21, 2025",
+    "team1": "Krasnodar",
+    "score": "0 - 2",
+    "team2": "Zenit St Petersburg",
+    "title": "Krasnodar VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743565/zenit-st-petersburg-krasnodar"
+  },
+  {
+    "gameId": "743567",
+    "date": "Monday, September 22, 2025",
+    "team1": "Sochi",
+    "score": "1 - 3",
+    "team2": "CSKA Moscow",
+    "title": "Sochi VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743567/cska-moscow-sochi"
+  },
+  {
+    "gameId": "743573",
+    "date": "Friday, September 26, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "2 - 3",
+    "team2": "Dinamo Moscow",
+    "title": "Krylia Sovetov VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743573/dinamo-moscow-krylia-sovetov"
+  },
+  {
+    "gameId": "743570",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "3 - 0",
+    "team2": "Akron Tolyatti",
+    "title": "Akhmat Grozny VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743570/akron-tolyatti-akhmat-grozny"
+  },
+  {
+    "gameId": "743574",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 0",
+    "team2": "Rubin Kazan",
+    "title": "Lokomotiv Moscow VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743574/rubin-kazan-lokomotiv-moscow"
+  },
+  {
+    "gameId": "743575",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Rostov",
+    "score": "0 - 0",
+    "team2": "Krasnodar",
+    "title": "Rostov VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743575/krasnodar-rostov"
+  },
+  {
+    "gameId": "743577",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "5 - 2",
+    "team2": "Gazovik Orenburg",
+    "title": "Zenit St Petersburg VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743577/gazovik-orenburg-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743571",
+    "date": "Sunday, September 28, 2025",
+    "team1": "CSKA Moscow",
+    "score": "1 - 0",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "CSKA Moscow VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743571/fc-baltika-kaliningrad-cska-moscow"
+  },
+  {
+    "gameId": "743572",
+    "date": "Sunday, September 28, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "0 - 0",
+    "team2": "Sochi",
+    "title": "Dynamo Makhachkala VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743572/sochi-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743576",
+    "date": "Sunday, September 28, 2025",
+    "team1": "Spartak Moscow",
+    "score": "3 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "Spartak Moscow VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743576/nizhny-novgorod-spartak-moscow"
+  },
+  {
+    "gameId": "743578",
+    "date": "Saturday, October 4, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "Akron Tolyatti VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743578/zenit-st-petersburg-akron-tolyatti"
+  },
+  {
+    "gameId": "743583",
+    "date": "Saturday, October 4, 2025",
+    "team1": "Rubin Kazan",
+    "score": "2 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "Rubin Kazan VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743583/krylia-sovetov-rubin-kazan"
+  },
+  {
+    "gameId": "743582",
+    "date": "Saturday, October 4, 2025",
+    "team1": "Krasnodar",
+    "score": "2 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "Krasnodar VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743582/akhmat-grozny-krasnodar"
+  },
+  {
+    "gameId": "743581",
+    "date": "Saturday, October 4, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "3 - 5",
+    "team2": "Lokomotiv Moscow",
+    "title": "Dinamo Moscow VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743581/lokomotiv-moscow-dinamo-moscow"
+  },
+  {
+    "gameId": "743585",
+    "date": "Sunday, October 5, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "0 - 1",
+    "team2": "Rostov",
+    "title": "Gazovik Orenburg VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743585/rostov-gazovik-orenburg"
+  },
+  {
+    "gameId": "743584",
+    "date": "Sunday, October 5, 2025",
+    "team1": "Sochi",
+    "score": "2 - 1",
+    "team2": "Nizhny Novgorod",
+    "title": "Sochi VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743584/nizhny-novgorod-sochi"
+  },
+  {
+    "gameId": "743580",
+    "date": "Sunday, October 5, 2025",
+    "team1": "CSKA Moscow",
+    "score": "3 - 2",
+    "team2": "Spartak Moscow",
+    "title": "CSKA Moscow VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743580/spartak-moscow-cska-moscow"
+  },
+  {
+    "gameId": "743579",
+    "date": "Sunday, October 5, 2025",
+    "team1": "FC Baltika Kaliningrad",
+    "score": "2 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "FC Baltika Kaliningrad VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743579/dynamo-makhachkala-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743588",
+    "date": "Saturday, October 18, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "1 - 1",
+    "team2": "Gazovik Orenburg",
+    "title": "Krylia Sovetov VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743588/gazovik-orenburg-krylia-sovetov"
+  },
+  {
+    "gameId": "743590",
+    "date": "Saturday, October 18, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "0 - 1",
+    "team2": "Akron Tolyatti",
+    "title": "Nizhny Novgorod VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743590/akron-tolyatti-nizhny-novgorod"
+  },
+  {
+    "gameId": "743593",
+    "date": "Saturday, October 18, 2025",
+    "team1": "Spartak Moscow",
+    "score": "1 - 1",
+    "team2": "Rostov",
+    "title": "Spartak Moscow VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743593/rostov-spartak-moscow"
+  },
+  {
+    "gameId": "743587",
+    "date": "Saturday, October 18, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "0 - 2",
+    "team2": "Krasnodar",
+    "title": "Dynamo Makhachkala VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743587/krasnodar-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743589",
+    "date": "Saturday, October 18, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "3 - 0",
+    "team2": "CSKA Moscow",
+    "title": "Lokomotiv Moscow VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743589/cska-moscow-lokomotiv-moscow"
+  },
+  {
+    "gameId": "743592",
+    "date": "Sunday, October 19, 2025",
+    "team1": "Sochi",
+    "score": "0 - 3",
+    "team2": "Zenit St Petersburg",
+    "title": "Sochi VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743592/zenit-st-petersburg-sochi"
+  },
+  {
+    "gameId": "743591",
+    "date": "Sunday, October 19, 2025",
+    "team1": "Rubin Kazan",
+    "score": "0 - 3",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "Rubin Kazan VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743591/fc-baltika-kaliningrad-rubin-kazan"
+  },
+  {
+    "gameId": "743586",
+    "date": "Sunday, October 19, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "2 - 2",
+    "team2": "Akhmat Grozny",
+    "title": "Dinamo Moscow VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743586/akhmat-grozny-dinamo-moscow"
+  },
+  {
+    "gameId": "743600",
+    "date": "Saturday, October 25, 2025",
+    "team1": "Spartak Moscow",
+    "score": "1 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "Spartak Moscow VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743600/gazovik-orenburg-spartak-moscow"
+  },
+  {
+    "gameId": "743599",
+    "date": "Saturday, October 25, 2025",
+    "team1": "Rostov",
+    "score": "1 - 1",
+    "team2": "Dynamo Makhachkala",
+    "title": "Rostov VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743599/dynamo-makhachkala-rostov"
+  },
+  {
+    "gameId": "743596",
+    "date": "Saturday, October 25, 2025",
+    "team1": "CSKA Moscow",
+    "score": "1 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "CSKA Moscow VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743596/krylia-sovetov-cska-moscow"
+  },
+  {
+    "gameId": "743595",
+    "date": "Sunday, October 26, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "Akron Tolyatti VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743595/lokomotiv-moscow-akron-tolyatti"
+  },
+  {
+    "gameId": "743598",
+    "date": "Sunday, October 26, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "0 - 0",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "Nizhny Novgorod VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743598/fc-baltika-kaliningrad-nizhny-novgorod"
+  },
+  {
+    "gameId": "743601",
+    "date": "Sunday, October 26, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "2 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Zenit St Petersburg VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743601/dinamo-moscow-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743597",
+    "date": "Sunday, October 26, 2025",
+    "team1": "Krasnodar",
+    "score": "1 - 0",
+    "team2": "Rubin Kazan",
+    "title": "Krasnodar VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743597/rubin-kazan-krasnodar"
+  },
+  {
+    "gameId": "743594",
+    "date": "Monday, October 27, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "2 - 4",
+    "team2": "Sochi",
+    "title": "Akhmat Grozny VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743594/sochi-akhmat-grozny"
+  },
+  {
+    "gameId": "743603",
+    "date": "Friday, October 31, 2025",
+    "team1": "CSKA Moscow",
+    "score": "2 - 0",
+    "team2": "Nizhny Novgorod",
+    "title": "CSKA Moscow VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743603/nizhny-novgorod-cska-moscow"
+  },
+  {
+    "gameId": "743604",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "2 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "Dynamo Makhachkala VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743604/krylia-sovetov-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743607",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Rubin Kazan",
+    "score": "0 - 0",
+    "team2": "Dinamo Moscow",
+    "title": "Rubin Kazan VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743607/dinamo-moscow-rubin-kazan"
+  },
+  {
+    "gameId": "743606",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Rostov",
+    "score": "0 - 1",
+    "team2": "Akron Tolyatti",
+    "title": "Rostov VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743606/akron-tolyatti-rostov"
+  },
+  {
+    "gameId": "743609",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "2 - 0",
+    "team2": "Lokomotiv Moscow",
+    "title": "Zenit St Petersburg VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743609/lokomotiv-moscow-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743608",
+    "date": "Sunday, November 2, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "3 - 1",
+    "team2": "Sochi",
+    "title": "Gazovik Orenburg VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743608/sochi-gazovik-orenburg"
+  },
+  {
+    "gameId": "743602",
+    "date": "Sunday, November 2, 2025",
+    "team1": "FC Baltika Kaliningrad",
+    "score": "2 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "FC Baltika Kaliningrad VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743602/akhmat-grozny-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743605",
+    "date": "Sunday, November 2, 2025",
+    "team1": "Krasnodar",
+    "score": "2 - 1",
+    "team2": "Spartak Moscow",
+    "title": "Krasnodar VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743605/spartak-moscow-krasnodar"
+  },
+  {
+    "gameId": "743612",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "1 - 2",
+    "team2": "Akron Tolyatti",
+    "title": "Dinamo Moscow VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743612/akron-tolyatti-dinamo-moscow"
+  },
+  {
+    "gameId": "743613",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "0 - 1",
+    "team2": "CSKA Moscow",
+    "title": "Dynamo Makhachkala VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743613/cska-moscow-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743616",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "0 - 0",
+    "team2": "Rubin Kazan",
+    "title": "Nizhny Novgorod VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743616/rubin-kazan-nizhny-novgorod"
+  },
+  {
+    "gameId": "743617",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Sochi",
+    "score": "0 - 1",
+    "team2": "Rostov",
+    "title": "Sochi VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743617/rostov-sochi"
+  },
+  {
+    "gameId": "743614",
+    "date": "Sunday, November 9, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "1 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "Krylia Sovetov VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743614/zenit-st-petersburg-krylia-sovetov"
+  },
+  {
+    "gameId": "743615",
+    "date": "Sunday, November 9, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "Lokomotiv Moscow VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743615/gazovik-orenburg-lokomotiv-moscow"
+  },
+  {
+    "gameId": "743610",
+    "date": "Sunday, November 9, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 2",
+    "team2": "Spartak Moscow",
+    "title": "Akhmat Grozny VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743610/spartak-moscow-akhmat-grozny"
+  },
+  {
+    "gameId": "743611",
+    "date": "Sunday, November 9, 2025",
+    "team1": "FC Baltika Kaliningrad",
+    "score": "1 - 1",
+    "team2": "Krasnodar",
+    "title": "FC Baltika Kaliningrad VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743611/krasnodar-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743618",
+    "date": "Friday, November 21, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "3 - 2",
+    "team2": "Sochi",
+    "title": "Akron Tolyatti VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743618/sochi-akron-tolyatti"
+  },
+  {
+    "gameId": "743625",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Gazovik Orenburg",
+    "score": "0 - 0",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "Gazovik Orenburg VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743625/fc-baltika-kaliningrad-gazovik-orenburg"
+  },
+  {
+    "gameId": "743624",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Spartak Moscow",
+    "score": "1 - 0",
+    "team2": "CSKA Moscow",
+    "title": "Spartak Moscow VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743624/cska-moscow-spartak-moscow"
+  },
+  {
+    "gameId": "743623",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Rubin Kazan",
+    "score": "1 - 0",
+    "team2": "Akhmat Grozny",
+    "title": "Rubin Kazan VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743623/akhmat-grozny-rubin-kazan"
+  },
+  {
+    "gameId": "743620",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Krylia Sovetov",
+    "score": "2 - 0",
+    "team2": "Rostov",
+    "title": "Krylia Sovetov VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743620/rostov-krylia-sovetov"
+  },
+  {
+    "gameId": "743622",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Nizhny Novgorod",
+    "score": "0 - 2",
+    "team2": "Zenit St Petersburg",
+    "title": "Nizhny Novgorod VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743622/zenit-st-petersburg-nizhny-novgorod"
+  },
+  {
+    "gameId": "743619",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Dinamo Moscow",
+    "score": "3 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Dinamo Moscow VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743619/dynamo-makhachkala-dinamo-moscow"
+  },
+  {
+    "gameId": "743621",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 1",
+    "team2": "Krasnodar",
+    "title": "Lokomotiv Moscow VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743621/krasnodar-lokomotiv-moscow"
+  },
+  {
+    "gameId": "743627",
+    "date": "Saturday, November 29, 2025",
+    "team1": "Akron Tolyatti",
+    "score": "1 - 2",
+    "team2": "Nizhny Novgorod",
+    "title": "Akron Tolyatti VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743627/nizhny-novgorod-akron-tolyatti"
+  },
+  {
+    "gameId": "743629",
+    "date": "Saturday, November 29, 2025",
+    "team1": "CSKA Moscow",
+    "score": "2 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "CSKA Moscow VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743629/gazovik-orenburg-cska-moscow"
+  },
+  {
+    "gameId": "743628",
+    "date": "Saturday, November 29, 2025",
+    "team1": "FC Baltika Kaliningrad",
+    "score": "1 - 0",
+    "team2": "Spartak Moscow",
+    "title": "FC Baltika Kaliningrad VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743628/spartak-moscow-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743630",
+    "date": "Sunday, November 30, 2025",
+    "team1": "Krasnodar",
+    "score": "5 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "Krasnodar VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743630/krylia-sovetov-krasnodar"
+  },
+  {
+    "gameId": "743626",
+    "date": "Sunday, November 30, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "2 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Akhmat Grozny VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743626/dinamo-moscow-akhmat-grozny"
+  },
+  {
+    "gameId": "743631",
+    "date": "Sunday, November 30, 2025",
+    "team1": "Rostov",
+    "score": "1 - 3",
+    "team2": "Lokomotiv Moscow",
+    "title": "Rostov VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743631/lokomotiv-moscow-rostov"
+  },
+  {
+    "gameId": "743633",
+    "date": "Sunday, November 30, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "1 - 0",
+    "team2": "Rubin Kazan",
+    "title": "Zenit St Petersburg VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743633/rubin-kazan-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743632",
+    "date": "Monday, December 1, 2025",
+    "team1": "Sochi",
+    "score": "0 - 0",
+    "team2": "Dynamo Makhachkala",
+    "title": "Sochi VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743632/dynamo-makhachkala-sochi"
+  },
+  {
+    "gameId": "743634",
+    "date": "Friday, December 5, 2025",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 0",
+    "team2": "Gazovik Orenburg",
+    "title": "Akhmat Grozny VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743634/gazovik-orenburg-akhmat-grozny"
+  },
+  {
+    "gameId": "743638",
+    "date": "Saturday, December 6, 2025",
+    "team1": "Rostov",
+    "score": "2 - 0",
+    "team2": "Rubin Kazan",
+    "title": "Rostov VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743638/rubin-kazan-rostov"
+  },
+  {
+    "gameId": "743640",
+    "date": "Saturday, December 6, 2025",
+    "team1": "Spartak Moscow",
+    "score": "1 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Spartak Moscow VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743640/dinamo-moscow-spartak-moscow"
+  },
+  {
+    "gameId": "743641",
+    "date": "Saturday, December 6, 2025",
+    "team1": "Zenit St Petersburg",
+    "score": "2 - 0",
+    "team2": "Akron Tolyatti",
+    "title": "Zenit St Petersburg VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743641/akron-tolyatti-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743636",
+    "date": "Sunday, December 7, 2025",
+    "team1": "Dynamo Makhachkala",
+    "score": "0 - 1",
+    "team2": "Nizhny Novgorod",
+    "title": "Dynamo Makhachkala VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743636/nizhny-novgorod-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743639",
+    "date": "Sunday, December 7, 2025",
+    "team1": "Sochi",
+    "score": "2 - 4",
+    "team2": "Lokomotiv Moscow",
+    "title": "Sochi VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743639/lokomotiv-moscow-sochi"
+  },
+  {
+    "gameId": "743635",
+    "date": "Sunday, December 7, 2025",
+    "team1": "FC Baltika Kaliningrad",
+    "score": "2 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "FC Baltika Kaliningrad VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743635/krylia-sovetov-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743637",
+    "date": "Sunday, December 7, 2025",
+    "team1": "Krasnodar",
+    "score": "3 - 2",
+    "team2": "CSKA Moscow",
+    "title": "Krasnodar VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743637/cska-moscow-krasnodar"
+  }
+]

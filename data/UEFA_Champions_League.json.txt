@@ -1,0 +1,3800 @@
+[
+  {
+    "gameId": "687537",
+    "date": "Tuesday, September 19, 2023",
+    "team1": "AC Milan",
+    "score": "0 - 0",
+    "team2": "Newcastle United",
+    "title": "AC Milan VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687537/newcastle-united-ac-milan"
+  },
+  {
+    "gameId": "687536",
+    "date": "Tuesday, September 19, 2023",
+    "team1": "Young Boys",
+    "score": "1 - 3",
+    "team2": "RB Leipzig",
+    "title": "Young Boys VS RB Leipzig",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687536/rb-leipzig-young-boys"
+  },
+  {
+    "gameId": "687543",
+    "date": "Tuesday, September 19, 2023",
+    "team1": "Barcelona",
+    "score": "5 - 0",
+    "team2": "Antwerp",
+    "title": "Barcelona VS Antwerp",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687543/antwerp-barcelona"
+  },
+  {
+    "gameId": "687542",
+    "date": "Tuesday, September 19, 2023",
+    "team1": "Feyenoord Rotterdam",
+    "score": "2 - 0",
+    "team2": "Celtic",
+    "title": "Feyenoord Rotterdam VS Celtic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687542/celtic-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "687541",
+    "date": "Tuesday, September 19, 2023",
+    "team1": "Lazio",
+    "score": "1 - 1",
+    "team2": "Atlético Madrid",
+    "title": "Lazio VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687541/atletico-madrid-lazio"
+  },
+  {
+    "gameId": "687540",
+    "date": "Tuesday, September 19, 2023",
+    "team1": "Manchester City",
+    "score": "3 - 1",
+    "team2": "Red Star Belgrade",
+    "title": "Manchester City VS Red Star Belgrade",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687540/red-star-belgrade-manchester-city"
+  },
+  {
+    "gameId": "687539",
+    "date": "Tuesday, September 19, 2023",
+    "team1": "Paris Saint-Germain",
+    "score": "2 - 0",
+    "team2": "Borussia Dortmund",
+    "title": "Paris Saint-Germain VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687539/borussia-dortmund-paris-saint-germain"
+  },
+  {
+    "gameId": "687538",
+    "date": "Tuesday, September 19, 2023",
+    "team1": "Shakhtar Donetsk",
+    "score": "1 - 3",
+    "team2": "FC Porto",
+    "title": "Shakhtar Donetsk VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687538/fc-porto-shakhtar-donetsk"
+  },
+  {
+    "gameId": "687545",
+    "date": "Wednesday, September 20, 2023",
+    "team1": "Galatasaray",
+    "score": "2 - 2",
+    "team2": "F.C. København",
+    "title": "Galatasaray VS F.C. København",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687545/fc-københavn-galatasaray"
+  },
+  {
+    "gameId": "687544",
+    "date": "Wednesday, September 20, 2023",
+    "team1": "Real Madrid",
+    "score": "1 - 0",
+    "team2": "1. FC Union Berlin",
+    "title": "Real Madrid VS 1. FC Union Berlin",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687544/1-fc-union-berlin-real-madrid"
+  },
+  {
+    "gameId": "687549",
+    "date": "Wednesday, September 20, 2023",
+    "team1": "Arsenal",
+    "score": "4 - 0",
+    "team2": "PSV Eindhoven",
+    "title": "Arsenal VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687549/psv-eindhoven-arsenal"
+  },
+  {
+    "gameId": "687551",
+    "date": "Wednesday, September 20, 2023",
+    "team1": "Bayern Munich",
+    "score": "4 - 3",
+    "team2": "Manchester United",
+    "title": "Bayern Munich VS Manchester United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687551/manchester-united-bayern-munich"
+  },
+  {
+    "gameId": "687550",
+    "date": "Wednesday, September 20, 2023",
+    "team1": "Benfica",
+    "score": "0 - 2",
+    "team2": "RB Salzburg",
+    "title": "Benfica VS RB Salzburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687550/rb-salzburg-benfica"
+  },
+  {
+    "gameId": "687546",
+    "date": "Wednesday, September 20, 2023",
+    "team1": "Braga",
+    "score": "1 - 2",
+    "team2": "Napoli",
+    "title": "Braga VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687546/napoli-braga"
+  },
+  {
+    "gameId": "687548",
+    "date": "Wednesday, September 20, 2023",
+    "team1": "Real Sociedad",
+    "score": "1 - 1",
+    "team2": "Internazionale",
+    "title": "Real Sociedad VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687548/internazionale-real-sociedad"
+  },
+  {
+    "gameId": "687547",
+    "date": "Wednesday, September 20, 2023",
+    "team1": "Sevilla",
+    "score": "1 - 1",
+    "team2": "Lens",
+    "title": "Sevilla VS Lens",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687547/lens-sevilla"
+  },
+  {
+    "gameId": "687553",
+    "date": "Tuesday, October 3, 2023",
+    "team1": "1. FC Union Berlin",
+    "score": "2 - 3",
+    "team2": "Braga",
+    "title": "1. FC Union Berlin VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687553/braga-1-fc-union-berlin"
+  },
+  {
+    "gameId": "687552",
+    "date": "Tuesday, October 3, 2023",
+    "team1": "RB Salzburg",
+    "score": "0 - 2",
+    "team2": "Real Sociedad",
+    "title": "RB Salzburg VS Real Sociedad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687552/real-sociedad-rb-salzburg"
+  },
+  {
+    "gameId": "687555",
+    "date": "Tuesday, October 3, 2023",
+    "team1": "F.C. København",
+    "score": "1 - 2",
+    "team2": "Bayern Munich",
+    "title": "F.C. København VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687555/bayern-munich-fc-københavn"
+  },
+  {
+    "gameId": "687558",
+    "date": "Tuesday, October 3, 2023",
+    "team1": "Internazionale",
+    "score": "1 - 0",
+    "team2": "Benfica",
+    "title": "Internazionale VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687558/benfica-internazionale"
+  },
+  {
+    "gameId": "687557",
+    "date": "Tuesday, October 3, 2023",
+    "team1": "Lens",
+    "score": "2 - 1",
+    "team2": "Arsenal",
+    "title": "Lens VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687557/arsenal-lens"
+  },
+  {
+    "gameId": "687556",
+    "date": "Tuesday, October 3, 2023",
+    "team1": "Manchester United",
+    "score": "2 - 3",
+    "team2": "Galatasaray",
+    "title": "Manchester United VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687556/galatasaray-manchester-united"
+  },
+  {
+    "gameId": "687554",
+    "date": "Tuesday, October 3, 2023",
+    "team1": "Napoli",
+    "score": "2 - 3",
+    "team2": "Real Madrid",
+    "title": "Napoli VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687554/real-madrid-napoli"
+  },
+  {
+    "gameId": "687559",
+    "date": "Tuesday, October 3, 2023",
+    "team1": "PSV Eindhoven",
+    "score": "2 - 2",
+    "team2": "Sevilla",
+    "title": "PSV Eindhoven VS Sevilla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687559/sevilla-psv-eindhoven"
+  },
+  {
+    "gameId": "687560",
+    "date": "Wednesday, October 4, 2023",
+    "team1": "Antwerp",
+    "score": "2 - 3",
+    "team2": "Shakhtar Donetsk",
+    "title": "Antwerp VS Shakhtar Donetsk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687560/shakhtar-donetsk-antwerp"
+  },
+  {
+    "gameId": "687561",
+    "date": "Wednesday, October 4, 2023",
+    "team1": "Atlético Madrid",
+    "score": "3 - 2",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Atlético Madrid VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687561/feyenoord-rotterdam-atletico-madrid"
+  },
+  {
+    "gameId": "687565",
+    "date": "Wednesday, October 4, 2023",
+    "team1": "Borussia Dortmund",
+    "score": "0 - 0",
+    "team2": "AC Milan",
+    "title": "Borussia Dortmund VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687565/ac-milan-borussia-dortmund"
+  },
+  {
+    "gameId": "687567",
+    "date": "Wednesday, October 4, 2023",
+    "team1": "Celtic",
+    "score": "1 - 2",
+    "team2": "Lazio",
+    "title": "Celtic VS Lazio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687567/lazio-celtic"
+  },
+  {
+    "gameId": "687562",
+    "date": "Wednesday, October 4, 2023",
+    "team1": "FC Porto",
+    "score": "0 - 1",
+    "team2": "Barcelona",
+    "title": "FC Porto VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687562/barcelona-fc-porto"
+  },
+  {
+    "gameId": "687563",
+    "date": "Wednesday, October 4, 2023",
+    "team1": "Newcastle United",
+    "score": "4 - 1",
+    "team2": "Paris Saint-Germain",
+    "title": "Newcastle United VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687563/paris-saint-germain-newcastle-united"
+  },
+  {
+    "gameId": "687564",
+    "date": "Wednesday, October 4, 2023",
+    "team1": "RB Leipzig",
+    "score": "1 - 3",
+    "team2": "Manchester City",
+    "title": "RB Leipzig VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687564/manchester-city-rb-leipzig"
+  },
+  {
+    "gameId": "687566",
+    "date": "Wednesday, October 4, 2023",
+    "team1": "Red Star Belgrade",
+    "score": "2 - 2",
+    "team2": "Young Boys",
+    "title": "Red Star Belgrade VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687566/young-boys-red-star-belgrade"
+  },
+  {
+    "gameId": "687569",
+    "date": "Tuesday, October 24, 2023",
+    "team1": "Galatasaray",
+    "score": "1 - 3",
+    "team2": "Bayern Munich",
+    "title": "Galatasaray VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687569/bayern-munich-galatasaray"
+  },
+  {
+    "gameId": "687568",
+    "date": "Tuesday, October 24, 2023",
+    "team1": "Internazionale",
+    "score": "2 - 1",
+    "team2": "RB Salzburg",
+    "title": "Internazionale VS RB Salzburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687568/rb-salzburg-internazionale"
+  },
+  {
+    "gameId": "687571",
+    "date": "Tuesday, October 24, 2023",
+    "team1": "1. FC Union Berlin",
+    "score": "0 - 1",
+    "team2": "Napoli",
+    "title": "1. FC Union Berlin VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687571/napoli-1-fc-union-berlin"
+  },
+  {
+    "gameId": "687570",
+    "date": "Tuesday, October 24, 2023",
+    "team1": "Benfica",
+    "score": "0 - 1",
+    "team2": "Real Sociedad",
+    "title": "Benfica VS Real Sociedad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687570/real-sociedad-benfica"
+  },
+  {
+    "gameId": "687572",
+    "date": "Tuesday, October 24, 2023",
+    "team1": "Braga",
+    "score": "1 - 2",
+    "team2": "Real Madrid",
+    "title": "Braga VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687572/real-madrid-braga"
+  },
+  {
+    "gameId": "687575",
+    "date": "Tuesday, October 24, 2023",
+    "team1": "Lens",
+    "score": "1 - 1",
+    "team2": "PSV Eindhoven",
+    "title": "Lens VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687575/psv-eindhoven-lens"
+  },
+  {
+    "gameId": "687574",
+    "date": "Tuesday, October 24, 2023",
+    "team1": "Manchester United",
+    "score": "1 - 0",
+    "team2": "F.C. København",
+    "title": "Manchester United VS F.C. København",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687574/fc-københavn-manchester-united"
+  },
+  {
+    "gameId": "687573",
+    "date": "Tuesday, October 24, 2023",
+    "team1": "Sevilla",
+    "score": "1 - 2",
+    "team2": "Arsenal",
+    "title": "Sevilla VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687573/arsenal-sevilla"
+  },
+  {
+    "gameId": "687577",
+    "date": "Wednesday, October 25, 2023",
+    "team1": "Barcelona",
+    "score": "2 - 1",
+    "team2": "Shakhtar Donetsk",
+    "title": "Barcelona VS Shakhtar Donetsk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687577/shakhtar-donetsk-barcelona"
+  },
+  {
+    "gameId": "687576",
+    "date": "Wednesday, October 25, 2023",
+    "team1": "Feyenoord Rotterdam",
+    "score": "3 - 1",
+    "team2": "Lazio",
+    "title": "Feyenoord Rotterdam VS Lazio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687576/lazio-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "687579",
+    "date": "Wednesday, October 25, 2023",
+    "team1": "Antwerp",
+    "score": "1 - 4",
+    "team2": "FC Porto",
+    "title": "Antwerp VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687579/fc-porto-antwerp"
+  },
+  {
+    "gameId": "687578",
+    "date": "Wednesday, October 25, 2023",
+    "team1": "Celtic",
+    "score": "2 - 2",
+    "team2": "Atlético Madrid",
+    "title": "Celtic VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687578/atletico-madrid-celtic"
+  },
+  {
+    "gameId": "687582",
+    "date": "Wednesday, October 25, 2023",
+    "team1": "Newcastle United",
+    "score": "0 - 1",
+    "team2": "Borussia Dortmund",
+    "title": "Newcastle United VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687582/borussia-dortmund-newcastle-united"
+  },
+  {
+    "gameId": "687581",
+    "date": "Wednesday, October 25, 2023",
+    "team1": "Paris Saint-Germain",
+    "score": "3 - 0",
+    "team2": "AC Milan",
+    "title": "Paris Saint-Germain VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687581/ac-milan-paris-saint-germain"
+  },
+  {
+    "gameId": "687583",
+    "date": "Wednesday, October 25, 2023",
+    "team1": "RB Leipzig",
+    "score": "3 - 1",
+    "team2": "Red Star Belgrade",
+    "title": "RB Leipzig VS Red Star Belgrade",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687583/red-star-belgrade-rb-leipzig"
+  },
+  {
+    "gameId": "687580",
+    "date": "Wednesday, October 25, 2023",
+    "team1": "Young Boys",
+    "score": "1 - 3",
+    "team2": "Manchester City",
+    "title": "Young Boys VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687580/manchester-city-young-boys"
+  },
+  {
+    "gameId": "687585",
+    "date": "Tuesday, November 7, 2023",
+    "team1": "Borussia Dortmund",
+    "score": "2 - 0",
+    "team2": "Newcastle United",
+    "title": "Borussia Dortmund VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687585/newcastle-united-borussia-dortmund"
+  },
+  {
+    "gameId": "687584",
+    "date": "Tuesday, November 7, 2023",
+    "team1": "Shakhtar Donetsk",
+    "score": "1 - 0",
+    "team2": "Barcelona",
+    "title": "Shakhtar Donetsk VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687584/barcelona-shakhtar-donetsk"
+  },
+  {
+    "gameId": "687586",
+    "date": "Tuesday, November 7, 2023",
+    "team1": "AC Milan",
+    "score": "2 - 1",
+    "team2": "Paris Saint-Germain",
+    "title": "AC Milan VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687586/paris-saint-germain-ac-milan"
+  },
+  {
+    "gameId": "687591",
+    "date": "Tuesday, November 7, 2023",
+    "team1": "Atlético Madrid",
+    "score": "6 - 0",
+    "team2": "Celtic",
+    "title": "Atlético Madrid VS Celtic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687591/celtic-atletico-madrid"
+  },
+  {
+    "gameId": "687589",
+    "date": "Tuesday, November 7, 2023",
+    "team1": "FC Porto",
+    "score": "2 - 0",
+    "team2": "Antwerp",
+    "title": "FC Porto VS Antwerp",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687589/antwerp-fc-porto"
+  },
+  {
+    "gameId": "687588",
+    "date": "Tuesday, November 7, 2023",
+    "team1": "Lazio",
+    "score": "1 - 0",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Lazio VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687588/feyenoord-rotterdam-lazio"
+  },
+  {
+    "gameId": "687587",
+    "date": "Tuesday, November 7, 2023",
+    "team1": "Manchester City",
+    "score": "3 - 0",
+    "team2": "Young Boys",
+    "title": "Manchester City VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687587/young-boys-manchester-city"
+  },
+  {
+    "gameId": "687590",
+    "date": "Tuesday, November 7, 2023",
+    "team1": "Red Star Belgrade",
+    "score": "1 - 2",
+    "team2": "RB Leipzig",
+    "title": "Red Star Belgrade VS RB Leipzig",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687590/rb-leipzig-red-star-belgrade"
+  },
+  {
+    "gameId": "687593",
+    "date": "Wednesday, November 8, 2023",
+    "team1": "Napoli",
+    "score": "1 - 1",
+    "team2": "1. FC Union Berlin",
+    "title": "Napoli VS 1. FC Union Berlin",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687593/1-fc-union-berlin-napoli"
+  },
+  {
+    "gameId": "687592",
+    "date": "Wednesday, November 8, 2023",
+    "team1": "Real Sociedad",
+    "score": "3 - 1",
+    "team2": "Benfica",
+    "title": "Real Sociedad VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687592/benfica-real-sociedad"
+  },
+  {
+    "gameId": "687595",
+    "date": "Wednesday, November 8, 2023",
+    "team1": "Arsenal",
+    "score": "2 - 0",
+    "team2": "Sevilla",
+    "title": "Arsenal VS Sevilla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687595/sevilla-arsenal"
+  },
+  {
+    "gameId": "687594",
+    "date": "Wednesday, November 8, 2023",
+    "team1": "Bayern Munich",
+    "score": "2 - 1",
+    "team2": "Galatasaray",
+    "title": "Bayern Munich VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687594/galatasaray-bayern-munich"
+  },
+  {
+    "gameId": "687596",
+    "date": "Wednesday, November 8, 2023",
+    "team1": "F.C. København",
+    "score": "4 - 3",
+    "team2": "Manchester United",
+    "title": "F.C. København VS Manchester United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687596/manchester-united-fc-københavn"
+  },
+  {
+    "gameId": "687598",
+    "date": "Wednesday, November 8, 2023",
+    "team1": "PSV Eindhoven",
+    "score": "1 - 0",
+    "team2": "Lens",
+    "title": "PSV Eindhoven VS Lens",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687598/lens-psv-eindhoven"
+  },
+  {
+    "gameId": "687599",
+    "date": "Wednesday, November 8, 2023",
+    "team1": "RB Salzburg",
+    "score": "0 - 1",
+    "team2": "Internazionale",
+    "title": "RB Salzburg VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687599/internazionale-rb-salzburg"
+  },
+  {
+    "gameId": "687597",
+    "date": "Wednesday, November 8, 2023",
+    "team1": "Real Madrid",
+    "score": "3 - 0",
+    "team2": "Braga",
+    "title": "Real Madrid VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687597/braga-real-madrid"
+  },
+  {
+    "gameId": "687601",
+    "date": "Tuesday, November 28, 2023",
+    "team1": "Lazio",
+    "score": "2 - 0",
+    "team2": "Celtic",
+    "title": "Lazio VS Celtic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687601/celtic-lazio"
+  },
+  {
+    "gameId": "687600",
+    "date": "Tuesday, November 28, 2023",
+    "team1": "Shakhtar Donetsk",
+    "score": "1 - 0",
+    "team2": "Antwerp",
+    "title": "Shakhtar Donetsk VS Antwerp",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687600/antwerp-shakhtar-donetsk"
+  },
+  {
+    "gameId": "687604",
+    "date": "Tuesday, November 28, 2023",
+    "team1": "AC Milan",
+    "score": "1 - 3",
+    "team2": "Borussia Dortmund",
+    "title": "AC Milan VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687604/borussia-dortmund-ac-milan"
+  },
+  {
+    "gameId": "687607",
+    "date": "Tuesday, November 28, 2023",
+    "team1": "Barcelona",
+    "score": "2 - 1",
+    "team2": "FC Porto",
+    "title": "Barcelona VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687607/fc-porto-barcelona"
+  },
+  {
+    "gameId": "687606",
+    "date": "Tuesday, November 28, 2023",
+    "team1": "Feyenoord Rotterdam",
+    "score": "1 - 3",
+    "team2": "Atlético Madrid",
+    "title": "Feyenoord Rotterdam VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687606/atletico-madrid-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "687605",
+    "date": "Tuesday, November 28, 2023",
+    "team1": "Manchester City",
+    "score": "3 - 2",
+    "team2": "RB Leipzig",
+    "title": "Manchester City VS RB Leipzig",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687605/rb-leipzig-manchester-city"
+  },
+  {
+    "gameId": "687603",
+    "date": "Tuesday, November 28, 2023",
+    "team1": "Paris Saint-Germain",
+    "score": "1 - 1",
+    "team2": "Newcastle United",
+    "title": "Paris Saint-Germain VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687603/newcastle-united-paris-saint-germain"
+  },
+  {
+    "gameId": "687602",
+    "date": "Tuesday, November 28, 2023",
+    "team1": "Young Boys",
+    "score": "2 - 0",
+    "team2": "Red Star Belgrade",
+    "title": "Young Boys VS Red Star Belgrade",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687602/red-star-belgrade-young-boys"
+  },
+  {
+    "gameId": "687609",
+    "date": "Wednesday, November 29, 2023",
+    "team1": "Galatasaray",
+    "score": "3 - 3",
+    "team2": "Manchester United",
+    "title": "Galatasaray VS Manchester United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687609/manchester-united-galatasaray"
+  },
+  {
+    "gameId": "687608",
+    "date": "Wednesday, November 29, 2023",
+    "team1": "Sevilla",
+    "score": "2 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "Sevilla VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687608/psv-eindhoven-sevilla"
+  },
+  {
+    "gameId": "687611",
+    "date": "Wednesday, November 29, 2023",
+    "team1": "Arsenal",
+    "score": "6 - 0",
+    "team2": "Lens",
+    "title": "Arsenal VS Lens",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687611/lens-arsenal"
+  },
+  {
+    "gameId": "687615",
+    "date": "Wednesday, November 29, 2023",
+    "team1": "Bayern Munich",
+    "score": "0 - 0",
+    "team2": "F.C. København",
+    "title": "Bayern Munich VS F.C. København",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687615/fc-københavn-bayern-munich"
+  },
+  {
+    "gameId": "687614",
+    "date": "Wednesday, November 29, 2023",
+    "team1": "Benfica",
+    "score": "3 - 3",
+    "team2": "Internazionale",
+    "title": "Benfica VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687614/internazionale-benfica"
+  },
+  {
+    "gameId": "687610",
+    "date": "Wednesday, November 29, 2023",
+    "team1": "Braga",
+    "score": "1 - 1",
+    "team2": "1. FC Union Berlin",
+    "title": "Braga VS 1. FC Union Berlin",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687610/1-fc-union-berlin-braga"
+  },
+  {
+    "gameId": "687613",
+    "date": "Wednesday, November 29, 2023",
+    "team1": "Real Madrid",
+    "score": "4 - 2",
+    "team2": "Napoli",
+    "title": "Real Madrid VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687613/napoli-real-madrid"
+  },
+  {
+    "gameId": "687612",
+    "date": "Wednesday, November 29, 2023",
+    "team1": "Real Sociedad",
+    "score": "0 - 0",
+    "team2": "RB Salzburg",
+    "title": "Real Sociedad VS RB Salzburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687612/rb-salzburg-real-sociedad"
+  },
+  {
+    "gameId": "687617",
+    "date": "Tuesday, December 12, 2023",
+    "team1": "Lens",
+    "score": "2 - 1",
+    "team2": "Sevilla",
+    "title": "Lens VS Sevilla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687617/sevilla-lens"
+  },
+  {
+    "gameId": "687616",
+    "date": "Tuesday, December 12, 2023",
+    "team1": "PSV Eindhoven",
+    "score": "1 - 1",
+    "team2": "Arsenal",
+    "title": "PSV Eindhoven VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687616/arsenal-psv-eindhoven"
+  },
+  {
+    "gameId": "687619",
+    "date": "Tuesday, December 12, 2023",
+    "team1": "1. FC Union Berlin",
+    "score": "2 - 3",
+    "team2": "Real Madrid",
+    "title": "1. FC Union Berlin VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687619/real-madrid-1-fc-union-berlin"
+  },
+  {
+    "gameId": "687623",
+    "date": "Tuesday, December 12, 2023",
+    "team1": "F.C. København",
+    "score": "1 - 0",
+    "team2": "Galatasaray",
+    "title": "F.C. København VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687623/galatasaray-fc-københavn"
+  },
+  {
+    "gameId": "687618",
+    "date": "Tuesday, December 12, 2023",
+    "team1": "Internazionale",
+    "score": "0 - 0",
+    "team2": "Real Sociedad",
+    "title": "Internazionale VS Real Sociedad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687618/real-sociedad-internazionale"
+  },
+  {
+    "gameId": "687621",
+    "date": "Tuesday, December 12, 2023",
+    "team1": "Manchester United",
+    "score": "0 - 1",
+    "team2": "Bayern Munich",
+    "title": "Manchester United VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687621/bayern-munich-manchester-united"
+  },
+  {
+    "gameId": "687622",
+    "date": "Tuesday, December 12, 2023",
+    "team1": "Napoli",
+    "score": "2 - 0",
+    "team2": "Braga",
+    "title": "Napoli VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687622/braga-napoli"
+  },
+  {
+    "gameId": "687620",
+    "date": "Tuesday, December 12, 2023",
+    "team1": "RB Salzburg",
+    "score": "1 - 3",
+    "team2": "Benfica",
+    "title": "RB Salzburg VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687620/benfica-rb-salzburg"
+  },
+  {
+    "gameId": "687624",
+    "date": "Wednesday, December 13, 2023",
+    "team1": "RB Leipzig",
+    "score": "2 - 1",
+    "team2": "Young Boys",
+    "title": "RB Leipzig VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687624/young-boys-rb-leipzig"
+  },
+  {
+    "gameId": "687625",
+    "date": "Wednesday, December 13, 2023",
+    "team1": "Red Star Belgrade",
+    "score": "2 - 3",
+    "team2": "Manchester City",
+    "title": "Red Star Belgrade VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687625/manchester-city-red-star-belgrade"
+  },
+  {
+    "gameId": "687627",
+    "date": "Wednesday, December 13, 2023",
+    "team1": "Antwerp",
+    "score": "3 - 2",
+    "team2": "Barcelona",
+    "title": "Antwerp VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687627/barcelona-antwerp"
+  },
+  {
+    "gameId": "687626",
+    "date": "Wednesday, December 13, 2023",
+    "team1": "Atlético Madrid",
+    "score": "2 - 0",
+    "team2": "Lazio",
+    "title": "Atlético Madrid VS Lazio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687626/lazio-atletico-madrid"
+  },
+  {
+    "gameId": "687628",
+    "date": "Wednesday, December 13, 2023",
+    "team1": "Borussia Dortmund",
+    "score": "1 - 1",
+    "team2": "Paris Saint-Germain",
+    "title": "Borussia Dortmund VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687628/paris-saint-germain-borussia-dortmund"
+  },
+  {
+    "gameId": "687629",
+    "date": "Wednesday, December 13, 2023",
+    "team1": "Celtic",
+    "score": "2 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Celtic VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687629/feyenoord-rotterdam-celtic"
+  },
+  {
+    "gameId": "687630",
+    "date": "Wednesday, December 13, 2023",
+    "team1": "FC Porto",
+    "score": "5 - 3",
+    "team2": "Shakhtar Donetsk",
+    "title": "FC Porto VS Shakhtar Donetsk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687630/shakhtar-donetsk-fc-porto"
+  },
+  {
+    "gameId": "687631",
+    "date": "Wednesday, December 13, 2023",
+    "team1": "Newcastle United",
+    "score": "1 - 2",
+    "team2": "AC Milan",
+    "title": "Newcastle United VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/687631/ac-milan-newcastle-united"
+  },
+  {
+    "gameId": "691512",
+    "date": "Tuesday, February 13, 2024",
+    "team1": "F.C. København",
+    "score": "1 - 3",
+    "team2": "Manchester City",
+    "title": "F.C. København VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691512/manchester-city-fc-københavn"
+  },
+  {
+    "gameId": "691514",
+    "date": "Tuesday, February 13, 2024",
+    "team1": "RB Leipzig",
+    "score": "0 - 1",
+    "team2": "Real Madrid",
+    "title": "RB Leipzig VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691514/real-madrid-rb-leipzig"
+  },
+  {
+    "gameId": "691513",
+    "date": "Wednesday, February 14, 2024",
+    "team1": "Lazio",
+    "score": "1 - 0",
+    "team2": "Bayern Munich",
+    "title": "Lazio VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691513/bayern-munich-lazio"
+  },
+  {
+    "gameId": "691515",
+    "date": "Wednesday, February 14, 2024",
+    "team1": "Paris Saint-Germain",
+    "score": "2 - 0",
+    "team2": "Real Sociedad",
+    "title": "Paris Saint-Germain VS Real Sociedad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691515/real-sociedad-paris-saint-germain"
+  },
+  {
+    "gameId": "691510",
+    "date": "Tuesday, February 20, 2024",
+    "team1": "Internazionale",
+    "score": "1 - 0",
+    "team2": "Atlético Madrid",
+    "title": "Internazionale VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691510/atletico-madrid-internazionale"
+  },
+  {
+    "gameId": "691516",
+    "date": "Tuesday, February 20, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "1 - 1",
+    "team2": "Borussia Dortmund",
+    "title": "PSV Eindhoven VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691516/borussia-dortmund-psv-eindhoven"
+  },
+  {
+    "gameId": "691511",
+    "date": "Wednesday, February 21, 2024",
+    "team1": "FC Porto",
+    "score": "1 - 0",
+    "team2": "Arsenal",
+    "title": "FC Porto VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691511/arsenal-fc-porto"
+  },
+  {
+    "gameId": "691517",
+    "date": "Wednesday, February 21, 2024",
+    "team1": "Napoli",
+    "score": "1 - 1",
+    "team2": "Barcelona",
+    "title": "Napoli VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691517/barcelona-napoli"
+  },
+  {
+    "gameId": "691521",
+    "date": "Tuesday, March 5, 2024",
+    "team1": "Bayern Munich",
+    "score": "3 - 0",
+    "team2": "Lazio",
+    "title": "Bayern Munich VS Lazio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691521/lazio-bayern-munich"
+  },
+  {
+    "gameId": "691523",
+    "date": "Tuesday, March 5, 2024",
+    "team1": "Real Sociedad",
+    "score": "1 - 2",
+    "team2": "Paris Saint-Germain",
+    "title": "Real Sociedad VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691523/paris-saint-germain-real-sociedad"
+  },
+  {
+    "gameId": "691522",
+    "date": "Wednesday, March 6, 2024",
+    "team1": "Manchester City",
+    "score": "3 - 1",
+    "team2": "F.C. København",
+    "title": "Manchester City VS F.C. København",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691522/fc-københavn-manchester-city"
+  },
+  {
+    "gameId": "691525",
+    "date": "Wednesday, March 6, 2024",
+    "team1": "Real Madrid",
+    "score": "1 - 1",
+    "team2": "RB Leipzig",
+    "title": "Real Madrid VS RB Leipzig",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691525/rb-leipzig-real-madrid"
+  },
+  {
+    "gameId": "691518",
+    "date": "Tuesday, March 12, 2024",
+    "team1": "Arsenal",
+    "score": "1 - 0",
+    "team2": "FC Porto",
+    "title": "Arsenal VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691518/fc-porto-arsenal"
+  },
+  {
+    "gameId": "691520",
+    "date": "Tuesday, March 12, 2024",
+    "team1": "Barcelona",
+    "score": "3 - 1",
+    "team2": "Napoli",
+    "title": "Barcelona VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691520/napoli-barcelona"
+  },
+  {
+    "gameId": "691519",
+    "date": "Wednesday, March 13, 2024",
+    "team1": "Atlético Madrid",
+    "score": "2 - 1",
+    "team2": "Internazionale",
+    "title": "Atlético Madrid VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691519/internazionale-atletico-madrid"
+  },
+  {
+    "gameId": "691524",
+    "date": "Wednesday, March 13, 2024",
+    "team1": "Borussia Dortmund",
+    "score": "2 - 0",
+    "team2": "PSV Eindhoven",
+    "title": "Borussia Dortmund VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/691524/psv-eindhoven-borussia-dortmund"
+  },
+  {
+    "gameId": "700719",
+    "date": "Tuesday, April 9, 2024",
+    "team1": "Arsenal",
+    "score": "2 - 2",
+    "team2": "Bayern Munich",
+    "title": "Arsenal VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/700719/bayern-munich-arsenal"
+  },
+  {
+    "gameId": "700716",
+    "date": "Tuesday, April 9, 2024",
+    "team1": "Real Madrid",
+    "score": "3 - 3",
+    "team2": "Manchester City",
+    "title": "Real Madrid VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/700716/manchester-city-real-madrid"
+  },
+  {
+    "gameId": "700718",
+    "date": "Wednesday, April 10, 2024",
+    "team1": "Atlético Madrid",
+    "score": "2 - 1",
+    "team2": "Borussia Dortmund",
+    "title": "Atlético Madrid VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/700718/borussia-dortmund-atletico-madrid"
+  },
+  {
+    "gameId": "700717",
+    "date": "Wednesday, April 10, 2024",
+    "team1": "Paris Saint-Germain",
+    "score": "2 - 3",
+    "team2": "Barcelona",
+    "title": "Paris Saint-Germain VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/700717/barcelona-paris-saint-germain"
+  },
+  {
+    "gameId": "700723",
+    "date": "Tuesday, April 16, 2024",
+    "team1": "Barcelona",
+    "score": "1 - 4",
+    "team2": "Paris Saint-Germain",
+    "title": "Barcelona VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/700723/paris-saint-germain-barcelona"
+  },
+  {
+    "gameId": "700720",
+    "date": "Tuesday, April 16, 2024",
+    "team1": "Borussia Dortmund",
+    "score": "4 - 2",
+    "team2": "Atlético Madrid",
+    "title": "Borussia Dortmund VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/700720/atletico-madrid-borussia-dortmund"
+  },
+  {
+    "gameId": "700721",
+    "date": "Wednesday, April 17, 2024",
+    "team1": "Bayern Munich",
+    "score": "1 - 0",
+    "team2": "Arsenal",
+    "title": "Bayern Munich VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/700721/arsenal-bayern-munich"
+  },
+  {
+    "gameId": "700722",
+    "date": "Wednesday, April 17, 2024",
+    "team1": "Manchester City",
+    "score": "1 - 1",
+    "team2": "Real Madrid",
+    "title": "Manchester City VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/700722/real-madrid-manchester-city"
+  },
+  {
+    "gameId": "702056",
+    "date": "Tuesday, April 30, 2024",
+    "team1": "Bayern Munich",
+    "score": "2 - 2",
+    "team2": "Real Madrid",
+    "title": "Bayern Munich VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/702056/real-madrid-bayern-munich"
+  },
+  {
+    "gameId": "701984",
+    "date": "Wednesday, May 1, 2024",
+    "team1": "Borussia Dortmund",
+    "score": "1 - 0",
+    "team2": "Paris Saint-Germain",
+    "title": "Borussia Dortmund VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/701984/paris-saint-germain-borussia-dortmund"
+  },
+  {
+    "gameId": "701985",
+    "date": "Tuesday, May 7, 2024",
+    "team1": "Paris Saint-Germain",
+    "score": "0 - 1",
+    "team2": "Borussia Dortmund",
+    "title": "Paris Saint-Germain VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/701985/borussia-dortmund-paris-saint-germain"
+  },
+  {
+    "gameId": "702057",
+    "date": "Wednesday, May 8, 2024",
+    "team1": "Real Madrid",
+    "score": "2 - 1",
+    "team2": "Bayern Munich",
+    "title": "Real Madrid VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/702057/bayern-munich-real-madrid"
+  },
+  {
+    "gameId": "702410",
+    "date": "Saturday, June 1, 2024",
+    "team1": "Borussia Dortmund",
+    "score": "0 - 2",
+    "team2": "Real Madrid",
+    "title": "Borussia Dortmund VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/702410/real-madrid-borussia-dortmund"
+  },
+  {
+    "gameId": "720418",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "Juventus",
+    "score": "3 - 1",
+    "team2": "PSV Eindhoven",
+    "title": "Juventus VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720418/psv-eindhoven-juventus"
+  },
+  {
+    "gameId": "720419",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "Young Boys",
+    "score": "0 - 3",
+    "team2": "Aston Villa",
+    "title": "Young Boys VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720419/aston-villa-young-boys"
+  },
+  {
+    "gameId": "720365",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "AC Milan",
+    "score": "1 - 3",
+    "team2": "Liverpool",
+    "title": "AC Milan VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720365/liverpool-ac-milan"
+  },
+  {
+    "gameId": "720422",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "Bayern Munich",
+    "score": "9 - 2",
+    "team2": "Dinamo Zagreb",
+    "title": "Bayern Munich VS Dinamo Zagreb",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720422/dinamo-zagreb-bayern-munich"
+  },
+  {
+    "gameId": "720420",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "Real Madrid",
+    "score": "3 - 1",
+    "team2": "VfB Stuttgart",
+    "title": "Real Madrid VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720420/vfb-stuttgart-real-madrid"
+  },
+  {
+    "gameId": "720421",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "Sporting CP",
+    "score": "2 - 0",
+    "team2": "Lille",
+    "title": "Sporting CP VS Lille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720421/lille-sporting-cp"
+  },
+  {
+    "gameId": "720424",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Bologna",
+    "score": "0 - 0",
+    "team2": "Shakhtar Donetsk",
+    "title": "Bologna VS Shakhtar Donetsk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720424/shakhtar-donetsk-bologna"
+  },
+  {
+    "gameId": "720423",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Sparta Prague",
+    "score": "3 - 0",
+    "team2": "RB Salzburg",
+    "title": "Sparta Prague VS RB Salzburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720423/rb-salzburg-sparta-prague"
+  },
+  {
+    "gameId": "720427",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Celtic",
+    "score": "5 - 1",
+    "team2": "Slovan Bratislava",
+    "title": "Celtic VS Slovan Bratislava",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720427/slovan-bratislava-celtic"
+  },
+  {
+    "gameId": "720428",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Club Brugge",
+    "score": "0 - 3",
+    "team2": "Borussia Dortmund",
+    "title": "Club Brugge VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720428/borussia-dortmund-club-brugge"
+  },
+  {
+    "gameId": "720426",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Manchester City",
+    "score": "0 - 0",
+    "team2": "Internazionale",
+    "title": "Manchester City VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720426/internazionale-manchester-city"
+  },
+  {
+    "gameId": "720425",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Paris Saint-Germain",
+    "score": "1 - 0",
+    "team2": "Girona",
+    "title": "Paris Saint-Germain VS Girona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720425/girona-paris-saint-germain"
+  },
+  {
+    "gameId": "720430",
+    "date": "Thursday, September 19, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "0 - 4",
+    "team2": "Bayer Leverkusen",
+    "title": "Feyenoord Rotterdam VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720430/bayer-leverkusen-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "720429",
+    "date": "Thursday, September 19, 2024",
+    "team1": "Red Star Belgrade",
+    "score": "1 - 2",
+    "team2": "Benfica",
+    "title": "Red Star Belgrade VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720429/benfica-red-star-belgrade"
+  },
+  {
+    "gameId": "720434",
+    "date": "Thursday, September 19, 2024",
+    "team1": "AS Monaco",
+    "score": "2 - 1",
+    "team2": "Barcelona",
+    "title": "AS Monaco VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720434/barcelona-as-monaco"
+  },
+  {
+    "gameId": "720431",
+    "date": "Thursday, September 19, 2024",
+    "team1": "Atalanta",
+    "score": "0 - 0",
+    "team2": "Arsenal",
+    "title": "Atalanta VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720431/arsenal-atalanta"
+  },
+  {
+    "gameId": "720432",
+    "date": "Thursday, September 19, 2024",
+    "team1": "Atlético Madrid",
+    "score": "2 - 1",
+    "team2": "RB Leipzig",
+    "title": "Atlético Madrid VS RB Leipzig",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720432/rb-leipzig-atletico-madrid"
+  },
+  {
+    "gameId": "720433",
+    "date": "Thursday, September 19, 2024",
+    "team1": "Brest",
+    "score": "2 - 1",
+    "team2": "SK Sturm Graz",
+    "title": "Brest VS SK Sturm Graz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720433/sk-sturm-graz-brest"
+  },
+  {
+    "gameId": "720435",
+    "date": "Tuesday, October 1, 2024",
+    "team1": "RB Salzburg",
+    "score": "0 - 4",
+    "team2": "Brest",
+    "title": "RB Salzburg VS Brest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720435/brest-rb-salzburg"
+  },
+  {
+    "gameId": "720436",
+    "date": "Tuesday, October 1, 2024",
+    "team1": "VfB Stuttgart",
+    "score": "1 - 1",
+    "team2": "Sparta Prague",
+    "title": "VfB Stuttgart VS Sparta Prague",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720436/sparta-prague-vfb-stuttgart"
+  },
+  {
+    "gameId": "720443",
+    "date": "Tuesday, October 1, 2024",
+    "team1": "Arsenal",
+    "score": "2 - 0",
+    "team2": "Paris Saint-Germain",
+    "title": "Arsenal VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720443/paris-saint-germain-arsenal"
+  },
+  {
+    "gameId": "720442",
+    "date": "Tuesday, October 1, 2024",
+    "team1": "Barcelona",
+    "score": "5 - 0",
+    "team2": "Young Boys",
+    "title": "Barcelona VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720442/young-boys-barcelona"
+  },
+  {
+    "gameId": "720437",
+    "date": "Tuesday, October 1, 2024",
+    "team1": "Bayer Leverkusen",
+    "score": "1 - 0",
+    "team2": "AC Milan",
+    "title": "Bayer Leverkusen VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720437/ac-milan-bayer-leverkusen"
+  },
+  {
+    "gameId": "720438",
+    "date": "Tuesday, October 1, 2024",
+    "team1": "Borussia Dortmund",
+    "score": "7 - 1",
+    "team2": "Celtic",
+    "title": "Borussia Dortmund VS Celtic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720438/celtic-borussia-dortmund"
+  },
+  {
+    "gameId": "720440",
+    "date": "Tuesday, October 1, 2024",
+    "team1": "Internazionale",
+    "score": "4 - 0",
+    "team2": "Red Star Belgrade",
+    "title": "Internazionale VS Red Star Belgrade",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720440/red-star-belgrade-internazionale"
+  },
+  {
+    "gameId": "720441",
+    "date": "Tuesday, October 1, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "1 - 1",
+    "team2": "Sporting CP",
+    "title": "PSV Eindhoven VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720441/sporting-cp-psv-eindhoven"
+  },
+  {
+    "gameId": "720439",
+    "date": "Tuesday, October 1, 2024",
+    "team1": "Slovan Bratislava",
+    "score": "0 - 4",
+    "team2": "Manchester City",
+    "title": "Slovan Bratislava VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720439/manchester-city-slovan-bratislava"
+  },
+  {
+    "gameId": "720445",
+    "date": "Wednesday, October 2, 2024",
+    "team1": "Girona",
+    "score": "2 - 3",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Girona VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720445/feyenoord-rotterdam-girona"
+  },
+  {
+    "gameId": "720444",
+    "date": "Wednesday, October 2, 2024",
+    "team1": "Shakhtar Donetsk",
+    "score": "0 - 3",
+    "team2": "Atalanta",
+    "title": "Shakhtar Donetsk VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720444/atalanta-shakhtar-donetsk"
+  },
+  {
+    "gameId": "720451",
+    "date": "Wednesday, October 2, 2024",
+    "team1": "Aston Villa",
+    "score": "1 - 0",
+    "team2": "Bayern Munich",
+    "title": "Aston Villa VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720451/bayern-munich-aston-villa"
+  },
+  {
+    "gameId": "720447",
+    "date": "Wednesday, October 2, 2024",
+    "team1": "Benfica",
+    "score": "4 - 0",
+    "team2": "Atlético Madrid",
+    "title": "Benfica VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720447/atletico-madrid-benfica"
+  },
+  {
+    "gameId": "720446",
+    "date": "Wednesday, October 2, 2024",
+    "team1": "Dinamo Zagreb",
+    "score": "2 - 2",
+    "team2": "AS Monaco",
+    "title": "Dinamo Zagreb VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720446/as-monaco-dinamo-zagreb"
+  },
+  {
+    "gameId": "720448",
+    "date": "Wednesday, October 2, 2024",
+    "team1": "Lille",
+    "score": "1 - 0",
+    "team2": "Real Madrid",
+    "title": "Lille VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720448/real-madrid-lille"
+  },
+  {
+    "gameId": "720366",
+    "date": "Wednesday, October 2, 2024",
+    "team1": "Liverpool",
+    "score": "2 - 0",
+    "team2": "Bologna",
+    "title": "Liverpool VS Bologna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720366/bologna-liverpool"
+  },
+  {
+    "gameId": "720449",
+    "date": "Wednesday, October 2, 2024",
+    "team1": "RB Leipzig",
+    "score": "2 - 3",
+    "team2": "Juventus",
+    "title": "RB Leipzig VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720449/juventus-rb-leipzig"
+  },
+  {
+    "gameId": "720450",
+    "date": "Wednesday, October 2, 2024",
+    "team1": "SK Sturm Graz",
+    "score": "0 - 1",
+    "team2": "Club Brugge",
+    "title": "SK Sturm Graz VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720450/club-brugge-sk-sturm-graz"
+  },
+  {
+    "gameId": "720453",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "AC Milan",
+    "score": "3 - 1",
+    "team2": "Club Brugge",
+    "title": "AC Milan VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720453/club-brugge-ac-milan"
+  },
+  {
+    "gameId": "720452",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "AS Monaco",
+    "score": "5 - 1",
+    "team2": "Red Star Belgrade",
+    "title": "AS Monaco VS Red Star Belgrade",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720452/red-star-belgrade-as-monaco"
+  },
+  {
+    "gameId": "720455",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Arsenal",
+    "score": "1 - 0",
+    "team2": "Shakhtar Donetsk",
+    "title": "Arsenal VS Shakhtar Donetsk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720455/shakhtar-donetsk-arsenal"
+  },
+  {
+    "gameId": "720457",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Aston Villa",
+    "score": "2 - 0",
+    "team2": "Bologna",
+    "title": "Aston Villa VS Bologna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720457/bologna-aston-villa"
+  },
+  {
+    "gameId": "720454",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Girona",
+    "score": "2 - 0",
+    "team2": "Slovan Bratislava",
+    "title": "Girona VS Slovan Bratislava",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720454/slovan-bratislava-girona"
+  },
+  {
+    "gameId": "720456",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Juventus",
+    "score": "0 - 1",
+    "team2": "VfB Stuttgart",
+    "title": "Juventus VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720456/vfb-stuttgart-juventus"
+  },
+  {
+    "gameId": "720460",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Paris Saint-Germain",
+    "score": "1 - 1",
+    "team2": "PSV Eindhoven",
+    "title": "Paris Saint-Germain VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720460/psv-eindhoven-paris-saint-germain"
+  },
+  {
+    "gameId": "720459",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Real Madrid",
+    "score": "5 - 2",
+    "team2": "Borussia Dortmund",
+    "title": "Real Madrid VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720459/borussia-dortmund-real-madrid"
+  },
+  {
+    "gameId": "720458",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "SK Sturm Graz",
+    "score": "0 - 2",
+    "team2": "Sporting CP",
+    "title": "SK Sturm Graz VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720458/sporting-cp-sk-sturm-graz"
+  },
+  {
+    "gameId": "720461",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Atalanta",
+    "score": "0 - 0",
+    "team2": "Celtic",
+    "title": "Atalanta VS Celtic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720461/celtic-atalanta"
+  },
+  {
+    "gameId": "720462",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Brest",
+    "score": "1 - 1",
+    "team2": "Bayer Leverkusen",
+    "title": "Brest VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720462/bayer-leverkusen-brest"
+  },
+  {
+    "gameId": "720373",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Atlético Madrid",
+    "score": "1 - 3",
+    "team2": "Lille",
+    "title": "Atlético Madrid VS Lille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720373/lille-atletico-madrid"
+  },
+  {
+    "gameId": "720372",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Barcelona",
+    "score": "4 - 1",
+    "team2": "Bayern Munich",
+    "title": "Barcelona VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720372/bayern-munich-barcelona"
+  },
+  {
+    "gameId": "720463",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Benfica",
+    "score": "1 - 3",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Benfica VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720463/feyenoord-rotterdam-benfica"
+  },
+  {
+    "gameId": "720374",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Manchester City",
+    "score": "5 - 0",
+    "team2": "Sparta Prague",
+    "title": "Manchester City VS Sparta Prague",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720374/sparta-prague-manchester-city"
+  },
+  {
+    "gameId": "720367",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "RB Leipzig",
+    "score": "0 - 1",
+    "team2": "Liverpool",
+    "title": "RB Leipzig VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720367/liverpool-rb-leipzig"
+  },
+  {
+    "gameId": "720464",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "RB Salzburg",
+    "score": "0 - 2",
+    "team2": "Dinamo Zagreb",
+    "title": "RB Salzburg VS Dinamo Zagreb",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720464/dinamo-zagreb-rb-salzburg"
+  },
+  {
+    "gameId": "720371",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Young Boys",
+    "score": "0 - 1",
+    "team2": "Internazionale",
+    "title": "Young Boys VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720371/internazionale-young-boys"
+  },
+  {
+    "gameId": "720376",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "4 - 0",
+    "team2": "Girona",
+    "title": "PSV Eindhoven VS Girona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720376/girona-psv-eindhoven"
+  },
+  {
+    "gameId": "720375",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "Slovan Bratislava",
+    "score": "1 - 4",
+    "team2": "Dinamo Zagreb",
+    "title": "Slovan Bratislava VS Dinamo Zagreb",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720375/dinamo-zagreb-slovan-bratislava"
+  },
+  {
+    "gameId": "720382",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "Bologna",
+    "score": "0 - 1",
+    "team2": "AS Monaco",
+    "title": "Bologna VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720382/as-monaco-bologna"
+  },
+  {
+    "gameId": "720381",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "Borussia Dortmund",
+    "score": "1 - 0",
+    "team2": "SK Sturm Graz",
+    "title": "Borussia Dortmund VS SK Sturm Graz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720381/sk-sturm-graz-borussia-dortmund"
+  },
+  {
+    "gameId": "720377",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "Celtic",
+    "score": "3 - 1",
+    "team2": "RB Leipzig",
+    "title": "Celtic VS RB Leipzig",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720377/rb-leipzig-celtic"
+  },
+  {
+    "gameId": "720378",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "Lille",
+    "score": "1 - 1",
+    "team2": "Juventus",
+    "title": "Lille VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720378/juventus-lille"
+  },
+  {
+    "gameId": "720368",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "Liverpool",
+    "score": "4 - 0",
+    "team2": "Bayer Leverkusen",
+    "title": "Liverpool VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720368/bayer-leverkusen-liverpool"
+  },
+  {
+    "gameId": "720380",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "Real Madrid",
+    "score": "1 - 3",
+    "team2": "AC Milan",
+    "title": "Real Madrid VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720380/ac-milan-real-madrid"
+  },
+  {
+    "gameId": "720379",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "Sporting CP",
+    "score": "4 - 1",
+    "team2": "Manchester City",
+    "title": "Sporting CP VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720379/manchester-city-sporting-cp"
+  },
+  {
+    "gameId": "720383",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Club Brugge",
+    "score": "1 - 0",
+    "team2": "Aston Villa",
+    "title": "Club Brugge VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720383/aston-villa-club-brugge"
+  },
+  {
+    "gameId": "720384",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Shakhtar Donetsk",
+    "score": "2 - 1",
+    "team2": "Young Boys",
+    "title": "Shakhtar Donetsk VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720384/young-boys-shakhtar-donetsk"
+  },
+  {
+    "gameId": "720386",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "1 - 3",
+    "team2": "RB Salzburg",
+    "title": "Feyenoord Rotterdam VS RB Salzburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720386/rb-salzburg-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "720387",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Internazionale",
+    "score": "1 - 0",
+    "team2": "Arsenal",
+    "title": "Internazionale VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720387/arsenal-internazionale"
+  },
+  {
+    "gameId": "720388",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Paris Saint-Germain",
+    "score": "1 - 2",
+    "team2": "Atlético Madrid",
+    "title": "Paris Saint-Germain VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720388/atletico-madrid-paris-saint-germain"
+  },
+  {
+    "gameId": "720385",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Red Star Belgrade",
+    "score": "2 - 5",
+    "team2": "Barcelona",
+    "title": "Red Star Belgrade VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720385/barcelona-red-star-belgrade"
+  },
+  {
+    "gameId": "720390",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Sparta Prague",
+    "score": "1 - 2",
+    "team2": "Brest",
+    "title": "Sparta Prague VS Brest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720390/brest-sparta-prague"
+  },
+  {
+    "gameId": "720391",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "VfB Stuttgart",
+    "score": "0 - 2",
+    "team2": "Atalanta",
+    "title": "VfB Stuttgart VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720391/atalanta-vfb-stuttgart"
+  },
+  {
+    "gameId": "720389",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Bayern Munich",
+    "score": "1 - 0",
+    "team2": "Benfica",
+    "title": "Bayern Munich VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720389/benfica-bayern-munich"
+  },
+  {
+    "gameId": "720393",
+    "date": "Tuesday, November 26, 2024",
+    "team1": "Slovan Bratislava",
+    "score": "2 - 3",
+    "team2": "AC Milan",
+    "title": "Slovan Bratislava VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720393/ac-milan-slovan-bratislava"
+  },
+  {
+    "gameId": "720392",
+    "date": "Tuesday, November 26, 2024",
+    "team1": "Sparta Prague",
+    "score": "0 - 6",
+    "team2": "Atlético Madrid",
+    "title": "Sparta Prague VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720392/atletico-madrid-sparta-prague"
+  },
+  {
+    "gameId": "720394",
+    "date": "Tuesday, November 26, 2024",
+    "team1": "Barcelona",
+    "score": "3 - 0",
+    "team2": "Brest",
+    "title": "Barcelona VS Brest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720394/brest-barcelona"
+  },
+  {
+    "gameId": "720395",
+    "date": "Tuesday, November 26, 2024",
+    "team1": "Bayer Leverkusen",
+    "score": "5 - 0",
+    "team2": "RB Salzburg",
+    "title": "Bayer Leverkusen VS RB Salzburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720395/rb-salzburg-bayer-leverkusen"
+  },
+  {
+    "gameId": "720396",
+    "date": "Tuesday, November 26, 2024",
+    "team1": "Bayern Munich",
+    "score": "1 - 0",
+    "team2": "Paris Saint-Germain",
+    "title": "Bayern Munich VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720396/paris-saint-germain-bayern-munich"
+  },
+  {
+    "gameId": "720397",
+    "date": "Tuesday, November 26, 2024",
+    "team1": "Internazionale",
+    "score": "1 - 0",
+    "team2": "RB Leipzig",
+    "title": "Internazionale VS RB Leipzig",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720397/rb-leipzig-internazionale"
+  },
+  {
+    "gameId": "720398",
+    "date": "Tuesday, November 26, 2024",
+    "team1": "Manchester City",
+    "score": "3 - 3",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Manchester City VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720398/feyenoord-rotterdam-manchester-city"
+  },
+  {
+    "gameId": "720399",
+    "date": "Tuesday, November 26, 2024",
+    "team1": "Sporting CP",
+    "score": "1 - 5",
+    "team2": "Arsenal",
+    "title": "Sporting CP VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720399/arsenal-sporting-cp"
+  },
+  {
+    "gameId": "720400",
+    "date": "Tuesday, November 26, 2024",
+    "team1": "Young Boys",
+    "score": "1 - 6",
+    "team2": "Atalanta",
+    "title": "Young Boys VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720400/atalanta-young-boys"
+  },
+  {
+    "gameId": "720402",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "Red Star Belgrade",
+    "score": "5 - 1",
+    "team2": "VfB Stuttgart",
+    "title": "Red Star Belgrade VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720402/vfb-stuttgart-red-star-belgrade"
+  },
+  {
+    "gameId": "720401",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "SK Sturm Graz",
+    "score": "1 - 0",
+    "team2": "Girona",
+    "title": "SK Sturm Graz VS Girona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720401/girona-sk-sturm-graz"
+  },
+  {
+    "gameId": "720407",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "AS Monaco",
+    "score": "2 - 3",
+    "team2": "Benfica",
+    "title": "AS Monaco VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720407/benfica-as-monaco"
+  },
+  {
+    "gameId": "720405",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "Aston Villa",
+    "score": "0 - 0",
+    "team2": "Juventus",
+    "title": "Aston Villa VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720405/juventus-aston-villa"
+  },
+  {
+    "gameId": "720403",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "Bologna",
+    "score": "1 - 2",
+    "team2": "Lille",
+    "title": "Bologna VS Lille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720403/lille-bologna"
+  },
+  {
+    "gameId": "720404",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "Celtic",
+    "score": "1 - 1",
+    "team2": "Club Brugge",
+    "title": "Celtic VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720404/club-brugge-celtic"
+  },
+  {
+    "gameId": "720406",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "Dinamo Zagreb",
+    "score": "0 - 3",
+    "team2": "Borussia Dortmund",
+    "title": "Dinamo Zagreb VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720406/borussia-dortmund-dinamo-zagreb"
+  },
+  {
+    "gameId": "720369",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "Liverpool",
+    "score": "2 - 0",
+    "team2": "Real Madrid",
+    "title": "Liverpool VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720369/real-madrid-liverpool"
+  },
+  {
+    "gameId": "720408",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "PSV Eindhoven",
+    "score": "3 - 2",
+    "team2": "Shakhtar Donetsk",
+    "title": "PSV Eindhoven VS Shakhtar Donetsk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720408/shakhtar-donetsk-psv-eindhoven"
+  },
+  {
+    "gameId": "720409",
+    "date": "Tuesday, December 10, 2024",
+    "team1": "Dinamo Zagreb",
+    "score": "0 - 0",
+    "team2": "Celtic",
+    "title": "Dinamo Zagreb VS Celtic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720409/celtic-dinamo-zagreb"
+  },
+  {
+    "gameId": "720370",
+    "date": "Tuesday, December 10, 2024",
+    "team1": "Girona",
+    "score": "0 - 1",
+    "team2": "Liverpool",
+    "title": "Girona VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720370/liverpool-girona"
+  },
+  {
+    "gameId": "720413",
+    "date": "Tuesday, December 10, 2024",
+    "team1": "Atalanta",
+    "score": "2 - 3",
+    "team2": "Real Madrid",
+    "title": "Atalanta VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720413/real-madrid-atalanta"
+  },
+  {
+    "gameId": "720412",
+    "date": "Tuesday, December 10, 2024",
+    "team1": "Bayer Leverkusen",
+    "score": "1 - 0",
+    "team2": "Internazionale",
+    "title": "Bayer Leverkusen VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720412/internazionale-bayer-leverkusen"
+  },
+  {
+    "gameId": "720411",
+    "date": "Tuesday, December 10, 2024",
+    "team1": "Brest",
+    "score": "1 - 0",
+    "team2": "PSV Eindhoven",
+    "title": "Brest VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720411/psv-eindhoven-brest"
+  },
+  {
+    "gameId": "720410",
+    "date": "Tuesday, December 10, 2024",
+    "team1": "Club Brugge",
+    "score": "2 - 1",
+    "team2": "Sporting CP",
+    "title": "Club Brugge VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720410/sporting-cp-club-brugge"
+  },
+  {
+    "gameId": "720416",
+    "date": "Tuesday, December 10, 2024",
+    "team1": "RB Leipzig",
+    "score": "2 - 3",
+    "team2": "Aston Villa",
+    "title": "RB Leipzig VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720416/aston-villa-rb-leipzig"
+  },
+  {
+    "gameId": "720414",
+    "date": "Tuesday, December 10, 2024",
+    "team1": "RB Salzburg",
+    "score": "0 - 3",
+    "team2": "Paris Saint-Germain",
+    "title": "RB Salzburg VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720414/paris-saint-germain-rb-salzburg"
+  },
+  {
+    "gameId": "720415",
+    "date": "Tuesday, December 10, 2024",
+    "team1": "Shakhtar Donetsk",
+    "score": "1 - 5",
+    "team2": "Bayern Munich",
+    "title": "Shakhtar Donetsk VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720415/bayern-munich-shakhtar-donetsk"
+  },
+  {
+    "gameId": "720321",
+    "date": "Wednesday, December 11, 2024",
+    "team1": "Atlético Madrid",
+    "score": "3 - 1",
+    "team2": "Slovan Bratislava",
+    "title": "Atlético Madrid VS Slovan Bratislava",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720321/slovan-bratislava-atletico-madrid"
+  },
+  {
+    "gameId": "720417",
+    "date": "Wednesday, December 11, 2024",
+    "team1": "Lille",
+    "score": "3 - 2",
+    "team2": "SK Sturm Graz",
+    "title": "Lille VS SK Sturm Graz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720417/sk-sturm-graz-lille"
+  },
+  {
+    "gameId": "720328",
+    "date": "Wednesday, December 11, 2024",
+    "team1": "AC Milan",
+    "score": "2 - 1",
+    "team2": "Red Star Belgrade",
+    "title": "AC Milan VS Red Star Belgrade",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720328/red-star-belgrade-ac-milan"
+  },
+  {
+    "gameId": "720325",
+    "date": "Wednesday, December 11, 2024",
+    "team1": "Arsenal",
+    "score": "3 - 0",
+    "team2": "AS Monaco",
+    "title": "Arsenal VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720325/as-monaco-arsenal"
+  },
+  {
+    "gameId": "720324",
+    "date": "Wednesday, December 11, 2024",
+    "team1": "Benfica",
+    "score": "0 - 0",
+    "team2": "Bologna",
+    "title": "Benfica VS Bologna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720324/bologna-benfica"
+  },
+  {
+    "gameId": "720322",
+    "date": "Wednesday, December 11, 2024",
+    "team1": "Borussia Dortmund",
+    "score": "2 - 3",
+    "team2": "Barcelona",
+    "title": "Borussia Dortmund VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720322/barcelona-borussia-dortmund"
+  },
+  {
+    "gameId": "720323",
+    "date": "Wednesday, December 11, 2024",
+    "team1": "Feyenoord Rotterdam",
+    "score": "4 - 2",
+    "team2": "Sparta Prague",
+    "title": "Feyenoord Rotterdam VS Sparta Prague",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720323/sparta-prague-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "720326",
+    "date": "Wednesday, December 11, 2024",
+    "team1": "Juventus",
+    "score": "2 - 0",
+    "team2": "Manchester City",
+    "title": "Juventus VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720326/manchester-city-juventus"
+  },
+  {
+    "gameId": "720327",
+    "date": "Wednesday, December 11, 2024",
+    "team1": "VfB Stuttgart",
+    "score": "5 - 1",
+    "team2": "Young Boys",
+    "title": "VfB Stuttgart VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720327/young-boys-vfb-stuttgart"
+  },
+  {
+    "gameId": "720330",
+    "date": "Tuesday, January 21, 2025",
+    "team1": "AS Monaco",
+    "score": "1 - 0",
+    "team2": "Aston Villa",
+    "title": "AS Monaco VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720330/aston-villa-as-monaco"
+  },
+  {
+    "gameId": "720329",
+    "date": "Tuesday, January 21, 2025",
+    "team1": "Atalanta",
+    "score": "5 - 0",
+    "team2": "SK Sturm Graz",
+    "title": "Atalanta VS SK Sturm Graz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720329/sk-sturm-graz-atalanta"
+  },
+  {
+    "gameId": "720335",
+    "date": "Tuesday, January 21, 2025",
+    "team1": "Atlético Madrid",
+    "score": "2 - 1",
+    "team2": "Bayer Leverkusen",
+    "title": "Atlético Madrid VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720335/bayer-leverkusen-atletico-madrid"
+  },
+  {
+    "gameId": "720334",
+    "date": "Tuesday, January 21, 2025",
+    "team1": "Benfica",
+    "score": "4 - 5",
+    "team2": "Barcelona",
+    "title": "Benfica VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720334/barcelona-benfica"
+  },
+  {
+    "gameId": "720333",
+    "date": "Tuesday, January 21, 2025",
+    "team1": "Bologna",
+    "score": "2 - 1",
+    "team2": "Borussia Dortmund",
+    "title": "Bologna VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720333/borussia-dortmund-bologna"
+  },
+  {
+    "gameId": "720336",
+    "date": "Tuesday, January 21, 2025",
+    "team1": "Club Brugge",
+    "score": "0 - 0",
+    "team2": "Juventus",
+    "title": "Club Brugge VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720336/juventus-club-brugge"
+  },
+  {
+    "gameId": "720331",
+    "date": "Tuesday, January 21, 2025",
+    "team1": "Liverpool",
+    "score": "2 - 1",
+    "team2": "Lille",
+    "title": "Liverpool VS Lille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720331/lille-liverpool"
+  },
+  {
+    "gameId": "720332",
+    "date": "Tuesday, January 21, 2025",
+    "team1": "Red Star Belgrade",
+    "score": "2 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "Red Star Belgrade VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720332/psv-eindhoven-red-star-belgrade"
+  },
+  {
+    "gameId": "720337",
+    "date": "Tuesday, January 21, 2025",
+    "team1": "Slovan Bratislava",
+    "score": "1 - 3",
+    "team2": "VfB Stuttgart",
+    "title": "Slovan Bratislava VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720337/vfb-stuttgart-slovan-bratislava"
+  },
+  {
+    "gameId": "720339",
+    "date": "Wednesday, January 22, 2025",
+    "team1": "RB Leipzig",
+    "score": "2 - 1",
+    "team2": "Sporting CP",
+    "title": "RB Leipzig VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720339/sporting-cp-rb-leipzig"
+  },
+  {
+    "gameId": "720338",
+    "date": "Wednesday, January 22, 2025",
+    "team1": "Shakhtar Donetsk",
+    "score": "2 - 0",
+    "team2": "Brest",
+    "title": "Shakhtar Donetsk VS Brest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720338/brest-shakhtar-donetsk"
+  },
+  {
+    "gameId": "720346",
+    "date": "Wednesday, January 22, 2025",
+    "team1": "AC Milan",
+    "score": "1 - 0",
+    "team2": "Girona",
+    "title": "AC Milan VS Girona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720346/girona-ac-milan"
+  },
+  {
+    "gameId": "720343",
+    "date": "Wednesday, January 22, 2025",
+    "team1": "Arsenal",
+    "score": "3 - 0",
+    "team2": "Dinamo Zagreb",
+    "title": "Arsenal VS Dinamo Zagreb",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720343/dinamo-zagreb-arsenal"
+  },
+  {
+    "gameId": "720342",
+    "date": "Wednesday, January 22, 2025",
+    "team1": "Celtic",
+    "score": "1 - 0",
+    "team2": "Young Boys",
+    "title": "Celtic VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720342/young-boys-celtic"
+  },
+  {
+    "gameId": "720341",
+    "date": "Wednesday, January 22, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "3 - 0",
+    "team2": "Bayern Munich",
+    "title": "Feyenoord Rotterdam VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720341/bayern-munich-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "720344",
+    "date": "Wednesday, January 22, 2025",
+    "team1": "Paris Saint-Germain",
+    "score": "4 - 2",
+    "team2": "Manchester City",
+    "title": "Paris Saint-Germain VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720344/manchester-city-paris-saint-germain"
+  },
+  {
+    "gameId": "720345",
+    "date": "Wednesday, January 22, 2025",
+    "team1": "Real Madrid",
+    "score": "5 - 1",
+    "team2": "RB Salzburg",
+    "title": "Real Madrid VS RB Salzburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720345/rb-salzburg-real-madrid"
+  },
+  {
+    "gameId": "720340",
+    "date": "Wednesday, January 22, 2025",
+    "team1": "Sparta Prague",
+    "score": "0 - 1",
+    "team2": "Internazionale",
+    "title": "Sparta Prague VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720340/internazionale-sparta-prague"
+  },
+  {
+    "gameId": "720363",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Aston Villa",
+    "score": "4 - 2",
+    "team2": "Celtic",
+    "title": "Aston Villa VS Celtic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720363/celtic-aston-villa"
+  },
+  {
+    "gameId": "720362",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Barcelona",
+    "score": "2 - 2",
+    "team2": "Atalanta",
+    "title": "Barcelona VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720362/atalanta-barcelona"
+  },
+  {
+    "gameId": "720361",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Bayer Leverkusen",
+    "score": "2 - 0",
+    "team2": "Sparta Prague",
+    "title": "Bayer Leverkusen VS Sparta Prague",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720361/sparta-prague-bayer-leverkusen"
+  },
+  {
+    "gameId": "720357",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Bayern Munich",
+    "score": "3 - 1",
+    "team2": "Slovan Bratislava",
+    "title": "Bayern Munich VS Slovan Bratislava",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720357/slovan-bratislava-bayern-munich"
+  },
+  {
+    "gameId": "720360",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Borussia Dortmund",
+    "score": "3 - 1",
+    "team2": "Shakhtar Donetsk",
+    "title": "Borussia Dortmund VS Shakhtar Donetsk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720360/shakhtar-donetsk-borussia-dortmund"
+  },
+  {
+    "gameId": "720364",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Brest",
+    "score": "0 - 3",
+    "team2": "Real Madrid",
+    "title": "Brest VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720364/real-madrid-brest"
+  },
+  {
+    "gameId": "720358",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Dinamo Zagreb",
+    "score": "2 - 1",
+    "team2": "AC Milan",
+    "title": "Dinamo Zagreb VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720358/ac-milan-dinamo-zagreb"
+  },
+  {
+    "gameId": "720355",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Girona",
+    "score": "1 - 2",
+    "team2": "Arsenal",
+    "title": "Girona VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720355/arsenal-girona"
+  },
+  {
+    "gameId": "720347",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Internazionale",
+    "score": "3 - 0",
+    "team2": "AS Monaco",
+    "title": "Internazionale VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720347/as-monaco-internazionale"
+  },
+  {
+    "gameId": "720348",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Juventus",
+    "score": "0 - 2",
+    "team2": "Benfica",
+    "title": "Juventus VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720348/benfica-juventus"
+  },
+  {
+    "gameId": "720349",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Lille",
+    "score": "6 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Lille VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720349/feyenoord-rotterdam-lille"
+  },
+  {
+    "gameId": "720350",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Manchester City",
+    "score": "3 - 1",
+    "team2": "Club Brugge",
+    "title": "Manchester City VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720350/club-brugge-manchester-city"
+  },
+  {
+    "gameId": "720351",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "3 - 2",
+    "team2": "Liverpool",
+    "title": "PSV Eindhoven VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720351/liverpool-psv-eindhoven"
+  },
+  {
+    "gameId": "720356",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "RB Salzburg",
+    "score": "1 - 4",
+    "team2": "Atlético Madrid",
+    "title": "RB Salzburg VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720356/atletico-madrid-rb-salzburg"
+  },
+  {
+    "gameId": "720352",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "SK Sturm Graz",
+    "score": "1 - 0",
+    "team2": "RB Leipzig",
+    "title": "SK Sturm Graz VS RB Leipzig",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720352/rb-leipzig-sk-sturm-graz"
+  },
+  {
+    "gameId": "720353",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Sporting CP",
+    "score": "1 - 1",
+    "team2": "Bologna",
+    "title": "Sporting CP VS Bologna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720353/bologna-sporting-cp"
+  },
+  {
+    "gameId": "720354",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "VfB Stuttgart",
+    "score": "1 - 4",
+    "team2": "Paris Saint-Germain",
+    "title": "VfB Stuttgart VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720354/paris-saint-germain-vfb-stuttgart"
+  },
+  {
+    "gameId": "720359",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Young Boys",
+    "score": "0 - 1",
+    "team2": "Red Star Belgrade",
+    "title": "Young Boys VS Red Star Belgrade",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720359/red-star-belgrade-young-boys"
+  },
+  {
+    "gameId": "732185",
+    "date": "Tuesday, February 11, 2025",
+    "team1": "Brest",
+    "score": "0 - 3",
+    "team2": "Paris Saint-Germain",
+    "title": "Brest VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732185/paris-saint-germain-brest"
+  },
+  {
+    "gameId": "732190",
+    "date": "Tuesday, February 11, 2025",
+    "team1": "Juventus",
+    "score": "2 - 1",
+    "team2": "PSV Eindhoven",
+    "title": "Juventus VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732190/psv-eindhoven-juventus"
+  },
+  {
+    "gameId": "732187",
+    "date": "Tuesday, February 11, 2025",
+    "team1": "Manchester City",
+    "score": "2 - 3",
+    "team2": "Real Madrid",
+    "title": "Manchester City VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732187/real-madrid-manchester-city"
+  },
+  {
+    "gameId": "732189",
+    "date": "Tuesday, February 11, 2025",
+    "team1": "Sporting CP",
+    "score": "0 - 3",
+    "team2": "Borussia Dortmund",
+    "title": "Sporting CP VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732189/borussia-dortmund-sporting-cp"
+  },
+  {
+    "gameId": "732192",
+    "date": "Wednesday, February 12, 2025",
+    "team1": "Club Brugge",
+    "score": "2 - 1",
+    "team2": "Atalanta",
+    "title": "Club Brugge VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732192/atalanta-club-brugge"
+  },
+  {
+    "gameId": "732188",
+    "date": "Wednesday, February 12, 2025",
+    "team1": "AS Monaco",
+    "score": "0 - 1",
+    "team2": "Benfica",
+    "title": "AS Monaco VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732188/benfica-as-monaco"
+  },
+  {
+    "gameId": "732186",
+    "date": "Wednesday, February 12, 2025",
+    "team1": "Celtic",
+    "score": "1 - 2",
+    "team2": "Bayern Munich",
+    "title": "Celtic VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732186/bayern-munich-celtic"
+  },
+  {
+    "gameId": "732191",
+    "date": "Wednesday, February 12, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "1 - 0",
+    "team2": "AC Milan",
+    "title": "Feyenoord Rotterdam VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732191/ac-milan-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "732194",
+    "date": "Tuesday, February 18, 2025",
+    "team1": "AC Milan",
+    "score": "1 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "AC Milan VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732194/feyenoord-rotterdam-ac-milan"
+  },
+  {
+    "gameId": "732197",
+    "date": "Tuesday, February 18, 2025",
+    "team1": "Atalanta",
+    "score": "1 - 3",
+    "team2": "Club Brugge",
+    "title": "Atalanta VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732197/club-brugge-atalanta"
+  },
+  {
+    "gameId": "732193",
+    "date": "Tuesday, February 18, 2025",
+    "team1": "Bayern Munich",
+    "score": "1 - 1",
+    "team2": "Celtic",
+    "title": "Bayern Munich VS Celtic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732193/celtic-bayern-munich"
+  },
+  {
+    "gameId": "732198",
+    "date": "Tuesday, February 18, 2025",
+    "team1": "Benfica",
+    "score": "3 - 3",
+    "team2": "AS Monaco",
+    "title": "Benfica VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732198/as-monaco-benfica"
+  },
+  {
+    "gameId": "732199",
+    "date": "Wednesday, February 19, 2025",
+    "team1": "Borussia Dortmund",
+    "score": "0 - 0",
+    "team2": "Sporting CP",
+    "title": "Borussia Dortmund VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732199/sporting-cp-borussia-dortmund"
+  },
+  {
+    "gameId": "732196",
+    "date": "Wednesday, February 19, 2025",
+    "team1": "Paris Saint-Germain",
+    "score": "7 - 0",
+    "team2": "Brest",
+    "title": "Paris Saint-Germain VS Brest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732196/brest-paris-saint-germain"
+  },
+  {
+    "gameId": "732195",
+    "date": "Wednesday, February 19, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "3 - 1",
+    "team2": "Juventus",
+    "title": "PSV Eindhoven VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732195/juventus-psv-eindhoven"
+  },
+  {
+    "gameId": "732200",
+    "date": "Wednesday, February 19, 2025",
+    "team1": "Real Madrid",
+    "score": "3 - 1",
+    "team2": "Manchester City",
+    "title": "Real Madrid VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732200/manchester-city-real-madrid"
+  },
+  {
+    "gameId": "733145",
+    "date": "Tuesday, March 4, 2025",
+    "team1": "Club Brugge",
+    "score": "1 - 3",
+    "team2": "Aston Villa",
+    "title": "Club Brugge VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733145/aston-villa-club-brugge"
+  },
+  {
+    "gameId": "733601",
+    "date": "Tuesday, March 4, 2025",
+    "team1": "Borussia Dortmund",
+    "score": "1 - 1",
+    "team2": "Lille",
+    "title": "Borussia Dortmund VS Lille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733601/lille-borussia-dortmund"
+  },
+  {
+    "gameId": "733603",
+    "date": "Tuesday, March 4, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "1 - 7",
+    "team2": "Arsenal",
+    "title": "PSV Eindhoven VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733603/arsenal-psv-eindhoven"
+  },
+  {
+    "gameId": "733602",
+    "date": "Tuesday, March 4, 2025",
+    "team1": "Real Madrid",
+    "score": "2 - 1",
+    "team2": "Atlético Madrid",
+    "title": "Real Madrid VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733602/atletico-madrid-real-madrid"
+  },
+  {
+    "gameId": "733149",
+    "date": "Wednesday, March 5, 2025",
+    "team1": "Feyenoord Rotterdam",
+    "score": "0 - 2",
+    "team2": "Internazionale",
+    "title": "Feyenoord Rotterdam VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733149/internazionale-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "733147",
+    "date": "Wednesday, March 5, 2025",
+    "team1": "Bayern Munich",
+    "score": "3 - 0",
+    "team2": "Bayer Leverkusen",
+    "title": "Bayern Munich VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733147/bayer-leverkusen-bayern-munich"
+  },
+  {
+    "gameId": "733143",
+    "date": "Wednesday, March 5, 2025",
+    "team1": "Benfica",
+    "score": "0 - 1",
+    "team2": "Barcelona",
+    "title": "Benfica VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733143/barcelona-benfica"
+  },
+  {
+    "gameId": "733600",
+    "date": "Wednesday, March 5, 2025",
+    "team1": "Paris Saint-Germain",
+    "score": "0 - 1",
+    "team2": "Liverpool",
+    "title": "Paris Saint-Germain VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733600/liverpool-paris-saint-germain"
+  },
+  {
+    "gameId": "733144",
+    "date": "Tuesday, March 11, 2025",
+    "team1": "Barcelona",
+    "score": "3 - 1",
+    "team2": "Benfica",
+    "title": "Barcelona VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733144/benfica-barcelona"
+  },
+  {
+    "gameId": "733148",
+    "date": "Tuesday, March 11, 2025",
+    "team1": "Bayer Leverkusen",
+    "score": "0 - 2",
+    "team2": "Bayern Munich",
+    "title": "Bayer Leverkusen VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733148/bayern-munich-bayer-leverkusen"
+  },
+  {
+    "gameId": "733150",
+    "date": "Tuesday, March 11, 2025",
+    "team1": "Internazionale",
+    "score": "2 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Internazionale VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733150/feyenoord-rotterdam-internazionale"
+  },
+  {
+    "gameId": "733605",
+    "date": "Tuesday, March 11, 2025",
+    "team1": "Liverpool",
+    "score": "0 - 1",
+    "team2": "Paris Saint-Germain",
+    "title": "Liverpool VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733605/paris-saint-germain-liverpool"
+  },
+  {
+    "gameId": "733604",
+    "date": "Wednesday, March 12, 2025",
+    "team1": "Lille",
+    "score": "1 - 2",
+    "team2": "Borussia Dortmund",
+    "title": "Lille VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733604/borussia-dortmund-lille"
+  },
+  {
+    "gameId": "733607",
+    "date": "Wednesday, March 12, 2025",
+    "team1": "Arsenal",
+    "score": "2 - 2",
+    "team2": "PSV Eindhoven",
+    "title": "Arsenal VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733607/psv-eindhoven-arsenal"
+  },
+  {
+    "gameId": "733146",
+    "date": "Wednesday, March 12, 2025",
+    "team1": "Aston Villa",
+    "score": "3 - 0",
+    "team2": "Club Brugge",
+    "title": "Aston Villa VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733146/club-brugge-aston-villa"
+  },
+  {
+    "gameId": "733606",
+    "date": "Wednesday, March 12, 2025",
+    "team1": "Atlético Madrid",
+    "score": "1 - 0",
+    "team2": "Real Madrid",
+    "title": "Atlético Madrid VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733606/real-madrid-atletico-madrid"
+  },
+  {
+    "gameId": "733608",
+    "date": "Tuesday, April 8, 2025",
+    "team1": "Arsenal",
+    "score": "3 - 0",
+    "team2": "Real Madrid",
+    "title": "Arsenal VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733608/real-madrid-arsenal"
+  },
+  {
+    "gameId": "733611",
+    "date": "Tuesday, April 8, 2025",
+    "team1": "Bayern Munich",
+    "score": "1 - 2",
+    "team2": "Internazionale",
+    "title": "Bayern Munich VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733611/internazionale-bayern-munich"
+  },
+  {
+    "gameId": "733610",
+    "date": "Wednesday, April 9, 2025",
+    "team1": "Barcelona",
+    "score": "4 - 0",
+    "team2": "Borussia Dortmund",
+    "title": "Barcelona VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733610/borussia-dortmund-barcelona"
+  },
+  {
+    "gameId": "733609",
+    "date": "Wednesday, April 9, 2025",
+    "team1": "Paris Saint-Germain",
+    "score": "3 - 1",
+    "team2": "Aston Villa",
+    "title": "Paris Saint-Germain VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733609/aston-villa-paris-saint-germain"
+  },
+  {
+    "gameId": "733613",
+    "date": "Tuesday, April 15, 2025",
+    "team1": "Aston Villa",
+    "score": "3 - 2",
+    "team2": "Paris Saint-Germain",
+    "title": "Aston Villa VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733613/paris-saint-germain-aston-villa"
+  },
+  {
+    "gameId": "733614",
+    "date": "Tuesday, April 15, 2025",
+    "team1": "Borussia Dortmund",
+    "score": "3 - 1",
+    "team2": "Barcelona",
+    "title": "Borussia Dortmund VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733614/barcelona-borussia-dortmund"
+  },
+  {
+    "gameId": "733615",
+    "date": "Wednesday, April 16, 2025",
+    "team1": "Internazionale",
+    "score": "2 - 2",
+    "team2": "Bayern Munich",
+    "title": "Internazionale VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733615/bayern-munich-internazionale"
+  },
+  {
+    "gameId": "733612",
+    "date": "Wednesday, April 16, 2025",
+    "team1": "Real Madrid",
+    "score": "1 - 2",
+    "team2": "Arsenal",
+    "title": "Real Madrid VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733612/arsenal-real-madrid"
+  },
+  {
+    "gameId": "733616",
+    "date": "Tuesday, April 29, 2025",
+    "team1": "Arsenal",
+    "score": "0 - 1",
+    "team2": "Paris Saint-Germain",
+    "title": "Arsenal VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733616/paris-saint-germain-arsenal"
+  },
+  {
+    "gameId": "733617",
+    "date": "Wednesday, April 30, 2025",
+    "team1": "Barcelona",
+    "score": "3 - 3",
+    "team2": "Internazionale",
+    "title": "Barcelona VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733617/internazionale-barcelona"
+  },
+  {
+    "gameId": "733619",
+    "date": "Tuesday, May 6, 2025",
+    "team1": "Internazionale",
+    "score": "4 - 3",
+    "team2": "Barcelona",
+    "title": "Internazionale VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733619/barcelona-internazionale"
+  },
+  {
+    "gameId": "733618",
+    "date": "Wednesday, May 7, 2025",
+    "team1": "Paris Saint-Germain",
+    "score": "2 - 1",
+    "team2": "Arsenal",
+    "title": "Paris Saint-Germain VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733618/arsenal-paris-saint-germain"
+  },
+  {
+    "gameId": "733620",
+    "date": "Saturday, May 31, 2025",
+    "team1": "Paris Saint-Germain",
+    "score": "5 - 0",
+    "team2": "Internazionale",
+    "title": "Paris Saint-Germain VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/733620/internazionale-paris-saint-germain"
+  },
+  {
+    "gameId": "757653",
+    "date": "Tuesday, September 16, 2025",
+    "team1": "Athletic Club",
+    "score": "0 - 2",
+    "team2": "Arsenal",
+    "title": "Athletic Club VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757653/arsenal-athletic-club"
+  },
+  {
+    "gameId": "757654",
+    "date": "Tuesday, September 16, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "1 - 3",
+    "team2": "Union St.-Gilloise",
+    "title": "PSV Eindhoven VS Union St.-Gilloise",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757654/union-st-gilloise-psv-eindhoven"
+  },
+  {
+    "gameId": "757657",
+    "date": "Tuesday, September 16, 2025",
+    "team1": "Benfica",
+    "score": "2 - 3",
+    "team2": "FK Qarabag",
+    "title": "Benfica VS FK Qarabag",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757657/fk-qarabag-benfica"
+  },
+  {
+    "gameId": "757656",
+    "date": "Tuesday, September 16, 2025",
+    "team1": "Juventus",
+    "score": "4 - 4",
+    "team2": "Borussia Dortmund",
+    "title": "Juventus VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757656/borussia-dortmund-juventus"
+  },
+  {
+    "gameId": "757655",
+    "date": "Tuesday, September 16, 2025",
+    "team1": "Real Madrid",
+    "score": "2 - 1",
+    "team2": "Marseille",
+    "title": "Real Madrid VS Marseille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757655/marseille-real-madrid"
+  },
+  {
+    "gameId": "757658",
+    "date": "Tuesday, September 16, 2025",
+    "team1": "Tottenham Hotspur",
+    "score": "1 - 0",
+    "team2": "Villarreal",
+    "title": "Tottenham Hotspur VS Villarreal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757658/villarreal-tottenham-hotspur"
+  },
+  {
+    "gameId": "757659",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Olympiacos",
+    "score": "0 - 0",
+    "team2": "Pafos",
+    "title": "Olympiacos VS Pafos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757659/pafos-olympiacos"
+  },
+  {
+    "gameId": "757660",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Slavia Prague",
+    "score": "2 - 2",
+    "team2": "Bodo/Glimt",
+    "title": "Slavia Prague VS Bodo/Glimt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757660/bodoglimt-slavia-prague"
+  },
+  {
+    "gameId": "757664",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "0 - 2",
+    "team2": "Internazionale",
+    "title": "Ajax Amsterdam VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757664/internazionale-ajax-amsterdam"
+  },
+  {
+    "gameId": "757663",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Bayern Munich",
+    "score": "3 - 1",
+    "team2": "Chelsea",
+    "title": "Bayern Munich VS Chelsea",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757663/chelsea-bayern-munich"
+  },
+  {
+    "gameId": "757662",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Liverpool",
+    "score": "3 - 2",
+    "team2": "Atlético Madrid",
+    "title": "Liverpool VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757662/atletico-madrid-liverpool"
+  },
+  {
+    "gameId": "757661",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Paris Saint-Germain",
+    "score": "4 - 0",
+    "team2": "Atalanta",
+    "title": "Paris Saint-Germain VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757661/atalanta-paris-saint-germain"
+  },
+  {
+    "gameId": "757665",
+    "date": "Thursday, September 18, 2025",
+    "team1": "Club Brugge",
+    "score": "4 - 1",
+    "team2": "AS Monaco",
+    "title": "Club Brugge VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757665/as-monaco-club-brugge"
+  },
+  {
+    "gameId": "757666",
+    "date": "Thursday, September 18, 2025",
+    "team1": "F.C. København",
+    "score": "2 - 2",
+    "team2": "Bayer Leverkusen",
+    "title": "F.C. København VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757666/bayer-leverkusen-fc-københavn"
+  },
+  {
+    "gameId": "757668",
+    "date": "Thursday, September 18, 2025",
+    "team1": "Eintracht Frankfurt",
+    "score": "5 - 1",
+    "team2": "Galatasaray",
+    "title": "Eintracht Frankfurt VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757668/galatasaray-eintracht-frankfurt"
+  },
+  {
+    "gameId": "757667",
+    "date": "Thursday, September 18, 2025",
+    "team1": "Manchester City",
+    "score": "2 - 0",
+    "team2": "Napoli",
+    "title": "Manchester City VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757667/napoli-manchester-city"
+  },
+  {
+    "gameId": "757669",
+    "date": "Thursday, September 18, 2025",
+    "team1": "Newcastle United",
+    "score": "1 - 2",
+    "team2": "Barcelona",
+    "title": "Newcastle United VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757669/barcelona-newcastle-united"
+  },
+  {
+    "gameId": "757670",
+    "date": "Thursday, September 18, 2025",
+    "team1": "Sporting CP",
+    "score": "4 - 1",
+    "team2": "Kairat Almaty",
+    "title": "Sporting CP VS Kairat Almaty",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757670/kairat-almaty-sporting-cp"
+  },
+  {
+    "gameId": "757672",
+    "date": "Tuesday, September 30, 2025",
+    "team1": "Atalanta",
+    "score": "2 - 1",
+    "team2": "Club Brugge",
+    "title": "Atalanta VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757672/club-brugge-atalanta"
+  },
+  {
+    "gameId": "757671",
+    "date": "Tuesday, September 30, 2025",
+    "team1": "Kairat Almaty",
+    "score": "0 - 5",
+    "team2": "Real Madrid",
+    "title": "Kairat Almaty VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757671/real-madrid-kairat-almaty"
+  },
+  {
+    "gameId": "757673",
+    "date": "Tuesday, September 30, 2025",
+    "team1": "Atlético Madrid",
+    "score": "5 - 1",
+    "team2": "Eintracht Frankfurt",
+    "title": "Atlético Madrid VS Eintracht Frankfurt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757673/eintracht-frankfurt-atletico-madrid"
+  },
+  {
+    "gameId": "757674",
+    "date": "Tuesday, September 30, 2025",
+    "team1": "Bodo/Glimt",
+    "score": "2 - 2",
+    "team2": "Tottenham Hotspur",
+    "title": "Bodo/Glimt VS Tottenham Hotspur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757674/tottenham-hotspur-bodoglimt"
+  },
+  {
+    "gameId": "757675",
+    "date": "Tuesday, September 30, 2025",
+    "team1": "Chelsea",
+    "score": "1 - 0",
+    "team2": "Benfica",
+    "title": "Chelsea VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757675/benfica-chelsea"
+  },
+  {
+    "gameId": "757676",
+    "date": "Tuesday, September 30, 2025",
+    "team1": "Galatasaray",
+    "score": "1 - 0",
+    "team2": "Liverpool",
+    "title": "Galatasaray VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757676/liverpool-galatasaray"
+  },
+  {
+    "gameId": "757678",
+    "date": "Tuesday, September 30, 2025",
+    "team1": "Internazionale",
+    "score": "3 - 0",
+    "team2": "Slavia Prague",
+    "title": "Internazionale VS Slavia Prague",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757678/slavia-prague-internazionale"
+  },
+  {
+    "gameId": "757679",
+    "date": "Tuesday, September 30, 2025",
+    "team1": "Marseille",
+    "score": "4 - 0",
+    "team2": "Ajax Amsterdam",
+    "title": "Marseille VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757679/ajax-amsterdam-marseille"
+  },
+  {
+    "gameId": "757677",
+    "date": "Tuesday, September 30, 2025",
+    "team1": "Pafos",
+    "score": "1 - 5",
+    "team2": "Bayern Munich",
+    "title": "Pafos VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757677/bayern-munich-pafos"
+  },
+  {
+    "gameId": "757680",
+    "date": "Wednesday, October 1, 2025",
+    "team1": "FK Qarabag",
+    "score": "2 - 0",
+    "team2": "F.C. København",
+    "title": "FK Qarabag VS F.C. København",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757680/fc-københavn-fk-qarabag"
+  },
+  {
+    "gameId": "757681",
+    "date": "Wednesday, October 1, 2025",
+    "team1": "Union St.-Gilloise",
+    "score": "0 - 4",
+    "team2": "Newcastle United",
+    "title": "Union St.-Gilloise VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757681/newcastle-united-union-st-gilloise"
+  },
+  {
+    "gameId": "757688",
+    "date": "Wednesday, October 1, 2025",
+    "team1": "Arsenal",
+    "score": "2 - 0",
+    "team2": "Olympiacos",
+    "title": "Arsenal VS Olympiacos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757688/olympiacos-arsenal"
+  },
+  {
+    "gameId": "757686",
+    "date": "Wednesday, October 1, 2025",
+    "team1": "AS Monaco",
+    "score": "2 - 2",
+    "team2": "Manchester City",
+    "title": "AS Monaco VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757686/manchester-city-as-monaco"
+  },
+  {
+    "gameId": "757687",
+    "date": "Wednesday, October 1, 2025",
+    "team1": "Barcelona",
+    "score": "1 - 2",
+    "team2": "Paris Saint-Germain",
+    "title": "Barcelona VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757687/paris-saint-germain-barcelona"
+  },
+  {
+    "gameId": "757684",
+    "date": "Wednesday, October 1, 2025",
+    "team1": "Bayer Leverkusen",
+    "score": "1 - 1",
+    "team2": "PSV Eindhoven",
+    "title": "Bayer Leverkusen VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757684/psv-eindhoven-bayer-leverkusen"
+  },
+  {
+    "gameId": "757683",
+    "date": "Wednesday, October 1, 2025",
+    "team1": "Borussia Dortmund",
+    "score": "4 - 1",
+    "team2": "Athletic Club",
+    "title": "Borussia Dortmund VS Athletic Club",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757683/athletic-club-borussia-dortmund"
+  },
+  {
+    "gameId": "757685",
+    "date": "Wednesday, October 1, 2025",
+    "team1": "Napoli",
+    "score": "2 - 1",
+    "team2": "Sporting CP",
+    "title": "Napoli VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757685/sporting-cp-napoli"
+  },
+  {
+    "gameId": "757682",
+    "date": "Wednesday, October 1, 2025",
+    "team1": "Villarreal",
+    "score": "2 - 2",
+    "team2": "Juventus",
+    "title": "Villarreal VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757682/juventus-villarreal"
+  },
+  {
+    "gameId": "757690",
+    "date": "Tuesday, October 21, 2025",
+    "team1": "Barcelona",
+    "score": "6 - 1",
+    "team2": "Olympiacos",
+    "title": "Barcelona VS Olympiacos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757690/olympiacos-barcelona"
+  },
+  {
+    "gameId": "757689",
+    "date": "Tuesday, October 21, 2025",
+    "team1": "Kairat Almaty",
+    "score": "0 - 0",
+    "team2": "Pafos",
+    "title": "Kairat Almaty VS Pafos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757689/pafos-kairat-almaty"
+  },
+  {
+    "gameId": "757697",
+    "date": "Tuesday, October 21, 2025",
+    "team1": "Arsenal",
+    "score": "4 - 0",
+    "team2": "Atlético Madrid",
+    "title": "Arsenal VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757697/atletico-madrid-arsenal"
+  },
+  {
+    "gameId": "757693",
+    "date": "Tuesday, October 21, 2025",
+    "team1": "Bayer Leverkusen",
+    "score": "2 - 7",
+    "team2": "Paris Saint-Germain",
+    "title": "Bayer Leverkusen VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757693/paris-saint-germain-bayer-leverkusen"
+  },
+  {
+    "gameId": "757695",
+    "date": "Tuesday, October 21, 2025",
+    "team1": "F.C. København",
+    "score": "2 - 4",
+    "team2": "Borussia Dortmund",
+    "title": "F.C. København VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757695/borussia-dortmund-fc-københavn"
+  },
+  {
+    "gameId": "757696",
+    "date": "Tuesday, October 21, 2025",
+    "team1": "Newcastle United",
+    "score": "3 - 0",
+    "team2": "Benfica",
+    "title": "Newcastle United VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757696/benfica-newcastle-united"
+  },
+  {
+    "gameId": "757691",
+    "date": "Tuesday, October 21, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "6 - 2",
+    "team2": "Napoli",
+    "title": "PSV Eindhoven VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757691/napoli-psv-eindhoven"
+  },
+  {
+    "gameId": "757692",
+    "date": "Tuesday, October 21, 2025",
+    "team1": "Union St.-Gilloise",
+    "score": "0 - 4",
+    "team2": "Internazionale",
+    "title": "Union St.-Gilloise VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757692/internazionale-union-st-gilloise"
+  },
+  {
+    "gameId": "757694",
+    "date": "Tuesday, October 21, 2025",
+    "team1": "Villarreal",
+    "score": "0 - 2",
+    "team2": "Manchester City",
+    "title": "Villarreal VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757694/manchester-city-villarreal"
+  },
+  {
+    "gameId": "757699",
+    "date": "Wednesday, October 22, 2025",
+    "team1": "Athletic Club",
+    "score": "3 - 1",
+    "team2": "FK Qarabag",
+    "title": "Athletic Club VS FK Qarabag",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757699/fk-qarabag-athletic-club"
+  },
+  {
+    "gameId": "757698",
+    "date": "Wednesday, October 22, 2025",
+    "team1": "Galatasaray",
+    "score": "3 - 1",
+    "team2": "Bodo/Glimt",
+    "title": "Galatasaray VS Bodo/Glimt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757698/bodoglimt-galatasaray"
+  },
+  {
+    "gameId": "757704",
+    "date": "Wednesday, October 22, 2025",
+    "team1": "AS Monaco",
+    "score": "0 - 0",
+    "team2": "Tottenham Hotspur",
+    "title": "AS Monaco VS Tottenham Hotspur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757704/tottenham-hotspur-as-monaco"
+  },
+  {
+    "gameId": "757700",
+    "date": "Wednesday, October 22, 2025",
+    "team1": "Atalanta",
+    "score": "0 - 0",
+    "team2": "Slavia Prague",
+    "title": "Atalanta VS Slavia Prague",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757700/slavia-prague-atalanta"
+  },
+  {
+    "gameId": "757703",
+    "date": "Wednesday, October 22, 2025",
+    "team1": "Bayern Munich",
+    "score": "4 - 0",
+    "team2": "Club Brugge",
+    "title": "Bayern Munich VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757703/club-brugge-bayern-munich"
+  },
+  {
+    "gameId": "757701",
+    "date": "Wednesday, October 22, 2025",
+    "team1": "Chelsea",
+    "score": "5 - 1",
+    "team2": "Ajax Amsterdam",
+    "title": "Chelsea VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757701/ajax-amsterdam-chelsea"
+  },
+  {
+    "gameId": "757702",
+    "date": "Wednesday, October 22, 2025",
+    "team1": "Eintracht Frankfurt",
+    "score": "1 - 5",
+    "team2": "Liverpool",
+    "title": "Eintracht Frankfurt VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757702/liverpool-eintracht-frankfurt"
+  },
+  {
+    "gameId": "757705",
+    "date": "Wednesday, October 22, 2025",
+    "team1": "Real Madrid",
+    "score": "1 - 0",
+    "team2": "Juventus",
+    "title": "Real Madrid VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757705/juventus-real-madrid"
+  },
+  {
+    "gameId": "757706",
+    "date": "Wednesday, October 22, 2025",
+    "team1": "Sporting CP",
+    "score": "2 - 1",
+    "team2": "Marseille",
+    "title": "Sporting CP VS Marseille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757706/marseille-sporting-cp"
+  },
+  {
+    "gameId": "757708",
+    "date": "Tuesday, November 4, 2025",
+    "team1": "Napoli",
+    "score": "0 - 0",
+    "team2": "Eintracht Frankfurt",
+    "title": "Napoli VS Eintracht Frankfurt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757708/eintracht-frankfurt-napoli"
+  },
+  {
+    "gameId": "757707",
+    "date": "Tuesday, November 4, 2025",
+    "team1": "Slavia Prague",
+    "score": "0 - 3",
+    "team2": "Arsenal",
+    "title": "Slavia Prague VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757707/arsenal-slavia-prague"
+  },
+  {
+    "gameId": "757711",
+    "date": "Tuesday, November 4, 2025",
+    "team1": "Atlético Madrid",
+    "score": "3 - 1",
+    "team2": "Union St.-Gilloise",
+    "title": "Atlético Madrid VS Union St.-Gilloise",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757711/union-st-gilloise-atletico-madrid"
+  },
+  {
+    "gameId": "757712",
+    "date": "Tuesday, November 4, 2025",
+    "team1": "Bodo/Glimt",
+    "score": "0 - 1",
+    "team2": "AS Monaco",
+    "title": "Bodo/Glimt VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757712/as-monaco-bodoglimt"
+  },
+  {
+    "gameId": "757710",
+    "date": "Tuesday, November 4, 2025",
+    "team1": "Juventus",
+    "score": "1 - 1",
+    "team2": "Sporting CP",
+    "title": "Juventus VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757710/sporting-cp-juventus"
+  },
+  {
+    "gameId": "757714",
+    "date": "Tuesday, November 4, 2025",
+    "team1": "Liverpool",
+    "score": "1 - 0",
+    "team2": "Real Madrid",
+    "title": "Liverpool VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757714/real-madrid-liverpool"
+  },
+  {
+    "gameId": "757713",
+    "date": "Tuesday, November 4, 2025",
+    "team1": "Olympiacos",
+    "score": "1 - 1",
+    "team2": "PSV Eindhoven",
+    "title": "Olympiacos VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757713/psv-eindhoven-olympiacos"
+  },
+  {
+    "gameId": "757709",
+    "date": "Tuesday, November 4, 2025",
+    "team1": "Paris Saint-Germain",
+    "score": "1 - 2",
+    "team2": "Bayern Munich",
+    "title": "Paris Saint-Germain VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757709/bayern-munich-paris-saint-germain"
+  },
+  {
+    "gameId": "757715",
+    "date": "Tuesday, November 4, 2025",
+    "team1": "Tottenham Hotspur",
+    "score": "4 - 0",
+    "team2": "F.C. København",
+    "title": "Tottenham Hotspur VS F.C. København",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757715/fc-københavn-tottenham-hotspur"
+  },
+  {
+    "gameId": "757716",
+    "date": "Wednesday, November 5, 2025",
+    "team1": "FK Qarabag",
+    "score": "2 - 2",
+    "team2": "Chelsea",
+    "title": "FK Qarabag VS Chelsea",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757716/chelsea-fk-qarabag"
+  },
+  {
+    "gameId": "757717",
+    "date": "Wednesday, November 5, 2025",
+    "team1": "Pafos",
+    "score": "1 - 0",
+    "team2": "Villarreal",
+    "title": "Pafos VS Villarreal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757717/villarreal-pafos"
+  },
+  {
+    "gameId": "757721",
+    "date": "Wednesday, November 5, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "0 - 3",
+    "team2": "Galatasaray",
+    "title": "Ajax Amsterdam VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757721/galatasaray-ajax-amsterdam"
+  },
+  {
+    "gameId": "757720",
+    "date": "Wednesday, November 5, 2025",
+    "team1": "Benfica",
+    "score": "0 - 1",
+    "team2": "Bayer Leverkusen",
+    "title": "Benfica VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757720/bayer-leverkusen-benfica"
+  },
+  {
+    "gameId": "757723",
+    "date": "Wednesday, November 5, 2025",
+    "team1": "Club Brugge",
+    "score": "3 - 3",
+    "team2": "Barcelona",
+    "title": "Club Brugge VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757723/barcelona-club-brugge"
+  },
+  {
+    "gameId": "757722",
+    "date": "Wednesday, November 5, 2025",
+    "team1": "Internazionale",
+    "score": "2 - 1",
+    "team2": "Kairat Almaty",
+    "title": "Internazionale VS Kairat Almaty",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757722/kairat-almaty-internazionale"
+  },
+  {
+    "gameId": "757718",
+    "date": "Wednesday, November 5, 2025",
+    "team1": "Manchester City",
+    "score": "4 - 1",
+    "team2": "Borussia Dortmund",
+    "title": "Manchester City VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757718/borussia-dortmund-manchester-city"
+  },
+  {
+    "gameId": "757724",
+    "date": "Wednesday, November 5, 2025",
+    "team1": "Marseille",
+    "score": "0 - 1",
+    "team2": "Atalanta",
+    "title": "Marseille VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757724/atalanta-marseille"
+  },
+  {
+    "gameId": "757719",
+    "date": "Wednesday, November 5, 2025",
+    "team1": "Newcastle United",
+    "score": "2 - 0",
+    "team2": "Athletic Club",
+    "title": "Newcastle United VS Athletic Club",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757719/athletic-club-newcastle-united"
+  },
+  {
+    "gameId": "757725",
+    "date": "Tuesday, November 25, 2025",
+    "team1": "Ajax Amsterdam",
+    "score": "0 - 2",
+    "team2": "Benfica",
+    "title": "Ajax Amsterdam VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757725/benfica-ajax-amsterdam"
+  },
+  {
+    "gameId": "757726",
+    "date": "Tuesday, November 25, 2025",
+    "team1": "Galatasaray",
+    "score": "0 - 1",
+    "team2": "Union St.-Gilloise",
+    "title": "Galatasaray VS Union St.-Gilloise",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757726/union-st-gilloise-galatasaray"
+  },
+  {
+    "gameId": "757731",
+    "date": "Tuesday, November 25, 2025",
+    "team1": "Bodo/Glimt",
+    "score": "2 - 3",
+    "team2": "Juventus",
+    "title": "Bodo/Glimt VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757731/juventus-bodoglimt"
+  },
+  {
+    "gameId": "757727",
+    "date": "Tuesday, November 25, 2025",
+    "team1": "Borussia Dortmund",
+    "score": "4 - 0",
+    "team2": "Villarreal",
+    "title": "Borussia Dortmund VS Villarreal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757727/villarreal-borussia-dortmund"
+  },
+  {
+    "gameId": "757732",
+    "date": "Tuesday, November 25, 2025",
+    "team1": "Chelsea",
+    "score": "3 - 0",
+    "team2": "Barcelona",
+    "title": "Chelsea VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757732/barcelona-chelsea"
+  },
+  {
+    "gameId": "757730",
+    "date": "Tuesday, November 25, 2025",
+    "team1": "Manchester City",
+    "score": "0 - 2",
+    "team2": "Bayer Leverkusen",
+    "title": "Manchester City VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757730/bayer-leverkusen-manchester-city"
+  },
+  {
+    "gameId": "757729",
+    "date": "Tuesday, November 25, 2025",
+    "team1": "Marseille",
+    "score": "2 - 1",
+    "team2": "Newcastle United",
+    "title": "Marseille VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757729/newcastle-united-marseille"
+  },
+  {
+    "gameId": "757728",
+    "date": "Tuesday, November 25, 2025",
+    "team1": "Napoli",
+    "score": "2 - 0",
+    "team2": "FK Qarabag",
+    "title": "Napoli VS FK Qarabag",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757728/fk-qarabag-napoli"
+  },
+  {
+    "gameId": "757733",
+    "date": "Tuesday, November 25, 2025",
+    "team1": "Slavia Prague",
+    "score": "0 - 0",
+    "team2": "Athletic Club",
+    "title": "Slavia Prague VS Athletic Club",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757733/athletic-club-slavia-prague"
+  },
+  {
+    "gameId": "757735",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "F.C. København",
+    "score": "3 - 2",
+    "team2": "Kairat Almaty",
+    "title": "F.C. København VS Kairat Almaty",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757735/kairat-almaty-fc-københavn"
+  },
+  {
+    "gameId": "757734",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "Pafos",
+    "score": "2 - 2",
+    "team2": "AS Monaco",
+    "title": "Pafos VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757734/as-monaco-pafos"
+  },
+  {
+    "gameId": "757742",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "Arsenal",
+    "score": "3 - 1",
+    "team2": "Bayern Munich",
+    "title": "Arsenal VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757742/bayern-munich-arsenal"
+  },
+  {
+    "gameId": "757740",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "Atlético Madrid",
+    "score": "2 - 1",
+    "team2": "Internazionale",
+    "title": "Atlético Madrid VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757740/internazionale-atletico-madrid"
+  },
+  {
+    "gameId": "757739",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "Eintracht Frankfurt",
+    "score": "0 - 3",
+    "team2": "Atalanta",
+    "title": "Eintracht Frankfurt VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757739/atalanta-eintracht-frankfurt"
+  },
+  {
+    "gameId": "757738",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "Liverpool",
+    "score": "1 - 4",
+    "team2": "PSV Eindhoven",
+    "title": "Liverpool VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757738/psv-eindhoven-liverpool"
+  },
+  {
+    "gameId": "757737",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "Olympiacos",
+    "score": "3 - 4",
+    "team2": "Real Madrid",
+    "title": "Olympiacos VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757737/real-madrid-olympiacos"
+  },
+  {
+    "gameId": "757736",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "Paris Saint-Germain",
+    "score": "5 - 3",
+    "team2": "Tottenham Hotspur",
+    "title": "Paris Saint-Germain VS Tottenham Hotspur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757736/tottenham-hotspur-paris-saint-germain"
+  },
+  {
+    "gameId": "757741",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "Sporting CP",
+    "score": "3 - 0",
+    "team2": "Club Brugge",
+    "title": "Sporting CP VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757741/club-brugge-sporting-cp"
+  },
+  {
+    "gameId": "757743",
+    "date": "Tuesday, December 9, 2025",
+    "team1": "Kairat Almaty",
+    "score": "0 - 1",
+    "team2": "Olympiacos",
+    "title": "Kairat Almaty VS Olympiacos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757743/olympiacos-kairat-almaty"
+  },
+  {
+    "gameId": "757744",
+    "date": "Tuesday, December 9, 2025",
+    "team1": "Bayern Munich",
+    "score": "3 - 1",
+    "team2": "Sporting CP",
+    "title": "Bayern Munich VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757744/sporting-cp-bayern-munich"
+  },
+  {
+    "gameId": "757751",
+    "date": "Tuesday, December 9, 2025",
+    "team1": "AS Monaco",
+    "score": "1 - 0",
+    "team2": "Galatasaray",
+    "title": "AS Monaco VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757751/galatasaray-as-monaco"
+  },
+  {
+    "gameId": "757747",
+    "date": "Tuesday, December 9, 2025",
+    "team1": "Atalanta",
+    "score": "2 - 1",
+    "team2": "Chelsea",
+    "title": "Atalanta VS Chelsea",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757747/chelsea-atalanta"
+  },
+  {
+    "gameId": "757746",
+    "date": "Tuesday, December 9, 2025",
+    "team1": "Barcelona",
+    "score": "2 - 1",
+    "team2": "Eintracht Frankfurt",
+    "title": "Barcelona VS Eintracht Frankfurt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757746/eintracht-frankfurt-barcelona"
+  },
+  {
+    "gameId": "757745",
+    "date": "Tuesday, December 9, 2025",
+    "team1": "Internazionale",
+    "score": "0 - 1",
+    "team2": "Liverpool",
+    "title": "Internazionale VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757745/liverpool-internazionale"
+  },
+  {
+    "gameId": "757750",
+    "date": "Tuesday, December 9, 2025",
+    "team1": "PSV Eindhoven",
+    "score": "2 - 3",
+    "team2": "Atlético Madrid",
+    "title": "PSV Eindhoven VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757750/atletico-madrid-psv-eindhoven"
+  },
+  {
+    "gameId": "757749",
+    "date": "Tuesday, December 9, 2025",
+    "team1": "Tottenham Hotspur",
+    "score": "3 - 0",
+    "team2": "Slavia Prague",
+    "title": "Tottenham Hotspur VS Slavia Prague",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757749/slavia-prague-tottenham-hotspur"
+  },
+  {
+    "gameId": "757748",
+    "date": "Tuesday, December 9, 2025",
+    "team1": "Union St.-Gilloise",
+    "score": "2 - 3",
+    "team2": "Marseille",
+    "title": "Union St.-Gilloise VS Marseille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757748/marseille-union-st-gilloise"
+  },
+  {
+    "gameId": "757752",
+    "date": "Wednesday, December 10, 2025",
+    "team1": "FK Qarabag",
+    "score": "2 - 4",
+    "team2": "Ajax Amsterdam",
+    "title": "FK Qarabag VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757752/ajax-amsterdam-fk-qarabag"
+  },
+  {
+    "gameId": "757753",
+    "date": "Wednesday, December 10, 2025",
+    "team1": "Villarreal",
+    "score": "2 - 3",
+    "team2": "F.C. København",
+    "title": "Villarreal VS F.C. København",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757753/fc-københavn-villarreal"
+  },
+  {
+    "gameId": "757759",
+    "date": "Wednesday, December 10, 2025",
+    "team1": "Athletic Club",
+    "score": "0 - 0",
+    "team2": "Paris Saint-Germain",
+    "title": "Athletic Club VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757759/paris-saint-germain-athletic-club"
+  },
+  {
+    "gameId": "757758",
+    "date": "Wednesday, December 10, 2025",
+    "team1": "Bayer Leverkusen",
+    "score": "2 - 2",
+    "team2": "Newcastle United",
+    "title": "Bayer Leverkusen VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757758/newcastle-united-bayer-leverkusen"
+  },
+  {
+    "gameId": "757754",
+    "date": "Wednesday, December 10, 2025",
+    "team1": "Benfica",
+    "score": "2 - 0",
+    "team2": "Napoli",
+    "title": "Benfica VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757754/napoli-benfica"
+  },
+  {
+    "gameId": "757755",
+    "date": "Wednesday, December 10, 2025",
+    "team1": "Borussia Dortmund",
+    "score": "2 - 2",
+    "team2": "Bodo/Glimt",
+    "title": "Borussia Dortmund VS Bodo/Glimt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757755/bodoglimt-borussia-dortmund"
+  },
+  {
+    "gameId": "757757",
+    "date": "Wednesday, December 10, 2025",
+    "team1": "Club Brugge",
+    "score": "0 - 3",
+    "team2": "Arsenal",
+    "title": "Club Brugge VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757757/arsenal-club-brugge"
+  },
+  {
+    "gameId": "757756",
+    "date": "Wednesday, December 10, 2025",
+    "team1": "Juventus",
+    "score": "2 - 0",
+    "team2": "Pafos",
+    "title": "Juventus VS Pafos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757756/pafos-juventus"
+  },
+  {
+    "gameId": "757760",
+    "date": "Wednesday, December 10, 2025",
+    "team1": "Real Madrid",
+    "score": "1 - 2",
+    "team2": "Manchester City",
+    "title": "Real Madrid VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757760/manchester-city-real-madrid"
+  }
+]

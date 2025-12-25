@@ -1,0 +1,5420 @@
+[
+  {
+    "gameId": "698254",
+    "date": "Thursday, February 15, 2024",
+    "team1": "Sporting Cristal",
+    "score": "4 - 1",
+    "team2": "Los Chankas",
+    "title": "Sporting Cristal VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/698254/los-chankas-sporting-cristal"
+  },
+  {
+    "gameId": "698255",
+    "date": "Friday, February 16, 2024",
+    "team1": "Alianza Atlético",
+    "score": "2 - 0",
+    "team2": "UTC",
+    "title": "Alianza Atlético VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/698255/utc-alianza-atletico"
+  },
+  {
+    "gameId": "698256",
+    "date": "Saturday, February 17, 2024",
+    "team1": "ADT",
+    "score": "4 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "ADT VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/698256/carlos-a-mannucci-adt"
+  },
+  {
+    "gameId": "698257",
+    "date": "Saturday, February 17, 2024",
+    "team1": "Cusco FC",
+    "score": "1 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Cusco FC VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/698257/deportivo-garcilaso-cusco-fc"
+  },
+  {
+    "gameId": "698258",
+    "date": "Saturday, February 17, 2024",
+    "team1": "Universitario",
+    "score": "2 - 0",
+    "team2": "Melgar",
+    "title": "Universitario VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/698258/melgar-universitario"
+  },
+  {
+    "gameId": "698259",
+    "date": "Sunday, February 18, 2024",
+    "team1": "Unión Comercio",
+    "score": "1 - 3",
+    "team2": "Alianza Lima",
+    "title": "Unión Comercio VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/698259/alianza-lima-union-comercio"
+  },
+  {
+    "gameId": "698260",
+    "date": "Sunday, February 18, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "3 - 2",
+    "team2": "Sport Boys",
+    "title": "Cienciano del Cusco VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/698260/sport-boys-cienciano-del-cusco"
+  },
+  {
+    "gameId": "698261",
+    "date": "Sunday, February 18, 2024",
+    "team1": "César Vallejo",
+    "score": "1 - 1",
+    "team2": "Sport Huancayo",
+    "title": "César Vallejo VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/698261/sport-huancayo-cesar-vallejo"
+  },
+  {
+    "gameId": "698262",
+    "date": "Monday, February 19, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "2 - 2",
+    "team2": "Atlético Grau",
+    "title": "Comerciantes Unidos VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/698262/atletico-grau-comerciantes-unidos"
+  },
+  {
+    "gameId": "699032",
+    "date": "Friday, February 23, 2024",
+    "team1": "Sport Huancayo",
+    "score": "4 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Sport Huancayo VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699032/alianza-atletico-sport-huancayo"
+  },
+  {
+    "gameId": "699033",
+    "date": "Saturday, February 24, 2024",
+    "team1": "Sport Boys",
+    "score": "3 - 0",
+    "team2": "Cusco FC",
+    "title": "Sport Boys VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699033/cusco-fc-sport-boys"
+  },
+  {
+    "gameId": "699034",
+    "date": "Saturday, February 24, 2024",
+    "team1": "UTC",
+    "score": "0 - 0",
+    "team2": "Universitario",
+    "title": "UTC VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699034/universitario-utc"
+  },
+  {
+    "gameId": "699035",
+    "date": "Saturday, February 24, 2024",
+    "team1": "Melgar",
+    "score": "2 - 1",
+    "team2": "Unión Comercio",
+    "title": "Melgar VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699035/union-comercio-melgar"
+  },
+  {
+    "gameId": "699036",
+    "date": "Saturday, February 24, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "0 - 4",
+    "team2": "Sporting Cristal",
+    "title": "Carlos A. Mannucci VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699036/sporting-cristal-carlos-a-mannucci"
+  },
+  {
+    "gameId": "699037",
+    "date": "Sunday, February 25, 2024",
+    "team1": "Atlético Grau",
+    "score": "2 - 2",
+    "team2": "ADT",
+    "title": "Atlético Grau VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699037/adt-atletico-grau"
+  },
+  {
+    "gameId": "699038",
+    "date": "Sunday, February 25, 2024",
+    "team1": "Alianza Lima",
+    "score": "5 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Alianza Lima VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699038/comerciantes-unidos-alianza-lima"
+  },
+  {
+    "gameId": "699039",
+    "date": "Sunday, February 25, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "2 - 0",
+    "team2": "César Vallejo",
+    "title": "Deportivo Garcilaso VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699039/cesar-vallejo-deportivo-garcilaso"
+  },
+  {
+    "gameId": "699040",
+    "date": "Monday, February 26, 2024",
+    "team1": "Los Chankas",
+    "score": "1 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "Los Chankas VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699040/cienciano-del-cusco-los-chankas"
+  },
+  {
+    "gameId": "699081",
+    "date": "Thursday, February 29, 2024",
+    "team1": "Alianza Atlético",
+    "score": "3 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Alianza Atlético VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699081/deportivo-garcilaso-alianza-atletico"
+  },
+  {
+    "gameId": "699082",
+    "date": "Friday, March 1, 2024",
+    "team1": "ADT",
+    "score": "2 - 0",
+    "team2": "Alianza Lima",
+    "title": "ADT VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699082/alianza-lima-adt"
+  },
+  {
+    "gameId": "699083",
+    "date": "Friday, March 1, 2024",
+    "team1": "Universitario",
+    "score": "2 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Universitario VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699083/sport-huancayo-universitario"
+  },
+  {
+    "gameId": "699084",
+    "date": "Saturday, March 2, 2024",
+    "team1": "Sporting Cristal",
+    "score": "1 - 0",
+    "team2": "Atlético Grau",
+    "title": "Sporting Cristal VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699084/atletico-grau-sporting-cristal"
+  },
+  {
+    "gameId": "699085",
+    "date": "Saturday, March 2, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 0",
+    "team2": "Melgar",
+    "title": "Comerciantes Unidos VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699085/melgar-comerciantes-unidos"
+  },
+  {
+    "gameId": "699086",
+    "date": "Saturday, March 2, 2024",
+    "team1": "César Vallejo",
+    "score": "2 - 2",
+    "team2": "Cusco FC",
+    "title": "César Vallejo VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699086/cusco-fc-cesar-vallejo"
+  },
+  {
+    "gameId": "699087",
+    "date": "Sunday, March 3, 2024",
+    "team1": "Los Chankas",
+    "score": "2 - 0",
+    "team2": "Sport Boys",
+    "title": "Los Chankas VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699087/sport-boys-los-chankas"
+  },
+  {
+    "gameId": "699088",
+    "date": "Sunday, March 3, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "2 - 2",
+    "team2": "Carlos A. Mannucci",
+    "title": "Cienciano del Cusco VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699088/carlos-a-mannucci-cienciano-del-cusco"
+  },
+  {
+    "gameId": "699089",
+    "date": "Monday, March 4, 2024",
+    "team1": "Unión Comercio",
+    "score": "2 - 0",
+    "team2": "UTC",
+    "title": "Unión Comercio VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699089/utc-union-comercio"
+  },
+  {
+    "gameId": "699173",
+    "date": "Thursday, March 7, 2024",
+    "team1": "Cusco FC",
+    "score": "2 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Cusco FC VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699173/alianza-atletico-cusco-fc"
+  },
+  {
+    "gameId": "699174",
+    "date": "Friday, March 8, 2024",
+    "team1": "UTC",
+    "score": "2 - 3",
+    "team2": "Comerciantes Unidos",
+    "title": "UTC VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699174/comerciantes-unidos-utc"
+  },
+  {
+    "gameId": "699175",
+    "date": "Friday, March 8, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "2 - 2",
+    "team2": "Universitario",
+    "title": "Deportivo Garcilaso VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699175/universitario-deportivo-garcilaso"
+  },
+  {
+    "gameId": "699176",
+    "date": "Saturday, March 9, 2024",
+    "team1": "Atlético Grau",
+    "score": "1 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Atlético Grau VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699176/cienciano-del-cusco-atletico-grau"
+  },
+  {
+    "gameId": "699177",
+    "date": "Saturday, March 9, 2024",
+    "team1": "Melgar",
+    "score": "3 - 1",
+    "team2": "ADT",
+    "title": "Melgar VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699177/adt-melgar"
+  },
+  {
+    "gameId": "699178",
+    "date": "Saturday, March 9, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "2 - 1",
+    "team2": "Los Chankas",
+    "title": "Carlos A. Mannucci VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699178/los-chankas-carlos-a-mannucci"
+  },
+  {
+    "gameId": "699179",
+    "date": "Saturday, March 9, 2024",
+    "team1": "Alianza Lima",
+    "score": "1 - 2",
+    "team2": "Sporting Cristal",
+    "title": "Alianza Lima VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699179/sporting-cristal-alianza-lima"
+  },
+  {
+    "gameId": "699180",
+    "date": "Sunday, March 10, 2024",
+    "team1": "Sport Boys",
+    "score": "2 - 0",
+    "team2": "César Vallejo",
+    "title": "Sport Boys VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699180/cesar-vallejo-sport-boys"
+  },
+  {
+    "gameId": "699181",
+    "date": "Sunday, March 10, 2024",
+    "team1": "Sport Huancayo",
+    "score": "2 - 2",
+    "team2": "Unión Comercio",
+    "title": "Sport Huancayo VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699181/union-comercio-sport-huancayo"
+  },
+  {
+    "gameId": "699187",
+    "date": "Tuesday, March 12, 2024",
+    "team1": "Universitario",
+    "score": "1 - 0",
+    "team2": "Cusco FC",
+    "title": "Universitario VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699187/cusco-fc-universitario"
+  },
+  {
+    "gameId": "699190",
+    "date": "Wednesday, March 13, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "2 - 1",
+    "team2": "Alianza Lima",
+    "title": "Cienciano del Cusco VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699190/alianza-lima-cienciano-del-cusco"
+  },
+  {
+    "gameId": "699186",
+    "date": "Wednesday, March 13, 2024",
+    "team1": "Sporting Cristal",
+    "score": "1 - 2",
+    "team2": "Melgar",
+    "title": "Sporting Cristal VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699186/melgar-sporting-cristal"
+  },
+  {
+    "gameId": "699192",
+    "date": "Thursday, March 14, 2024",
+    "team1": "Alianza Atlético",
+    "score": "1 - 1",
+    "team2": "César Vallejo",
+    "title": "Alianza Atlético VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699192/cesar-vallejo-alianza-atletico"
+  },
+  {
+    "gameId": "699189",
+    "date": "Thursday, March 14, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "3 - 2",
+    "team2": "Sport Huancayo",
+    "title": "Comerciantes Unidos VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699189/sport-huancayo-comerciantes-unidos"
+  },
+  {
+    "gameId": "699191",
+    "date": "Thursday, March 14, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "1 - 0",
+    "team2": "Sport Boys",
+    "title": "Carlos A. Mannucci VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699191/sport-boys-carlos-a-mannucci"
+  },
+  {
+    "gameId": "699194",
+    "date": "Friday, March 15, 2024",
+    "team1": "Unión Comercio",
+    "score": "0 - 4",
+    "team2": "Deportivo Garcilaso",
+    "title": "Unión Comercio VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699194/deportivo-garcilaso-union-comercio"
+  },
+  {
+    "gameId": "699188",
+    "date": "Friday, March 15, 2024",
+    "team1": "Los Chankas",
+    "score": "0 - 1",
+    "team2": "Atlético Grau",
+    "title": "Los Chankas VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699188/atletico-grau-los-chankas"
+  },
+  {
+    "gameId": "699193",
+    "date": "Saturday, March 16, 2024",
+    "team1": "ADT",
+    "score": "2 - 1",
+    "team2": "UTC",
+    "title": "ADT VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699193/utc-adt"
+  },
+  {
+    "gameId": "699199",
+    "date": "Thursday, March 28, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 2",
+    "team2": "Comerciantes Unidos",
+    "title": "Deportivo Garcilaso VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699199/comerciantes-unidos-deportivo-garcilaso"
+  },
+  {
+    "gameId": "699195",
+    "date": "Thursday, March 28, 2024",
+    "team1": "Alianza Lima",
+    "score": "3 - 0",
+    "team2": "Los Chankas",
+    "title": "Alianza Lima VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699195/los-chankas-alianza-lima"
+  },
+  {
+    "gameId": "699197",
+    "date": "Friday, March 29, 2024",
+    "team1": "Cusco FC",
+    "score": "1 - 0",
+    "team2": "Unión Comercio",
+    "title": "Cusco FC VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699197/union-comercio-cusco-fc"
+  },
+  {
+    "gameId": "699196",
+    "date": "Saturday, March 30, 2024",
+    "team1": "Atlético Grau",
+    "score": "3 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "Atlético Grau VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699196/carlos-a-mannucci-atletico-grau"
+  },
+  {
+    "gameId": "699200",
+    "date": "Saturday, March 30, 2024",
+    "team1": "Melgar",
+    "score": "2 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "Melgar VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699200/cienciano-del-cusco-melgar"
+  },
+  {
+    "gameId": "699198",
+    "date": "Saturday, March 30, 2024",
+    "team1": "César Vallejo",
+    "score": "0 - 0",
+    "team2": "Universitario",
+    "title": "César Vallejo VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699198/universitario-cesar-vallejo"
+  },
+  {
+    "gameId": "699202",
+    "date": "Sunday, March 31, 2024",
+    "team1": "Sport Huancayo",
+    "score": "0 - 2",
+    "team2": "ADT",
+    "title": "Sport Huancayo VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699202/adt-sport-huancayo"
+  },
+  {
+    "gameId": "699201",
+    "date": "Sunday, March 31, 2024",
+    "team1": "Sport Boys",
+    "score": "0 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Sport Boys VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699201/alianza-atletico-sport-boys"
+  },
+  {
+    "gameId": "699203",
+    "date": "Sunday, March 31, 2024",
+    "team1": "UTC",
+    "score": "1 - 2",
+    "team2": "Sporting Cristal",
+    "title": "UTC VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699203/sporting-cristal-utc"
+  },
+  {
+    "gameId": "699210",
+    "date": "Friday, April 5, 2024",
+    "team1": "Atlético Grau",
+    "score": "0 - 0",
+    "team2": "Sport Boys",
+    "title": "Atlético Grau VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699210/sport-boys-atletico-grau"
+  },
+  {
+    "gameId": "699204",
+    "date": "Friday, April 5, 2024",
+    "team1": "Universitario",
+    "score": "1 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Universitario VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699204/alianza-atletico-universitario"
+  },
+  {
+    "gameId": "699206",
+    "date": "Saturday, April 6, 2024",
+    "team1": "Los Chankas",
+    "score": "2 - 2",
+    "team2": "Melgar",
+    "title": "Los Chankas VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699206/melgar-los-chankas"
+  },
+  {
+    "gameId": "699208",
+    "date": "Saturday, April 6, 2024",
+    "team1": "Unión Comercio",
+    "score": "2 - 2",
+    "team2": "César Vallejo",
+    "title": "Unión Comercio VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699208/cesar-vallejo-union-comercio"
+  },
+  {
+    "gameId": "699209",
+    "date": "Saturday, April 6, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "0 - 4",
+    "team2": "Alianza Lima",
+    "title": "Carlos A. Mannucci VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699209/alianza-lima-carlos-a-mannucci"
+  },
+  {
+    "gameId": "699212",
+    "date": "Saturday, April 6, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "1 - 1",
+    "team2": "UTC",
+    "title": "Cienciano del Cusco VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699212/utc-cienciano-del-cusco"
+  },
+  {
+    "gameId": "699211",
+    "date": "Sunday, April 7, 2024",
+    "team1": "ADT",
+    "score": "2 - 2",
+    "team2": "Deportivo Garcilaso",
+    "title": "ADT VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699211/deportivo-garcilaso-adt"
+  },
+  {
+    "gameId": "699205",
+    "date": "Sunday, April 7, 2024",
+    "team1": "Sporting Cristal",
+    "score": "4 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Sporting Cristal VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699205/sport-huancayo-sporting-cristal"
+  },
+  {
+    "gameId": "699207",
+    "date": "Monday, April 8, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 1",
+    "team2": "Cusco FC",
+    "title": "Comerciantes Unidos VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699207/cusco-fc-comerciantes-unidos"
+  },
+  {
+    "gameId": "699213",
+    "date": "Friday, April 12, 2024",
+    "team1": "Sport Huancayo",
+    "score": "1 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "Sport Huancayo VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699213/cienciano-del-cusco-sport-huancayo"
+  },
+  {
+    "gameId": "699220",
+    "date": "Saturday, April 13, 2024",
+    "team1": "Alianza Atlético",
+    "score": "2 - 0",
+    "team2": "Unión Comercio",
+    "title": "Alianza Atlético VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699220/union-comercio-alianza-atletico"
+  },
+  {
+    "gameId": "699215",
+    "date": "Saturday, April 13, 2024",
+    "team1": "Melgar",
+    "score": "2 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "Melgar VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699215/carlos-a-mannucci-melgar"
+  },
+  {
+    "gameId": "699214",
+    "date": "Saturday, April 13, 2024",
+    "team1": "Sport Boys",
+    "score": "1 - 2",
+    "team2": "Universitario",
+    "title": "Sport Boys VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699214/universitario-sport-boys"
+  },
+  {
+    "gameId": "699217",
+    "date": "Sunday, April 14, 2024",
+    "team1": "César Vallejo",
+    "score": "3 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "César Vallejo VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699217/comerciantes-unidos-cesar-vallejo"
+  },
+  {
+    "gameId": "699218",
+    "date": "Sunday, April 14, 2024",
+    "team1": "Cusco FC",
+    "score": "3 - 2",
+    "team2": "ADT",
+    "title": "Cusco FC VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699218/adt-cusco-fc"
+  },
+  {
+    "gameId": "699219",
+    "date": "Sunday, April 14, 2024",
+    "team1": "Alianza Lima",
+    "score": "2 - 0",
+    "team2": "Atlético Grau",
+    "title": "Alianza Lima VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699219/atletico-grau-alianza-lima"
+  },
+  {
+    "gameId": "699221",
+    "date": "Monday, April 15, 2024",
+    "team1": "UTC",
+    "score": "2 - 0",
+    "team2": "Los Chankas",
+    "title": "UTC VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699221/los-chankas-utc"
+  },
+  {
+    "gameId": "699216",
+    "date": "Monday, April 15, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "2 - 3",
+    "team2": "Sporting Cristal",
+    "title": "Deportivo Garcilaso VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699216/sporting-cristal-deportivo-garcilaso"
+  },
+  {
+    "gameId": "699223",
+    "date": "Thursday, April 18, 2024",
+    "team1": "Alianza Lima",
+    "score": "3 - 0",
+    "team2": "Sport Boys",
+    "title": "Alianza Lima VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699223/sport-boys-alianza-lima"
+  },
+  {
+    "gameId": "699224",
+    "date": "Friday, April 19, 2024",
+    "team1": "Unión Comercio",
+    "score": "1 - 2",
+    "team2": "Universitario",
+    "title": "Unión Comercio VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699224/universitario-union-comercio"
+  },
+  {
+    "gameId": "699228",
+    "date": "Friday, April 19, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "0 - 2",
+    "team2": "Deportivo Garcilaso",
+    "title": "Cienciano del Cusco VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699228/deportivo-garcilaso-cienciano-del-cusco"
+  },
+  {
+    "gameId": "699226",
+    "date": "Saturday, April 20, 2024",
+    "team1": "Los Chankas",
+    "score": "6 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Los Chankas VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699226/sport-huancayo-los-chankas"
+  },
+  {
+    "gameId": "699222",
+    "date": "Saturday, April 20, 2024",
+    "team1": "ADT",
+    "score": "1 - 0",
+    "team2": "César Vallejo",
+    "title": "ADT VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699222/cesar-vallejo-adt"
+  },
+  {
+    "gameId": "699229",
+    "date": "Saturday, April 20, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "2 - 0",
+    "team2": "UTC",
+    "title": "Carlos A. Mannucci VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699229/utc-carlos-a-mannucci"
+  },
+  {
+    "gameId": "699225",
+    "date": "Sunday, April 21, 2024",
+    "team1": "Sporting Cristal",
+    "score": "2 - 0",
+    "team2": "Cusco FC",
+    "title": "Sporting Cristal VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699225/cusco-fc-sporting-cristal"
+  },
+  {
+    "gameId": "699230",
+    "date": "Sunday, April 21, 2024",
+    "team1": "Atlético Grau",
+    "score": "1 - 2",
+    "team2": "Melgar",
+    "title": "Atlético Grau VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699230/melgar-atletico-grau"
+  },
+  {
+    "gameId": "699227",
+    "date": "Tuesday, April 23, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Comerciantes Unidos VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699227/alianza-atletico-comerciantes-unidos"
+  },
+  {
+    "gameId": "699233",
+    "date": "Friday, April 26, 2024",
+    "team1": "Sport Huancayo",
+    "score": "1 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "Sport Huancayo VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699233/carlos-a-mannucci-sport-huancayo"
+  },
+  {
+    "gameId": "699234",
+    "date": "Saturday, April 27, 2024",
+    "team1": "Sport Boys",
+    "score": "0 - 0",
+    "team2": "Unión Comercio",
+    "title": "Sport Boys VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699234/union-comercio-sport-boys"
+  },
+  {
+    "gameId": "699232",
+    "date": "Saturday, April 27, 2024",
+    "team1": "UTC",
+    "score": "3 - 2",
+    "team2": "Atlético Grau",
+    "title": "UTC VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699232/atletico-grau-utc"
+  },
+  {
+    "gameId": "699238",
+    "date": "Saturday, April 27, 2024",
+    "team1": "Cusco FC",
+    "score": "2 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "Cusco FC VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699238/cienciano-del-cusco-cusco-fc"
+  },
+  {
+    "gameId": "699231",
+    "date": "Sunday, April 28, 2024",
+    "team1": "Alianza Atlético",
+    "score": "1 - 2",
+    "team2": "ADT",
+    "title": "Alianza Atlético VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699231/adt-alianza-atletico"
+  },
+  {
+    "gameId": "699239",
+    "date": "Sunday, April 28, 2024",
+    "team1": "Melgar",
+    "score": "1 - 0",
+    "team2": "Alianza Lima",
+    "title": "Melgar VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699239/alianza-lima-melgar"
+  },
+  {
+    "gameId": "699236",
+    "date": "Sunday, April 28, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 1",
+    "team2": "Los Chankas",
+    "title": "Deportivo Garcilaso VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699236/los-chankas-deportivo-garcilaso"
+  },
+  {
+    "gameId": "699235",
+    "date": "Sunday, April 28, 2024",
+    "team1": "Universitario",
+    "score": "6 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "Universitario VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699235/comerciantes-unidos-universitario"
+  },
+  {
+    "gameId": "699237",
+    "date": "Monday, April 29, 2024",
+    "team1": "César Vallejo",
+    "score": "2 - 1",
+    "team2": "Sporting Cristal",
+    "title": "César Vallejo VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699237/sporting-cristal-cesar-vallejo"
+  },
+  {
+    "gameId": "699247",
+    "date": "Friday, May 3, 2024",
+    "team1": "ADT",
+    "score": "2 - 0",
+    "team2": "Universitario",
+    "title": "ADT VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699247/universitario-adt"
+  },
+  {
+    "gameId": "699243",
+    "date": "Friday, May 3, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "1 - 1",
+    "team2": "César Vallejo",
+    "title": "Cienciano del Cusco VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699243/cesar-vallejo-cienciano-del-cusco"
+  },
+  {
+    "gameId": "699246",
+    "date": "Friday, May 3, 2024",
+    "team1": "Alianza Lima",
+    "score": "1 - 0",
+    "team2": "UTC",
+    "title": "Alianza Lima VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699246/utc-alianza-lima"
+  },
+  {
+    "gameId": "699241",
+    "date": "Saturday, May 4, 2024",
+    "team1": "Los Chankas",
+    "score": "2 - 0",
+    "team2": "Cusco FC",
+    "title": "Los Chankas VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699241/cusco-fc-los-chankas"
+  },
+  {
+    "gameId": "699248",
+    "date": "Saturday, May 4, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "1 - 1",
+    "team2": "Deportivo Garcilaso",
+    "title": "Carlos A. Mannucci VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699248/deportivo-garcilaso-carlos-a-mannucci"
+  },
+  {
+    "gameId": "699242",
+    "date": "Saturday, May 4, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "3 - 1",
+    "team2": "Unión Comercio",
+    "title": "Comerciantes Unidos VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699242/union-comercio-comerciantes-unidos"
+  },
+  {
+    "gameId": "699244",
+    "date": "Sunday, May 5, 2024",
+    "team1": "Sporting Cristal",
+    "score": "2 - 1",
+    "team2": "Alianza Atlético",
+    "title": "Sporting Cristal VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699244/alianza-atletico-sporting-cristal"
+  },
+  {
+    "gameId": "699240",
+    "date": "Sunday, May 5, 2024",
+    "team1": "Melgar",
+    "score": "2 - 1",
+    "team2": "Sport Boys",
+    "title": "Melgar VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699240/sport-boys-melgar"
+  },
+  {
+    "gameId": "699245",
+    "date": "Monday, May 6, 2024",
+    "team1": "Atlético Grau",
+    "score": "0 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Atlético Grau VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699245/sport-huancayo-atletico-grau"
+  },
+  {
+    "gameId": "699257",
+    "date": "Friday, May 10, 2024",
+    "team1": "Unión Comercio",
+    "score": "2 - 2",
+    "team2": "ADT",
+    "title": "Unión Comercio VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699257/adt-union-comercio"
+  },
+  {
+    "gameId": "699252",
+    "date": "Saturday, May 11, 2024",
+    "team1": "Sport Boys",
+    "score": "1 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Sport Boys VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699252/comerciantes-unidos-sport-boys"
+  },
+  {
+    "gameId": "699255",
+    "date": "Saturday, May 11, 2024",
+    "team1": "Cusco FC",
+    "score": "3 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "Cusco FC VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699255/carlos-a-mannucci-cusco-fc"
+  },
+  {
+    "gameId": "699251",
+    "date": "Saturday, May 11, 2024",
+    "team1": "Sport Huancayo",
+    "score": "0 - 2",
+    "team2": "Alianza Lima",
+    "title": "Sport Huancayo VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699251/alianza-lima-sport-huancayo"
+  },
+  {
+    "gameId": "699254",
+    "date": "Saturday, May 11, 2024",
+    "team1": "César Vallejo",
+    "score": "1 - 1",
+    "team2": "Los Chankas",
+    "title": "César Vallejo VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699254/los-chankas-cesar-vallejo"
+  },
+  {
+    "gameId": "699250",
+    "date": "Sunday, May 12, 2024",
+    "team1": "UTC",
+    "score": "2 - 6",
+    "team2": "Melgar",
+    "title": "UTC VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699250/melgar-utc"
+  },
+  {
+    "gameId": "699253",
+    "date": "Sunday, May 12, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "0 - 0",
+    "team2": "Atlético Grau",
+    "title": "Deportivo Garcilaso VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699253/atletico-grau-deportivo-garcilaso"
+  },
+  {
+    "gameId": "699249",
+    "date": "Sunday, May 12, 2024",
+    "team1": "Universitario",
+    "score": "4 - 1",
+    "team2": "Sporting Cristal",
+    "title": "Universitario VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699249/sporting-cristal-universitario"
+  },
+  {
+    "gameId": "699256",
+    "date": "Monday, May 13, 2024",
+    "team1": "Alianza Atlético",
+    "score": "0 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Alianza Atlético VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699256/cienciano-del-cusco-alianza-atletico"
+  },
+  {
+    "gameId": "699266",
+    "date": "Friday, May 17, 2024",
+    "team1": "Atlético Grau",
+    "score": "4 - 0",
+    "team2": "Cusco FC",
+    "title": "Atlético Grau VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699266/cusco-fc-atletico-grau"
+  },
+  {
+    "gameId": "699261",
+    "date": "Saturday, May 18, 2024",
+    "team1": "Sporting Cristal",
+    "score": "5 - 1",
+    "team2": "Unión Comercio",
+    "title": "Sporting Cristal VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699261/union-comercio-sporting-cristal"
+  },
+  {
+    "gameId": "699262",
+    "date": "Saturday, May 18, 2024",
+    "team1": "Melgar",
+    "score": "4 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Melgar VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699262/sport-huancayo-melgar"
+  },
+  {
+    "gameId": "699258",
+    "date": "Sunday, May 19, 2024",
+    "team1": "ADT",
+    "score": "2 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "ADT VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699258/comerciantes-unidos-adt"
+  },
+  {
+    "gameId": "699263",
+    "date": "Sunday, May 19, 2024",
+    "team1": "Los Chankas",
+    "score": "2 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Los Chankas VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699263/alianza-atletico-los-chankas"
+  },
+  {
+    "gameId": "699265",
+    "date": "Sunday, May 19, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "0 - 0",
+    "team2": "César Vallejo",
+    "title": "Carlos A. Mannucci VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699265/cesar-vallejo-carlos-a-mannucci"
+  },
+  {
+    "gameId": "699259",
+    "date": "Sunday, May 19, 2024",
+    "team1": "Alianza Lima",
+    "score": "3 - 2",
+    "team2": "Deportivo Garcilaso",
+    "title": "Alianza Lima VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699259/deportivo-garcilaso-alianza-lima"
+  },
+  {
+    "gameId": "699260",
+    "date": "Monday, May 20, 2024",
+    "team1": "UTC",
+    "score": "2 - 4",
+    "team2": "Sport Boys",
+    "title": "UTC VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699260/sport-boys-utc"
+  },
+  {
+    "gameId": "699264",
+    "date": "Monday, May 20, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "0 - 0",
+    "team2": "Universitario",
+    "title": "Cienciano del Cusco VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699264/universitario-cienciano-del-cusco"
+  },
+  {
+    "gameId": "699273",
+    "date": "Friday, May 24, 2024",
+    "team1": "Cusco FC",
+    "score": "3 - 0",
+    "team2": "Alianza Lima",
+    "title": "Cusco FC VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699273/alianza-lima-cusco-fc"
+  },
+  {
+    "gameId": "699272",
+    "date": "Friday, May 24, 2024",
+    "team1": "César Vallejo",
+    "score": "2 - 1",
+    "team2": "Atlético Grau",
+    "title": "César Vallejo VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699272/atletico-grau-cesar-vallejo"
+  },
+  {
+    "gameId": "699269",
+    "date": "Saturday, May 25, 2024",
+    "team1": "Sport Huancayo",
+    "score": "1 - 1",
+    "team2": "UTC",
+    "title": "Sport Huancayo VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699269/utc-sport-huancayo"
+  },
+  {
+    "gameId": "699274",
+    "date": "Saturday, May 25, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 1",
+    "team2": "Sporting Cristal",
+    "title": "Comerciantes Unidos VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699274/sporting-cristal-comerciantes-unidos"
+  },
+  {
+    "gameId": "699275",
+    "date": "Saturday, May 25, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 3",
+    "team2": "Melgar",
+    "title": "Deportivo Garcilaso VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699275/melgar-deportivo-garcilaso"
+  },
+  {
+    "gameId": "699268",
+    "date": "Saturday, May 25, 2024",
+    "team1": "Universitario",
+    "score": "4 - 0",
+    "team2": "Los Chankas",
+    "title": "Universitario VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699268/los-chankas-universitario"
+  },
+  {
+    "gameId": "699267",
+    "date": "Sunday, May 26, 2024",
+    "team1": "Alianza Atlético",
+    "score": "0 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "Alianza Atlético VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699267/carlos-a-mannucci-alianza-atletico"
+  },
+  {
+    "gameId": "699270",
+    "date": "Sunday, May 26, 2024",
+    "team1": "Sport Boys",
+    "score": "1 - 0",
+    "team2": "ADT",
+    "title": "Sport Boys VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699270/adt-sport-boys"
+  },
+  {
+    "gameId": "699271",
+    "date": "Monday, May 27, 2024",
+    "team1": "Unión Comercio",
+    "score": "1 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Unión Comercio VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/699271/cienciano-del-cusco-union-comercio"
+  },
+  {
+    "gameId": "710655",
+    "date": "Friday, July 12, 2024",
+    "team1": "Unión Comercio",
+    "score": "1 - 2",
+    "team2": "Los Chankas",
+    "title": "Unión Comercio VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/710655/los-chankas-union-comercio"
+  },
+  {
+    "gameId": "710656",
+    "date": "Friday, July 12, 2024",
+    "team1": "ADT",
+    "score": "3 - 1",
+    "team2": "Sporting Cristal",
+    "title": "ADT VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/710656/sporting-cristal-adt"
+  },
+  {
+    "gameId": "710657",
+    "date": "Friday, July 12, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 0",
+    "team2": "UTC",
+    "title": "Deportivo Garcilaso VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/710657/utc-deportivo-garcilaso"
+  },
+  {
+    "gameId": "710658",
+    "date": "Saturday, July 13, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "Comerciantes Unidos VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/710658/cienciano-del-cusco-comerciantes-unidos"
+  },
+  {
+    "gameId": "710659",
+    "date": "Saturday, July 13, 2024",
+    "team1": "César Vallejo",
+    "score": "2 - 3",
+    "team2": "Alianza Lima",
+    "title": "César Vallejo VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/710659/alianza-lima-cesar-vallejo"
+  },
+  {
+    "gameId": "710660",
+    "date": "Saturday, July 13, 2024",
+    "team1": "Universitario",
+    "score": "6 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "Universitario VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/710660/carlos-a-mannucci-universitario"
+  },
+  {
+    "gameId": "710661",
+    "date": "Sunday, July 14, 2024",
+    "team1": "Alianza Atlético",
+    "score": "0 - 0",
+    "team2": "Atlético Grau",
+    "title": "Alianza Atlético VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/710661/atletico-grau-alianza-atletico"
+  },
+  {
+    "gameId": "710662",
+    "date": "Sunday, July 14, 2024",
+    "team1": "Sport Boys",
+    "score": "2 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Sport Boys VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/710662/sport-huancayo-sport-boys"
+  },
+  {
+    "gameId": "710663",
+    "date": "Sunday, July 14, 2024",
+    "team1": "Cusco FC",
+    "score": "0 - 3",
+    "team2": "Melgar",
+    "title": "Cusco FC VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/710663/melgar-cusco-fc"
+  },
+  {
+    "gameId": "711419",
+    "date": "Friday, July 19, 2024",
+    "team1": "UTC",
+    "score": "2 - 1",
+    "team2": "Cusco FC",
+    "title": "UTC VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/711419/cusco-fc-utc"
+  },
+  {
+    "gameId": "711420",
+    "date": "Friday, July 19, 2024",
+    "team1": "Sport Huancayo",
+    "score": "1 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Sport Huancayo VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/711420/deportivo-garcilaso-sport-huancayo"
+  },
+  {
+    "gameId": "711421",
+    "date": "Saturday, July 20, 2024",
+    "team1": "Los Chankas",
+    "score": "2 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "Los Chankas VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/711421/comerciantes-unidos-los-chankas"
+  },
+  {
+    "gameId": "711422",
+    "date": "Saturday, July 20, 2024",
+    "team1": "Melgar",
+    "score": "5 - 2",
+    "team2": "César Vallejo",
+    "title": "Melgar VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/711422/cesar-vallejo-melgar"
+  },
+  {
+    "gameId": "711423",
+    "date": "Saturday, July 20, 2024",
+    "team1": "Alianza Lima",
+    "score": "2 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Alianza Lima VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/711423/alianza-atletico-alianza-lima"
+  },
+  {
+    "gameId": "711424",
+    "date": "Sunday, July 21, 2024",
+    "team1": "Atlético Grau",
+    "score": "1 - 1",
+    "team2": "Universitario",
+    "title": "Atlético Grau VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/711424/universitario-atletico-grau"
+  },
+  {
+    "gameId": "711425",
+    "date": "Sunday, July 21, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "0 - 0",
+    "team2": "Unión Comercio",
+    "title": "Carlos A. Mannucci VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/711425/union-comercio-carlos-a-mannucci"
+  },
+  {
+    "gameId": "711426",
+    "date": "Sunday, July 21, 2024",
+    "team1": "Sporting Cristal",
+    "score": "4 - 0",
+    "team2": "Sport Boys",
+    "title": "Sporting Cristal VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/711426/sport-boys-sporting-cristal"
+  },
+  {
+    "gameId": "711427",
+    "date": "Sunday, July 21, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "0 - 1",
+    "team2": "ADT",
+    "title": "Cienciano del Cusco VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/711427/adt-cienciano-del-cusco"
+  },
+  {
+    "gameId": "712535",
+    "date": "Thursday, July 25, 2024",
+    "team1": "Alianza Atlético",
+    "score": "3 - 1",
+    "team2": "Melgar",
+    "title": "Alianza Atlético VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712535/melgar-alianza-atletico"
+  },
+  {
+    "gameId": "712536",
+    "date": "Thursday, July 25, 2024",
+    "team1": "Cusco FC",
+    "score": "3 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Cusco FC VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712536/sport-huancayo-cusco-fc"
+  },
+  {
+    "gameId": "712537",
+    "date": "Thursday, July 25, 2024",
+    "team1": "César Vallejo",
+    "score": "2 - 0",
+    "team2": "UTC",
+    "title": "César Vallejo VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712537/utc-cesar-vallejo"
+  },
+  {
+    "gameId": "712539",
+    "date": "Friday, July 26, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "2 - 1",
+    "team2": "Carlos A. Mannucci",
+    "title": "Comerciantes Unidos VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712539/carlos-a-mannucci-comerciantes-unidos"
+  },
+  {
+    "gameId": "712540",
+    "date": "Friday, July 26, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "2 - 0",
+    "team2": "Sport Boys",
+    "title": "Deportivo Garcilaso VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712540/sport-boys-deportivo-garcilaso"
+  },
+  {
+    "gameId": "712541",
+    "date": "Friday, July 26, 2024",
+    "team1": "Universitario",
+    "score": "2 - 1",
+    "team2": "Alianza Lima",
+    "title": "Universitario VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712541/alianza-lima-universitario"
+  },
+  {
+    "gameId": "712542",
+    "date": "Saturday, July 27, 2024",
+    "team1": "Sporting Cristal",
+    "score": "5 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Sporting Cristal VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712542/cienciano-del-cusco-sporting-cristal"
+  },
+  {
+    "gameId": "712543",
+    "date": "Saturday, July 27, 2024",
+    "team1": "ADT",
+    "score": "2 - 1",
+    "team2": "Los Chankas",
+    "title": "ADT VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712543/los-chankas-adt"
+  },
+  {
+    "gameId": "712544",
+    "date": "Monday, July 29, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "0 - 2",
+    "team2": "Cusco FC",
+    "title": "Deportivo Garcilaso VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712544/cusco-fc-deportivo-garcilaso"
+  },
+  {
+    "gameId": "712545",
+    "date": "Tuesday, July 30, 2024",
+    "team1": "Sport Boys",
+    "score": "2 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "Sport Boys VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712545/cienciano-del-cusco-sport-boys"
+  },
+  {
+    "gameId": "712546",
+    "date": "Tuesday, July 30, 2024",
+    "team1": "Sport Huancayo",
+    "score": "1 - 0",
+    "team2": "César Vallejo",
+    "title": "Sport Huancayo VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712546/cesar-vallejo-sport-huancayo"
+  },
+  {
+    "gameId": "712547",
+    "date": "Tuesday, July 30, 2024",
+    "team1": "Alianza Lima",
+    "score": "1 - 0",
+    "team2": "Unión Comercio",
+    "title": "Alianza Lima VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712547/union-comercio-alianza-lima"
+  },
+  {
+    "gameId": "712548",
+    "date": "Wednesday, July 31, 2024",
+    "team1": "Atlético Grau",
+    "score": "3 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "Atlético Grau VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712548/comerciantes-unidos-atletico-grau"
+  },
+  {
+    "gameId": "712549",
+    "date": "Wednesday, July 31, 2024",
+    "team1": "Los Chankas",
+    "score": "3 - 3",
+    "team2": "Sporting Cristal",
+    "title": "Los Chankas VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712549/sporting-cristal-los-chankas"
+  },
+  {
+    "gameId": "712550",
+    "date": "Wednesday, July 31, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "3 - 2",
+    "team2": "ADT",
+    "title": "Carlos A. Mannucci VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712550/adt-carlos-a-mannucci"
+  },
+  {
+    "gameId": "712551",
+    "date": "Wednesday, July 31, 2024",
+    "team1": "Melgar",
+    "score": "1 - 0",
+    "team2": "Universitario",
+    "title": "Melgar VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712551/universitario-melgar"
+  },
+  {
+    "gameId": "712552",
+    "date": "Thursday, August 1, 2024",
+    "team1": "UTC",
+    "score": "1 - 1",
+    "team2": "Alianza Atlético",
+    "title": "UTC VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712552/alianza-atletico-utc"
+  },
+  {
+    "gameId": "712553",
+    "date": "Saturday, August 3, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 3",
+    "team2": "Alianza Lima",
+    "title": "Comerciantes Unidos VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712553/alianza-lima-comerciantes-unidos"
+  },
+  {
+    "gameId": "712554",
+    "date": "Saturday, August 3, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "0 - 0",
+    "team2": "Los Chankas",
+    "title": "Cienciano del Cusco VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712554/los-chankas-cienciano-del-cusco"
+  },
+  {
+    "gameId": "712555",
+    "date": "Saturday, August 3, 2024",
+    "team1": "César Vallejo",
+    "score": "0 - 2",
+    "team2": "Deportivo Garcilaso",
+    "title": "César Vallejo VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712555/deportivo-garcilaso-cesar-vallejo"
+  },
+  {
+    "gameId": "712556",
+    "date": "Sunday, August 4, 2024",
+    "team1": "Sporting Cristal",
+    "score": "4 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "Sporting Cristal VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712556/carlos-a-mannucci-sporting-cristal"
+  },
+  {
+    "gameId": "712557",
+    "date": "Sunday, August 4, 2024",
+    "team1": "Unión Comercio",
+    "score": "2 - 1",
+    "team2": "Melgar",
+    "title": "Unión Comercio VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712557/melgar-union-comercio"
+  },
+  {
+    "gameId": "712558",
+    "date": "Sunday, August 4, 2024",
+    "team1": "ADT",
+    "score": "1 - 2",
+    "team2": "Atlético Grau",
+    "title": "ADT VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712558/atletico-grau-adt"
+  },
+  {
+    "gameId": "712559",
+    "date": "Sunday, August 4, 2024",
+    "team1": "Universitario",
+    "score": "1 - 0",
+    "team2": "UTC",
+    "title": "Universitario VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712559/utc-universitario"
+  },
+  {
+    "gameId": "712560",
+    "date": "Monday, August 5, 2024",
+    "team1": "Alianza Atlético",
+    "score": "1 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Alianza Atlético VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712560/sport-huancayo-alianza-atletico"
+  },
+  {
+    "gameId": "712561",
+    "date": "Monday, August 5, 2024",
+    "team1": "Cusco FC",
+    "score": "3 - 1",
+    "team2": "Sport Boys",
+    "title": "Cusco FC VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712561/sport-boys-cusco-fc"
+  },
+  {
+    "gameId": "715047",
+    "date": "Friday, August 9, 2024",
+    "team1": "UTC",
+    "score": "3 - 1",
+    "team2": "Unión Comercio",
+    "title": "UTC VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715047/union-comercio-utc"
+  },
+  {
+    "gameId": "715048",
+    "date": "Saturday, August 10, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "0 - 1",
+    "team2": "Alianza Atlético",
+    "title": "Deportivo Garcilaso VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715048/alianza-atletico-deportivo-garcilaso"
+  },
+  {
+    "gameId": "715049",
+    "date": "Saturday, August 10, 2024",
+    "team1": "Sport Boys",
+    "score": "2 - 1",
+    "team2": "Los Chankas",
+    "title": "Sport Boys VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715049/los-chankas-sport-boys"
+  },
+  {
+    "gameId": "715051",
+    "date": "Saturday, August 10, 2024",
+    "team1": "Alianza Lima",
+    "score": "0 - 0",
+    "team2": "ADT",
+    "title": "Alianza Lima VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715051/adt-alianza-lima"
+  },
+  {
+    "gameId": "715052",
+    "date": "Sunday, August 11, 2024",
+    "team1": "Atlético Grau",
+    "score": "1 - 1",
+    "team2": "Sporting Cristal",
+    "title": "Atlético Grau VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715052/sporting-cristal-atletico-grau"
+  },
+  {
+    "gameId": "715053",
+    "date": "Sunday, August 11, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "1 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "Carlos A. Mannucci VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715053/cienciano-del-cusco-carlos-a-mannucci"
+  },
+  {
+    "gameId": "715054",
+    "date": "Sunday, August 11, 2024",
+    "team1": "Sport Huancayo",
+    "score": "1 - 1",
+    "team2": "Universitario",
+    "title": "Sport Huancayo VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715054/universitario-sport-huancayo"
+  },
+  {
+    "gameId": "715055",
+    "date": "Sunday, August 11, 2024",
+    "team1": "Cusco FC",
+    "score": "2 - 1",
+    "team2": "César Vallejo",
+    "title": "Cusco FC VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715055/cesar-vallejo-cusco-fc"
+  },
+  {
+    "gameId": "715291",
+    "date": "Thursday, August 15, 2024",
+    "team1": "Alianza Atlético",
+    "score": "1 - 1",
+    "team2": "Cusco FC",
+    "title": "Alianza Atlético VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715291/cusco-fc-alianza-atletico"
+  },
+  {
+    "gameId": "715293",
+    "date": "Thursday, August 15, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 1",
+    "team2": "UTC",
+    "title": "Comerciantes Unidos VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715293/utc-comerciantes-unidos"
+  },
+  {
+    "gameId": "715290",
+    "date": "Friday, August 16, 2024",
+    "team1": "ADT",
+    "score": "1 - 1",
+    "team2": "Melgar",
+    "title": "ADT VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715290/melgar-adt"
+  },
+  {
+    "gameId": "715294",
+    "date": "Friday, August 16, 2024",
+    "team1": "César Vallejo",
+    "score": "2 - 2",
+    "team2": "Sport Boys",
+    "title": "César Vallejo VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715294/sport-boys-cesar-vallejo"
+  },
+  {
+    "gameId": "715288",
+    "date": "Friday, August 16, 2024",
+    "team1": "Universitario",
+    "score": "3 - 1",
+    "team2": "Deportivo Garcilaso",
+    "title": "Universitario VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715288/deportivo-garcilaso-universitario"
+  },
+  {
+    "gameId": "715289",
+    "date": "Saturday, August 17, 2024",
+    "team1": "Unión Comercio",
+    "score": "0 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Unión Comercio VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715289/sport-huancayo-union-comercio"
+  },
+  {
+    "gameId": "715292",
+    "date": "Saturday, August 17, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "1 - 0",
+    "team2": "Atlético Grau",
+    "title": "Cienciano del Cusco VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715292/atletico-grau-cienciano-del-cusco"
+  },
+  {
+    "gameId": "715287",
+    "date": "Saturday, August 17, 2024",
+    "team1": "Sporting Cristal",
+    "score": "0 - 0",
+    "team2": "Alianza Lima",
+    "title": "Sporting Cristal VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715287/alianza-lima-sporting-cristal"
+  },
+  {
+    "gameId": "715295",
+    "date": "Sunday, August 18, 2024",
+    "team1": "Los Chankas",
+    "score": "1 - 1",
+    "team2": "Carlos A. Mannucci",
+    "title": "Los Chankas VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715295/carlos-a-mannucci-los-chankas"
+  },
+  {
+    "gameId": "715304",
+    "date": "Monday, August 19, 2024",
+    "team1": "César Vallejo",
+    "score": "0 - 0",
+    "team2": "Alianza Atlético",
+    "title": "César Vallejo VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715304/alianza-atletico-cesar-vallejo"
+  },
+  {
+    "gameId": "715300",
+    "date": "Tuesday, August 20, 2024",
+    "team1": "UTC",
+    "score": "1 - 1",
+    "team2": "ADT",
+    "title": "UTC VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715300/adt-utc"
+  },
+  {
+    "gameId": "715296",
+    "date": "Tuesday, August 20, 2024",
+    "team1": "Sport Huancayo",
+    "score": "2 - 2",
+    "team2": "Comerciantes Unidos",
+    "title": "Sport Huancayo VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715296/comerciantes-unidos-sport-huancayo"
+  },
+  {
+    "gameId": "715301",
+    "date": "Tuesday, August 20, 2024",
+    "team1": "Cusco FC",
+    "score": "1 - 1",
+    "team2": "Universitario",
+    "title": "Cusco FC VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715301/universitario-cusco-fc"
+  },
+  {
+    "gameId": "715303",
+    "date": "Tuesday, August 20, 2024",
+    "team1": "Alianza Lima",
+    "score": "3 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "Alianza Lima VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715303/cienciano-del-cusco-alianza-lima"
+  },
+  {
+    "gameId": "715302",
+    "date": "Wednesday, August 21, 2024",
+    "team1": "Atlético Grau",
+    "score": "1 - 1",
+    "team2": "Los Chankas",
+    "title": "Atlético Grau VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715302/los-chankas-atletico-grau"
+  },
+  {
+    "gameId": "715297",
+    "date": "Wednesday, August 21, 2024",
+    "team1": "Sport Boys",
+    "score": "2 - 6",
+    "team2": "Carlos A. Mannucci",
+    "title": "Sport Boys VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715297/carlos-a-mannucci-sport-boys"
+  },
+  {
+    "gameId": "715299",
+    "date": "Wednesday, August 21, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "3 - 1",
+    "team2": "Unión Comercio",
+    "title": "Deportivo Garcilaso VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715299/union-comercio-deportivo-garcilaso"
+  },
+  {
+    "gameId": "715298",
+    "date": "Wednesday, August 21, 2024",
+    "team1": "Melgar",
+    "score": "2 - 0",
+    "team2": "Sporting Cristal",
+    "title": "Melgar VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715298/sporting-cristal-melgar"
+  },
+  {
+    "gameId": "715320",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Alianza Atlético",
+    "score": "2 - 0",
+    "team2": "Sport Boys",
+    "title": "Alianza Atlético VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715320/sport-boys-alianza-atletico"
+  },
+  {
+    "gameId": "715306",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Los Chankas",
+    "score": "0 - 1",
+    "team2": "Alianza Lima",
+    "title": "Los Chankas VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715306/alianza-lima-los-chankas"
+  },
+  {
+    "gameId": "715312",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Universitario",
+    "score": "1 - 0",
+    "team2": "César Vallejo",
+    "title": "Universitario VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715312/cesar-vallejo-universitario"
+  },
+  {
+    "gameId": "715310",
+    "date": "Sunday, August 25, 2024",
+    "team1": "Sporting Cristal",
+    "score": "4 - 0",
+    "team2": "UTC",
+    "title": "Sporting Cristal VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715310/utc-sporting-cristal"
+  },
+  {
+    "gameId": "715321",
+    "date": "Sunday, August 25, 2024",
+    "team1": "ADT",
+    "score": "2 - 1",
+    "team2": "Sport Huancayo",
+    "title": "ADT VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715321/sport-huancayo-adt"
+  },
+  {
+    "gameId": "715315",
+    "date": "Sunday, August 25, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "2 - 1",
+    "team2": "Deportivo Garcilaso",
+    "title": "Comerciantes Unidos VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715315/deportivo-garcilaso-comerciantes-unidos"
+  },
+  {
+    "gameId": "715316",
+    "date": "Sunday, August 25, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "3 - 1",
+    "team2": "Melgar",
+    "title": "Cienciano del Cusco VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715316/melgar-cienciano-del-cusco"
+  },
+  {
+    "gameId": "715317",
+    "date": "Monday, August 26, 2024",
+    "team1": "Unión Comercio",
+    "score": "3 - 3",
+    "team2": "Cusco FC",
+    "title": "Unión Comercio VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715317/cusco-fc-union-comercio"
+  },
+  {
+    "gameId": "715322",
+    "date": "Monday, August 26, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "1 - 1",
+    "team2": "Atlético Grau",
+    "title": "Carlos A. Mannucci VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715322/atletico-grau-carlos-a-mannucci"
+  },
+  {
+    "gameId": "712538",
+    "date": "Sunday, September 1, 2024",
+    "team1": "Unión Comercio",
+    "score": "1 - 2",
+    "team2": "Atlético Grau",
+    "title": "Unión Comercio VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/712538/atletico-grau-union-comercio"
+  },
+  {
+    "gameId": "715050",
+    "date": "Saturday, September 7, 2024",
+    "team1": "Melgar",
+    "score": "3 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "Melgar VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715050/comerciantes-unidos-melgar"
+  },
+  {
+    "gameId": "715311",
+    "date": "Friday, September 13, 2024",
+    "team1": "UTC",
+    "score": "1 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "UTC VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715311/cienciano-del-cusco-utc"
+  },
+  {
+    "gameId": "715305",
+    "date": "Friday, September 13, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 0",
+    "team2": "ADT",
+    "title": "Deportivo Garcilaso VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715305/adt-deportivo-garcilaso"
+  },
+  {
+    "gameId": "715313",
+    "date": "Friday, September 13, 2024",
+    "team1": "César Vallejo",
+    "score": "1 - 0",
+    "team2": "Unión Comercio",
+    "title": "César Vallejo VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715313/union-comercio-cesar-vallejo"
+  },
+  {
+    "gameId": "715314",
+    "date": "Saturday, September 14, 2024",
+    "team1": "Cusco FC",
+    "score": "2 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Cusco FC VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715314/comerciantes-unidos-cusco-fc"
+  },
+  {
+    "gameId": "715308",
+    "date": "Saturday, September 14, 2024",
+    "team1": "Sport Boys",
+    "score": "0 - 0",
+    "team2": "Atlético Grau",
+    "title": "Sport Boys VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715308/atletico-grau-sport-boys"
+  },
+  {
+    "gameId": "715309",
+    "date": "Saturday, September 14, 2024",
+    "team1": "Sport Huancayo",
+    "score": "1 - 2",
+    "team2": "Sporting Cristal",
+    "title": "Sport Huancayo VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715309/sporting-cristal-sport-huancayo"
+  },
+  {
+    "gameId": "715318",
+    "date": "Saturday, September 14, 2024",
+    "team1": "Alianza Lima",
+    "score": "1 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "Alianza Lima VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715318/carlos-a-mannucci-alianza-lima"
+  },
+  {
+    "gameId": "715319",
+    "date": "Sunday, September 15, 2024",
+    "team1": "Alianza Atlético",
+    "score": "0 - 3",
+    "team2": "Universitario",
+    "title": "Alianza Atlético VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715319/universitario-alianza-atletico"
+  },
+  {
+    "gameId": "715307",
+    "date": "Sunday, September 15, 2024",
+    "team1": "Melgar",
+    "score": "2 - 0",
+    "team2": "Los Chankas",
+    "title": "Melgar VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715307/los-chankas-melgar"
+  },
+  {
+    "gameId": "715327",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "Sporting Cristal",
+    "score": "1 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Sporting Cristal VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715327/deportivo-garcilaso-sporting-cristal"
+  },
+  {
+    "gameId": "715323",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "ADT",
+    "score": "1 - 2",
+    "team2": "Cusco FC",
+    "title": "ADT VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715323/cusco-fc-adt"
+  },
+  {
+    "gameId": "715324",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Atlético Grau",
+    "score": "1 - 0",
+    "team2": "Alianza Lima",
+    "title": "Atlético Grau VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715324/alianza-lima-atletico-grau"
+  },
+  {
+    "gameId": "715329",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "2 - 0",
+    "team2": "César Vallejo",
+    "title": "Comerciantes Unidos VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715329/cesar-vallejo-comerciantes-unidos"
+  },
+  {
+    "gameId": "715330",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "3 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Cienciano del Cusco VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715330/sport-huancayo-cienciano-del-cusco"
+  },
+  {
+    "gameId": "715326",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Universitario",
+    "score": "3 - 0",
+    "team2": "Sport Boys",
+    "title": "Universitario VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715326/sport-boys-universitario"
+  },
+  {
+    "gameId": "715325",
+    "date": "Thursday, September 19, 2024",
+    "team1": "Unión Comercio",
+    "score": "1 - 2",
+    "team2": "Alianza Atlético",
+    "title": "Unión Comercio VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715325/alianza-atletico-union-comercio"
+  },
+  {
+    "gameId": "715328",
+    "date": "Thursday, September 19, 2024",
+    "team1": "Los Chankas",
+    "score": "1 - 1",
+    "team2": "UTC",
+    "title": "Los Chankas VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715328/utc-los-chankas"
+  },
+  {
+    "gameId": "715331",
+    "date": "Thursday, September 19, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "1 - 1",
+    "team2": "Melgar",
+    "title": "Carlos A. Mannucci VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715331/melgar-carlos-a-mannucci"
+  },
+  {
+    "gameId": "715337",
+    "date": "Saturday, September 21, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "Deportivo Garcilaso VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715337/cienciano-del-cusco-deportivo-garcilaso"
+  },
+  {
+    "gameId": "715335",
+    "date": "Saturday, September 21, 2024",
+    "team1": "Sport Boys",
+    "score": "0 - 3",
+    "team2": "Alianza Lima",
+    "title": "Sport Boys VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715335/alianza-lima-sport-boys"
+  },
+  {
+    "gameId": "715339",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Cusco FC",
+    "score": "1 - 1",
+    "team2": "Sporting Cristal",
+    "title": "Cusco FC VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715339/sporting-cristal-cusco-fc"
+  },
+  {
+    "gameId": "715336",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Universitario",
+    "score": "1 - 0",
+    "team2": "Unión Comercio",
+    "title": "Universitario VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715336/union-comercio-universitario"
+  },
+  {
+    "gameId": "715338",
+    "date": "Sunday, September 22, 2024",
+    "team1": "César Vallejo",
+    "score": "0 - 0",
+    "team2": "ADT",
+    "title": "César Vallejo VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715338/adt-cesar-vallejo"
+  },
+  {
+    "gameId": "715332",
+    "date": "Monday, September 23, 2024",
+    "team1": "Alianza Atlético",
+    "score": "1 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "Alianza Atlético VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715332/comerciantes-unidos-alianza-atletico"
+  },
+  {
+    "gameId": "715334",
+    "date": "Monday, September 23, 2024",
+    "team1": "Sport Huancayo",
+    "score": "3 - 1",
+    "team2": "Los Chankas",
+    "title": "Sport Huancayo VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715334/los-chankas-sport-huancayo"
+  },
+  {
+    "gameId": "715340",
+    "date": "Monday, September 23, 2024",
+    "team1": "Melgar",
+    "score": "0 - 0",
+    "team2": "Atlético Grau",
+    "title": "Melgar VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715340/atletico-grau-melgar"
+  },
+  {
+    "gameId": "715333",
+    "date": "Tuesday, September 24, 2024",
+    "team1": "UTC",
+    "score": "2 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "UTC VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715333/carlos-a-mannucci-utc"
+  },
+  {
+    "gameId": "715343",
+    "date": "Friday, September 27, 2024",
+    "team1": "Unión Comercio",
+    "score": "0 - 2",
+    "team2": "Sport Boys",
+    "title": "Unión Comercio VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715343/sport-boys-union-comercio"
+  },
+  {
+    "gameId": "715348",
+    "date": "Saturday, September 28, 2024",
+    "team1": "ADT",
+    "score": "0 - 1",
+    "team2": "Alianza Atlético",
+    "title": "ADT VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715348/alianza-atletico-adt"
+  },
+  {
+    "gameId": "715347",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "1 - 2",
+    "team2": "Cusco FC",
+    "title": "Cienciano del Cusco VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715347/cusco-fc-cienciano-del-cusco"
+  },
+  {
+    "gameId": "715349",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Alianza Lima",
+    "score": "1 - 1",
+    "team2": "Melgar",
+    "title": "Alianza Lima VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715349/melgar-alianza-lima"
+  },
+  {
+    "gameId": "715344",
+    "date": "Sunday, September 29, 2024",
+    "team1": "Sporting Cristal",
+    "score": "4 - 1",
+    "team2": "César Vallejo",
+    "title": "Sporting Cristal VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715344/cesar-vallejo-sporting-cristal"
+  },
+  {
+    "gameId": "715345",
+    "date": "Sunday, September 29, 2024",
+    "team1": "Los Chankas",
+    "score": "1 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Los Chankas VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715345/deportivo-garcilaso-los-chankas"
+  },
+  {
+    "gameId": "715341",
+    "date": "Sunday, September 29, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "1 - 2",
+    "team2": "Sport Huancayo",
+    "title": "Carlos A. Mannucci VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715341/sport-huancayo-carlos-a-mannucci"
+  },
+  {
+    "gameId": "715346",
+    "date": "Sunday, September 29, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 2",
+    "team2": "Universitario",
+    "title": "Comerciantes Unidos VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715346/universitario-comerciantes-unidos"
+  },
+  {
+    "gameId": "715342",
+    "date": "Monday, September 30, 2024",
+    "team1": "Atlético Grau",
+    "score": "4 - 0",
+    "team2": "UTC",
+    "title": "Atlético Grau VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715342/utc-atletico-grau"
+  },
+  {
+    "gameId": "715354",
+    "date": "Thursday, October 17, 2024",
+    "team1": "Unión Comercio",
+    "score": "3 - 2",
+    "team2": "Comerciantes Unidos",
+    "title": "Unión Comercio VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715354/comerciantes-unidos-union-comercio"
+  },
+  {
+    "gameId": "715357",
+    "date": "Thursday, October 17, 2024",
+    "team1": "Cusco FC",
+    "score": "2 - 1",
+    "team2": "Los Chankas",
+    "title": "Cusco FC VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715357/los-chankas-cusco-fc"
+  },
+  {
+    "gameId": "715353",
+    "date": "Thursday, October 17, 2024",
+    "team1": "Sport Huancayo",
+    "score": "1 - 3",
+    "team2": "Atlético Grau",
+    "title": "Sport Huancayo VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715353/atletico-grau-sport-huancayo"
+  },
+  {
+    "gameId": "715358",
+    "date": "Friday, October 18, 2024",
+    "team1": "Sport Boys",
+    "score": "0 - 2",
+    "team2": "Melgar",
+    "title": "Sport Boys VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715358/melgar-sport-boys"
+  },
+  {
+    "gameId": "715352",
+    "date": "Friday, October 18, 2024",
+    "team1": "UTC",
+    "score": "0 - 1",
+    "team2": "Alianza Lima",
+    "title": "UTC VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715352/alianza-lima-utc"
+  },
+  {
+    "gameId": "715356",
+    "date": "Friday, October 18, 2024",
+    "team1": "César Vallejo",
+    "score": "2 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "César Vallejo VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715356/cienciano-del-cusco-cesar-vallejo"
+  },
+  {
+    "gameId": "715355",
+    "date": "Friday, October 18, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 0",
+    "team2": "Carlos A. Mannucci",
+    "title": "Deportivo Garcilaso VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715355/carlos-a-mannucci-deportivo-garcilaso"
+  },
+  {
+    "gameId": "715350",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Alianza Atlético",
+    "score": "1 - 0",
+    "team2": "Sporting Cristal",
+    "title": "Alianza Atlético VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715350/sporting-cristal-alianza-atletico"
+  },
+  {
+    "gameId": "715351",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Universitario",
+    "score": "2 - 1",
+    "team2": "ADT",
+    "title": "Universitario VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715351/adt-universitario"
+  },
+  {
+    "gameId": "715360",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Atlético Grau",
+    "score": "2 - 2",
+    "team2": "Deportivo Garcilaso",
+    "title": "Atlético Grau VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715360/deportivo-garcilaso-atletico-grau"
+  },
+  {
+    "gameId": "715366",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Los Chankas",
+    "score": "2 - 1",
+    "team2": "César Vallejo",
+    "title": "Los Chankas VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715366/cesar-vallejo-los-chankas"
+  },
+  {
+    "gameId": "715365",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Melgar",
+    "score": "1 - 0",
+    "team2": "UTC",
+    "title": "Melgar VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715365/utc-melgar"
+  },
+  {
+    "gameId": "715361",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Alianza Lima",
+    "score": "2 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Alianza Lima VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715361/sport-huancayo-alianza-lima"
+  },
+  {
+    "gameId": "715362",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "ADT",
+    "score": "2 - 0",
+    "team2": "Unión Comercio",
+    "title": "ADT VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715362/union-comercio-adt"
+  },
+  {
+    "gameId": "715363",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "3 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Cienciano del Cusco VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715363/alianza-atletico-cienciano-del-cusco"
+  },
+  {
+    "gameId": "715359",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "4 - 1",
+    "team2": "Cusco FC",
+    "title": "Carlos A. Mannucci VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715359/cusco-fc-carlos-a-mannucci"
+  },
+  {
+    "gameId": "715364",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Sporting Cristal",
+    "score": "2 - 1",
+    "team2": "Universitario",
+    "title": "Sporting Cristal VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715364/universitario-sporting-cristal"
+  },
+  {
+    "gameId": "715367",
+    "date": "Thursday, October 24, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 0",
+    "team2": "Sport Boys",
+    "title": "Comerciantes Unidos VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715367/sport-boys-comerciantes-unidos"
+  },
+  {
+    "gameId": "715374",
+    "date": "Saturday, October 26, 2024",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 2",
+    "team2": "Alianza Lima",
+    "title": "Deportivo Garcilaso VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715374/alianza-lima-deportivo-garcilaso"
+  },
+  {
+    "gameId": "715375",
+    "date": "Saturday, October 26, 2024",
+    "team1": "César Vallejo",
+    "score": "0 - 2",
+    "team2": "Carlos A. Mannucci",
+    "title": "César Vallejo VS Carlos A. Mannucci",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715375/carlos-a-mannucci-cesar-vallejo"
+  },
+  {
+    "gameId": "715373",
+    "date": "Sunday, October 27, 2024",
+    "team1": "Sport Boys",
+    "score": "1 - 1",
+    "team2": "UTC",
+    "title": "Sport Boys VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715373/utc-sport-boys"
+  },
+  {
+    "gameId": "715370",
+    "date": "Sunday, October 27, 2024",
+    "team1": "Unión Comercio",
+    "score": "0 - 12",
+    "team2": "Sporting Cristal",
+    "title": "Unión Comercio VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715370/sporting-cristal-union-comercio"
+  },
+  {
+    "gameId": "715372",
+    "date": "Sunday, October 27, 2024",
+    "team1": "Sport Huancayo",
+    "score": "2 - 4",
+    "team2": "Melgar",
+    "title": "Sport Huancayo VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715372/melgar-sport-huancayo"
+  },
+  {
+    "gameId": "715371",
+    "date": "Sunday, October 27, 2024",
+    "team1": "Universitario",
+    "score": "3 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Universitario VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715371/cienciano-del-cusco-universitario"
+  },
+  {
+    "gameId": "715368",
+    "date": "Monday, October 28, 2024",
+    "team1": "Alianza Atlético",
+    "score": "1 - 0",
+    "team2": "Los Chankas",
+    "title": "Alianza Atlético VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715368/los-chankas-alianza-atletico"
+  },
+  {
+    "gameId": "715369",
+    "date": "Monday, October 28, 2024",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 0",
+    "team2": "ADT",
+    "title": "Comerciantes Unidos VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715369/adt-comerciantes-unidos"
+  },
+  {
+    "gameId": "715376",
+    "date": "Monday, October 28, 2024",
+    "team1": "Cusco FC",
+    "score": "0 - 1",
+    "team2": "Atlético Grau",
+    "title": "Cusco FC VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715376/atletico-grau-cusco-fc"
+  },
+  {
+    "gameId": "715378",
+    "date": "Thursday, October 31, 2024",
+    "team1": "Cienciano del Cusco",
+    "score": "7 - 0",
+    "team2": "Unión Comercio",
+    "title": "Cienciano del Cusco VS Unión Comercio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715378/union-comercio-cienciano-del-cusco"
+  },
+  {
+    "gameId": "715377",
+    "date": "Friday, November 1, 2024",
+    "team1": "ADT",
+    "score": "1 - 0",
+    "team2": "Sport Boys",
+    "title": "ADT VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715377/sport-boys-adt"
+  },
+  {
+    "gameId": "715383",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Atlético Grau",
+    "score": "3 - 1",
+    "team2": "César Vallejo",
+    "title": "Atlético Grau VS César Vallejo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715383/cesar-vallejo-atletico-grau"
+  },
+  {
+    "gameId": "715382",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Carlos A. Mannucci",
+    "score": "2 - 2",
+    "team2": "Alianza Atlético",
+    "title": "Carlos A. Mannucci VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715382/alianza-atletico-carlos-a-mannucci"
+  },
+  {
+    "gameId": "715381",
+    "date": "Saturday, November 2, 2024",
+    "team1": "UTC",
+    "score": "1 - 1",
+    "team2": "Sport Huancayo",
+    "title": "UTC VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715381/sport-huancayo-utc"
+  },
+  {
+    "gameId": "715385",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Sporting Cristal",
+    "score": "3 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "Sporting Cristal VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715385/comerciantes-unidos-sporting-cristal"
+  },
+  {
+    "gameId": "715384",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Alianza Lima",
+    "score": "1 - 2",
+    "team2": "Cusco FC",
+    "title": "Alianza Lima VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715384/cusco-fc-alianza-lima"
+  },
+  {
+    "gameId": "715379",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Los Chankas",
+    "score": "0 - 0",
+    "team2": "Universitario",
+    "title": "Los Chankas VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715379/universitario-los-chankas"
+  },
+  {
+    "gameId": "715380",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Melgar",
+    "score": "1 - 1",
+    "team2": "Deportivo Garcilaso",
+    "title": "Melgar VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/715380/deportivo-garcilaso-melgar"
+  },
+  {
+    "gameId": "730094",
+    "date": "Friday, February 7, 2025",
+    "team1": "Sport Huancayo",
+    "score": "2 - 1",
+    "team2": "Alianza Atlético",
+    "title": "Sport Huancayo VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730094/alianza-atletico-sport-huancayo"
+  },
+  {
+    "gameId": "730093",
+    "date": "Saturday, February 8, 2025",
+    "team1": "Melgar",
+    "score": "3 - 0",
+    "team2": "UTC",
+    "title": "Melgar VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730093/utc-melgar"
+  },
+  {
+    "gameId": "730089",
+    "date": "Saturday, February 8, 2025",
+    "team1": "Atlético Grau",
+    "score": "1 - 0",
+    "team2": "Ayacucho FC",
+    "title": "Atlético Grau VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730089/ayacucho-fc-atletico-grau"
+  },
+  {
+    "gameId": "730086",
+    "date": "Saturday, February 8, 2025",
+    "team1": "Alianza Lima",
+    "score": "3 - 0",
+    "team2": "Cusco FC",
+    "title": "Alianza Lima VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730086/cusco-fc-alianza-lima"
+  },
+  {
+    "gameId": "730087",
+    "date": "Sunday, February 9, 2025",
+    "team1": "Alianza Universidad",
+    "score": "2 - 2",
+    "team2": "Sporting Cristal",
+    "title": "Alianza Universidad VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730087/sporting-cristal-alianza-universidad"
+  },
+  {
+    "gameId": "730088",
+    "date": "Sunday, February 9, 2025",
+    "team1": "Sport Boys",
+    "score": "1 - 0",
+    "team2": "Juan Pablo II",
+    "title": "Sport Boys VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730088/juan-pablo-ii-sport-boys"
+  },
+  {
+    "gameId": "730091",
+    "date": "Sunday, February 9, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 1",
+    "team2": "Universitario",
+    "title": "Comerciantes Unidos VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730091/universitario-comerciantes-unidos"
+  },
+  {
+    "gameId": "730090",
+    "date": "Sunday, February 9, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "2 - 2",
+    "team2": "ADT",
+    "title": "Cienciano del Cusco VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730090/adt-cienciano-del-cusco"
+  },
+  {
+    "gameId": "730092",
+    "date": "Monday, February 10, 2025",
+    "team1": "Los Chankas",
+    "score": "2 - 2",
+    "team2": "Deportivo Garcilaso",
+    "title": "Los Chankas VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730092/deportivo-garcilaso-los-chankas"
+  },
+  {
+    "gameId": "730100",
+    "date": "Friday, February 14, 2025",
+    "team1": "Cusco FC",
+    "score": "0 - 1",
+    "team2": "Melgar",
+    "title": "Cusco FC VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730100/melgar-cusco-fc"
+  },
+  {
+    "gameId": "730095",
+    "date": "Saturday, February 15, 2025",
+    "team1": "UTC",
+    "score": "0 - 4",
+    "team2": "Deportivo Binacional",
+    "title": "UTC VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730095/deportivo-binacional-utc"
+  },
+  {
+    "gameId": "730096",
+    "date": "Saturday, February 15, 2025",
+    "team1": "ADT",
+    "score": "4 - 3",
+    "team2": "Atlético Grau",
+    "title": "ADT VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730096/atletico-grau-adt"
+  },
+  {
+    "gameId": "730098",
+    "date": "Saturday, February 15, 2025",
+    "team1": "Alianza Atlético",
+    "score": "3 - 1",
+    "team2": "Alianza Lima",
+    "title": "Alianza Atlético VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730098/alianza-lima-alianza-atletico"
+  },
+  {
+    "gameId": "730101",
+    "date": "Saturday, February 15, 2025",
+    "team1": "Universitario",
+    "score": "3 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "Universitario VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730101/cienciano-del-cusco-universitario"
+  },
+  {
+    "gameId": "730102",
+    "date": "Sunday, February 16, 2025",
+    "team1": "Sporting Cristal",
+    "score": "2 - 1",
+    "team2": "Sport Boys",
+    "title": "Sporting Cristal VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730102/sport-boys-sporting-cristal"
+  },
+  {
+    "gameId": "730099",
+    "date": "Sunday, February 16, 2025",
+    "team1": "Juan Pablo II",
+    "score": "0 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Juan Pablo II VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730099/sport-huancayo-juan-pablo-ii"
+  },
+  {
+    "gameId": "730097",
+    "date": "Sunday, February 16, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "2 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Deportivo Garcilaso VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730097/comerciantes-unidos-deportivo-garcilaso"
+  },
+  {
+    "gameId": "730103",
+    "date": "Monday, February 17, 2025",
+    "team1": "Ayacucho FC",
+    "score": "3 - 2",
+    "team2": "Alianza Universidad",
+    "title": "Ayacucho FC VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/730103/alianza-universidad-ayacucho-fc"
+  },
+  {
+    "gameId": "731701",
+    "date": "Friday, February 21, 2025",
+    "team1": "Alianza Lima",
+    "score": "1 - 0",
+    "team2": "Juan Pablo II",
+    "title": "Alianza Lima VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731701/juan-pablo-ii-alianza-lima"
+  },
+  {
+    "gameId": "731702",
+    "date": "Saturday, February 22, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 1",
+    "team2": "Los Chankas",
+    "title": "Comerciantes Unidos VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731702/los-chankas-comerciantes-unidos"
+  },
+  {
+    "gameId": "731703",
+    "date": "Saturday, February 22, 2025",
+    "team1": "Sport Boys",
+    "score": "2 - 1",
+    "team2": "Ayacucho FC",
+    "title": "Sport Boys VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731703/ayacucho-fc-sport-boys"
+  },
+  {
+    "gameId": "731704",
+    "date": "Saturday, February 22, 2025",
+    "team1": "Sport Huancayo",
+    "score": "0 - 1",
+    "team2": "Sporting Cristal",
+    "title": "Sport Huancayo VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731704/sporting-cristal-sport-huancayo"
+  },
+  {
+    "gameId": "731705",
+    "date": "Saturday, February 22, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "2 - 3",
+    "team2": "Deportivo Garcilaso",
+    "title": "Cienciano del Cusco VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731705/deportivo-garcilaso-cienciano-del-cusco"
+  },
+  {
+    "gameId": "731706",
+    "date": "Sunday, February 23, 2025",
+    "team1": "Alianza Universidad",
+    "score": "2 - 3",
+    "team2": "ADT",
+    "title": "Alianza Universidad VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731706/adt-alianza-universidad"
+  },
+  {
+    "gameId": "731708",
+    "date": "Sunday, February 23, 2025",
+    "team1": "Melgar",
+    "score": "2 - 1",
+    "team2": "Alianza Atlético",
+    "title": "Melgar VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731708/alianza-atletico-melgar"
+  },
+  {
+    "gameId": "731709",
+    "date": "Monday, February 24, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "1 - 2",
+    "team2": "Cusco FC",
+    "title": "Deportivo Binacional VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731709/cusco-fc-deportivo-binacional"
+  },
+  {
+    "gameId": "731957",
+    "date": "Thursday, February 27, 2025",
+    "team1": "ADT",
+    "score": "2 - 2",
+    "team2": "Sport Boys",
+    "title": "ADT VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731957/sport-boys-adt"
+  },
+  {
+    "gameId": "731953",
+    "date": "Friday, February 28, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "2 - 0",
+    "team2": "Atlético Grau",
+    "title": "Deportivo Garcilaso VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731953/atletico-grau-deportivo-garcilaso"
+  },
+  {
+    "gameId": "731958",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Cusco FC",
+    "score": "1 - 1",
+    "team2": "UTC",
+    "title": "Cusco FC VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731958/utc-cusco-fc"
+  },
+  {
+    "gameId": "731956",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Alianza Atlético",
+    "score": "4 - 1",
+    "team2": "Deportivo Binacional",
+    "title": "Alianza Atlético VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731956/deportivo-binacional-alianza-atletico"
+  },
+  {
+    "gameId": "731950",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Sporting Cristal",
+    "score": "1 - 2",
+    "team2": "Alianza Lima",
+    "title": "Sporting Cristal VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731950/alianza-lima-sporting-cristal"
+  },
+  {
+    "gameId": "731955",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Ayacucho FC",
+    "score": "1 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Ayacucho FC VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731955/sport-huancayo-ayacucho-fc"
+  },
+  {
+    "gameId": "731954",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Universitario",
+    "score": "4 - 0",
+    "team2": "Alianza Universidad",
+    "title": "Universitario VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731954/alianza-universidad-universitario"
+  },
+  {
+    "gameId": "731965",
+    "date": "Friday, March 7, 2025",
+    "team1": "Alianza Universidad",
+    "score": "0 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Alianza Universidad VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731965/deportivo-garcilaso-alianza-universidad"
+  },
+  {
+    "gameId": "731966",
+    "date": "Friday, March 7, 2025",
+    "team1": "Alianza Lima",
+    "score": "2 - 0",
+    "team2": "Ayacucho FC",
+    "title": "Alianza Lima VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731966/ayacucho-fc-alianza-lima"
+  },
+  {
+    "gameId": "731967",
+    "date": "Saturday, March 8, 2025",
+    "team1": "UTC",
+    "score": "0 - 0",
+    "team2": "Alianza Atlético",
+    "title": "UTC VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731967/alianza-atletico-utc"
+  },
+  {
+    "gameId": "731959",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Sport Huancayo",
+    "score": "2 - 1",
+    "team2": "ADT",
+    "title": "Sport Huancayo VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731959/adt-sport-huancayo"
+  },
+  {
+    "gameId": "731961",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Melgar",
+    "score": "1 - 0",
+    "team2": "Sporting Cristal",
+    "title": "Melgar VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731961/sporting-cristal-melgar"
+  },
+  {
+    "gameId": "731960",
+    "date": "Sunday, March 9, 2025",
+    "team1": "Sport Boys",
+    "score": "0 - 2",
+    "team2": "Universitario",
+    "title": "Sport Boys VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731960/universitario-sport-boys"
+  },
+  {
+    "gameId": "731963",
+    "date": "Sunday, March 9, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "3 - 2",
+    "team2": "Comerciantes Unidos",
+    "title": "Cienciano del Cusco VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731963/comerciantes-unidos-cienciano-del-cusco"
+  },
+  {
+    "gameId": "731964",
+    "date": "Monday, March 10, 2025",
+    "team1": "Atlético Grau",
+    "score": "2 - 1",
+    "team2": "Los Chankas",
+    "title": "Atlético Grau VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731964/los-chankas-atletico-grau"
+  },
+  {
+    "gameId": "731962",
+    "date": "Monday, March 10, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "2 - 0",
+    "team2": "Juan Pablo II",
+    "title": "Deportivo Binacional VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731962/juan-pablo-ii-deportivo-binacional"
+  },
+  {
+    "gameId": "731951",
+    "date": "Sunday, March 23, 2025",
+    "team1": "Los Chankas",
+    "score": "0 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "Los Chankas VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731951/cienciano-del-cusco-los-chankas"
+  },
+  {
+    "gameId": "731975",
+    "date": "Thursday, March 27, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "2 - 2",
+    "team2": "Atlético Grau",
+    "title": "Comerciantes Unidos VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731975/atletico-grau-comerciantes-unidos"
+  },
+  {
+    "gameId": "731976",
+    "date": "Thursday, March 27, 2025",
+    "team1": "Ayacucho FC",
+    "score": "2 - 3",
+    "team2": "Melgar",
+    "title": "Ayacucho FC VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731976/melgar-ayacucho-fc"
+  },
+  {
+    "gameId": "731969",
+    "date": "Friday, March 28, 2025",
+    "team1": "Alianza Atlético",
+    "score": "2 - 4",
+    "team2": "Cusco FC",
+    "title": "Alianza Atlético VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731969/cusco-fc-alianza-atletico"
+  },
+  {
+    "gameId": "731970",
+    "date": "Friday, March 28, 2025",
+    "team1": "Universitario",
+    "score": "3 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Universitario VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731970/sport-huancayo-universitario"
+  },
+  {
+    "gameId": "731968",
+    "date": "Saturday, March 29, 2025",
+    "team1": "ADT",
+    "score": "3 - 0",
+    "team2": "Alianza Lima",
+    "title": "ADT VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731968/alianza-lima-adt"
+  },
+  {
+    "gameId": "731971",
+    "date": "Saturday, March 29, 2025",
+    "team1": "Sporting Cristal",
+    "score": "5 - 0",
+    "team2": "Deportivo Binacional",
+    "title": "Sporting Cristal VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731971/deportivo-binacional-sporting-cristal"
+  },
+  {
+    "gameId": "731974",
+    "date": "Saturday, March 29, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "4 - 0",
+    "team2": "Sport Boys",
+    "title": "Deportivo Garcilaso VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731974/sport-boys-deportivo-garcilaso"
+  },
+  {
+    "gameId": "731972",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Los Chankas",
+    "score": "3 - 1",
+    "team2": "Alianza Universidad",
+    "title": "Los Chankas VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731972/alianza-universidad-los-chankas"
+  },
+  {
+    "gameId": "731973",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Juan Pablo II",
+    "score": "4 - 2",
+    "team2": "UTC",
+    "title": "Juan Pablo II VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731973/utc-juan-pablo-ii"
+  },
+  {
+    "gameId": "731985",
+    "date": "Friday, April 4, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "1 - 1",
+    "team2": "Ayacucho FC",
+    "title": "Deportivo Binacional VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731985/ayacucho-fc-deportivo-binacional"
+  },
+  {
+    "gameId": "731978",
+    "date": "Friday, April 4, 2025",
+    "team1": "Sport Huancayo",
+    "score": "0 - 3",
+    "team2": "Deportivo Garcilaso",
+    "title": "Sport Huancayo VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731978/deportivo-garcilaso-sport-huancayo"
+  },
+  {
+    "gameId": "731983",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Atlético Grau",
+    "score": "1 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Atlético Grau VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731983/cienciano-del-cusco-atletico-grau"
+  },
+  {
+    "gameId": "731980",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Melgar",
+    "score": "4 - 0",
+    "team2": "ADT",
+    "title": "Melgar VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731980/adt-melgar"
+  },
+  {
+    "gameId": "731977",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Alianza Lima",
+    "score": "1 - 1",
+    "team2": "Universitario",
+    "title": "Alianza Lima VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731977/universitario-alianza-lima"
+  },
+  {
+    "gameId": "731982",
+    "date": "Sunday, April 6, 2025",
+    "team1": "Cusco FC",
+    "score": "4 - 2",
+    "team2": "Juan Pablo II",
+    "title": "Cusco FC VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731982/juan-pablo-ii-cusco-fc"
+  },
+  {
+    "gameId": "731979",
+    "date": "Sunday, April 6, 2025",
+    "team1": "Sport Boys",
+    "score": "1 - 1",
+    "team2": "Los Chankas",
+    "title": "Sport Boys VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731979/los-chankas-sport-boys"
+  },
+  {
+    "gameId": "731981",
+    "date": "Sunday, April 6, 2025",
+    "team1": "UTC",
+    "score": "4 - 1",
+    "team2": "Sporting Cristal",
+    "title": "UTC VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731981/sporting-cristal-utc"
+  },
+  {
+    "gameId": "731984",
+    "date": "Sunday, April 6, 2025",
+    "team1": "Alianza Universidad",
+    "score": "0 - 2",
+    "team2": "Comerciantes Unidos",
+    "title": "Alianza Universidad VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731984/comerciantes-unidos-alianza-universidad"
+  },
+  {
+    "gameId": "731987",
+    "date": "Friday, April 11, 2025",
+    "team1": "Ayacucho FC",
+    "score": "0 - 1",
+    "team2": "UTC",
+    "title": "Ayacucho FC VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731987/utc-ayacucho-fc"
+  },
+  {
+    "gameId": "731990",
+    "date": "Friday, April 11, 2025",
+    "team1": "Los Chankas",
+    "score": "1 - 3",
+    "team2": "Sport Huancayo",
+    "title": "Los Chankas VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731990/sport-huancayo-los-chankas"
+  },
+  {
+    "gameId": "731991",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Juan Pablo II",
+    "score": "1 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Juan Pablo II VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731991/alianza-atletico-juan-pablo-ii"
+  },
+  {
+    "gameId": "731994",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "0 - 1",
+    "team2": "Alianza Universidad",
+    "title": "Cienciano del Cusco VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731994/alianza-universidad-cienciano-del-cusco"
+  },
+  {
+    "gameId": "731989",
+    "date": "Sunday, April 13, 2025",
+    "team1": "Sporting Cristal",
+    "score": "1 - 0",
+    "team2": "Cusco FC",
+    "title": "Sporting Cristal VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731989/cusco-fc-sporting-cristal"
+  },
+  {
+    "gameId": "731993",
+    "date": "Sunday, April 13, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 4",
+    "team2": "Sport Boys",
+    "title": "Comerciantes Unidos VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731993/sport-boys-comerciantes-unidos"
+  },
+  {
+    "gameId": "731986",
+    "date": "Sunday, April 13, 2025",
+    "team1": "ADT",
+    "score": "1 - 1",
+    "team2": "Deportivo Binacional",
+    "title": "ADT VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731986/deportivo-binacional-adt"
+  },
+  {
+    "gameId": "731988",
+    "date": "Sunday, April 13, 2025",
+    "team1": "Universitario",
+    "score": "4 - 1",
+    "team2": "Melgar",
+    "title": "Universitario VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731988/melgar-universitario"
+  },
+  {
+    "gameId": "731992",
+    "date": "Monday, April 14, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "0 - 1",
+    "team2": "Alianza Lima",
+    "title": "Deportivo Garcilaso VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731992/alianza-lima-deportivo-garcilaso"
+  },
+  {
+    "gameId": "732001",
+    "date": "Thursday, April 17, 2025",
+    "team1": "Alianza Universidad",
+    "score": "0 - 0",
+    "team2": "Atlético Grau",
+    "title": "Alianza Universidad VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732001/atletico-grau-alianza-universidad"
+  },
+  {
+    "gameId": "731998",
+    "date": "Friday, April 18, 2025",
+    "team1": "Melgar",
+    "score": "1 - 2",
+    "team2": "Deportivo Garcilaso",
+    "title": "Melgar VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731998/deportivo-garcilaso-melgar"
+  },
+  {
+    "gameId": "732003",
+    "date": "Friday, April 18, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "1 - 3",
+    "team2": "Universitario",
+    "title": "Deportivo Binacional VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732003/universitario-deportivo-binacional"
+  },
+  {
+    "gameId": "732002",
+    "date": "Friday, April 18, 2025",
+    "team1": "Alianza Lima",
+    "score": "1 - 0",
+    "team2": "Los Chankas",
+    "title": "Alianza Lima VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732002/los-chankas-alianza-lima"
+  },
+  {
+    "gameId": "731997",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Sport Boys",
+    "score": "2 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "Sport Boys VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731997/cienciano-del-cusco-sport-boys"
+  },
+  {
+    "gameId": "731995",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Alianza Atlético",
+    "score": "1 - 0",
+    "team2": "Sporting Cristal",
+    "title": "Alianza Atlético VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731995/sporting-cristal-alianza-atletico"
+  },
+  {
+    "gameId": "732000",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Cusco FC",
+    "score": "3 - 0",
+    "team2": "Ayacucho FC",
+    "title": "Cusco FC VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732000/ayacucho-fc-cusco-fc"
+  },
+  {
+    "gameId": "731999",
+    "date": "Sunday, April 20, 2025",
+    "team1": "UTC",
+    "score": "0 - 1",
+    "team2": "ADT",
+    "title": "UTC VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731999/adt-utc"
+  },
+  {
+    "gameId": "731996",
+    "date": "Sunday, April 20, 2025",
+    "team1": "Sport Huancayo",
+    "score": "4 - 2",
+    "team2": "Comerciantes Unidos",
+    "title": "Sport Huancayo VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731996/comerciantes-unidos-sport-huancayo"
+  },
+  {
+    "gameId": "732006",
+    "date": "Saturday, April 26, 2025",
+    "team1": "Ayacucho FC",
+    "score": "0 - 2",
+    "team2": "Alianza Atlético",
+    "title": "Ayacucho FC VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732006/alianza-atletico-ayacucho-fc"
+  },
+  {
+    "gameId": "732009",
+    "date": "Saturday, April 26, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "0 - 1",
+    "team2": "Deportivo Binacional",
+    "title": "Deportivo Garcilaso VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732009/deportivo-binacional-deportivo-garcilaso"
+  },
+  {
+    "gameId": "732010",
+    "date": "Sunday, April 27, 2025",
+    "team1": "Los Chankas",
+    "score": "1 - 1",
+    "team2": "Melgar",
+    "title": "Los Chankas VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732010/melgar-los-chankas"
+  },
+  {
+    "gameId": "732005",
+    "date": "Sunday, April 27, 2025",
+    "team1": "Atlético Grau",
+    "score": "3 - 3",
+    "team2": "Sport Boys",
+    "title": "Atlético Grau VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732005/sport-boys-atletico-grau"
+  },
+  {
+    "gameId": "732012",
+    "date": "Sunday, April 27, 2025",
+    "team1": "Universitario",
+    "score": "6 - 0",
+    "team2": "UTC",
+    "title": "Universitario VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732012/utc-universitario"
+  },
+  {
+    "gameId": "732011",
+    "date": "Monday, April 28, 2025",
+    "team1": "Sporting Cristal",
+    "score": "3 - 2",
+    "team2": "Juan Pablo II",
+    "title": "Sporting Cristal VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732011/juan-pablo-ii-sporting-cristal"
+  },
+  {
+    "gameId": "732004",
+    "date": "Monday, April 28, 2025",
+    "team1": "ADT",
+    "score": "2 - 1",
+    "team2": "Cusco FC",
+    "title": "ADT VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732004/cusco-fc-adt"
+  },
+  {
+    "gameId": "732007",
+    "date": "Monday, April 28, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "2 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Cienciano del Cusco VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732007/sport-huancayo-cienciano-del-cusco"
+  },
+  {
+    "gameId": "732018",
+    "date": "Thursday, May 1, 2025",
+    "team1": "Melgar",
+    "score": "1 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Melgar VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732018/comerciantes-unidos-melgar"
+  },
+  {
+    "gameId": "732020",
+    "date": "Friday, May 2, 2025",
+    "team1": "Sport Huancayo",
+    "score": "3 - 0",
+    "team2": "Atlético Grau",
+    "title": "Sport Huancayo VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732020/atletico-grau-sport-huancayo"
+  },
+  {
+    "gameId": "732014",
+    "date": "Friday, May 2, 2025",
+    "team1": "Alianza Lima",
+    "score": "0 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Alianza Lima VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732014/cienciano-del-cusco-alianza-lima"
+  },
+  {
+    "gameId": "732017",
+    "date": "Saturday, May 3, 2025",
+    "team1": "UTC",
+    "score": "2 - 1",
+    "team2": "Deportivo Garcilaso",
+    "title": "UTC VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732017/deportivo-garcilaso-utc"
+  },
+  {
+    "gameId": "732021",
+    "date": "Saturday, May 3, 2025",
+    "team1": "Juan Pablo II",
+    "score": "0 - 0",
+    "team2": "Ayacucho FC",
+    "title": "Juan Pablo II VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732021/ayacucho-fc-juan-pablo-ii"
+  },
+  {
+    "gameId": "732015",
+    "date": "Saturday, May 3, 2025",
+    "team1": "Cusco FC",
+    "score": "2 - 0",
+    "team2": "Universitario",
+    "title": "Cusco FC VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732015/universitario-cusco-fc"
+  },
+  {
+    "gameId": "732019",
+    "date": "Sunday, May 4, 2025",
+    "team1": "Sport Boys",
+    "score": "4 - 2",
+    "team2": "Alianza Universidad",
+    "title": "Sport Boys VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732019/alianza-universidad-sport-boys"
+  },
+  {
+    "gameId": "732013",
+    "date": "Sunday, May 4, 2025",
+    "team1": "Alianza Atlético",
+    "score": "2 - 0",
+    "team2": "ADT",
+    "title": "Alianza Atlético VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732013/adt-alianza-atletico"
+  },
+  {
+    "gameId": "732016",
+    "date": "Sunday, May 4, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "1 - 2",
+    "team2": "Los Chankas",
+    "title": "Deportivo Binacional VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732016/los-chankas-deportivo-binacional"
+  },
+  {
+    "gameId": "732027",
+    "date": "Friday, May 9, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 1",
+    "team2": "Deportivo Binacional",
+    "title": "Comerciantes Unidos VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732027/deportivo-binacional-comerciantes-unidos"
+  },
+  {
+    "gameId": "732022",
+    "date": "Saturday, May 10, 2025",
+    "team1": "Ayacucho FC",
+    "score": "1 - 4",
+    "team2": "Sporting Cristal",
+    "title": "Ayacucho FC VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732022/sporting-cristal-ayacucho-fc"
+  },
+  {
+    "gameId": "732023",
+    "date": "Saturday, May 10, 2025",
+    "team1": "Atlético Grau",
+    "score": "1 - 1",
+    "team2": "Alianza Lima",
+    "title": "Atlético Grau VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732023/alianza-lima-atletico-grau"
+  },
+  {
+    "gameId": "732028",
+    "date": "Saturday, May 10, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "1 - 2",
+    "team2": "Melgar",
+    "title": "Cienciano del Cusco VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732028/melgar-cienciano-del-cusco"
+  },
+  {
+    "gameId": "732025",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Los Chankas",
+    "score": "2 - 1",
+    "team2": "UTC",
+    "title": "Los Chankas VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732025/utc-los-chankas"
+  },
+  {
+    "gameId": "732029",
+    "date": "Sunday, May 11, 2025",
+    "team1": "ADT",
+    "score": "2 - 2",
+    "team2": "Juan Pablo II",
+    "title": "ADT VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732029/juan-pablo-ii-adt"
+  },
+  {
+    "gameId": "732026",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 3",
+    "team2": "Cusco FC",
+    "title": "Deportivo Garcilaso VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732026/cusco-fc-deportivo-garcilaso"
+  },
+  {
+    "gameId": "732024",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Universitario",
+    "score": "0 - 1",
+    "team2": "Alianza Atlético",
+    "title": "Universitario VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732024/alianza-atletico-universitario"
+  },
+  {
+    "gameId": "732030",
+    "date": "Monday, May 12, 2025",
+    "team1": "Alianza Universidad",
+    "score": "0 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Alianza Universidad VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732030/sport-huancayo-alianza-universidad"
+  },
+  {
+    "gameId": "732031",
+    "date": "Friday, May 16, 2025",
+    "team1": "Alianza Atlético",
+    "score": "1 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Alianza Atlético VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732031/deportivo-garcilaso-alianza-atletico"
+  },
+  {
+    "gameId": "732035",
+    "date": "Saturday, May 17, 2025",
+    "team1": "UTC",
+    "score": "2 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "UTC VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732035/comerciantes-unidos-utc"
+  },
+  {
+    "gameId": "732032",
+    "date": "Saturday, May 17, 2025",
+    "team1": "Sporting Cristal",
+    "score": "2 - 1",
+    "team2": "ADT",
+    "title": "Sporting Cristal VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732032/adt-sporting-cristal"
+  },
+  {
+    "gameId": "732037",
+    "date": "Saturday, May 17, 2025",
+    "team1": "Cusco FC",
+    "score": "3 - 3",
+    "team2": "Los Chankas",
+    "title": "Cusco FC VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732037/los-chankas-cusco-fc"
+  },
+  {
+    "gameId": "732033",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Sport Huancayo",
+    "score": "1 - 0",
+    "team2": "Sport Boys",
+    "title": "Sport Huancayo VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732033/sport-boys-sport-huancayo"
+  },
+  {
+    "gameId": "732039",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Juan Pablo II",
+    "score": "2 - 0",
+    "team2": "Universitario",
+    "title": "Juan Pablo II VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732039/universitario-juan-pablo-ii"
+  },
+  {
+    "gameId": "732034",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Melgar",
+    "score": "1 - 1",
+    "team2": "Atlético Grau",
+    "title": "Melgar VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732034/atletico-grau-melgar"
+  },
+  {
+    "gameId": "732036",
+    "date": "Monday, May 19, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "1 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Deportivo Binacional VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732036/cienciano-del-cusco-deportivo-binacional"
+  },
+  {
+    "gameId": "732038",
+    "date": "Monday, May 19, 2025",
+    "team1": "Alianza Lima",
+    "score": "2 - 0",
+    "team2": "Alianza Universidad",
+    "title": "Alianza Lima VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732038/alianza-universidad-alianza-lima"
+  },
+  {
+    "gameId": "732045",
+    "date": "Thursday, May 22, 2025",
+    "team1": "Universitario",
+    "score": "2 - 0",
+    "team2": "Sporting Cristal",
+    "title": "Universitario VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732045/sporting-cristal-universitario"
+  },
+  {
+    "gameId": "732042",
+    "date": "Friday, May 23, 2025",
+    "team1": "Alianza Universidad",
+    "score": "1 - 1",
+    "team2": "Melgar",
+    "title": "Alianza Universidad VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732042/melgar-alianza-universidad"
+  },
+  {
+    "gameId": "732046",
+    "date": "Friday, May 23, 2025",
+    "team1": "Sport Boys",
+    "score": "0 - 1",
+    "team2": "Alianza Lima",
+    "title": "Sport Boys VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732046/alianza-lima-sport-boys"
+  },
+  {
+    "gameId": "732044",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 2",
+    "team2": "Cusco FC",
+    "title": "Comerciantes Unidos VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732044/cusco-fc-comerciantes-unidos"
+  },
+  {
+    "gameId": "732041",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Atlético Grau",
+    "score": "3 - 0",
+    "team2": "Deportivo Binacional",
+    "title": "Atlético Grau VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732041/deportivo-binacional-atletico-grau"
+  },
+  {
+    "gameId": "732040",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "6 - 1",
+    "team2": "UTC",
+    "title": "Cienciano del Cusco VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732040/utc-cienciano-del-cusco"
+  },
+  {
+    "gameId": "732043",
+    "date": "Sunday, May 25, 2025",
+    "team1": "ADT",
+    "score": "0 - 1",
+    "team2": "Ayacucho FC",
+    "title": "ADT VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732043/ayacucho-fc-adt"
+  },
+  {
+    "gameId": "732048",
+    "date": "Sunday, May 25, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "4 - 0",
+    "team2": "Juan Pablo II",
+    "title": "Deportivo Garcilaso VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732048/juan-pablo-ii-deportivo-garcilaso"
+  },
+  {
+    "gameId": "732047",
+    "date": "Sunday, June 1, 2025",
+    "team1": "Los Chankas",
+    "score": "1 - 2",
+    "team2": "Alianza Atlético",
+    "title": "Los Chankas VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732047/alianza-atletico-los-chankas"
+  },
+  {
+    "gameId": "732049",
+    "date": "Thursday, June 12, 2025",
+    "team1": "Alianza Atlético",
+    "score": "3 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "Alianza Atlético VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732049/comerciantes-unidos-alianza-atletico"
+  },
+  {
+    "gameId": "732051",
+    "date": "Friday, June 13, 2025",
+    "team1": "UTC",
+    "score": "0 - 2",
+    "team2": "Atlético Grau",
+    "title": "UTC VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732051/atletico-grau-utc"
+  },
+  {
+    "gameId": "732056",
+    "date": "Friday, June 13, 2025",
+    "team1": "Cusco FC",
+    "score": "0 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "Cusco FC VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732056/cienciano-del-cusco-cusco-fc"
+  },
+  {
+    "gameId": "732053",
+    "date": "Saturday, June 14, 2025",
+    "team1": "Melgar",
+    "score": "2 - 1",
+    "team2": "Sport Boys",
+    "title": "Melgar VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732053/sport-boys-melgar"
+  },
+  {
+    "gameId": "732054",
+    "date": "Saturday, June 14, 2025",
+    "team1": "Juan Pablo II",
+    "score": "3 - 0",
+    "team2": "Los Chankas",
+    "title": "Juan Pablo II VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732054/los-chankas-juan-pablo-ii"
+  },
+  {
+    "gameId": "732050",
+    "date": "Saturday, June 14, 2025",
+    "team1": "Alianza Lima",
+    "score": "0 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Alianza Lima VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732050/sport-huancayo-alianza-lima"
+  },
+  {
+    "gameId": "732052",
+    "date": "Sunday, June 15, 2025",
+    "team1": "Sporting Cristal",
+    "score": "3 - 2",
+    "team2": "Deportivo Garcilaso",
+    "title": "Sporting Cristal VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732052/deportivo-garcilaso-sporting-cristal"
+  },
+  {
+    "gameId": "732057",
+    "date": "Sunday, June 15, 2025",
+    "team1": "Ayacucho FC",
+    "score": "0 - 1",
+    "team2": "Universitario",
+    "title": "Ayacucho FC VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732057/universitario-ayacucho-fc"
+  },
+  {
+    "gameId": "732055",
+    "date": "Sunday, June 15, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "1 - 1",
+    "team2": "Alianza Universidad",
+    "title": "Deportivo Binacional VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732055/alianza-universidad-deportivo-binacional"
+  },
+  {
+    "gameId": "732008",
+    "date": "Wednesday, June 18, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 1",
+    "team2": "Alianza Lima",
+    "title": "Comerciantes Unidos VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732008/alianza-lima-comerciantes-unidos"
+  },
+  {
+    "gameId": "732065",
+    "date": "Thursday, June 19, 2025",
+    "team1": "Atlético Grau",
+    "score": "0 - 0",
+    "team2": "Cusco FC",
+    "title": "Atlético Grau VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732065/cusco-fc-atletico-grau"
+  },
+  {
+    "gameId": "732058",
+    "date": "Friday, June 20, 2025",
+    "team1": "Alianza Universidad",
+    "score": "1 - 2",
+    "team2": "UTC",
+    "title": "Alianza Universidad VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732058/utc-alianza-universidad"
+  },
+  {
+    "gameId": "732062",
+    "date": "Friday, June 20, 2025",
+    "team1": "Universitario",
+    "score": "5 - 0",
+    "team2": "ADT",
+    "title": "Universitario VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732062/adt-universitario"
+  },
+  {
+    "gameId": "732066",
+    "date": "Saturday, June 21, 2025",
+    "team1": "Sport Huancayo",
+    "score": "2 - 2",
+    "team2": "Melgar",
+    "title": "Sport Huancayo VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732066/melgar-sport-huancayo"
+  },
+  {
+    "gameId": "732060",
+    "date": "Saturday, June 21, 2025",
+    "team1": "Los Chankas",
+    "score": "3 - 1",
+    "team2": "Sporting Cristal",
+    "title": "Los Chankas VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732060/sporting-cristal-los-chankas"
+  },
+  {
+    "gameId": "732059",
+    "date": "Saturday, June 21, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "2 - 1",
+    "team2": "Ayacucho FC",
+    "title": "Deportivo Garcilaso VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732059/ayacucho-fc-deportivo-garcilaso"
+  },
+  {
+    "gameId": "732061",
+    "date": "Sunday, June 22, 2025",
+    "team1": "Sport Boys",
+    "score": "3 - 1",
+    "team2": "Deportivo Binacional",
+    "title": "Sport Boys VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732061/deportivo-binacional-sport-boys"
+  },
+  {
+    "gameId": "732063",
+    "date": "Sunday, June 22, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "3 - 0",
+    "team2": "Juan Pablo II",
+    "title": "Comerciantes Unidos VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732063/juan-pablo-ii-comerciantes-unidos"
+  },
+  {
+    "gameId": "732064",
+    "date": "Sunday, June 22, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "3 - 2",
+    "team2": "Alianza Atlético",
+    "title": "Cienciano del Cusco VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732064/alianza-atletico-cienciano-del-cusco"
+  },
+  {
+    "gameId": "731707",
+    "date": "Wednesday, June 25, 2025",
+    "team1": "Atlético Grau",
+    "score": "0 - 2",
+    "team2": "Universitario",
+    "title": "Atlético Grau VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731707/universitario-atletico-grau"
+  },
+  {
+    "gameId": "732068",
+    "date": "Friday, June 27, 2025",
+    "team1": "Ayacucho FC",
+    "score": "1 - 2",
+    "team2": "Los Chankas",
+    "title": "Ayacucho FC VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732068/los-chankas-ayacucho-fc"
+  },
+  {
+    "gameId": "732072",
+    "date": "Friday, June 27, 2025",
+    "team1": "Juan Pablo II",
+    "score": "2 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "Juan Pablo II VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732072/cienciano-del-cusco-juan-pablo-ii"
+  },
+  {
+    "gameId": "732075",
+    "date": "Friday, June 27, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "1 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Deportivo Binacional VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732075/sport-huancayo-deportivo-binacional"
+  },
+  {
+    "gameId": "732070",
+    "date": "Saturday, June 28, 2025",
+    "team1": "ADT",
+    "score": "0 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "ADT VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732070/deportivo-garcilaso-adt"
+  },
+  {
+    "gameId": "732071",
+    "date": "Saturday, June 28, 2025",
+    "team1": "UTC",
+    "score": "1 - 1",
+    "team2": "Sport Boys",
+    "title": "UTC VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732071/sport-boys-utc"
+  },
+  {
+    "gameId": "732073",
+    "date": "Saturday, June 28, 2025",
+    "team1": "Melgar",
+    "score": "0 - 1",
+    "team2": "Alianza Lima",
+    "title": "Melgar VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732073/alianza-lima-melgar"
+  },
+  {
+    "gameId": "732074",
+    "date": "Sunday, June 29, 2025",
+    "team1": "Sporting Cristal",
+    "score": "2 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "Sporting Cristal VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732074/comerciantes-unidos-sporting-cristal"
+  },
+  {
+    "gameId": "732069",
+    "date": "Sunday, June 29, 2025",
+    "team1": "Alianza Atlético",
+    "score": "2 - 1",
+    "team2": "Atlético Grau",
+    "title": "Alianza Atlético VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732069/atletico-grau-alianza-atletico"
+  },
+  {
+    "gameId": "732067",
+    "date": "Sunday, June 29, 2025",
+    "team1": "Cusco FC",
+    "score": "4 - 1",
+    "team2": "Alianza Universidad",
+    "title": "Cusco FC VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732067/alianza-universidad-cusco-fc"
+  },
+  {
+    "gameId": "731952",
+    "date": "Wednesday, July 2, 2025",
+    "team1": "Juan Pablo II",
+    "score": "1 - 1",
+    "team2": "Melgar",
+    "title": "Juan Pablo II VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/731952/melgar-juan-pablo-ii"
+  },
+  {
+    "gameId": "732081",
+    "date": "Friday, July 4, 2025",
+    "team1": "Sport Huancayo",
+    "score": "1 - 0",
+    "team2": "UTC",
+    "title": "Sport Huancayo VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732081/utc-sport-huancayo"
+  },
+  {
+    "gameId": "732083",
+    "date": "Friday, July 4, 2025",
+    "team1": "Los Chankas",
+    "score": "1 - 1",
+    "team2": "ADT",
+    "title": "Los Chankas VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732083/adt-los-chankas"
+  },
+  {
+    "gameId": "732080",
+    "date": "Saturday, July 5, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 1",
+    "team2": "Ayacucho FC",
+    "title": "Comerciantes Unidos VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732080/ayacucho-fc-comerciantes-unidos"
+  },
+  {
+    "gameId": "732076",
+    "date": "Saturday, July 5, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "1 - 1",
+    "team2": "Sporting Cristal",
+    "title": "Cienciano del Cusco VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732076/sporting-cristal-cienciano-del-cusco"
+  },
+  {
+    "gameId": "732078",
+    "date": "Saturday, July 5, 2025",
+    "team1": "Alianza Universidad",
+    "score": "2 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Alianza Universidad VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732078/alianza-atletico-alianza-universidad"
+  },
+  {
+    "gameId": "732079",
+    "date": "Saturday, July 5, 2025",
+    "team1": "Alianza Lima",
+    "score": "5 - 1",
+    "team2": "Deportivo Binacional",
+    "title": "Alianza Lima VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732079/deportivo-binacional-alianza-lima"
+  },
+  {
+    "gameId": "732082",
+    "date": "Sunday, July 6, 2025",
+    "team1": "Sport Boys",
+    "score": "1 - 2",
+    "team2": "Cusco FC",
+    "title": "Sport Boys VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732082/cusco-fc-sport-boys"
+  },
+  {
+    "gameId": "732077",
+    "date": "Sunday, July 6, 2025",
+    "team1": "Atlético Grau",
+    "score": "2 - 0",
+    "team2": "Juan Pablo II",
+    "title": "Atlético Grau VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732077/juan-pablo-ii-atletico-grau"
+  },
+  {
+    "gameId": "732084",
+    "date": "Sunday, July 6, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "0 - 1",
+    "team2": "Universitario",
+    "title": "Deportivo Garcilaso VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732084/universitario-deportivo-garcilaso"
+  },
+  {
+    "gameId": "732085",
+    "date": "Friday, July 11, 2025",
+    "team1": "ADT",
+    "score": "1 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "ADT VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732085/comerciantes-unidos-adt"
+  },
+  {
+    "gameId": "732092",
+    "date": "Saturday, July 12, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "1 - 1",
+    "team2": "Melgar",
+    "title": "Deportivo Binacional VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732092/melgar-deportivo-binacional"
+  },
+  {
+    "gameId": "732089",
+    "date": "Saturday, July 12, 2025",
+    "team1": "Universitario",
+    "score": "0 - 0",
+    "team2": "Los Chankas",
+    "title": "Universitario VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732089/los-chankas-universitario"
+  },
+  {
+    "gameId": "732093",
+    "date": "Saturday, July 12, 2025",
+    "team1": "UTC",
+    "score": "0 - 0",
+    "team2": "Alianza Lima",
+    "title": "UTC VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732093/alianza-lima-utc"
+  },
+  {
+    "gameId": "732086",
+    "date": "Saturday, July 12, 2025",
+    "team1": "Alianza Atlético",
+    "score": "1 - 0",
+    "team2": "Sport Boys",
+    "title": "Alianza Atlético VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732086/sport-boys-alianza-atletico"
+  },
+  {
+    "gameId": "732090",
+    "date": "Sunday, July 13, 2025",
+    "team1": "Sporting Cristal",
+    "score": "2 - 1",
+    "team2": "Atlético Grau",
+    "title": "Sporting Cristal VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732090/atletico-grau-sporting-cristal"
+  },
+  {
+    "gameId": "732087",
+    "date": "Sunday, July 13, 2025",
+    "team1": "Ayacucho FC",
+    "score": "1 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "Ayacucho FC VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732087/cienciano-del-cusco-ayacucho-fc"
+  },
+  {
+    "gameId": "732091",
+    "date": "Sunday, July 13, 2025",
+    "team1": "Juan Pablo II",
+    "score": "1 - 0",
+    "team2": "Alianza Universidad",
+    "title": "Juan Pablo II VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732091/alianza-universidad-juan-pablo-ii"
+  },
+  {
+    "gameId": "732088",
+    "date": "Sunday, July 13, 2025",
+    "team1": "Cusco FC",
+    "score": "3 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Cusco FC VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/732088/sport-huancayo-cusco-fc"
+  },
+  {
+    "gameId": "749782",
+    "date": "Friday, July 18, 2025",
+    "team1": "Alianza Atlético",
+    "score": "0 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Alianza Atlético VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749782/sport-huancayo-alianza-atletico"
+  },
+  {
+    "gameId": "749783",
+    "date": "Friday, July 18, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "3 - 0",
+    "team2": "Los Chankas",
+    "title": "Deportivo Garcilaso VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749783/los-chankas-deportivo-garcilaso"
+  },
+  {
+    "gameId": "749784",
+    "date": "Friday, July 18, 2025",
+    "team1": "Universitario",
+    "score": "3 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Universitario VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749784/comerciantes-unidos-universitario"
+  },
+  {
+    "gameId": "749785",
+    "date": "Saturday, July 19, 2025",
+    "team1": "UTC",
+    "score": "1 - 2",
+    "team2": "Melgar",
+    "title": "UTC VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749785/melgar-utc"
+  },
+  {
+    "gameId": "749786",
+    "date": "Saturday, July 19, 2025",
+    "team1": "ADT",
+    "score": "1 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "ADT VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749786/cienciano-del-cusco-adt"
+  },
+  {
+    "gameId": "749787",
+    "date": "Saturday, July 19, 2025",
+    "team1": "Cusco FC",
+    "score": "2 - 0",
+    "team2": "Alianza Lima",
+    "title": "Cusco FC VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749787/alianza-lima-cusco-fc"
+  },
+  {
+    "gameId": "749788",
+    "date": "Sunday, July 20, 2025",
+    "team1": "Sporting Cristal",
+    "score": "3 - 0",
+    "team2": "Alianza Universidad",
+    "title": "Sporting Cristal VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749788/alianza-universidad-sporting-cristal"
+  },
+  {
+    "gameId": "749789",
+    "date": "Sunday, July 20, 2025",
+    "team1": "Ayacucho FC",
+    "score": "1 - 2",
+    "team2": "Atlético Grau",
+    "title": "Ayacucho FC VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749789/atletico-grau-ayacucho-fc"
+  },
+  {
+    "gameId": "749790",
+    "date": "Sunday, July 20, 2025",
+    "team1": "Juan Pablo II",
+    "score": "3 - 0",
+    "team2": "Sport Boys",
+    "title": "Juan Pablo II VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749790/sport-boys-juan-pablo-ii"
+  },
+  {
+    "gameId": "749791",
+    "date": "Friday, July 25, 2025",
+    "team1": "Sport Huancayo",
+    "score": "5 - 1",
+    "team2": "Juan Pablo II",
+    "title": "Sport Huancayo VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749791/juan-pablo-ii-sport-huancayo"
+  },
+  {
+    "gameId": "749792",
+    "date": "Friday, July 25, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "0 - 0",
+    "team2": "UTC",
+    "title": "Deportivo Binacional VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749792/utc-deportivo-binacional"
+  },
+  {
+    "gameId": "749793",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Alianza Universidad",
+    "score": "1 - 2",
+    "team2": "Ayacucho FC",
+    "title": "Alianza Universidad VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749793/ayacucho-fc-alianza-universidad"
+  },
+  {
+    "gameId": "749795",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Sport Boys",
+    "score": "0 - 2",
+    "team2": "Sporting Cristal",
+    "title": "Sport Boys VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749795/sporting-cristal-sport-boys"
+  },
+  {
+    "gameId": "749796",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "1 - 1",
+    "team2": "Universitario",
+    "title": "Cienciano del Cusco VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749796/universitario-cienciano-del-cusco"
+  },
+  {
+    "gameId": "749797",
+    "date": "Sunday, July 27, 2025",
+    "team1": "Melgar",
+    "score": "0 - 2",
+    "team2": "Cusco FC",
+    "title": "Melgar VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749797/cusco-fc-melgar"
+  },
+  {
+    "gameId": "749798",
+    "date": "Sunday, July 27, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Comerciantes Unidos VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749798/deportivo-garcilaso-comerciantes-unidos"
+  },
+  {
+    "gameId": "749799",
+    "date": "Sunday, July 27, 2025",
+    "team1": "Alianza Lima",
+    "score": "1 - 1",
+    "team2": "Alianza Atlético",
+    "title": "Alianza Lima VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749799/alianza-atletico-alianza-lima"
+  },
+  {
+    "gameId": "751366",
+    "date": "Wednesday, July 30, 2025",
+    "team1": "Ayacucho FC",
+    "score": "0 - 0",
+    "team2": "Sport Boys",
+    "title": "Ayacucho FC VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/751366/sport-boys-ayacucho-fc"
+  },
+  {
+    "gameId": "751367",
+    "date": "Wednesday, July 30, 2025",
+    "team1": "Sporting Cristal",
+    "score": "5 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Sporting Cristal VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/751367/sport-huancayo-sporting-cristal"
+  },
+  {
+    "gameId": "751368",
+    "date": "Thursday, July 31, 2025",
+    "team1": "ADT",
+    "score": "0 - 3",
+    "team2": "Alianza Universidad",
+    "title": "ADT VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/751368/alianza-universidad-adt"
+  },
+  {
+    "gameId": "751369",
+    "date": "Thursday, July 31, 2025",
+    "team1": "Cusco FC",
+    "score": "2 - 0",
+    "team2": "Deportivo Binacional",
+    "title": "Cusco FC VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/751369/deportivo-binacional-cusco-fc"
+  },
+  {
+    "gameId": "751370",
+    "date": "Thursday, July 31, 2025",
+    "team1": "Juan Pablo II",
+    "score": "1 - 2",
+    "team2": "Alianza Lima",
+    "title": "Juan Pablo II VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/751370/alianza-lima-juan-pablo-ii"
+  },
+  {
+    "gameId": "751371",
+    "date": "Thursday, July 31, 2025",
+    "team1": "Universitario",
+    "score": "3 - 1",
+    "team2": "Atlético Grau",
+    "title": "Universitario VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/751371/atletico-grau-universitario"
+  },
+  {
+    "gameId": "751372",
+    "date": "Friday, August 1, 2025",
+    "team1": "Los Chankas",
+    "score": "3 - 2",
+    "team2": "Comerciantes Unidos",
+    "title": "Los Chankas VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/751372/comerciantes-unidos-los-chankas"
+  },
+  {
+    "gameId": "751373",
+    "date": "Friday, August 1, 2025",
+    "team1": "Alianza Atlético",
+    "score": "0 - 0",
+    "team2": "Melgar",
+    "title": "Alianza Atlético VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/751373/melgar-alianza-atletico"
+  },
+  {
+    "gameId": "751374",
+    "date": "Friday, August 1, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "2 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Deportivo Garcilaso VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/751374/cienciano-del-cusco-deportivo-garcilaso"
+  },
+  {
+    "gameId": "752930",
+    "date": "Sunday, August 3, 2025",
+    "team1": "Sport Huancayo",
+    "score": "3 - 1",
+    "team2": "Ayacucho FC",
+    "title": "Sport Huancayo VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752930/ayacucho-fc-sport-huancayo"
+  },
+  {
+    "gameId": "752931",
+    "date": "Monday, August 4, 2025",
+    "team1": "UTC",
+    "score": "1 - 2",
+    "team2": "Cusco FC",
+    "title": "UTC VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752931/cusco-fc-utc"
+  },
+  {
+    "gameId": "752932",
+    "date": "Monday, August 4, 2025",
+    "team1": "Sport Boys",
+    "score": "1 - 0",
+    "team2": "ADT",
+    "title": "Sport Boys VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752932/adt-sport-boys"
+  },
+  {
+    "gameId": "752933",
+    "date": "Monday, August 4, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "3 - 0",
+    "team2": "Los Chankas",
+    "title": "Cienciano del Cusco VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752933/los-chankas-cienciano-del-cusco"
+  },
+  {
+    "gameId": "752934",
+    "date": "Tuesday, August 5, 2025",
+    "team1": "Alianza Universidad",
+    "score": "0 - 2",
+    "team2": "Universitario",
+    "title": "Alianza Universidad VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752934/universitario-alianza-universidad"
+  },
+  {
+    "gameId": "752935",
+    "date": "Tuesday, August 5, 2025",
+    "team1": "Melgar",
+    "score": "1 - 1",
+    "team2": "Juan Pablo II",
+    "title": "Melgar VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752935/juan-pablo-ii-melgar"
+  },
+  {
+    "gameId": "752936",
+    "date": "Tuesday, August 5, 2025",
+    "team1": "Alianza Lima",
+    "score": "0 - 0",
+    "team2": "Sporting Cristal",
+    "title": "Alianza Lima VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752936/sporting-cristal-alianza-lima"
+  },
+  {
+    "gameId": "752937",
+    "date": "Wednesday, August 6, 2025",
+    "team1": "Atlético Grau",
+    "score": "1 - 1",
+    "team2": "Deportivo Garcilaso",
+    "title": "Atlético Grau VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752937/deportivo-garcilaso-atletico-grau"
+  },
+  {
+    "gameId": "752938",
+    "date": "Wednesday, August 6, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "2 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Deportivo Binacional VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752938/alianza-atletico-deportivo-binacional"
+  },
+  {
+    "gameId": "753682",
+    "date": "Friday, August 8, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Comerciantes Unidos VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/753682/cienciano-del-cusco-comerciantes-unidos"
+  },
+  {
+    "gameId": "753683",
+    "date": "Saturday, August 9, 2025",
+    "team1": "Ayacucho FC",
+    "score": "0 - 1",
+    "team2": "Alianza Lima",
+    "title": "Ayacucho FC VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/753683/alianza-lima-ayacucho-fc"
+  },
+  {
+    "gameId": "753684",
+    "date": "Saturday, August 9, 2025",
+    "team1": "ADT",
+    "score": "1 - 0",
+    "team2": "Sport Huancayo",
+    "title": "ADT VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/753684/sport-huancayo-adt"
+  },
+  {
+    "gameId": "753685",
+    "date": "Saturday, August 9, 2025",
+    "team1": "Universitario",
+    "score": "1 - 0",
+    "team2": "Sport Boys",
+    "title": "Universitario VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/753685/sport-boys-universitario"
+  },
+  {
+    "gameId": "753686",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Sporting Cristal",
+    "score": "1 - 0",
+    "team2": "Melgar",
+    "title": "Sporting Cristal VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/753686/melgar-sporting-cristal"
+  },
+  {
+    "gameId": "753687",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Los Chankas",
+    "score": "3 - 2",
+    "team2": "Atlético Grau",
+    "title": "Los Chankas VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/753687/atletico-grau-los-chankas"
+  },
+  {
+    "gameId": "753688",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Juan Pablo II",
+    "score": "0 - 0",
+    "team2": "Deportivo Binacional",
+    "title": "Juan Pablo II VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/753688/deportivo-binacional-juan-pablo-ii"
+  },
+  {
+    "gameId": "753689",
+    "date": "Monday, August 11, 2025",
+    "team1": "Alianza Atlético",
+    "score": "2 - 0",
+    "team2": "UTC",
+    "title": "Alianza Atlético VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/753689/utc-alianza-atletico"
+  },
+  {
+    "gameId": "753690",
+    "date": "Monday, August 11, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 1",
+    "team2": "Alianza Universidad",
+    "title": "Deportivo Garcilaso VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/753690/alianza-universidad-deportivo-garcilaso"
+  },
+  {
+    "gameId": "754534",
+    "date": "Friday, August 15, 2025",
+    "team1": "Atlético Grau",
+    "score": "1 - 2",
+    "team2": "Comerciantes Unidos",
+    "title": "Atlético Grau VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754534/comerciantes-unidos-atletico-grau"
+  },
+  {
+    "gameId": "754535",
+    "date": "Friday, August 15, 2025",
+    "team1": "Sport Boys",
+    "score": "0 - 1",
+    "team2": "Deportivo Garcilaso",
+    "title": "Sport Boys VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754535/deportivo-garcilaso-sport-boys"
+  },
+  {
+    "gameId": "754537",
+    "date": "Saturday, August 16, 2025",
+    "team1": "UTC",
+    "score": "0 - 0",
+    "team2": "Juan Pablo II",
+    "title": "UTC VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754537/juan-pablo-ii-utc"
+  },
+  {
+    "gameId": "754538",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "1 - 3",
+    "team2": "Sporting Cristal",
+    "title": "Deportivo Binacional VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754538/sporting-cristal-deportivo-binacional"
+  },
+  {
+    "gameId": "754539",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Alianza Lima",
+    "score": "3 - 1",
+    "team2": "ADT",
+    "title": "Alianza Lima VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754539/adt-alianza-lima"
+  },
+  {
+    "gameId": "754540",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Sport Huancayo",
+    "score": "1 - 1",
+    "team2": "Universitario",
+    "title": "Sport Huancayo VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754540/universitario-sport-huancayo"
+  },
+  {
+    "gameId": "754541",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Melgar",
+    "score": "2 - 1",
+    "team2": "Ayacucho FC",
+    "title": "Melgar VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754541/ayacucho-fc-melgar"
+  },
+  {
+    "gameId": "754542",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Cusco FC",
+    "score": "1 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Cusco FC VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754542/alianza-atletico-cusco-fc"
+  },
+  {
+    "gameId": "754543",
+    "date": "Friday, August 22, 2025",
+    "team1": "Ayacucho FC",
+    "score": "0 - 0",
+    "team2": "Deportivo Binacional",
+    "title": "Ayacucho FC VS Deportivo Binacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754543/deportivo-binacional-ayacucho-fc"
+  },
+  {
+    "gameId": "754544",
+    "date": "Friday, August 22, 2025",
+    "team1": "Juan Pablo II",
+    "score": "0 - 0",
+    "team2": "Cusco FC",
+    "title": "Juan Pablo II VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754544/cusco-fc-juan-pablo-ii"
+  },
+  {
+    "gameId": "754545",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Sporting Cristal",
+    "score": "2 - 2",
+    "team2": "UTC",
+    "title": "Sporting Cristal VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754545/utc-sporting-cristal"
+  },
+  {
+    "gameId": "754546",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Los Chankas",
+    "score": "2 - 1",
+    "team2": "Sport Boys",
+    "title": "Los Chankas VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754546/sport-boys-los-chankas"
+  },
+  {
+    "gameId": "754547",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 2",
+    "team2": "Alianza Universidad",
+    "title": "Comerciantes Unidos VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754547/alianza-universidad-comerciantes-unidos"
+  },
+  {
+    "gameId": "754548",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Deportivo Garcilaso VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754548/sport-huancayo-deportivo-garcilaso"
+  },
+  {
+    "gameId": "754549",
+    "date": "Sunday, August 24, 2025",
+    "team1": "ADT",
+    "score": "2 - 2",
+    "team2": "Melgar",
+    "title": "ADT VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754549/melgar-adt"
+  },
+  {
+    "gameId": "754550",
+    "date": "Sunday, August 24, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "1 - 0",
+    "team2": "Atlético Grau",
+    "title": "Cienciano del Cusco VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754550/atletico-grau-cienciano-del-cusco"
+  },
+  {
+    "gameId": "754551",
+    "date": "Sunday, August 24, 2025",
+    "team1": "Universitario",
+    "score": "0 - 0",
+    "team2": "Alianza Lima",
+    "title": "Universitario VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754551/alianza-lima-universitario"
+  },
+  {
+    "gameId": "754536",
+    "date": "Saturday, August 30, 2025",
+    "team1": "Alianza Universidad",
+    "score": "2 - 1",
+    "team2": "Los Chankas",
+    "title": "Alianza Universidad VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/754536/los-chankas-alianza-universidad"
+  },
+  {
+    "gameId": "749794",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Atlético Grau",
+    "score": "2 - 0",
+    "team2": "ADT",
+    "title": "Atlético Grau VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/749794/adt-atletico-grau"
+  },
+  {
+    "gameId": "756351",
+    "date": "Friday, September 12, 2025",
+    "team1": "UTC",
+    "score": "0 - 1",
+    "team2": "Ayacucho FC",
+    "title": "UTC VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756351/ayacucho-fc-utc"
+  },
+  {
+    "gameId": "756352",
+    "date": "Friday, September 12, 2025",
+    "team1": "Sport Huancayo",
+    "score": "1 - 2",
+    "team2": "Los Chankas",
+    "title": "Sport Huancayo VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756352/los-chankas-sport-huancayo"
+  },
+  {
+    "gameId": "756353",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Sport Boys",
+    "score": "0 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Sport Boys VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756353/comerciantes-unidos-sport-boys"
+  },
+  {
+    "gameId": "756354",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Alianza Atlético",
+    "score": "0 - 1",
+    "team2": "Juan Pablo II",
+    "title": "Alianza Atlético VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756354/juan-pablo-ii-alianza-atletico"
+  },
+  {
+    "gameId": "756348",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Alianza Lima",
+    "score": "3 - 4",
+    "team2": "Deportivo Garcilaso",
+    "title": "Alianza Lima VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756348/deportivo-garcilaso-alianza-lima"
+  },
+  {
+    "gameId": "756349",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Alianza Universidad",
+    "score": "0 - 3",
+    "team2": "Cienciano del Cusco",
+    "title": "Alianza Universidad VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756349/cienciano-del-cusco-alianza-universidad"
+  },
+  {
+    "gameId": "756355",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Deportivo Binacional",
+    "score": "0 - 0",
+    "team2": "ADT",
+    "title": "Deportivo Binacional VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756355/adt-deportivo-binacional"
+  },
+  {
+    "gameId": "756350",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Melgar",
+    "score": "1 - 2",
+    "team2": "Universitario",
+    "title": "Melgar VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756350/universitario-melgar"
+  },
+  {
+    "gameId": "756356",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Cusco FC",
+    "score": "3 - 2",
+    "team2": "Sporting Cristal",
+    "title": "Cusco FC VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756356/sporting-cristal-cusco-fc"
+  },
+  {
+    "gameId": "758104",
+    "date": "Tuesday, September 16, 2025",
+    "team1": "ADT",
+    "score": "3 - 1",
+    "team2": "UTC",
+    "title": "ADT VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758104/utc-adt"
+  },
+  {
+    "gameId": "758108",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Sporting Cristal",
+    "score": "0 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Sporting Cristal VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758108/alianza-atletico-sporting-cristal"
+  },
+  {
+    "gameId": "758105",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "2 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Comerciantes Unidos VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758105/sport-huancayo-comerciantes-unidos"
+  },
+  {
+    "gameId": "758109",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "2 - 2",
+    "team2": "Sport Boys",
+    "title": "Cienciano del Cusco VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758109/sport-boys-cienciano-del-cusco"
+  },
+  {
+    "gameId": "758110",
+    "date": "Thursday, September 18, 2025",
+    "team1": "Ayacucho FC",
+    "score": "0 - 1",
+    "team2": "Cusco FC",
+    "title": "Ayacucho FC VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758110/cusco-fc-ayacucho-fc"
+  },
+  {
+    "gameId": "758111",
+    "date": "Thursday, September 18, 2025",
+    "team1": "Atlético Grau",
+    "score": "2 - 0",
+    "team2": "Alianza Universidad",
+    "title": "Atlético Grau VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758111/alianza-universidad-atletico-grau"
+  },
+  {
+    "gameId": "758112",
+    "date": "Thursday, September 18, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 1",
+    "team2": "Melgar",
+    "title": "Deportivo Garcilaso VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758112/melgar-deportivo-garcilaso"
+  },
+  {
+    "gameId": "758114",
+    "date": "Saturday, September 20, 2025",
+    "team1": "UTC",
+    "score": "1 - 2",
+    "team2": "Universitario",
+    "title": "UTC VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758114/universitario-utc"
+  },
+  {
+    "gameId": "758115",
+    "date": "Sunday, September 21, 2025",
+    "team1": "Melgar",
+    "score": "6 - 1",
+    "team2": "Los Chankas",
+    "title": "Melgar VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758115/los-chankas-melgar"
+  },
+  {
+    "gameId": "758116",
+    "date": "Sunday, September 21, 2025",
+    "team1": "Juan Pablo II",
+    "score": "0 - 0",
+    "team2": "Sporting Cristal",
+    "title": "Juan Pablo II VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758116/sporting-cristal-juan-pablo-ii"
+  },
+  {
+    "gameId": "758117",
+    "date": "Sunday, September 21, 2025",
+    "team1": "Sport Huancayo",
+    "score": "5 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "Sport Huancayo VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758117/cienciano-del-cusco-sport-huancayo"
+  },
+  {
+    "gameId": "758118",
+    "date": "Sunday, September 21, 2025",
+    "team1": "Alianza Lima",
+    "score": "4 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "Alianza Lima VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758118/comerciantes-unidos-alianza-lima"
+  },
+  {
+    "gameId": "758119",
+    "date": "Monday, September 22, 2025",
+    "team1": "Alianza Atlético",
+    "score": "3 - 0",
+    "team2": "Ayacucho FC",
+    "title": "Alianza Atlético VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758119/ayacucho-fc-alianza-atletico"
+  },
+  {
+    "gameId": "758120",
+    "date": "Monday, September 22, 2025",
+    "team1": "Cusco FC",
+    "score": "0 - 2",
+    "team2": "ADT",
+    "title": "Cusco FC VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758120/adt-cusco-fc"
+  },
+  {
+    "gameId": "758121",
+    "date": "Monday, September 22, 2025",
+    "team1": "Sport Boys",
+    "score": "1 - 1",
+    "team2": "Atlético Grau",
+    "title": "Sport Boys VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758121/atletico-grau-sport-boys"
+  },
+  {
+    "gameId": "758382",
+    "date": "Thursday, September 25, 2025",
+    "team1": "Ayacucho FC",
+    "score": "2 - 1",
+    "team2": "Juan Pablo II",
+    "title": "Ayacucho FC VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758382/juan-pablo-ii-ayacucho-fc"
+  },
+  {
+    "gameId": "758384",
+    "date": "Thursday, September 25, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "0 - 0",
+    "team2": "UTC",
+    "title": "Deportivo Garcilaso VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758384/utc-deportivo-garcilaso"
+  },
+  {
+    "gameId": "758385",
+    "date": "Friday, September 26, 2025",
+    "team1": "Alianza Universidad",
+    "score": "2 - 3",
+    "team2": "Sport Boys",
+    "title": "Alianza Universidad VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758385/sport-boys-alianza-universidad"
+  },
+  {
+    "gameId": "758386",
+    "date": "Friday, September 26, 2025",
+    "team1": "ADT",
+    "score": "1 - 0",
+    "team2": "Alianza Atlético",
+    "title": "ADT VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758386/alianza-atletico-adt"
+  },
+  {
+    "gameId": "758387",
+    "date": "Friday, September 26, 2025",
+    "team1": "Atlético Grau",
+    "score": "3 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Atlético Grau VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758387/sport-huancayo-atletico-grau"
+  },
+  {
+    "gameId": "758388",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 1",
+    "team2": "Melgar",
+    "title": "Comerciantes Unidos VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758388/melgar-comerciantes-unidos"
+  },
+  {
+    "gameId": "758389",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Universitario",
+    "score": "3 - 2",
+    "team2": "Cusco FC",
+    "title": "Universitario VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758389/cusco-fc-universitario"
+  },
+  {
+    "gameId": "758392",
+    "date": "Monday, September 29, 2025",
+    "team1": "UTC",
+    "score": "2 - 0",
+    "team2": "Los Chankas",
+    "title": "UTC VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758392/los-chankas-utc"
+  },
+  {
+    "gameId": "758393",
+    "date": "Monday, September 29, 2025",
+    "team1": "Sporting Cristal",
+    "score": "3 - 0",
+    "team2": "Ayacucho FC",
+    "title": "Sporting Cristal VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758393/ayacucho-fc-sporting-cristal"
+  },
+  {
+    "gameId": "758394",
+    "date": "20250930",
+    "team1": "Sport Huancayo",
+    "score": "5 - 1",
+    "team2": "Alianza Universidad",
+    "title": "Sport Huancayo VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758394/alianza-universidad-sport-huancayo"
+  },
+  {
+    "gameId": "758395",
+    "date": "20250930",
+    "team1": "Juan Pablo II",
+    "score": "1 - 1",
+    "team2": "ADT",
+    "title": "Juan Pablo II VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758395/adt-juan-pablo-ii"
+  },
+  {
+    "gameId": "758401",
+    "date": "Friday, October 3, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "2 - 1",
+    "team2": "UTC",
+    "title": "Comerciantes Unidos VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758401/utc-comerciantes-unidos"
+  },
+  {
+    "gameId": "758402",
+    "date": "20251004",
+    "team1": "Los Chankas",
+    "score": "2 - 1",
+    "team2": "Cusco FC",
+    "title": "Los Chankas VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758402/cusco-fc-los-chankas"
+  },
+  {
+    "gameId": "758403",
+    "date": "20251004",
+    "team1": "ADT",
+    "score": "3 - 2",
+    "team2": "Sporting Cristal",
+    "title": "ADT VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758403/sporting-cristal-adt"
+  },
+  {
+    "gameId": "758406",
+    "date": "20251005",
+    "team1": "Alianza Universidad",
+    "score": "2 - 1",
+    "team2": "Alianza Lima",
+    "title": "Alianza Universidad VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758406/alianza-lima-alianza-universidad"
+  },
+  {
+    "gameId": "758407",
+    "date": "20251005",
+    "team1": "Atlético Grau",
+    "score": "0 - 0",
+    "team2": "Melgar",
+    "title": "Atlético Grau VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758407/melgar-atletico-grau"
+  },
+  {
+    "gameId": "758408",
+    "date": "20251005",
+    "team1": "Deportivo Garcilaso",
+    "score": "2 - 4",
+    "team2": "Alianza Atlético",
+    "title": "Deportivo Garcilaso VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758408/alianza-atletico-deportivo-garcilaso"
+  },
+  {
+    "gameId": "759263",
+    "date": "Sunday, October 12, 2025",
+    "team1": "Ayacucho FC",
+    "score": "2 - 2",
+    "team2": "ADT",
+    "title": "Ayacucho FC VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759263/adt-ayacucho-fc"
+  },
+  {
+    "gameId": "759264",
+    "date": "Sunday, October 12, 2025",
+    "team1": "Alianza Atlético",
+    "score": "1 - 0",
+    "team2": "Los Chankas",
+    "title": "Alianza Atlético VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759264/los-chankas-alianza-atletico"
+  },
+  {
+    "gameId": "759265",
+    "date": "Sunday, October 12, 2025",
+    "team1": "Cusco FC",
+    "score": "1 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Cusco FC VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759265/comerciantes-unidos-cusco-fc"
+  },
+  {
+    "gameId": "759266",
+    "date": "Monday, October 13, 2025",
+    "team1": "UTC",
+    "score": "0 - 2",
+    "team2": "Cienciano del Cusco",
+    "title": "UTC VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759266/cienciano-del-cusco-utc"
+  },
+  {
+    "gameId": "759267",
+    "date": "Monday, October 13, 2025",
+    "team1": "Juan Pablo II",
+    "score": "0 - 1",
+    "team2": "Deportivo Garcilaso",
+    "title": "Juan Pablo II VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759267/deportivo-garcilaso-juan-pablo-ii"
+  },
+  {
+    "gameId": "759268",
+    "date": "Tuesday, October 14, 2025",
+    "team1": "Melgar",
+    "score": "2 - 1",
+    "team2": "Alianza Universidad",
+    "title": "Melgar VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759268/alianza-universidad-melgar"
+  },
+  {
+    "gameId": "759272",
+    "date": "Saturday, October 18, 2025",
+    "team1": "Los Chankas",
+    "score": "1 - 0",
+    "team2": "Juan Pablo II",
+    "title": "Los Chankas VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759272/juan-pablo-ii-los-chankas"
+  },
+  {
+    "gameId": "759273",
+    "date": "Saturday, October 18, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Comerciantes Unidos VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759273/alianza-atletico-comerciantes-unidos"
+  },
+  {
+    "gameId": "759274",
+    "date": "Saturday, October 18, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "1 - 2",
+    "team2": "Cusco FC",
+    "title": "Cienciano del Cusco VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759274/cusco-fc-cienciano-del-cusco"
+  },
+  {
+    "gameId": "759275",
+    "date": "Sunday, October 19, 2025",
+    "team1": "Atlético Grau",
+    "score": "0 - 2",
+    "team2": "UTC",
+    "title": "Atlético Grau VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759275/utc-atletico-grau"
+  },
+  {
+    "gameId": "759276",
+    "date": "Sunday, October 19, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "0 - 1",
+    "team2": "Sporting Cristal",
+    "title": "Deportivo Garcilaso VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759276/sporting-cristal-deportivo-garcilaso"
+  },
+  {
+    "gameId": "759804",
+    "date": "Friday, October 24, 2025",
+    "team1": "Juan Pablo II",
+    "score": "0 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Juan Pablo II VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759804/comerciantes-unidos-juan-pablo-ii"
+  },
+  {
+    "gameId": "759805",
+    "date": "Saturday, October 25, 2025",
+    "team1": "Ayacucho FC",
+    "score": "4 - 2",
+    "team2": "Deportivo Garcilaso",
+    "title": "Ayacucho FC VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759805/deportivo-garcilaso-ayacucho-fc"
+  },
+  {
+    "gameId": "759806",
+    "date": "Saturday, October 25, 2025",
+    "team1": "Alianza Atlético",
+    "score": "0 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Alianza Atlético VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759806/cienciano-del-cusco-alianza-atletico"
+  },
+  {
+    "gameId": "759807",
+    "date": "Saturday, October 25, 2025",
+    "team1": "Cusco FC",
+    "score": "1 - 0",
+    "team2": "Atlético Grau",
+    "title": "Cusco FC VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759807/atletico-grau-cusco-fc"
+  },
+  {
+    "gameId": "759808",
+    "date": "Sunday, October 26, 2025",
+    "team1": "Sporting Cristal",
+    "score": "0 - 1",
+    "team2": "Los Chankas",
+    "title": "Sporting Cristal VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759808/los-chankas-sporting-cristal"
+  },
+  {
+    "gameId": "759827",
+    "date": "Sunday, October 26, 2025",
+    "team1": "UTC",
+    "score": "3 - 2",
+    "team2": "Alianza Universidad",
+    "title": "UTC VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759827/alianza-universidad-utc"
+  },
+  {
+    "gameId": "759809",
+    "date": "Sunday, October 26, 2025",
+    "team1": "ADT",
+    "score": "1 - 2",
+    "team2": "Universitario",
+    "title": "ADT VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759809/universitario-adt"
+  },
+  {
+    "gameId": "759828",
+    "date": "Sunday, October 26, 2025",
+    "team1": "Melgar",
+    "score": "2 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Melgar VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759828/sport-huancayo-melgar"
+  },
+  {
+    "gameId": "759811",
+    "date": "Friday, October 31, 2025",
+    "team1": "Alianza Lima",
+    "score": "2 - 2",
+    "team2": "Melgar",
+    "title": "Alianza Lima VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759811/melgar-alianza-lima"
+  },
+  {
+    "gameId": "759812",
+    "date": "20251031",
+    "team1": "Los Chankas",
+    "score": "1 - 0",
+    "team2": "Ayacucho FC",
+    "title": "Los Chankas VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759812/ayacucho-fc-los-chankas"
+  },
+  {
+    "gameId": "759813",
+    "date": "20251031",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 4",
+    "team2": "Sporting Cristal",
+    "title": "Comerciantes Unidos VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759813/sporting-cristal-comerciantes-unidos"
+  },
+  {
+    "gameId": "759814",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 0",
+    "team2": "ADT",
+    "title": "Deportivo Garcilaso VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759814/adt-deportivo-garcilaso"
+  },
+  {
+    "gameId": "759815",
+    "date": "20251101",
+    "team1": "Alianza Universidad",
+    "score": "2 - 2",
+    "team2": "Cusco FC",
+    "title": "Alianza Universidad VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759815/cusco-fc-alianza-universidad"
+  },
+  {
+    "gameId": "759816",
+    "date": "20251101",
+    "team1": "Atlético Grau",
+    "score": "1 - 1",
+    "team2": "Alianza Atlético",
+    "title": "Atlético Grau VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759816/alianza-atletico-atletico-grau"
+  },
+  {
+    "gameId": "759817",
+    "date": "Sunday, November 2, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "2 - 1",
+    "team2": "Juan Pablo II",
+    "title": "Cienciano del Cusco VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759817/juan-pablo-ii-cienciano-del-cusco"
+  },
+  {
+    "gameId": "759818",
+    "date": "Sunday, November 2, 2025",
+    "team1": "Sport Boys",
+    "score": "2 - 2",
+    "team2": "UTC",
+    "title": "Sport Boys VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/759818/utc-sport-boys"
+  },
+  {
+    "gameId": "758106",
+    "date": "Wednesday, November 5, 2025",
+    "team1": "Los Chankas",
+    "score": "1 - 2",
+    "team2": "Alianza Lima",
+    "title": "Los Chankas VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/758106/alianza-lima-los-chankas"
+  },
+  {
+    "gameId": "760177",
+    "date": "20251106",
+    "team1": "Cusco FC",
+    "score": "3 - 0",
+    "team2": "Sport Boys",
+    "title": "Cusco FC VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760177/sport-boys-cusco-fc"
+  },
+  {
+    "gameId": "760178",
+    "date": "20251106",
+    "team1": "Sporting Cristal",
+    "score": "2 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Sporting Cristal VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760178/cienciano-del-cusco-sporting-cristal"
+  },
+  {
+    "gameId": "760179",
+    "date": "Friday, November 7, 2025",
+    "team1": "Universitario",
+    "score": "0 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Universitario VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760179/deportivo-garcilaso-universitario"
+  },
+  {
+    "gameId": "760180",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Ayacucho FC",
+    "score": "1 - 0",
+    "team2": "Comerciantes Unidos",
+    "title": "Ayacucho FC VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760180/comerciantes-unidos-ayacucho-fc"
+  },
+  {
+    "gameId": "760181",
+    "date": "20251107",
+    "team1": "Juan Pablo II",
+    "score": "3 - 1",
+    "team2": "Atlético Grau",
+    "title": "Juan Pablo II VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760181/atletico-grau-juan-pablo-ii"
+  },
+  {
+    "gameId": "760182",
+    "date": "Sunday, November 9, 2025",
+    "team1": "UTC",
+    "score": "0 - 3",
+    "team2": "Sport Huancayo",
+    "title": "UTC VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760182/sport-huancayo-utc"
+  },
+  {
+    "gameId": "760183",
+    "date": "Sunday, November 9, 2025",
+    "team1": "Alianza Atlético",
+    "score": "2 - 1",
+    "team2": "Alianza Universidad",
+    "title": "Alianza Atlético VS Alianza Universidad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760183/alianza-universidad-alianza-atletico"
+  },
+  {
+    "gameId": "760184",
+    "date": "Monday, November 10, 2025",
+    "team1": "ADT",
+    "score": "1 - 0",
+    "team2": "Los Chankas",
+    "title": "ADT VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760184/los-chankas-adt"
+  },
+  {
+    "gameId": "760992",
+    "date": "Sunday, November 16, 2025",
+    "team1": "Sport Boys",
+    "score": "0 - 1",
+    "team2": "Alianza Atlético",
+    "title": "Sport Boys VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760992/alianza-atletico-sport-boys"
+  },
+  {
+    "gameId": "760991",
+    "date": "Wednesday, November 19, 2025",
+    "team1": "Atlético Grau",
+    "score": "1 - 2",
+    "team2": "Sporting Cristal",
+    "title": "Atlético Grau VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760991/sporting-cristal-atletico-grau"
+  },
+  {
+    "gameId": "760997",
+    "date": "Saturday, November 22, 2025",
+    "team1": "Los Chankas",
+    "score": "3 - 1",
+    "team2": "Universitario",
+    "title": "Los Chankas VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760997/universitario-los-chankas"
+  },
+  {
+    "gameId": "760993",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Alianza Lima",
+    "score": "3 - 0",
+    "team2": "UTC",
+    "title": "Alianza Lima VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760993/utc-alianza-lima"
+  },
+  {
+    "gameId": "760994",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Alianza Universidad",
+    "score": "3 - 0",
+    "team2": "Juan Pablo II",
+    "title": "Alianza Universidad VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760994/juan-pablo-ii-alianza-universidad"
+  },
+  {
+    "gameId": "760995",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Cienciano del Cusco",
+    "score": "2 - 1",
+    "team2": "Ayacucho FC",
+    "title": "Cienciano del Cusco VS Ayacucho FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760995/ayacucho-fc-cienciano-del-cusco"
+  },
+  {
+    "gameId": "760996",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 0",
+    "team2": "ADT",
+    "title": "Comerciantes Unidos VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760996/adt-comerciantes-unidos"
+  },
+  {
+    "gameId": "760998",
+    "date": "Sunday, November 23, 2025",
+    "team1": "Sport Huancayo",
+    "score": "1 - 2",
+    "team2": "Cusco FC",
+    "title": "Sport Huancayo VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760998/cusco-fc-sport-huancayo"
+  },
+  {
+    "gameId": "761984",
+    "date": "Tuesday, December 2, 2025",
+    "team1": "Sporting Cristal",
+    "score": "1 - 1",
+    "team2": "Alianza Lima",
+    "title": "Sporting Cristal VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761984/alianza-lima-sporting-cristal"
+  },
+  {
+    "gameId": "761985",
+    "date": "Saturday, December 6, 2025",
+    "team1": "Alianza Lima",
+    "score": "3 - 3",
+    "team2": "Sporting Cristal",
+    "title": "Alianza Lima VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761985/sporting-cristal-alianza-lima"
+  },
+  {
+    "gameId": "762048",
+    "date": "Wednesday, December 10, 2025",
+    "team1": "Sporting Cristal",
+    "score": "1 - 0",
+    "team2": "Cusco FC",
+    "title": "Sporting Cristal VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762048/cusco-fc-sporting-cristal"
+  },
+  {
+    "gameId": "762049",
+    "date": "Sunday, December 14, 2025",
+    "team1": "Cusco FC",
+    "score": "2 - 0",
+    "team2": "Sporting Cristal",
+    "title": "Cusco FC VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762049/sporting-cristal-cusco-fc"
+  }
+]
