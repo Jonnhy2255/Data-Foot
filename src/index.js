@@ -2,10 +2,10 @@ import fs from 'fs';
 import path from 'path';
 
 // Chemin vers le dossier contenant les fichiers JSON
-const dataDir = path.resolve('./data');
+const dataDir = path.resolve('./data/football/leagues');
 
 /**
- * Liste toutes les ligues disponibles dans le dossier data/
+ * Liste toutes les ligues disponibles dans le dossier data/football/leagues
  * @returns {string[]} Tableau des noms de ligues
  */
 export function listLeagues() {
@@ -19,7 +19,7 @@ export function listLeagues() {
 
     return leagues;
   } catch (err) {
-    console.error('Erreur lors de la lecture du dossier data:', err);
+    console.error('Erreur lors de la lecture du dossier leagues:', err);
     return [];
   }
 }
