@@ -10,15 +10,15 @@ HEADERS = {
 }
 
 # === Dossier de données ===
-DATA_DIR = "data"
+DATA_DIR = "data/football/leagues"
 
-# Créer le dossier data s'il n'existe pas
+# Créer le dossier s'il n'existe pas
 os.makedirs(DATA_DIR, exist_ok=True)
 
 # === Toutes les ligues avec leurs fichiers JSON ===
 LEAGUES = {
-    "Premier League": {"code": "eng.1", "json": "p_league.json"},
-    "LaLiga": {"code": "esp.1", "json": "laliga.json"},
+    "Premier League": {"code": "eng.1", "json": "England_Premier_League.json"},
+    "LaLiga": {"code": "esp.1", "json": "Spain_Laliga.json"},
     "Bundesliga": {"code": "ger.1", "json": "bundesliga.json"},
     "Argentina - Primera Nacional": {"code": "arg.2", "json": "Argentina_Primera_Nacional.json"},
     "Austria - Bundesliga": {"code": "aut.1", "json": "Austria_Bundesliga.json"},
@@ -53,7 +53,7 @@ LEAGUES = {
 
 
 def get_json_path(json_filename: str) -> str:
-    """Retourne le chemin complet du fichier JSON dans le dossier data."""
+    """Retourne le chemin complet du fichier JSON dans le dossier leagues."""
     return os.path.join(DATA_DIR, json_filename)
 
 
