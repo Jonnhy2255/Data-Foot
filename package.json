@@ -1,0 +1,20 @@
+{
+  "name": "data-foot",
+  "version": "1.0.0",
+  "description": "Bibliothèque JS pour lister les ligues de football disponibles à partir de fichiers JSON",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/index.js"
+  },
+  "keywords": [
+    "football",
+    "soccer",
+    "data",
+    "leagues",
+    "json"
+  ],
+  "author": "Jonnhy",
+  "license": "MIT"
+}
