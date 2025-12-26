@@ -1,0 +1,4277 @@
+[
+  {
+    "gameId": "703521",
+    "date": "Friday, July 5, 2024",
+    "team1": "Puebla",
+    "score": "1 - 0",
+    "team2": "Santos",
+    "title": "Puebla VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703521/santos-puebla"
+  },
+  {
+    "gameId": "703522",
+    "date": "Friday, July 5, 2024",
+    "team1": "Querétaro",
+    "score": "1 - 2",
+    "team2": "Tijuana",
+    "title": "Querétaro VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703522/tijuana-queretaro"
+  },
+  {
+    "gameId": "703523",
+    "date": "Friday, July 5, 2024",
+    "team1": "FC Juarez",
+    "score": "2 - 2",
+    "team2": "Atlas",
+    "title": "FC Juarez VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703523/atlas-fc-juarez"
+  },
+  {
+    "gameId": "703524",
+    "date": "Saturday, July 6, 2024",
+    "team1": "Atlético de San Luis",
+    "score": "2 - 1",
+    "team2": "América",
+    "title": "Atlético de San Luis VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703524/america-atletico-de-san-luis"
+  },
+  {
+    "gameId": "703526",
+    "date": "Saturday, July 6, 2024",
+    "team1": "Guadalajara",
+    "score": "0 - 0",
+    "team2": "Toluca",
+    "title": "Guadalajara VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703526/toluca-guadalajara"
+  },
+  {
+    "gameId": "703525",
+    "date": "Saturday, July 6, 2024",
+    "team1": "Tigres UANL",
+    "score": "1 - 0",
+    "team2": "Necaxa",
+    "title": "Tigres UANL VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703525/necaxa-tigres-uanl"
+  },
+  {
+    "gameId": "703527",
+    "date": "Saturday, July 6, 2024",
+    "team1": "Cruz Azul",
+    "score": "1 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Cruz Azul VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703527/mazatlan-fc-cruz-azul"
+  },
+  {
+    "gameId": "703528",
+    "date": "Sunday, July 7, 2024",
+    "team1": "Pumas UNAM",
+    "score": "4 - 1",
+    "team2": "León",
+    "title": "Pumas UNAM VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703528/leon-pumas-unam"
+  },
+  {
+    "gameId": "703529",
+    "date": "Sunday, July 7, 2024",
+    "team1": "Pachuca",
+    "score": "0 - 1",
+    "team2": "Monterrey",
+    "title": "Pachuca VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703529/monterrey-pachuca"
+  },
+  {
+    "gameId": "703530",
+    "date": "Friday, July 12, 2024",
+    "team1": "América",
+    "score": "3 - 1",
+    "team2": "Querétaro",
+    "title": "América VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703530/queretaro-america"
+  },
+  {
+    "gameId": "703531",
+    "date": "Friday, July 12, 2024",
+    "team1": "Mazatlán FC",
+    "score": "2 - 2",
+    "team2": "Atlético de San Luis",
+    "title": "Mazatlán FC VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703531/atletico-de-san-luis-mazatlan-fc"
+  },
+  {
+    "gameId": "703532",
+    "date": "Friday, July 12, 2024",
+    "team1": "Tijuana",
+    "score": "4 - 2",
+    "team2": "Guadalajara",
+    "title": "Tijuana VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703532/guadalajara-tijuana"
+  },
+  {
+    "gameId": "703533",
+    "date": "Friday, July 12, 2024",
+    "team1": "Atlas",
+    "score": "1 - 1",
+    "team2": "Tigres UANL",
+    "title": "Atlas VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703533/tigres-uanl-atlas"
+  },
+  {
+    "gameId": "703534",
+    "date": "Saturday, July 13, 2024",
+    "team1": "León",
+    "score": "0 - 0",
+    "team2": "Pachuca",
+    "title": "León VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703534/pachuca-leon"
+  },
+  {
+    "gameId": "703535",
+    "date": "Saturday, July 13, 2024",
+    "team1": "Necaxa",
+    "score": "4 - 1",
+    "team2": "Puebla",
+    "title": "Necaxa VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703535/puebla-necaxa"
+  },
+  {
+    "gameId": "703536",
+    "date": "Saturday, July 13, 2024",
+    "team1": "Toluca",
+    "score": "3 - 2",
+    "team2": "FC Juarez",
+    "title": "Toluca VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703536/fc-juarez-toluca"
+  },
+  {
+    "gameId": "703537",
+    "date": "Saturday, July 13, 2024",
+    "team1": "Santos",
+    "score": "1 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Santos VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703537/pumas-unam-santos"
+  },
+  {
+    "gameId": "703538",
+    "date": "Saturday, July 13, 2024",
+    "team1": "Monterrey",
+    "score": "0 - 4",
+    "team2": "Cruz Azul",
+    "title": "Monterrey VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703538/cruz-azul-monterrey"
+  },
+  {
+    "gameId": "703539",
+    "date": "Tuesday, July 16, 2024",
+    "team1": "Atlas",
+    "score": "1 - 0",
+    "team2": "Santos",
+    "title": "Atlas VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703539/santos-atlas"
+  },
+  {
+    "gameId": "703541",
+    "date": "Tuesday, July 16, 2024",
+    "team1": "Pachuca",
+    "score": "2 - 0",
+    "team2": "Atlético de San Luis",
+    "title": "Pachuca VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703541/atletico-de-san-luis-pachuca"
+  },
+  {
+    "gameId": "703540",
+    "date": "Tuesday, July 16, 2024",
+    "team1": "Querétaro",
+    "score": "0 - 2",
+    "team2": "Guadalajara",
+    "title": "Querétaro VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703540/guadalajara-queretaro"
+  },
+  {
+    "gameId": "703542",
+    "date": "Tuesday, July 16, 2024",
+    "team1": "Puebla",
+    "score": "2 - 2",
+    "team2": "León",
+    "title": "Puebla VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703542/leon-puebla"
+  },
+  {
+    "gameId": "703543",
+    "date": "Tuesday, July 16, 2024",
+    "team1": "Cruz Azul",
+    "score": "3 - 0",
+    "team2": "Tijuana",
+    "title": "Cruz Azul VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703543/tijuana-cruz-azul"
+  },
+  {
+    "gameId": "703547",
+    "date": "Wednesday, July 17, 2024",
+    "team1": "Necaxa",
+    "score": "0 - 1",
+    "team2": "Monterrey",
+    "title": "Necaxa VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703547/monterrey-necaxa"
+  },
+  {
+    "gameId": "703544",
+    "date": "Wednesday, July 17, 2024",
+    "team1": "FC Juarez",
+    "score": "1 - 2",
+    "team2": "Pumas UNAM",
+    "title": "FC Juarez VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703544/pumas-unam-fc-juarez"
+  },
+  {
+    "gameId": "703546",
+    "date": "Wednesday, July 17, 2024",
+    "team1": "Tigres UANL",
+    "score": "1 - 0",
+    "team2": "América",
+    "title": "Tigres UANL VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703546/america-tigres-uanl"
+  },
+  {
+    "gameId": "703545",
+    "date": "Wednesday, July 17, 2024",
+    "team1": "Toluca",
+    "score": "3 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Toluca VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703545/mazatlan-fc-toluca"
+  },
+  {
+    "gameId": "703548",
+    "date": "Friday, July 19, 2024",
+    "team1": "Atlético de San Luis",
+    "score": "1 - 1",
+    "team2": "Tijuana",
+    "title": "Atlético de San Luis VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703548/tijuana-atletico-de-san-luis"
+  },
+  {
+    "gameId": "703549",
+    "date": "Friday, July 19, 2024",
+    "team1": "Puebla",
+    "score": "1 - 2",
+    "team2": "Atlas",
+    "title": "Puebla VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703549/atlas-puebla"
+  },
+  {
+    "gameId": "703550",
+    "date": "Saturday, July 20, 2024",
+    "team1": "Guadalajara",
+    "score": "2 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Guadalajara VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703550/mazatlan-fc-guadalajara"
+  },
+  {
+    "gameId": "703551",
+    "date": "Saturday, July 20, 2024",
+    "team1": "Monterrey",
+    "score": "2 - 1",
+    "team2": "Querétaro",
+    "title": "Monterrey VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703551/queretaro-monterrey"
+  },
+  {
+    "gameId": "703552",
+    "date": "Saturday, July 20, 2024",
+    "team1": "Santos",
+    "score": "0 - 3",
+    "team2": "Tigres UANL",
+    "title": "Santos VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703552/tigres-uanl-santos"
+  },
+  {
+    "gameId": "703554",
+    "date": "Saturday, July 20, 2024",
+    "team1": "Cruz Azul",
+    "score": "1 - 1",
+    "team2": "Toluca",
+    "title": "Cruz Azul VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703554/toluca-cruz-azul"
+  },
+  {
+    "gameId": "703553",
+    "date": "Saturday, July 20, 2024",
+    "team1": "FC Juarez",
+    "score": "1 - 2",
+    "team2": "América",
+    "title": "FC Juarez VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703553/america-fc-juarez"
+  },
+  {
+    "gameId": "703555",
+    "date": "Sunday, July 21, 2024",
+    "team1": "Pumas UNAM",
+    "score": "2 - 0",
+    "team2": "Pachuca",
+    "title": "Pumas UNAM VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703555/pachuca-pumas-unam"
+  },
+  {
+    "gameId": "703556",
+    "date": "Sunday, July 21, 2024",
+    "team1": "León",
+    "score": "1 - 1",
+    "team2": "Necaxa",
+    "title": "León VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703556/necaxa-leon"
+  },
+  {
+    "gameId": "703657",
+    "date": "Friday, August 16, 2024",
+    "team1": "Puebla",
+    "score": "1 - 2",
+    "team2": "Monterrey",
+    "title": "Puebla VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703657/monterrey-puebla"
+  },
+  {
+    "gameId": "703592",
+    "date": "Sunday, August 18, 2024",
+    "team1": "Tijuana",
+    "score": "3 - 1",
+    "team2": "Santos",
+    "title": "Tijuana VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703592/santos-tijuana"
+  },
+  {
+    "gameId": "703633",
+    "date": "Sunday, August 18, 2024",
+    "team1": "Atlético de San Luis",
+    "score": "4 - 0",
+    "team2": "Querétaro",
+    "title": "Atlético de San Luis VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703633/queretaro-atletico-de-san-luis"
+  },
+  {
+    "gameId": "703557",
+    "date": "Friday, August 23, 2024",
+    "team1": "Querétaro",
+    "score": "0 - 2",
+    "team2": "Cruz Azul",
+    "title": "Querétaro VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703557/cruz-azul-queretaro"
+  },
+  {
+    "gameId": "703558",
+    "date": "Friday, August 23, 2024",
+    "team1": "Mazatlán FC",
+    "score": "3 - 0",
+    "team2": "Pachuca",
+    "title": "Mazatlán FC VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703558/pachuca-mazatlan-fc"
+  },
+  {
+    "gameId": "703559",
+    "date": "Friday, August 23, 2024",
+    "team1": "Tijuana",
+    "score": "2 - 2",
+    "team2": "Monterrey",
+    "title": "Tijuana VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703559/monterrey-tijuana"
+  },
+  {
+    "gameId": "703560",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Necaxa",
+    "score": "3 - 0",
+    "team2": "FC Juarez",
+    "title": "Necaxa VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703560/fc-juarez-necaxa"
+  },
+  {
+    "gameId": "703561",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Atlas",
+    "score": "2 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Atlas VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703561/pumas-unam-atlas"
+  },
+  {
+    "gameId": "703562",
+    "date": "Saturday, August 24, 2024",
+    "team1": "León",
+    "score": "1 - 1",
+    "team2": "Santos",
+    "title": "León VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703562/santos-leon"
+  },
+  {
+    "gameId": "703563",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Tigres UANL",
+    "score": "1 - 1",
+    "team2": "Guadalajara",
+    "title": "Tigres UANL VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703563/guadalajara-tigres-uanl"
+  },
+  {
+    "gameId": "703564",
+    "date": "Saturday, August 24, 2024",
+    "team1": "América",
+    "score": "0 - 1",
+    "team2": "Puebla",
+    "title": "América VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703564/puebla-america"
+  },
+  {
+    "gameId": "703565",
+    "date": "Sunday, August 25, 2024",
+    "team1": "Toluca",
+    "score": "2 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Toluca VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703565/atletico-de-san-luis-toluca"
+  },
+  {
+    "gameId": "703566",
+    "date": "Friday, August 30, 2024",
+    "team1": "Atlético de San Luis",
+    "score": "2 - 1",
+    "team2": "Atlas",
+    "title": "Atlético de San Luis VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703566/atlas-atletico-de-san-luis"
+  },
+  {
+    "gameId": "703567",
+    "date": "Friday, August 30, 2024",
+    "team1": "Mazatlán FC",
+    "score": "1 - 1",
+    "team2": "Puebla",
+    "title": "Mazatlán FC VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703567/puebla-mazatlan-fc"
+  },
+  {
+    "gameId": "703568",
+    "date": "Friday, August 30, 2024",
+    "team1": "Tijuana",
+    "score": "2 - 1",
+    "team2": "León",
+    "title": "Tijuana VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703568/leon-tijuana"
+  },
+  {
+    "gameId": "703570",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Pachuca",
+    "score": "1 - 1",
+    "team2": "Querétaro",
+    "title": "Pachuca VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703570/queretaro-pachuca"
+  },
+  {
+    "gameId": "703569",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Guadalajara",
+    "score": "5 - 0",
+    "team2": "FC Juarez",
+    "title": "Guadalajara VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703569/fc-juarez-guadalajara"
+  },
+  {
+    "gameId": "703571",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Monterrey",
+    "score": "1 - 2",
+    "team2": "Toluca",
+    "title": "Monterrey VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703571/toluca-monterrey"
+  },
+  {
+    "gameId": "703572",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Cruz Azul",
+    "score": "4 - 1",
+    "team2": "América",
+    "title": "Cruz Azul VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703572/america-cruz-azul"
+  },
+  {
+    "gameId": "703573",
+    "date": "Sunday, September 1, 2024",
+    "team1": "Pumas UNAM",
+    "score": "1 - 3",
+    "team2": "Tigres UANL",
+    "title": "Pumas UNAM VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703573/tigres-uanl-pumas-unam"
+  },
+  {
+    "gameId": "703574",
+    "date": "Sunday, September 1, 2024",
+    "team1": "Santos",
+    "score": "3 - 2",
+    "team2": "Necaxa",
+    "title": "Santos VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703574/necaxa-santos"
+  },
+  {
+    "gameId": "703575",
+    "date": "Friday, September 13, 2024",
+    "team1": "Puebla",
+    "score": "2 - 1",
+    "team2": "Querétaro",
+    "title": "Puebla VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703575/queretaro-puebla"
+  },
+  {
+    "gameId": "703576",
+    "date": "Friday, September 13, 2024",
+    "team1": "Atlas",
+    "score": "2 - 0",
+    "team2": "Pachuca",
+    "title": "Atlas VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703576/pachuca-atlas"
+  },
+  {
+    "gameId": "703577",
+    "date": "Friday, September 13, 2024",
+    "team1": "FC Juarez",
+    "score": "1 - 0",
+    "team2": "Mazatlán FC",
+    "title": "FC Juarez VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703577/mazatlan-fc-fc-juarez"
+  },
+  {
+    "gameId": "703578",
+    "date": "Friday, September 13, 2024",
+    "team1": "Tigres UANL",
+    "score": "1 - 0",
+    "team2": "Atlético de San Luis",
+    "title": "Tigres UANL VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703578/atletico-de-san-luis-tigres-uanl"
+  },
+  {
+    "gameId": "703579",
+    "date": "Friday, September 13, 2024",
+    "team1": "Necaxa",
+    "score": "2 - 0",
+    "team2": "Pumas UNAM",
+    "title": "Necaxa VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703579/pumas-unam-necaxa"
+  },
+  {
+    "gameId": "703580",
+    "date": "Saturday, September 14, 2024",
+    "team1": "Toluca",
+    "score": "4 - 0",
+    "team2": "Tijuana",
+    "title": "Toluca VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703580/tijuana-toluca"
+  },
+  {
+    "gameId": "703581",
+    "date": "Saturday, September 14, 2024",
+    "team1": "América",
+    "score": "1 - 0",
+    "team2": "Guadalajara",
+    "title": "América VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703581/guadalajara-america"
+  },
+  {
+    "gameId": "703582",
+    "date": "Saturday, September 14, 2024",
+    "team1": "León",
+    "score": "1 - 2",
+    "team2": "Cruz Azul",
+    "title": "León VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703582/cruz-azul-leon"
+  },
+  {
+    "gameId": "703583",
+    "date": "Saturday, September 14, 2024",
+    "team1": "Santos",
+    "score": "0 - 2",
+    "team2": "Monterrey",
+    "title": "Santos VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703583/monterrey-santos"
+  },
+  {
+    "gameId": "703588",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "América",
+    "score": "3 - 0",
+    "team2": "Atlas",
+    "title": "América VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703588/atlas-america"
+  },
+  {
+    "gameId": "703586",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "Atlético de San Luis",
+    "score": "3 - 1",
+    "team2": "Cruz Azul",
+    "title": "Atlético de San Luis VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703586/cruz-azul-atletico-de-san-luis"
+  },
+  {
+    "gameId": "703585",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "Pachuca",
+    "score": "2 - 2",
+    "team2": "Toluca",
+    "title": "Pachuca VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703585/toluca-pachuca"
+  },
+  {
+    "gameId": "703587",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "Querétaro",
+    "score": "1 - 0",
+    "team2": "Tigres UANL",
+    "title": "Querétaro VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703587/tigres-uanl-queretaro"
+  },
+  {
+    "gameId": "703584",
+    "date": "Tuesday, September 17, 2024",
+    "team1": "Pumas UNAM",
+    "score": "1 - 0",
+    "team2": "Puebla",
+    "title": "Pumas UNAM VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703584/puebla-pumas-unam"
+  },
+  {
+    "gameId": "703589",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Guadalajara",
+    "score": "2 - 0",
+    "team2": "León",
+    "title": "Guadalajara VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703589/leon-guadalajara"
+  },
+  {
+    "gameId": "703590",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Mazatlán FC",
+    "score": "0 - 0",
+    "team2": "Necaxa",
+    "title": "Mazatlán FC VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703590/necaxa-mazatlan-fc"
+  },
+  {
+    "gameId": "703591",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Monterrey",
+    "score": "3 - 2",
+    "team2": "FC Juarez",
+    "title": "Monterrey VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703591/fc-juarez-monterrey"
+  },
+  {
+    "gameId": "703593",
+    "date": "Friday, September 20, 2024",
+    "team1": "Atlas",
+    "score": "0 - 1",
+    "team2": "Querétaro",
+    "title": "Atlas VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703593/queretaro-atlas"
+  },
+  {
+    "gameId": "703594",
+    "date": "Friday, September 20, 2024",
+    "team1": "Puebla",
+    "score": "2 - 3",
+    "team2": "Pachuca",
+    "title": "Puebla VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703594/pachuca-puebla"
+  },
+  {
+    "gameId": "703595",
+    "date": "Saturday, September 21, 2024",
+    "team1": "León",
+    "score": "1 - 0",
+    "team2": "Atlético de San Luis",
+    "title": "León VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703595/atletico-de-san-luis-leon"
+  },
+  {
+    "gameId": "703596",
+    "date": "Saturday, September 21, 2024",
+    "team1": "Monterrey",
+    "score": "0 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Monterrey VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703596/mazatlan-fc-monterrey"
+  },
+  {
+    "gameId": "703597",
+    "date": "Saturday, September 21, 2024",
+    "team1": "Necaxa",
+    "score": "1 - 1",
+    "team2": "América",
+    "title": "Necaxa VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703597/america-necaxa"
+  },
+  {
+    "gameId": "703598",
+    "date": "Saturday, September 21, 2024",
+    "team1": "Cruz Azul",
+    "score": "1 - 0",
+    "team2": "Guadalajara",
+    "title": "Cruz Azul VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703598/guadalajara-cruz-azul"
+  },
+  {
+    "gameId": "703599",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Pumas UNAM",
+    "score": "1 - 0",
+    "team2": "Tijuana",
+    "title": "Pumas UNAM VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703599/tijuana-pumas-unam"
+  },
+  {
+    "gameId": "703601",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Santos",
+    "score": "2 - 0",
+    "team2": "Toluca",
+    "title": "Santos VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703601/toluca-santos"
+  },
+  {
+    "gameId": "703600",
+    "date": "Sunday, September 22, 2024",
+    "team1": "FC Juarez",
+    "score": "0 - 1",
+    "team2": "Tigres UANL",
+    "title": "FC Juarez VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703600/tigres-uanl-fc-juarez"
+  },
+  {
+    "gameId": "703602",
+    "date": "Friday, September 27, 2024",
+    "team1": "Puebla",
+    "score": "2 - 3",
+    "team2": "FC Juarez",
+    "title": "Puebla VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703602/fc-juarez-puebla"
+  },
+  {
+    "gameId": "703603",
+    "date": "Friday, September 27, 2024",
+    "team1": "Querétaro",
+    "score": "0 - 0",
+    "team2": "Necaxa",
+    "title": "Querétaro VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703603/necaxa-queretaro"
+  },
+  {
+    "gameId": "703604",
+    "date": "Friday, September 27, 2024",
+    "team1": "Tigres UANL",
+    "score": "2 - 2",
+    "team2": "León",
+    "title": "Tigres UANL VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703604/leon-tigres-uanl"
+  },
+  {
+    "gameId": "703605",
+    "date": "Friday, September 27, 2024",
+    "team1": "Tijuana",
+    "score": "1 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Tijuana VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703605/mazatlan-fc-tijuana"
+  },
+  {
+    "gameId": "703606",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Toluca",
+    "score": "4 - 1",
+    "team2": "Atlas",
+    "title": "Toluca VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703606/atlas-toluca"
+  },
+  {
+    "gameId": "703607",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Pachuca",
+    "score": "2 - 4",
+    "team2": "Cruz Azul",
+    "title": "Pachuca VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703607/cruz-azul-pachuca"
+  },
+  {
+    "gameId": "703608",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Guadalajara",
+    "score": "1 - 1",
+    "team2": "Monterrey",
+    "title": "Guadalajara VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703608/monterrey-guadalajara"
+  },
+  {
+    "gameId": "703609",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Atlético de San Luis",
+    "score": "3 - 1",
+    "team2": "Santos",
+    "title": "Atlético de San Luis VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703609/santos-atletico-de-san-luis"
+  },
+  {
+    "gameId": "703610",
+    "date": "Sunday, September 29, 2024",
+    "team1": "América",
+    "score": "0 - 1",
+    "team2": "Pumas UNAM",
+    "title": "América VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703610/pumas-unam-america"
+  },
+  {
+    "gameId": "703611",
+    "date": "Friday, October 4, 2024",
+    "team1": "Mazatlán FC",
+    "score": "2 - 2",
+    "team2": "Querétaro",
+    "title": "Mazatlán FC VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703611/queretaro-mazatlan-fc"
+  },
+  {
+    "gameId": "703612",
+    "date": "Friday, October 4, 2024",
+    "team1": "Tijuana",
+    "score": "2 - 1",
+    "team2": "Pachuca",
+    "title": "Tijuana VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703612/pachuca-tijuana"
+  },
+  {
+    "gameId": "703613",
+    "date": "Saturday, October 5, 2024",
+    "team1": "Atlético de San Luis",
+    "score": "1 - 0",
+    "team2": "Monterrey",
+    "title": "Atlético de San Luis VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703613/monterrey-atletico-de-san-luis"
+  },
+  {
+    "gameId": "703618",
+    "date": "Saturday, October 5, 2024",
+    "team1": "Cruz Azul",
+    "score": "3 - 0",
+    "team2": "Necaxa",
+    "title": "Cruz Azul VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703618/necaxa-cruz-azul"
+  },
+  {
+    "gameId": "703614",
+    "date": "Saturday, October 5, 2024",
+    "team1": "Tigres UANL",
+    "score": "1 - 0",
+    "team2": "Puebla",
+    "title": "Tigres UANL VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703614/puebla-tigres-uanl"
+  },
+  {
+    "gameId": "703617",
+    "date": "Saturday, October 5, 2024",
+    "team1": "Toluca",
+    "score": "1 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Toluca VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703617/pumas-unam-toluca"
+  },
+  {
+    "gameId": "703615",
+    "date": "Saturday, October 5, 2024",
+    "team1": "Guadalajara",
+    "score": "2 - 3",
+    "team2": "Atlas",
+    "title": "Guadalajara VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703615/atlas-guadalajara"
+  },
+  {
+    "gameId": "703616",
+    "date": "Saturday, October 5, 2024",
+    "team1": "León",
+    "score": "1 - 1",
+    "team2": "América",
+    "title": "León VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703616/america-leon"
+  },
+  {
+    "gameId": "703619",
+    "date": "Sunday, October 6, 2024",
+    "team1": "Santos",
+    "score": "0 - 2",
+    "team2": "FC Juarez",
+    "title": "Santos VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703619/fc-juarez-santos"
+  },
+  {
+    "gameId": "703620",
+    "date": "Friday, October 18, 2024",
+    "team1": "Atlas",
+    "score": "0 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Atlas VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703620/mazatlan-fc-atlas"
+  },
+  {
+    "gameId": "703621",
+    "date": "Friday, October 18, 2024",
+    "team1": "Querétaro",
+    "score": "0 - 1",
+    "team2": "Toluca",
+    "title": "Querétaro VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703621/toluca-queretaro"
+  },
+  {
+    "gameId": "703622",
+    "date": "Friday, October 18, 2024",
+    "team1": "Necaxa",
+    "score": "1 - 2",
+    "team2": "Tijuana",
+    "title": "Necaxa VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703622/tijuana-necaxa"
+  },
+  {
+    "gameId": "703623",
+    "date": "Friday, October 18, 2024",
+    "team1": "Puebla",
+    "score": "1 - 2",
+    "team2": "Cruz Azul",
+    "title": "Puebla VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703623/cruz-azul-puebla"
+  },
+  {
+    "gameId": "703624",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Pachuca",
+    "score": "0 - 2",
+    "team2": "Guadalajara",
+    "title": "Pachuca VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703624/guadalajara-pachuca"
+  },
+  {
+    "gameId": "703626",
+    "date": "Saturday, October 19, 2024",
+    "team1": "América",
+    "score": "3 - 0",
+    "team2": "Santos",
+    "title": "América VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703626/santos-america"
+  },
+  {
+    "gameId": "703625",
+    "date": "Saturday, October 19, 2024",
+    "team1": "FC Juarez",
+    "score": "2 - 3",
+    "team2": "León",
+    "title": "FC Juarez VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703625/leon-fc-juarez"
+  },
+  {
+    "gameId": "703627",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Monterrey",
+    "score": "4 - 2",
+    "team2": "Tigres UANL",
+    "title": "Monterrey VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703627/tigres-uanl-monterrey"
+  },
+  {
+    "gameId": "703628",
+    "date": "Sunday, October 20, 2024",
+    "team1": "Pumas UNAM",
+    "score": "3 - 0",
+    "team2": "Atlético de San Luis",
+    "title": "Pumas UNAM VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703628/atletico-de-san-luis-pumas-unam"
+  },
+  {
+    "gameId": "703630",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Santos",
+    "score": "1 - 1",
+    "team2": "Pachuca",
+    "title": "Santos VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703630/pachuca-santos"
+  },
+  {
+    "gameId": "703629",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Guadalajara",
+    "score": "3 - 2",
+    "team2": "Necaxa",
+    "title": "Guadalajara VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703629/necaxa-guadalajara"
+  },
+  {
+    "gameId": "703632",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Toluca",
+    "score": "5 - 0",
+    "team2": "Puebla",
+    "title": "Toluca VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703632/puebla-toluca"
+  },
+  {
+    "gameId": "703631",
+    "date": "Tuesday, October 22, 2024",
+    "team1": "Mazatlán FC",
+    "score": "2 - 0",
+    "team2": "Tigres UANL",
+    "title": "Mazatlán FC VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703631/tigres-uanl-mazatlan-fc"
+  },
+  {
+    "gameId": "703635",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Cruz Azul",
+    "score": "4 - 0",
+    "team2": "FC Juarez",
+    "title": "Cruz Azul VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703635/fc-juarez-cruz-azul"
+  },
+  {
+    "gameId": "703634",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Monterrey",
+    "score": "0 - 0",
+    "team2": "Pumas UNAM",
+    "title": "Monterrey VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703634/pumas-unam-monterrey"
+  },
+  {
+    "gameId": "703636",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "León",
+    "score": "0 - 0",
+    "team2": "Atlas",
+    "title": "León VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703636/atlas-leon"
+  },
+  {
+    "gameId": "703637",
+    "date": "Wednesday, October 23, 2024",
+    "team1": "Tijuana",
+    "score": "2 - 2",
+    "team2": "América",
+    "title": "Tijuana VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703637/america-tijuana"
+  },
+  {
+    "gameId": "703638",
+    "date": "Friday, October 25, 2024",
+    "team1": "Santos",
+    "score": "0 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Santos VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703638/mazatlan-fc-santos"
+  },
+  {
+    "gameId": "703639",
+    "date": "Friday, October 25, 2024",
+    "team1": "Puebla",
+    "score": "1 - 0",
+    "team2": "Guadalajara",
+    "title": "Puebla VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703639/guadalajara-puebla"
+  },
+  {
+    "gameId": "703640",
+    "date": "Saturday, October 26, 2024",
+    "team1": "León",
+    "score": "4 - 0",
+    "team2": "Querétaro",
+    "title": "León VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703640/queretaro-leon"
+  },
+  {
+    "gameId": "703641",
+    "date": "Saturday, October 26, 2024",
+    "team1": "Pumas UNAM",
+    "score": "0 - 2",
+    "team2": "Cruz Azul",
+    "title": "Pumas UNAM VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703641/cruz-azul-pumas-unam"
+  },
+  {
+    "gameId": "703642",
+    "date": "Saturday, October 26, 2024",
+    "team1": "Tigres UANL",
+    "score": "2 - 1",
+    "team2": "Pachuca",
+    "title": "Tigres UANL VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703642/pachuca-tigres-uanl"
+  },
+  {
+    "gameId": "703643",
+    "date": "Saturday, October 26, 2024",
+    "team1": "Atlas",
+    "score": "0 - 0",
+    "team2": "Tijuana",
+    "title": "Atlas VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703643/tijuana-atlas"
+  },
+  {
+    "gameId": "703644",
+    "date": "Sunday, October 27, 2024",
+    "team1": "Necaxa",
+    "score": "1 - 3",
+    "team2": "Toluca",
+    "title": "Necaxa VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703644/toluca-necaxa"
+  },
+  {
+    "gameId": "703645",
+    "date": "Sunday, October 27, 2024",
+    "team1": "FC Juarez",
+    "score": "2 - 4",
+    "team2": "Atlético de San Luis",
+    "title": "FC Juarez VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703645/atletico-de-san-luis-fc-juarez"
+  },
+  {
+    "gameId": "703646",
+    "date": "Sunday, October 27, 2024",
+    "team1": "América",
+    "score": "2 - 1",
+    "team2": "Monterrey",
+    "title": "América VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703646/monterrey-america"
+  },
+  {
+    "gameId": "703647",
+    "date": "Friday, November 1, 2024",
+    "team1": "Querétaro",
+    "score": "1 - 2",
+    "team2": "FC Juarez",
+    "title": "Querétaro VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703647/fc-juarez-queretaro"
+  },
+  {
+    "gameId": "703648",
+    "date": "Friday, November 1, 2024",
+    "team1": "Mazatlán FC",
+    "score": "0 - 5",
+    "team2": "América",
+    "title": "Mazatlán FC VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703648/america-mazatlan-fc"
+  },
+  {
+    "gameId": "703649",
+    "date": "Friday, November 1, 2024",
+    "team1": "Tijuana",
+    "score": "0 - 3",
+    "team2": "Tigres UANL",
+    "title": "Tijuana VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703649/tigres-uanl-tijuana"
+  },
+  {
+    "gameId": "703650",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Atlético de San Luis",
+    "score": "2 - 0",
+    "team2": "Puebla",
+    "title": "Atlético de San Luis VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703650/puebla-atletico-de-san-luis"
+  },
+  {
+    "gameId": "703651",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Toluca",
+    "score": "2 - 2",
+    "team2": "León",
+    "title": "Toluca VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703651/leon-toluca"
+  },
+  {
+    "gameId": "703652",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Guadalajara",
+    "score": "0 - 0",
+    "team2": "Pumas UNAM",
+    "title": "Guadalajara VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703652/pumas-unam-guadalajara"
+  },
+  {
+    "gameId": "703653",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Monterrey",
+    "score": "4 - 0",
+    "team2": "Atlas",
+    "title": "Monterrey VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703653/atlas-monterrey"
+  },
+  {
+    "gameId": "703654",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Pachuca",
+    "score": "6 - 2",
+    "team2": "Necaxa",
+    "title": "Pachuca VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703654/necaxa-pachuca"
+  },
+  {
+    "gameId": "703655",
+    "date": "Saturday, November 2, 2024",
+    "team1": "Cruz Azul",
+    "score": "2 - 0",
+    "team2": "Santos",
+    "title": "Cruz Azul VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703655/santos-cruz-azul"
+  },
+  {
+    "gameId": "703656",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "León",
+    "score": "0 - 0",
+    "team2": "Mazatlán FC",
+    "title": "León VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703656/mazatlan-fc-leon"
+  },
+  {
+    "gameId": "703659",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "Santos",
+    "score": "0 - 2",
+    "team2": "Guadalajara",
+    "title": "Santos VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703659/guadalajara-santos"
+  },
+  {
+    "gameId": "703658",
+    "date": "Tuesday, November 5, 2024",
+    "team1": "Pumas UNAM",
+    "score": "2 - 0",
+    "team2": "Querétaro",
+    "title": "Pumas UNAM VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703658/queretaro-pumas-unam"
+  },
+  {
+    "gameId": "703660",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "América",
+    "score": "2 - 1",
+    "team2": "Pachuca",
+    "title": "América VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703660/pachuca-america"
+  },
+  {
+    "gameId": "703661",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Necaxa",
+    "score": "1 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Necaxa VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703661/atletico-de-san-luis-necaxa"
+  },
+  {
+    "gameId": "703662",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Tigres UANL",
+    "score": "2 - 1",
+    "team2": "Toluca",
+    "title": "Tigres UANL VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703662/toluca-tigres-uanl"
+  },
+  {
+    "gameId": "703664",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "Atlas",
+    "score": "2 - 2",
+    "team2": "Cruz Azul",
+    "title": "Atlas VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703664/cruz-azul-atlas"
+  },
+  {
+    "gameId": "703663",
+    "date": "Wednesday, November 6, 2024",
+    "team1": "FC Juarez",
+    "score": "1 - 1",
+    "team2": "Tijuana",
+    "title": "FC Juarez VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703663/tijuana-fc-juarez"
+  },
+  {
+    "gameId": "703665",
+    "date": "Friday, November 8, 2024",
+    "team1": "Querétaro",
+    "score": "3 - 2",
+    "team2": "Santos",
+    "title": "Querétaro VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703665/santos-queretaro"
+  },
+  {
+    "gameId": "703666",
+    "date": "Friday, November 8, 2024",
+    "team1": "Mazatlán FC",
+    "score": "0 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Mazatlán FC VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703666/pumas-unam-mazatlan-fc"
+  },
+  {
+    "gameId": "703667",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Guadalajara",
+    "score": "0 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Guadalajara VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703667/atletico-de-san-luis-guadalajara"
+  },
+  {
+    "gameId": "703669",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Pachuca",
+    "score": "0 - 1",
+    "team2": "FC Juarez",
+    "title": "Pachuca VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703669/fc-juarez-pachuca"
+  },
+  {
+    "gameId": "703668",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Toluca",
+    "score": "4 - 0",
+    "team2": "América",
+    "title": "Toluca VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703668/america-toluca"
+  },
+  {
+    "gameId": "703670",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Cruz Azul",
+    "score": "1 - 1",
+    "team2": "Tigres UANL",
+    "title": "Cruz Azul VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703670/tigres-uanl-cruz-azul"
+  },
+  {
+    "gameId": "703671",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Necaxa",
+    "score": "0 - 0",
+    "team2": "Atlas",
+    "title": "Necaxa VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703671/atlas-necaxa"
+  },
+  {
+    "gameId": "703672",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Monterrey",
+    "score": "2 - 1",
+    "team2": "León",
+    "title": "Monterrey VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703672/leon-monterrey"
+  },
+  {
+    "gameId": "703673",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Tijuana",
+    "score": "2 - 1",
+    "team2": "Puebla",
+    "title": "Tijuana VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/703673/puebla-tijuana"
+  },
+  {
+    "gameId": "723396",
+    "date": "Thursday, November 21, 2024",
+    "team1": "Guadalajara",
+    "score": "1 - 2",
+    "team2": "Atlas",
+    "title": "Guadalajara VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723396/atlas-guadalajara"
+  },
+  {
+    "gameId": "723397",
+    "date": "Thursday, November 21, 2024",
+    "team1": "Tijuana",
+    "score": "2 - 2",
+    "team2": "América",
+    "title": "Tijuana VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723397/america-tijuana"
+  },
+  {
+    "gameId": "723706",
+    "date": "Sunday, November 24, 2024",
+    "team1": "Tijuana",
+    "score": "3 - 0",
+    "team2": "Atlas",
+    "title": "Tijuana VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723706/atlas-tijuana"
+  },
+  {
+    "gameId": "723400",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "América",
+    "score": "2 - 0",
+    "team2": "Toluca",
+    "title": "América VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723400/toluca-america"
+  },
+  {
+    "gameId": "723401",
+    "date": "Wednesday, November 27, 2024",
+    "team1": "Tijuana",
+    "score": "3 - 0",
+    "team2": "Cruz Azul",
+    "title": "Tijuana VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723401/cruz-azul-tijuana"
+  },
+  {
+    "gameId": "723398",
+    "date": "Thursday, November 28, 2024",
+    "team1": "Atlético de San Luis",
+    "score": "3 - 0",
+    "team2": "Tigres UANL",
+    "title": "Atlético de San Luis VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723398/tigres-uanl-atletico-de-san-luis"
+  },
+  {
+    "gameId": "723399",
+    "date": "Thursday, November 28, 2024",
+    "team1": "Monterrey",
+    "score": "1 - 0",
+    "team2": "Pumas UNAM",
+    "title": "Monterrey VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723399/pumas-unam-monterrey"
+  },
+  {
+    "gameId": "723403",
+    "date": "Saturday, November 30, 2024",
+    "team1": "Toluca",
+    "score": "0 - 2",
+    "team2": "América",
+    "title": "Toluca VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723403/america-toluca"
+  },
+  {
+    "gameId": "723404",
+    "date": "Saturday, November 30, 2024",
+    "team1": "Cruz Azul",
+    "score": "3 - 0",
+    "team2": "Tijuana",
+    "title": "Cruz Azul VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723404/tijuana-cruz-azul"
+  },
+  {
+    "gameId": "723402",
+    "date": "Sunday, December 1, 2024",
+    "team1": "Pumas UNAM",
+    "score": "3 - 5",
+    "team2": "Monterrey",
+    "title": "Pumas UNAM VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723402/monterrey-pumas-unam"
+  },
+  {
+    "gameId": "723405",
+    "date": "Sunday, December 1, 2024",
+    "team1": "Tigres UANL",
+    "score": "0 - 0",
+    "team2": "Atlético de San Luis",
+    "title": "Tigres UANL VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723405/atletico-de-san-luis-tigres-uanl"
+  },
+  {
+    "gameId": "723944",
+    "date": "Wednesday, December 4, 2024",
+    "team1": "Atlético de San Luis",
+    "score": "2 - 1",
+    "team2": "Monterrey",
+    "title": "Atlético de San Luis VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723944/monterrey-atletico-de-san-luis"
+  },
+  {
+    "gameId": "723947",
+    "date": "Thursday, December 5, 2024",
+    "team1": "América",
+    "score": "0 - 0",
+    "team2": "Cruz Azul",
+    "title": "América VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723947/cruz-azul-america"
+  },
+  {
+    "gameId": "723946",
+    "date": "Saturday, December 7, 2024",
+    "team1": "Monterrey",
+    "score": "5 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Monterrey VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723946/atletico-de-san-luis-monterrey"
+  },
+  {
+    "gameId": "723945",
+    "date": "Sunday, December 8, 2024",
+    "team1": "Cruz Azul",
+    "score": "3 - 4",
+    "team2": "América",
+    "title": "Cruz Azul VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/723945/america-cruz-azul"
+  },
+  {
+    "gameId": "724678",
+    "date": "Thursday, December 12, 2024",
+    "team1": "América",
+    "score": "2 - 1",
+    "team2": "Monterrey",
+    "title": "América VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/724678/monterrey-america"
+  },
+  {
+    "gameId": "724679",
+    "date": "Sunday, December 15, 2024",
+    "team1": "Monterrey",
+    "score": "1 - 1",
+    "team2": "América",
+    "title": "Monterrey VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/724679/america-monterrey"
+  },
+  {
+    "gameId": "725043",
+    "date": "Friday, January 10, 2025",
+    "team1": "Querétaro",
+    "score": "0 - 1",
+    "team2": "América",
+    "title": "Querétaro VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725043/america-queretaro"
+  },
+  {
+    "gameId": "725045",
+    "date": "Friday, January 10, 2025",
+    "team1": "Mazatlán FC",
+    "score": "1 - 1",
+    "team2": "FC Juarez",
+    "title": "Mazatlán FC VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725045/fc-juarez-mazatlan-fc"
+  },
+  {
+    "gameId": "725044",
+    "date": "Friday, January 10, 2025",
+    "team1": "Tijuana",
+    "score": "2 - 4",
+    "team2": "Toluca",
+    "title": "Tijuana VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725044/toluca-tijuana"
+  },
+  {
+    "gameId": "725046",
+    "date": "Saturday, January 11, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "1 - 3",
+    "team2": "Tigres UANL",
+    "title": "Atlético de San Luis VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725046/tigres-uanl-atletico-de-san-luis"
+  },
+  {
+    "gameId": "725048",
+    "date": "Saturday, January 11, 2025",
+    "team1": "Guadalajara",
+    "score": "1 - 0",
+    "team2": "Santos",
+    "title": "Guadalajara VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725048/santos-guadalajara"
+  },
+  {
+    "gameId": "725049",
+    "date": "Saturday, January 11, 2025",
+    "team1": "Cruz Azul",
+    "score": "1 - 1",
+    "team2": "Atlas",
+    "title": "Cruz Azul VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725049/atlas-cruz-azul"
+  },
+  {
+    "gameId": "725050",
+    "date": "Sunday, January 12, 2025",
+    "team1": "Pumas UNAM",
+    "score": "2 - 1",
+    "team2": "Necaxa",
+    "title": "Pumas UNAM VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725050/necaxa-pumas-unam"
+  },
+  {
+    "gameId": "725047",
+    "date": "Sunday, January 12, 2025",
+    "team1": "Monterrey",
+    "score": "1 - 1",
+    "team2": "Puebla",
+    "title": "Monterrey VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725047/puebla-monterrey"
+  },
+  {
+    "gameId": "725051",
+    "date": "Thursday, January 16, 2025",
+    "team1": "América",
+    "score": "1 - 1",
+    "team2": "Tijuana",
+    "title": "América VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725051/tijuana-america"
+  },
+  {
+    "gameId": "725052",
+    "date": "Friday, January 17, 2025",
+    "team1": "Puebla",
+    "score": "1 - 2",
+    "team2": "Atlético de San Luis",
+    "title": "Puebla VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725052/atletico-de-san-luis-puebla"
+  },
+  {
+    "gameId": "725054",
+    "date": "Friday, January 17, 2025",
+    "team1": "Tigres UANL",
+    "score": "2 - 1",
+    "team2": "Mazatlán FC",
+    "title": "Tigres UANL VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725054/mazatlan-fc-tigres-uanl"
+  },
+  {
+    "gameId": "725053",
+    "date": "Friday, January 17, 2025",
+    "team1": "Necaxa",
+    "score": "3 - 2",
+    "team2": "Guadalajara",
+    "title": "Necaxa VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725053/guadalajara-necaxa"
+  },
+  {
+    "gameId": "725057",
+    "date": "Saturday, January 18, 2025",
+    "team1": "FC Juarez",
+    "score": "1 - 0",
+    "team2": "Cruz Azul",
+    "title": "FC Juarez VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725057/cruz-azul-fc-juarez"
+  },
+  {
+    "gameId": "725055",
+    "date": "Saturday, January 18, 2025",
+    "team1": "Toluca",
+    "score": "1 - 1",
+    "team2": "Monterrey",
+    "title": "Toluca VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725055/monterrey-toluca"
+  },
+  {
+    "gameId": "725056",
+    "date": "Saturday, January 18, 2025",
+    "team1": "Atlas",
+    "score": "1 - 2",
+    "team2": "León",
+    "title": "Atlas VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725056/leon-atlas"
+  },
+  {
+    "gameId": "725058",
+    "date": "Sunday, January 19, 2025",
+    "team1": "Querétaro",
+    "score": "3 - 2",
+    "team2": "Pumas UNAM",
+    "title": "Querétaro VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725058/pumas-unam-queretaro"
+  },
+  {
+    "gameId": "725059",
+    "date": "Monday, January 20, 2025",
+    "team1": "Pachuca",
+    "score": "2 - 1",
+    "team2": "Santos",
+    "title": "Pachuca VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725059/santos-pachuca"
+  },
+  {
+    "gameId": "725060",
+    "date": "Friday, January 24, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "0 - 3",
+    "team2": "Necaxa",
+    "title": "Atlético de San Luis VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725060/necaxa-atletico-de-san-luis"
+  },
+  {
+    "gameId": "725062",
+    "date": "Friday, January 24, 2025",
+    "team1": "Mazatlán FC",
+    "score": "2 - 1",
+    "team2": "Toluca",
+    "title": "Mazatlán FC VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725062/toluca-mazatlan-fc"
+  },
+  {
+    "gameId": "725061",
+    "date": "Friday, January 24, 2025",
+    "team1": "Tijuana",
+    "score": "2 - 1",
+    "team2": "Querétaro",
+    "title": "Tijuana VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725061/queretaro-tijuana"
+  },
+  {
+    "gameId": "725063",
+    "date": "Saturday, January 25, 2025",
+    "team1": "Cruz Azul",
+    "score": "1 - 1",
+    "team2": "Puebla",
+    "title": "Cruz Azul VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725063/puebla-cruz-azul"
+  },
+  {
+    "gameId": "725064",
+    "date": "Saturday, January 25, 2025",
+    "team1": "León",
+    "score": "1 - 0",
+    "team2": "FC Juarez",
+    "title": "León VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725064/fc-juarez-leon"
+  },
+  {
+    "gameId": "725066",
+    "date": "Saturday, January 25, 2025",
+    "team1": "Guadalajara",
+    "score": "1 - 1",
+    "team2": "Tigres UANL",
+    "title": "Guadalajara VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725066/tigres-uanl-guadalajara"
+  },
+  {
+    "gameId": "725067",
+    "date": "Saturday, January 25, 2025",
+    "team1": "Santos",
+    "score": "1 - 4",
+    "team2": "América",
+    "title": "Santos VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725067/america-santos"
+  },
+  {
+    "gameId": "725065",
+    "date": "Saturday, January 25, 2025",
+    "team1": "Monterrey",
+    "score": "2 - 3",
+    "team2": "Pachuca",
+    "title": "Monterrey VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725065/pachuca-monterrey"
+  },
+  {
+    "gameId": "725068",
+    "date": "Sunday, January 26, 2025",
+    "team1": "Pumas UNAM",
+    "score": "0 - 0",
+    "team2": "Atlas",
+    "title": "Pumas UNAM VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725068/atlas-pumas-unam"
+  },
+  {
+    "gameId": "725069",
+    "date": "Tuesday, January 28, 2025",
+    "team1": "América",
+    "score": "3 - 0",
+    "team2": "Atlético de San Luis",
+    "title": "América VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725069/atletico-de-san-luis-america"
+  },
+  {
+    "gameId": "725070",
+    "date": "Tuesday, January 28, 2025",
+    "team1": "Puebla",
+    "score": "0 - 1",
+    "team2": "Mazatlán FC",
+    "title": "Puebla VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725070/mazatlan-fc-puebla"
+  },
+  {
+    "gameId": "725073",
+    "date": "Tuesday, January 28, 2025",
+    "team1": "León",
+    "score": "2 - 1",
+    "team2": "Guadalajara",
+    "title": "León VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725073/guadalajara-leon"
+  },
+  {
+    "gameId": "725072",
+    "date": "Tuesday, January 28, 2025",
+    "team1": "Tigres UANL",
+    "score": "4 - 0",
+    "team2": "Tijuana",
+    "title": "Tigres UANL VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725072/tijuana-tigres-uanl"
+  },
+  {
+    "gameId": "725071",
+    "date": "Tuesday, January 28, 2025",
+    "team1": "Necaxa",
+    "score": "1 - 3",
+    "team2": "Cruz Azul",
+    "title": "Necaxa VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725071/cruz-azul-necaxa"
+  },
+  {
+    "gameId": "725074",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Atlas",
+    "score": "3 - 3",
+    "team2": "Monterrey",
+    "title": "Atlas VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725074/monterrey-atlas"
+  },
+  {
+    "gameId": "725075",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Querétaro",
+    "score": "0 - 1",
+    "team2": "Pachuca",
+    "title": "Querétaro VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725075/pachuca-queretaro"
+  },
+  {
+    "gameId": "725077",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "FC Juarez",
+    "score": "1 - 0",
+    "team2": "Santos",
+    "title": "FC Juarez VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725077/santos-fc-juarez"
+  },
+  {
+    "gameId": "725076",
+    "date": "Wednesday, January 29, 2025",
+    "team1": "Pumas UNAM",
+    "score": "1 - 1",
+    "team2": "Toluca",
+    "title": "Pumas UNAM VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725076/toluca-pumas-unam"
+  },
+  {
+    "gameId": "725078",
+    "date": "Friday, January 31, 2025",
+    "team1": "Mazatlán FC",
+    "score": "1 - 2",
+    "team2": "León",
+    "title": "Mazatlán FC VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725078/leon-mazatlan-fc"
+  },
+  {
+    "gameId": "725079",
+    "date": "Friday, January 31, 2025",
+    "team1": "Tijuana",
+    "score": "2 - 3",
+    "team2": "Cruz Azul",
+    "title": "Tijuana VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725079/cruz-azul-tijuana"
+  },
+  {
+    "gameId": "725080",
+    "date": "Saturday, February 1, 2025",
+    "team1": "América",
+    "score": "4 - 0",
+    "team2": "FC Juarez",
+    "title": "América VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725080/fc-juarez-america"
+  },
+  {
+    "gameId": "725081",
+    "date": "Saturday, February 1, 2025",
+    "team1": "Guadalajara",
+    "score": "1 - 1",
+    "team2": "Querétaro",
+    "title": "Guadalajara VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725081/queretaro-guadalajara"
+  },
+  {
+    "gameId": "725083",
+    "date": "Saturday, February 1, 2025",
+    "team1": "Pachuca",
+    "score": "0 - 0",
+    "team2": "Atlas",
+    "title": "Pachuca VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725083/atlas-pachuca"
+  },
+  {
+    "gameId": "725082",
+    "date": "Saturday, February 1, 2025",
+    "team1": "Monterrey",
+    "score": "1 - 0",
+    "team2": "Necaxa",
+    "title": "Monterrey VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725082/necaxa-monterrey"
+  },
+  {
+    "gameId": "725084",
+    "date": "Saturday, February 1, 2025",
+    "team1": "Toluca",
+    "score": "1 - 0",
+    "team2": "Tigres UANL",
+    "title": "Toluca VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725084/tigres-uanl-toluca"
+  },
+  {
+    "gameId": "725085",
+    "date": "Sunday, February 2, 2025",
+    "team1": "Santos",
+    "score": "0 - 2",
+    "team2": "Puebla",
+    "title": "Santos VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725085/puebla-santos"
+  },
+  {
+    "gameId": "725086",
+    "date": "Sunday, February 2, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "2 - 3",
+    "team2": "Pumas UNAM",
+    "title": "Atlético de San Luis VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725086/pumas-unam-atletico-de-san-luis"
+  },
+  {
+    "gameId": "725087",
+    "date": "Wednesday, February 5, 2025",
+    "team1": "Pachuca",
+    "score": "1 - 2",
+    "team2": "León",
+    "title": "Pachuca VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725087/leon-pachuca"
+  },
+  {
+    "gameId": "725090",
+    "date": "Friday, February 7, 2025",
+    "team1": "Necaxa",
+    "score": "3 - 2",
+    "team2": "Santos",
+    "title": "Necaxa VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725090/santos-necaxa"
+  },
+  {
+    "gameId": "725088",
+    "date": "Friday, February 7, 2025",
+    "team1": "Querétaro",
+    "score": "1 - 0",
+    "team2": "Atlético de San Luis",
+    "title": "Querétaro VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725088/atletico-de-san-luis-queretaro"
+  },
+  {
+    "gameId": "725089",
+    "date": "Friday, February 7, 2025",
+    "team1": "Puebla",
+    "score": "1 - 2",
+    "team2": "América",
+    "title": "Puebla VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725089/america-puebla"
+  },
+  {
+    "gameId": "725091",
+    "date": "Saturday, February 8, 2025",
+    "team1": "León",
+    "score": "3 - 3",
+    "team2": "Toluca",
+    "title": "León VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725091/toluca-leon"
+  },
+  {
+    "gameId": "725092",
+    "date": "Saturday, February 8, 2025",
+    "team1": "Tigres UANL",
+    "score": "2 - 1",
+    "team2": "Atlas",
+    "title": "Tigres UANL VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725092/atlas-tigres-uanl"
+  },
+  {
+    "gameId": "725094",
+    "date": "Saturday, February 8, 2025",
+    "team1": "FC Juarez",
+    "score": "2 - 1",
+    "team2": "Monterrey",
+    "title": "FC Juarez VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725094/monterrey-fc-juarez"
+  },
+  {
+    "gameId": "725093",
+    "date": "Saturday, February 8, 2025",
+    "team1": "Cruz Azul",
+    "score": "2 - 1",
+    "team2": "Pachuca",
+    "title": "Cruz Azul VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725093/pachuca-cruz-azul"
+  },
+  {
+    "gameId": "725095",
+    "date": "Sunday, February 9, 2025",
+    "team1": "Pumas UNAM",
+    "score": "1 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Pumas UNAM VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725095/mazatlan-fc-pumas-unam"
+  },
+  {
+    "gameId": "725096",
+    "date": "Sunday, February 9, 2025",
+    "team1": "Guadalajara",
+    "score": "2 - 1",
+    "team2": "Tijuana",
+    "title": "Guadalajara VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725096/tijuana-guadalajara"
+  },
+  {
+    "gameId": "725100",
+    "date": "Friday, February 14, 2025",
+    "team1": "América",
+    "score": "2 - 3",
+    "team2": "Necaxa",
+    "title": "América VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725100/necaxa-america"
+  },
+  {
+    "gameId": "725097",
+    "date": "Friday, February 14, 2025",
+    "team1": "Mazatlán FC",
+    "score": "1 - 1",
+    "team2": "Santos",
+    "title": "Mazatlán FC VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725097/santos-mazatlan-fc"
+  },
+  {
+    "gameId": "725098",
+    "date": "Friday, February 14, 2025",
+    "team1": "Tijuana",
+    "score": "1 - 2",
+    "team2": "FC Juarez",
+    "title": "Tijuana VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725098/fc-juarez-tijuana"
+  },
+  {
+    "gameId": "725099",
+    "date": "Saturday, February 15, 2025",
+    "team1": "Atlas",
+    "score": "3 - 2",
+    "team2": "Puebla",
+    "title": "Atlas VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725099/puebla-atlas"
+  },
+  {
+    "gameId": "725101",
+    "date": "Saturday, February 15, 2025",
+    "team1": "Tigres UANL",
+    "score": "2 - 1",
+    "team2": "Cruz Azul",
+    "title": "Tigres UANL VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725101/cruz-azul-tigres-uanl"
+  },
+  {
+    "gameId": "725102",
+    "date": "Saturday, February 15, 2025",
+    "team1": "Toluca",
+    "score": "2 - 1",
+    "team2": "Guadalajara",
+    "title": "Toluca VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725102/guadalajara-toluca"
+  },
+  {
+    "gameId": "725103",
+    "date": "Sunday, February 16, 2025",
+    "team1": "Querétaro",
+    "score": "2 - 4",
+    "team2": "Monterrey",
+    "title": "Querétaro VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725103/monterrey-queretaro"
+  },
+  {
+    "gameId": "725105",
+    "date": "Sunday, February 16, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "1 - 2",
+    "team2": "León",
+    "title": "Atlético de San Luis VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725105/leon-atletico-de-san-luis"
+  },
+  {
+    "gameId": "725104",
+    "date": "Sunday, February 16, 2025",
+    "team1": "Pachuca",
+    "score": "2 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Pachuca VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725104/pumas-unam-pachuca"
+  },
+  {
+    "gameId": "725107",
+    "date": "Tuesday, February 18, 2025",
+    "team1": "Atlas",
+    "score": "0 - 4",
+    "team2": "Necaxa",
+    "title": "Atlas VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725107/necaxa-atlas"
+  },
+  {
+    "gameId": "725108",
+    "date": "Wednesday, February 19, 2025",
+    "team1": "América",
+    "score": "1 - 1",
+    "team2": "León",
+    "title": "América VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725108/leon-america"
+  },
+  {
+    "gameId": "725106",
+    "date": "Wednesday, February 19, 2025",
+    "team1": "Santos",
+    "score": "0 - 1",
+    "team2": "Cruz Azul",
+    "title": "Santos VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725106/cruz-azul-santos"
+  },
+  {
+    "gameId": "725109",
+    "date": "Friday, February 21, 2025",
+    "team1": "Necaxa",
+    "score": "3 - 1",
+    "team2": "Mazatlán FC",
+    "title": "Necaxa VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725109/mazatlan-fc-necaxa"
+  },
+  {
+    "gameId": "725110",
+    "date": "Friday, February 21, 2025",
+    "team1": "Puebla",
+    "score": "2 - 0",
+    "team2": "Tijuana",
+    "title": "Puebla VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725110/tijuana-puebla"
+  },
+  {
+    "gameId": "725115",
+    "date": "Saturday, February 22, 2025",
+    "team1": "FC Juarez",
+    "score": "0 - 4",
+    "team2": "Toluca",
+    "title": "FC Juarez VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725115/toluca-fc-juarez"
+  },
+  {
+    "gameId": "725111",
+    "date": "Saturday, February 22, 2025",
+    "team1": "León",
+    "score": "1 - 0",
+    "team2": "Tigres UANL",
+    "title": "León VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725111/tigres-uanl-leon"
+  },
+  {
+    "gameId": "725112",
+    "date": "Saturday, February 22, 2025",
+    "team1": "Monterrey",
+    "score": "3 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Monterrey VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725112/atletico-de-san-luis-monterrey"
+  },
+  {
+    "gameId": "725113",
+    "date": "Saturday, February 22, 2025",
+    "team1": "Guadalajara",
+    "score": "2 - 1",
+    "team2": "Pachuca",
+    "title": "Guadalajara VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725113/pachuca-guadalajara"
+  },
+  {
+    "gameId": "725114",
+    "date": "Saturday, February 22, 2025",
+    "team1": "Pumas UNAM",
+    "score": "0 - 2",
+    "team2": "América",
+    "title": "Pumas UNAM VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725114/america-pumas-unam"
+  },
+  {
+    "gameId": "725116",
+    "date": "Sunday, February 23, 2025",
+    "team1": "Santos",
+    "score": "2 - 0",
+    "team2": "Atlas",
+    "title": "Santos VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725116/atlas-santos"
+  },
+  {
+    "gameId": "725117",
+    "date": "Sunday, February 23, 2025",
+    "team1": "Cruz Azul",
+    "score": "1 - 0",
+    "team2": "Querétaro",
+    "title": "Cruz Azul VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725117/queretaro-cruz-azul"
+  },
+  {
+    "gameId": "725118",
+    "date": "Tuesday, February 25, 2025",
+    "team1": "Tigres UANL",
+    "score": "0 - 1",
+    "team2": "FC Juarez",
+    "title": "Tigres UANL VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725118/fc-juarez-tigres-uanl"
+  },
+  {
+    "gameId": "725120",
+    "date": "Tuesday, February 25, 2025",
+    "team1": "Mazatlán FC",
+    "score": "1 - 0",
+    "team2": "Monterrey",
+    "title": "Mazatlán FC VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725120/monterrey-mazatlan-fc"
+  },
+  {
+    "gameId": "725119",
+    "date": "Tuesday, February 25, 2025",
+    "team1": "Tijuana",
+    "score": "4 - 2",
+    "team2": "Pumas UNAM",
+    "title": "Tijuana VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725119/pumas-unam-tijuana"
+  },
+  {
+    "gameId": "725121",
+    "date": "Wednesday, February 26, 2025",
+    "team1": "Pachuca",
+    "score": "2 - 1",
+    "team2": "Puebla",
+    "title": "Pachuca VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725121/puebla-pachuca"
+  },
+  {
+    "gameId": "725123",
+    "date": "Wednesday, February 26, 2025",
+    "team1": "Toluca",
+    "score": "5 - 0",
+    "team2": "Querétaro",
+    "title": "Toluca VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725123/queretaro-toluca"
+  },
+  {
+    "gameId": "725122",
+    "date": "Wednesday, February 26, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "3 - 1",
+    "team2": "Guadalajara",
+    "title": "Atlético de San Luis VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725122/guadalajara-atletico-de-san-luis"
+  },
+  {
+    "gameId": "725124",
+    "date": "Friday, February 28, 2025",
+    "team1": "Mazatlán FC",
+    "score": "1 - 1",
+    "team2": "Cruz Azul",
+    "title": "Mazatlán FC VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725124/cruz-azul-mazatlan-fc"
+  },
+  {
+    "gameId": "725126",
+    "date": "Saturday, March 1, 2025",
+    "team1": "América",
+    "score": "3 - 0",
+    "team2": "Toluca",
+    "title": "América VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725126/toluca-america"
+  },
+  {
+    "gameId": "725128",
+    "date": "Saturday, March 1, 2025",
+    "team1": "FC Juarez",
+    "score": "2 - 2",
+    "team2": "Pachuca",
+    "title": "FC Juarez VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725128/pachuca-fc-juarez"
+  },
+  {
+    "gameId": "725127",
+    "date": "Saturday, March 1, 2025",
+    "team1": "León",
+    "score": "2 - 1",
+    "team2": "Tijuana",
+    "title": "León VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725127/tijuana-leon"
+  },
+  {
+    "gameId": "725125",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Necaxa",
+    "score": "1 - 2",
+    "team2": "Tigres UANL",
+    "title": "Necaxa VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725125/tigres-uanl-necaxa"
+  },
+  {
+    "gameId": "725129",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Pumas UNAM",
+    "score": "0 - 1",
+    "team2": "Guadalajara",
+    "title": "Pumas UNAM VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725129/guadalajara-pumas-unam"
+  },
+  {
+    "gameId": "725130",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Querétaro",
+    "score": "2 - 0",
+    "team2": "Puebla",
+    "title": "Querétaro VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725130/puebla-queretaro"
+  },
+  {
+    "gameId": "725131",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Atlas",
+    "score": "3 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Atlas VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725131/atletico-de-san-luis-atlas"
+  },
+  {
+    "gameId": "725132",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Monterrey",
+    "score": "4 - 2",
+    "team2": "Santos",
+    "title": "Monterrey VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725132/santos-monterrey"
+  },
+  {
+    "gameId": "725133",
+    "date": "Friday, March 7, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "1 - 0",
+    "team2": "FC Juarez",
+    "title": "Atlético de San Luis VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725133/fc-juarez-atletico-de-san-luis"
+  },
+  {
+    "gameId": "725134",
+    "date": "Friday, March 7, 2025",
+    "team1": "Tigres UANL",
+    "score": "1 - 0",
+    "team2": "Querétaro",
+    "title": "Tigres UANL VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725134/queretaro-tigres-uanl"
+  },
+  {
+    "gameId": "725135",
+    "date": "Friday, March 7, 2025",
+    "team1": "Puebla",
+    "score": "1 - 3",
+    "team2": "Pumas UNAM",
+    "title": "Puebla VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725135/pumas-unam-puebla"
+  },
+  {
+    "gameId": "725136",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Toluca",
+    "score": "5 - 2",
+    "team2": "Necaxa",
+    "title": "Toluca VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725136/necaxa-toluca"
+  },
+  {
+    "gameId": "725138",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Pachuca",
+    "score": "1 - 1",
+    "team2": "Mazatlán FC",
+    "title": "Pachuca VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725138/mazatlan-fc-pachuca"
+  },
+  {
+    "gameId": "725137",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Cruz Azul",
+    "score": "1 - 1",
+    "team2": "Monterrey",
+    "title": "Cruz Azul VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725137/monterrey-cruz-azul"
+  },
+  {
+    "gameId": "725139",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Guadalajara",
+    "score": "0 - 0",
+    "team2": "América",
+    "title": "Guadalajara VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725139/america-guadalajara"
+  },
+  {
+    "gameId": "725140",
+    "date": "Sunday, March 9, 2025",
+    "team1": "Santos",
+    "score": "2 - 1",
+    "team2": "León",
+    "title": "Santos VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725140/leon-santos"
+  },
+  {
+    "gameId": "725141",
+    "date": "Sunday, March 9, 2025",
+    "team1": "Tijuana",
+    "score": "3 - 4",
+    "team2": "Atlas",
+    "title": "Tijuana VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725141/atlas-tijuana"
+  },
+  {
+    "gameId": "725142",
+    "date": "Friday, March 14, 2025",
+    "team1": "Necaxa",
+    "score": "2 - 1",
+    "team2": "León",
+    "title": "Necaxa VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725142/leon-necaxa"
+  },
+  {
+    "gameId": "725143",
+    "date": "Friday, March 14, 2025",
+    "team1": "Querétaro",
+    "score": "1 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Querétaro VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725143/mazatlan-fc-queretaro"
+  },
+  {
+    "gameId": "725144",
+    "date": "Friday, March 14, 2025",
+    "team1": "Puebla",
+    "score": "0 - 3",
+    "team2": "Toluca",
+    "title": "Puebla VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725144/toluca-puebla"
+  },
+  {
+    "gameId": "725145",
+    "date": "Saturday, March 15, 2025",
+    "team1": "Tigres UANL",
+    "score": "3 - 0",
+    "team2": "Santos",
+    "title": "Tigres UANL VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725145/santos-tigres-uanl"
+  },
+  {
+    "gameId": "725146",
+    "date": "Saturday, March 15, 2025",
+    "team1": "Cruz Azul",
+    "score": "3 - 0",
+    "team2": "Atlético de San Luis",
+    "title": "Cruz Azul VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725146/atletico-de-san-luis-cruz-azul"
+  },
+  {
+    "gameId": "725148",
+    "date": "Saturday, March 15, 2025",
+    "team1": "FC Juarez",
+    "score": "1 - 1",
+    "team2": "Guadalajara",
+    "title": "FC Juarez VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725148/guadalajara-fc-juarez"
+  },
+  {
+    "gameId": "725147",
+    "date": "Saturday, March 15, 2025",
+    "team1": "Atlas",
+    "score": "1 - 3",
+    "team2": "América",
+    "title": "Atlas VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725147/america-atlas"
+  },
+  {
+    "gameId": "725149",
+    "date": "Sunday, March 16, 2025",
+    "team1": "Pumas UNAM",
+    "score": "1 - 3",
+    "team2": "Monterrey",
+    "title": "Pumas UNAM VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725149/monterrey-pumas-unam"
+  },
+  {
+    "gameId": "725150",
+    "date": "Sunday, March 16, 2025",
+    "team1": "Pachuca",
+    "score": "4 - 1",
+    "team2": "Tijuana",
+    "title": "Pachuca VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725150/tijuana-pachuca"
+  },
+  {
+    "gameId": "725152",
+    "date": "Friday, March 28, 2025",
+    "team1": "Necaxa",
+    "score": "2 - 0",
+    "team2": "Querétaro",
+    "title": "Necaxa VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725152/queretaro-necaxa"
+  },
+  {
+    "gameId": "725153",
+    "date": "Friday, March 28, 2025",
+    "team1": "Mazatlán FC",
+    "score": "3 - 2",
+    "team2": "Atlas",
+    "title": "Mazatlán FC VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725153/atlas-mazatlan-fc"
+  },
+  {
+    "gameId": "725151",
+    "date": "Saturday, March 29, 2025",
+    "team1": "FC Juarez",
+    "score": "2 - 0",
+    "team2": "Puebla",
+    "title": "FC Juarez VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725151/puebla-fc-juarez"
+  },
+  {
+    "gameId": "725154",
+    "date": "Saturday, March 29, 2025",
+    "team1": "Toluca",
+    "score": "3 - 2",
+    "team2": "Pachuca",
+    "title": "Toluca VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725154/pachuca-toluca"
+  },
+  {
+    "gameId": "725155",
+    "date": "Saturday, March 29, 2025",
+    "team1": "América",
+    "score": "3 - 0",
+    "team2": "Tigres UANL",
+    "title": "América VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725155/tigres-uanl-america"
+  },
+  {
+    "gameId": "725157",
+    "date": "Saturday, March 29, 2025",
+    "team1": "Guadalajara",
+    "score": "0 - 1",
+    "team2": "Cruz Azul",
+    "title": "Guadalajara VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725157/cruz-azul-guadalajara"
+  },
+  {
+    "gameId": "725156",
+    "date": "Saturday, March 29, 2025",
+    "team1": "Monterrey",
+    "score": "1 - 2",
+    "team2": "Tijuana",
+    "title": "Monterrey VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725156/tijuana-monterrey"
+  },
+  {
+    "gameId": "725158",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Santos",
+    "score": "2 - 3",
+    "team2": "Atlético de San Luis",
+    "title": "Santos VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725158/atletico-de-san-luis-santos"
+  },
+  {
+    "gameId": "725159",
+    "date": "Sunday, March 30, 2025",
+    "team1": "León",
+    "score": "1 - 2",
+    "team2": "Pumas UNAM",
+    "title": "León VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725159/pumas-unam-leon"
+  },
+  {
+    "gameId": "725160",
+    "date": "Friday, April 4, 2025",
+    "team1": "Querétaro",
+    "score": "1 - 1",
+    "team2": "León",
+    "title": "Querétaro VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725160/leon-queretaro"
+  },
+  {
+    "gameId": "725161",
+    "date": "Friday, April 4, 2025",
+    "team1": "Tijuana",
+    "score": "1 - 2",
+    "team2": "Necaxa",
+    "title": "Tijuana VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725161/necaxa-tijuana"
+  },
+  {
+    "gameId": "725162",
+    "date": "Friday, April 4, 2025",
+    "team1": "Puebla",
+    "score": "0 - 0",
+    "team2": "Tigres UANL",
+    "title": "Puebla VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725162/tigres-uanl-puebla"
+  },
+  {
+    "gameId": "725163",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Atlas",
+    "score": "1 - 1",
+    "team2": "FC Juarez",
+    "title": "Atlas VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725163/fc-juarez-atlas"
+  },
+  {
+    "gameId": "725164",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Pachuca",
+    "score": "1 - 0",
+    "team2": "América",
+    "title": "Pachuca VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725164/america-pachuca"
+  },
+  {
+    "gameId": "725168",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "2 - 1",
+    "team2": "Mazatlán FC",
+    "title": "Atlético de San Luis VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725168/mazatlan-fc-atletico-de-san-luis"
+  },
+  {
+    "gameId": "725165",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Monterrey",
+    "score": "3 - 1",
+    "team2": "Guadalajara",
+    "title": "Monterrey VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725165/guadalajara-monterrey"
+  },
+  {
+    "gameId": "725166",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Cruz Azul",
+    "score": "3 - 2",
+    "team2": "Pumas UNAM",
+    "title": "Cruz Azul VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725166/pumas-unam-cruz-azul"
+  },
+  {
+    "gameId": "725167",
+    "date": "Sunday, April 6, 2025",
+    "team1": "Toluca",
+    "score": "2 - 1",
+    "team2": "Santos",
+    "title": "Toluca VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725167/santos-toluca"
+  },
+  {
+    "gameId": "725177",
+    "date": "Thursday, April 10, 2025",
+    "team1": "Tijuana",
+    "score": "2 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Tijuana VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725177/atletico-de-san-luis-tijuana"
+  },
+  {
+    "gameId": "725169",
+    "date": "Friday, April 11, 2025",
+    "team1": "Necaxa",
+    "score": "3 - 5",
+    "team2": "Pachuca",
+    "title": "Necaxa VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725169/pachuca-necaxa"
+  },
+  {
+    "gameId": "725170",
+    "date": "Friday, April 11, 2025",
+    "team1": "Mazatlán FC",
+    "score": "1 - 1",
+    "team2": "Guadalajara",
+    "title": "Mazatlán FC VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725170/guadalajara-mazatlan-fc"
+  },
+  {
+    "gameId": "725171",
+    "date": "Saturday, April 12, 2025",
+    "team1": "León",
+    "score": "1 - 0",
+    "team2": "Puebla",
+    "title": "León VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725171/puebla-leon"
+  },
+  {
+    "gameId": "725172",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Pumas UNAM",
+    "score": "0 - 0",
+    "team2": "FC Juarez",
+    "title": "Pumas UNAM VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725172/fc-juarez-pumas-unam"
+  },
+  {
+    "gameId": "725174",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Tigres UANL",
+    "score": "2 - 1",
+    "team2": "Monterrey",
+    "title": "Tigres UANL VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725174/monterrey-tigres-uanl"
+  },
+  {
+    "gameId": "725173",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Atlas",
+    "score": "2 - 3",
+    "team2": "Toluca",
+    "title": "Atlas VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725173/toluca-atlas"
+  },
+  {
+    "gameId": "725175",
+    "date": "Saturday, April 12, 2025",
+    "team1": "América",
+    "score": "0 - 0",
+    "team2": "Cruz Azul",
+    "title": "América VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725175/cruz-azul-america"
+  },
+  {
+    "gameId": "725176",
+    "date": "Sunday, April 13, 2025",
+    "team1": "Santos",
+    "score": "1 - 2",
+    "team2": "Querétaro",
+    "title": "Santos VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725176/queretaro-santos"
+  },
+  {
+    "gameId": "725178",
+    "date": "Tuesday, April 15, 2025",
+    "team1": "Pachuca",
+    "score": "0 - 0",
+    "team2": "Tigres UANL",
+    "title": "Pachuca VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725178/tigres-uanl-pachuca"
+  },
+  {
+    "gameId": "725179",
+    "date": "Tuesday, April 15, 2025",
+    "team1": "Guadalajara",
+    "score": "1 - 0",
+    "team2": "Puebla",
+    "title": "Guadalajara VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725179/puebla-guadalajara"
+  },
+  {
+    "gameId": "725181",
+    "date": "Tuesday, April 15, 2025",
+    "team1": "FC Juarez",
+    "score": "2 - 2",
+    "team2": "Necaxa",
+    "title": "FC Juarez VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725181/necaxa-fc-juarez"
+  },
+  {
+    "gameId": "725180",
+    "date": "Tuesday, April 15, 2025",
+    "team1": "Cruz Azul",
+    "score": "2 - 1",
+    "team2": "León",
+    "title": "Cruz Azul VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725180/leon-cruz-azul"
+  },
+  {
+    "gameId": "725184",
+    "date": "Wednesday, April 16, 2025",
+    "team1": "Monterrey",
+    "score": "1 - 0",
+    "team2": "América",
+    "title": "Monterrey VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725184/america-monterrey"
+  },
+  {
+    "gameId": "725183",
+    "date": "Wednesday, April 16, 2025",
+    "team1": "Querétaro",
+    "score": "1 - 2",
+    "team2": "Atlas",
+    "title": "Querétaro VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725183/atlas-queretaro"
+  },
+  {
+    "gameId": "725182",
+    "date": "Wednesday, April 16, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "0 - 1",
+    "team2": "Toluca",
+    "title": "Atlético de San Luis VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725182/toluca-atletico-de-san-luis"
+  },
+  {
+    "gameId": "725186",
+    "date": "Wednesday, April 16, 2025",
+    "team1": "Mazatlán FC",
+    "score": "0 - 2",
+    "team2": "Tijuana",
+    "title": "Mazatlán FC VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725186/tijuana-mazatlan-fc"
+  },
+  {
+    "gameId": "725185",
+    "date": "Wednesday, April 16, 2025",
+    "team1": "Pumas UNAM",
+    "score": "2 - 0",
+    "team2": "Santos",
+    "title": "Pumas UNAM VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725185/santos-pumas-unam"
+  },
+  {
+    "gameId": "725187",
+    "date": "Friday, April 18, 2025",
+    "team1": "Puebla",
+    "score": "0 - 1",
+    "team2": "Necaxa",
+    "title": "Puebla VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725187/necaxa-puebla"
+  },
+  {
+    "gameId": "725188",
+    "date": "Saturday, April 19, 2025",
+    "team1": "América",
+    "score": "5 - 0",
+    "team2": "Mazatlán FC",
+    "title": "América VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725188/mazatlan-fc-america"
+  },
+  {
+    "gameId": "725190",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Toluca",
+    "score": "2 - 2",
+    "team2": "Cruz Azul",
+    "title": "Toluca VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725190/cruz-azul-toluca"
+  },
+  {
+    "gameId": "725191",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Tigres UANL",
+    "score": "2 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Tigres UANL VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725191/pumas-unam-tigres-uanl"
+  },
+  {
+    "gameId": "725192",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Atlas",
+    "score": "1 - 1",
+    "team2": "Guadalajara",
+    "title": "Atlas VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725192/guadalajara-atlas"
+  },
+  {
+    "gameId": "725193",
+    "date": "Sunday, April 20, 2025",
+    "team1": "Santos",
+    "score": "0 - 4",
+    "team2": "Tijuana",
+    "title": "Santos VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725193/tijuana-santos"
+  },
+  {
+    "gameId": "725195",
+    "date": "Sunday, April 20, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "2 - 1",
+    "team2": "Pachuca",
+    "title": "Atlético de San Luis VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725195/pachuca-atletico-de-san-luis"
+  },
+  {
+    "gameId": "725194",
+    "date": "Sunday, April 20, 2025",
+    "team1": "León",
+    "score": "0 - 2",
+    "team2": "Monterrey",
+    "title": "León VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725194/monterrey-leon"
+  },
+  {
+    "gameId": "725189",
+    "date": "Sunday, April 20, 2025",
+    "team1": "FC Juarez",
+    "score": "0 - 2",
+    "team2": "Querétaro",
+    "title": "FC Juarez VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/725189/queretaro-fc-juarez"
+  },
+  {
+    "gameId": "735470",
+    "date": "Sunday, April 27, 2025",
+    "team1": "FC Juarez",
+    "score": "1 - 1",
+    "team2": "Pumas UNAM",
+    "title": "FC Juarez VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735470/pumas-unam-fc-juarez"
+  },
+  {
+    "gameId": "735471",
+    "date": "Sunday, April 27, 2025",
+    "team1": "Monterrey",
+    "score": "1 - 2",
+    "team2": "Pachuca",
+    "title": "Monterrey VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735471/pachuca-monterrey"
+  },
+  {
+    "gameId": "735577",
+    "date": "Sunday, May 4, 2025",
+    "team1": "Monterrey",
+    "score": "2 - 0",
+    "team2": "Pumas UNAM",
+    "title": "Monterrey VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735577/pumas-unam-monterrey"
+  },
+  {
+    "gameId": "735473",
+    "date": "Wednesday, May 7, 2025",
+    "team1": "Monterrey",
+    "score": "3 - 2",
+    "team2": "Toluca",
+    "title": "Monterrey VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735473/toluca-monterrey"
+  },
+  {
+    "gameId": "735475",
+    "date": "Wednesday, May 7, 2025",
+    "team1": "Pachuca",
+    "score": "0 - 0",
+    "team2": "América",
+    "title": "Pachuca VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735475/america-pachuca"
+  },
+  {
+    "gameId": "735472",
+    "date": "Thursday, May 8, 2025",
+    "team1": "Necaxa",
+    "score": "0 - 0",
+    "team2": "Tigres UANL",
+    "title": "Necaxa VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735472/tigres-uanl-necaxa"
+  },
+  {
+    "gameId": "735474",
+    "date": "Thursday, May 8, 2025",
+    "team1": "León",
+    "score": "2 - 3",
+    "team2": "Cruz Azul",
+    "title": "León VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735474/cruz-azul-leon"
+  },
+  {
+    "gameId": "735479",
+    "date": "Saturday, May 10, 2025",
+    "team1": "Toluca",
+    "score": "2 - 1",
+    "team2": "Monterrey",
+    "title": "Toluca VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735479/monterrey-toluca"
+  },
+  {
+    "gameId": "735476",
+    "date": "Saturday, May 10, 2025",
+    "team1": "América",
+    "score": "2 - 0",
+    "team2": "Pachuca",
+    "title": "América VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735476/pachuca-america"
+  },
+  {
+    "gameId": "735477",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Cruz Azul",
+    "score": "2 - 1",
+    "team2": "León",
+    "title": "Cruz Azul VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735477/leon-cruz-azul"
+  },
+  {
+    "gameId": "735478",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Tigres UANL",
+    "score": "2 - 2",
+    "team2": "Necaxa",
+    "title": "Tigres UANL VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735478/necaxa-tigres-uanl"
+  },
+  {
+    "gameId": "735746",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "Tigres UANL",
+    "score": "1 - 1",
+    "team2": "Toluca",
+    "title": "Tigres UANL VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735746/toluca-tigres-uanl"
+  },
+  {
+    "gameId": "735745",
+    "date": "Thursday, May 15, 2025",
+    "team1": "Cruz Azul",
+    "score": "1 - 0",
+    "team2": "América",
+    "title": "Cruz Azul VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735745/america-cruz-azul"
+  },
+  {
+    "gameId": "735747",
+    "date": "Saturday, May 17, 2025",
+    "team1": "Toluca",
+    "score": "3 - 0",
+    "team2": "Tigres UANL",
+    "title": "Toluca VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735747/tigres-uanl-toluca"
+  },
+  {
+    "gameId": "735748",
+    "date": "Sunday, May 18, 2025",
+    "team1": "América",
+    "score": "2 - 1",
+    "team2": "Cruz Azul",
+    "title": "América VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735748/cruz-azul-america"
+  },
+  {
+    "gameId": "735812",
+    "date": "Thursday, May 22, 2025",
+    "team1": "América",
+    "score": "0 - 0",
+    "team2": "Toluca",
+    "title": "América VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735812/toluca-america"
+  },
+  {
+    "gameId": "735813",
+    "date": "Sunday, May 25, 2025",
+    "team1": "Toluca",
+    "score": "2 - 0",
+    "team2": "América",
+    "title": "Toluca VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735813/america-toluca"
+  },
+  {
+    "gameId": "736614",
+    "date": "Friday, July 11, 2025",
+    "team1": "Puebla",
+    "score": "2 - 3",
+    "team2": "Atlas",
+    "title": "Puebla VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736614/atlas-puebla"
+  },
+  {
+    "gameId": "736616",
+    "date": "Friday, July 11, 2025",
+    "team1": "FC Juarez",
+    "score": "1 - 1",
+    "team2": "América",
+    "title": "FC Juarez VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736616/america-fc-juarez"
+  },
+  {
+    "gameId": "736615",
+    "date": "Friday, July 11, 2025",
+    "team1": "Tijuana",
+    "score": "1 - 0",
+    "team2": "Querétaro",
+    "title": "Tijuana VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736615/queretaro-tijuana"
+  },
+  {
+    "gameId": "736617",
+    "date": "Saturday, July 12, 2025",
+    "team1": "Santos",
+    "score": "3 - 0",
+    "team2": "Pumas UNAM",
+    "title": "Santos VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736617/pumas-unam-santos"
+  },
+  {
+    "gameId": "736618",
+    "date": "Saturday, July 12, 2025",
+    "team1": "Toluca",
+    "score": "3 - 1",
+    "team2": "Necaxa",
+    "title": "Toluca VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736618/necaxa-toluca"
+  },
+  {
+    "gameId": "736619",
+    "date": "Saturday, July 12, 2025",
+    "team1": "Cruz Azul",
+    "score": "0 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Cruz Azul VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736619/mazatlan-fc-cruz-azul"
+  },
+  {
+    "gameId": "736620",
+    "date": "Sunday, July 13, 2025",
+    "team1": "Pachuca",
+    "score": "3 - 0",
+    "team2": "Monterrey",
+    "title": "Pachuca VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736620/monterrey-pachuca"
+  },
+  {
+    "gameId": "736621",
+    "date": "Sunday, July 13, 2025",
+    "team1": "León",
+    "score": "0 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "León VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736621/atletico-de-san-luis-leon"
+  },
+  {
+    "gameId": "736622",
+    "date": "Wednesday, July 16, 2025",
+    "team1": "América",
+    "score": "3 - 1",
+    "team2": "Tijuana",
+    "title": "América VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736622/tijuana-america"
+  },
+  {
+    "gameId": "736623",
+    "date": "Wednesday, July 16, 2025",
+    "team1": "Santos",
+    "score": "2 - 4",
+    "team2": "Toluca",
+    "title": "Santos VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736623/toluca-santos"
+  },
+  {
+    "gameId": "736624",
+    "date": "Friday, July 18, 2025",
+    "team1": "Necaxa",
+    "score": "3 - 1",
+    "team2": "Querétaro",
+    "title": "Necaxa VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736624/queretaro-necaxa"
+  },
+  {
+    "gameId": "736626",
+    "date": "Friday, July 18, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "0 - 1",
+    "team2": "Monterrey",
+    "title": "Atlético de San Luis VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736626/monterrey-atletico-de-san-luis"
+  },
+  {
+    "gameId": "736625",
+    "date": "Friday, July 18, 2025",
+    "team1": "Mazatlán FC",
+    "score": "2 - 1",
+    "team2": "Puebla",
+    "title": "Mazatlán FC VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736625/puebla-mazatlan-fc"
+  },
+  {
+    "gameId": "736628",
+    "date": "Saturday, July 19, 2025",
+    "team1": "León",
+    "score": "1 - 0",
+    "team2": "Guadalajara",
+    "title": "León VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736628/guadalajara-leon"
+  },
+  {
+    "gameId": "736627",
+    "date": "Saturday, July 19, 2025",
+    "team1": "Tigres UANL",
+    "score": "1 - 0",
+    "team2": "FC Juarez",
+    "title": "Tigres UANL VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736627/fc-juarez-tigres-uanl"
+  },
+  {
+    "gameId": "736629",
+    "date": "Saturday, July 19, 2025",
+    "team1": "Atlas",
+    "score": "3 - 3",
+    "team2": "Cruz Azul",
+    "title": "Atlas VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736629/cruz-azul-atlas"
+  },
+  {
+    "gameId": "736630",
+    "date": "Sunday, July 20, 2025",
+    "team1": "Pumas UNAM",
+    "score": "2 - 3",
+    "team2": "Pachuca",
+    "title": "Pumas UNAM VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736630/pachuca-pumas-unam"
+  },
+  {
+    "gameId": "736631",
+    "date": "Friday, July 25, 2025",
+    "team1": "Puebla",
+    "score": "1 - 0",
+    "team2": "Santos",
+    "title": "Puebla VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736631/santos-puebla"
+  },
+  {
+    "gameId": "736632",
+    "date": "Friday, July 25, 2025",
+    "team1": "Querétaro",
+    "score": "0 - 2",
+    "team2": "Pumas UNAM",
+    "title": "Querétaro VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736632/pumas-unam-queretaro"
+  },
+  {
+    "gameId": "736633",
+    "date": "Friday, July 25, 2025",
+    "team1": "Tijuana",
+    "score": "1 - 1",
+    "team2": "FC Juarez",
+    "title": "Tijuana VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736633/fc-juarez-tijuana"
+  },
+  {
+    "gameId": "736635",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Pachuca",
+    "score": "1 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Pachuca VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736635/mazatlan-fc-pachuca"
+  },
+  {
+    "gameId": "736634",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Guadalajara",
+    "score": "4 - 3",
+    "team2": "Atlético de San Luis",
+    "title": "Guadalajara VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736634/atletico-de-san-luis-guadalajara"
+  },
+  {
+    "gameId": "736636",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Cruz Azul",
+    "score": "4 - 1",
+    "team2": "León",
+    "title": "Cruz Azul VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736636/leon-cruz-azul"
+  },
+  {
+    "gameId": "736639",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Monterrey",
+    "score": "3 - 1",
+    "team2": "Atlas",
+    "title": "Monterrey VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736639/atlas-monterrey"
+  },
+  {
+    "gameId": "736637",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Toluca",
+    "score": "3 - 4",
+    "team2": "Tigres UANL",
+    "title": "Toluca VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736637/tigres-uanl-toluca"
+  },
+  {
+    "gameId": "736638",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Necaxa",
+    "score": "1 - 1",
+    "team2": "América",
+    "title": "Necaxa VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736638/america-necaxa"
+  },
+  {
+    "gameId": "736640",
+    "date": "Friday, August 8, 2025",
+    "team1": "Tigres UANL",
+    "score": "7 - 0",
+    "team2": "Puebla",
+    "title": "Tigres UANL VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736640/puebla-tigres-uanl"
+  },
+  {
+    "gameId": "736641",
+    "date": "Saturday, August 9, 2025",
+    "team1": "América",
+    "score": "1 - 0",
+    "team2": "Querétaro",
+    "title": "América VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736641/queretaro-america"
+  },
+  {
+    "gameId": "736643",
+    "date": "Saturday, August 9, 2025",
+    "team1": "Mazatlán FC",
+    "score": "2 - 2",
+    "team2": "Tijuana",
+    "title": "Mazatlán FC VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736643/tijuana-mazatlan-fc"
+  },
+  {
+    "gameId": "736642",
+    "date": "Saturday, August 9, 2025",
+    "team1": "Atlas",
+    "score": "0 - 3",
+    "team2": "Pachuca",
+    "title": "Atlas VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736642/pachuca-atlas"
+  },
+  {
+    "gameId": "736644",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Pumas UNAM",
+    "score": "1 - 1",
+    "team2": "Necaxa",
+    "title": "Pumas UNAM VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736644/necaxa-pumas-unam"
+  },
+  {
+    "gameId": "736645",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Santos",
+    "score": "1 - 0",
+    "team2": "Guadalajara",
+    "title": "Santos VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736645/guadalajara-santos"
+  },
+  {
+    "gameId": "736646",
+    "date": "Monday, August 11, 2025",
+    "team1": "León",
+    "score": "1 - 3",
+    "team2": "Monterrey",
+    "title": "León VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736646/monterrey-leon"
+  },
+  {
+    "gameId": "736648",
+    "date": "Monday, August 11, 2025",
+    "team1": "FC Juarez",
+    "score": "0 - 2",
+    "team2": "Toluca",
+    "title": "FC Juarez VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736648/toluca-fc-juarez"
+  },
+  {
+    "gameId": "736647",
+    "date": "Monday, August 11, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "1 - 2",
+    "team2": "Cruz Azul",
+    "title": "Atlético de San Luis VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736647/cruz-azul-atletico-de-san-luis"
+  },
+  {
+    "gameId": "736649",
+    "date": "Friday, August 15, 2025",
+    "team1": "Puebla",
+    "score": "0 - 2",
+    "team2": "Atlético de San Luis",
+    "title": "Puebla VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736649/atletico-de-san-luis-puebla"
+  },
+  {
+    "gameId": "736650",
+    "date": "Friday, August 15, 2025",
+    "team1": "Necaxa",
+    "score": "0 - 1",
+    "team2": "León",
+    "title": "Necaxa VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736650/leon-necaxa"
+  },
+  {
+    "gameId": "736652",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Guadalajara",
+    "score": "1 - 2",
+    "team2": "FC Juarez",
+    "title": "Guadalajara VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736652/fc-juarez-guadalajara"
+  },
+  {
+    "gameId": "736655",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Cruz Azul",
+    "score": "3 - 2",
+    "team2": "Santos",
+    "title": "Cruz Azul VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736655/santos-cruz-azul"
+  },
+  {
+    "gameId": "736653",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Pachuca",
+    "score": "0 - 2",
+    "team2": "Tijuana",
+    "title": "Pachuca VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736653/tijuana-pachuca"
+  },
+  {
+    "gameId": "736654",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Tigres UANL",
+    "score": "1 - 3",
+    "team2": "América",
+    "title": "Tigres UANL VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736654/america-tigres-uanl"
+  },
+  {
+    "gameId": "736651",
+    "date": "Saturday, August 16, 2025",
+    "team1": "Toluca",
+    "score": "1 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Toluca VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736651/pumas-unam-toluca"
+  },
+  {
+    "gameId": "736656",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Querétaro",
+    "score": "3 - 3",
+    "team2": "Atlas",
+    "title": "Querétaro VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736656/atlas-queretaro"
+  },
+  {
+    "gameId": "736657",
+    "date": "Sunday, August 17, 2025",
+    "team1": "Monterrey",
+    "score": "3 - 2",
+    "team2": "Mazatlán FC",
+    "title": "Monterrey VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736657/mazatlan-fc-monterrey"
+  },
+  {
+    "gameId": "736658",
+    "date": "Friday, August 22, 2025",
+    "team1": "FC Juarez",
+    "score": "2 - 1",
+    "team2": "Santos",
+    "title": "FC Juarez VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736658/santos-fc-juarez"
+  },
+  {
+    "gameId": "736659",
+    "date": "Friday, August 22, 2025",
+    "team1": "Querétaro",
+    "score": "3 - 2",
+    "team2": "Atlético de San Luis",
+    "title": "Querétaro VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736659/atletico-de-san-luis-queretaro"
+  },
+  {
+    "gameId": "736660",
+    "date": "Friday, August 22, 2025",
+    "team1": "Tijuana",
+    "score": "3 - 3",
+    "team2": "Guadalajara",
+    "title": "Tijuana VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736660/guadalajara-tijuana"
+  },
+  {
+    "gameId": "736662",
+    "date": "Saturday, August 23, 2025",
+    "team1": "León",
+    "score": "1 - 1",
+    "team2": "Pachuca",
+    "title": "León VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736662/pachuca-leon"
+  },
+  {
+    "gameId": "736661",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Mazatlán FC",
+    "score": "2 - 2",
+    "team2": "Tigres UANL",
+    "title": "Mazatlán FC VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736661/tigres-uanl-mazatlan-fc"
+  },
+  {
+    "gameId": "736663",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Monterrey",
+    "score": "3 - 0",
+    "team2": "Necaxa",
+    "title": "Monterrey VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736663/necaxa-monterrey"
+  },
+  {
+    "gameId": "736664",
+    "date": "Saturday, August 23, 2025",
+    "team1": "Cruz Azul",
+    "score": "1 - 0",
+    "team2": "Toluca",
+    "title": "Cruz Azul VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736664/toluca-cruz-azul"
+  },
+  {
+    "gameId": "736665",
+    "date": "Sunday, August 24, 2025",
+    "team1": "Pumas UNAM",
+    "score": "0 - 0",
+    "team2": "Puebla",
+    "title": "Pumas UNAM VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736665/puebla-pumas-unam"
+  },
+  {
+    "gameId": "736666",
+    "date": "Sunday, August 24, 2025",
+    "team1": "Atlas",
+    "score": "2 - 4",
+    "team2": "América",
+    "title": "Atlas VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736666/america-atlas"
+  },
+  {
+    "gameId": "736667",
+    "date": "Friday, August 29, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "1 - 3",
+    "team2": "Toluca",
+    "title": "Atlético de San Luis VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736667/toluca-atletico-de-san-luis"
+  },
+  {
+    "gameId": "736668",
+    "date": "Friday, August 29, 2025",
+    "team1": "FC Juarez",
+    "score": "1 - 0",
+    "team2": "Mazatlán FC",
+    "title": "FC Juarez VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736668/mazatlan-fc-fc-juarez"
+  },
+  {
+    "gameId": "736669",
+    "date": "Friday, August 29, 2025",
+    "team1": "Puebla",
+    "score": "2 - 4",
+    "team2": "Monterrey",
+    "title": "Puebla VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736669/monterrey-puebla"
+  },
+  {
+    "gameId": "736670",
+    "date": "Saturday, August 30, 2025",
+    "team1": "León",
+    "score": "3 - 0",
+    "team2": "Querétaro",
+    "title": "León VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736670/queretaro-leon"
+  },
+  {
+    "gameId": "736672",
+    "date": "Saturday, August 30, 2025",
+    "team1": "Santos",
+    "score": "0 - 1",
+    "team2": "Tigres UANL",
+    "title": "Santos VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736672/tigres-uanl-santos"
+  },
+  {
+    "gameId": "736671",
+    "date": "Saturday, August 30, 2025",
+    "team1": "Guadalajara",
+    "score": "1 - 2",
+    "team2": "Cruz Azul",
+    "title": "Guadalajara VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736671/cruz-azul-guadalajara"
+  },
+  {
+    "gameId": "736673",
+    "date": "Saturday, August 30, 2025",
+    "team1": "América",
+    "score": "2 - 0",
+    "team2": "Pachuca",
+    "title": "América VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736673/pachuca-america"
+  },
+  {
+    "gameId": "736674",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Pumas UNAM",
+    "score": "1 - 0",
+    "team2": "Atlas",
+    "title": "Pumas UNAM VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736674/atlas-pumas-unam"
+  },
+  {
+    "gameId": "736675",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Tijuana",
+    "score": "3 - 0",
+    "team2": "Necaxa",
+    "title": "Tijuana VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736675/necaxa-tijuana"
+  },
+  {
+    "gameId": "736677",
+    "date": "Friday, September 12, 2025",
+    "team1": "Necaxa",
+    "score": "1 - 1",
+    "team2": "FC Juarez",
+    "title": "Necaxa VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736677/fc-juarez-necaxa"
+  },
+  {
+    "gameId": "736678",
+    "date": "Friday, September 12, 2025",
+    "team1": "Mazatlán FC",
+    "score": "1 - 4",
+    "team2": "Pumas UNAM",
+    "title": "Mazatlán FC VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736678/pumas-unam-mazatlan-fc"
+  },
+  {
+    "gameId": "736679",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Pachuca",
+    "score": "0 - 1",
+    "team2": "Cruz Azul",
+    "title": "Pachuca VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736679/cruz-azul-pachuca"
+  },
+  {
+    "gameId": "736680",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Atlas",
+    "score": "2 - 2",
+    "team2": "Santos",
+    "title": "Atlas VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736680/santos-atlas"
+  },
+  {
+    "gameId": "736681",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Tigres UANL",
+    "score": "0 - 0",
+    "team2": "León",
+    "title": "Tigres UANL VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736681/leon-tigres-uanl"
+  },
+  {
+    "gameId": "736682",
+    "date": "Saturday, September 13, 2025",
+    "team1": "Toluca",
+    "score": "3 - 1",
+    "team2": "Puebla",
+    "title": "Toluca VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736682/puebla-toluca"
+  },
+  {
+    "gameId": "736676",
+    "date": "Saturday, September 13, 2025",
+    "team1": "América",
+    "score": "1 - 2",
+    "team2": "Guadalajara",
+    "title": "América VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736676/guadalajara-america"
+  },
+  {
+    "gameId": "736683",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Querétaro",
+    "score": "0 - 1",
+    "team2": "Monterrey",
+    "title": "Querétaro VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736683/monterrey-queretaro"
+  },
+  {
+    "gameId": "736684",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "1 - 1",
+    "team2": "Tijuana",
+    "title": "Atlético de San Luis VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736684/tijuana-atletico-de-san-luis"
+  },
+  {
+    "gameId": "736685",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "Guadalajara",
+    "score": "0 - 0",
+    "team2": "Tigres UANL",
+    "title": "Guadalajara VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736685/tigres-uanl-guadalajara"
+  },
+  {
+    "gameId": "736686",
+    "date": "Friday, September 19, 2025",
+    "team1": "Cruz Azul",
+    "score": "3 - 2",
+    "team2": "FC Juarez",
+    "title": "Cruz Azul VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736686/fc-juarez-cruz-azul"
+  },
+  {
+    "gameId": "736687",
+    "date": "Friday, September 19, 2025",
+    "team1": "Necaxa",
+    "score": "1 - 0",
+    "team2": "Puebla",
+    "title": "Necaxa VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736687/puebla-necaxa"
+  },
+  {
+    "gameId": "736689",
+    "date": "Friday, September 19, 2025",
+    "team1": "Mazatlán FC",
+    "score": "1 - 1",
+    "team2": "Atlas",
+    "title": "Mazatlán FC VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736689/atlas-mazatlan-fc"
+  },
+  {
+    "gameId": "736688",
+    "date": "Friday, September 19, 2025",
+    "team1": "Tijuana",
+    "score": "5 - 0",
+    "team2": "León",
+    "title": "Tijuana VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736688/leon-tijuana"
+  },
+  {
+    "gameId": "736690",
+    "date": "Saturday, September 20, 2025",
+    "team1": "Pachuca",
+    "score": "0 - 2",
+    "team2": "Querétaro",
+    "title": "Pachuca VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736690/queretaro-pachuca"
+  },
+  {
+    "gameId": "736692",
+    "date": "Saturday, September 20, 2025",
+    "team1": "Pumas UNAM",
+    "score": "1 - 1",
+    "team2": "Tigres UANL",
+    "title": "Pumas UNAM VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736692/tigres-uanl-pumas-unam"
+  },
+  {
+    "gameId": "736691",
+    "date": "Saturday, September 20, 2025",
+    "team1": "Guadalajara",
+    "score": "0 - 3",
+    "team2": "Toluca",
+    "title": "Guadalajara VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736691/toluca-guadalajara"
+  },
+  {
+    "gameId": "736693",
+    "date": "Saturday, September 20, 2025",
+    "team1": "Monterrey",
+    "score": "2 - 2",
+    "team2": "América",
+    "title": "Monterrey VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736693/america-monterrey"
+  },
+  {
+    "gameId": "736694",
+    "date": "Sunday, September 21, 2025",
+    "team1": "Santos",
+    "score": "1 - 4",
+    "team2": "Atlético de San Luis",
+    "title": "Santos VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736694/atletico-de-san-luis-santos"
+  },
+  {
+    "gameId": "736696",
+    "date": "Tuesday, September 23, 2025",
+    "team1": "Puebla",
+    "score": "2 - 2",
+    "team2": "Pachuca",
+    "title": "Puebla VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736696/pachuca-puebla"
+  },
+  {
+    "gameId": "736695",
+    "date": "Tuesday, September 23, 2025",
+    "team1": "Guadalajara",
+    "score": "3 - 1",
+    "team2": "Necaxa",
+    "title": "Guadalajara VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736695/necaxa-guadalajara"
+  },
+  {
+    "gameId": "736697",
+    "date": "Tuesday, September 23, 2025",
+    "team1": "FC Juarez",
+    "score": "3 - 1",
+    "team2": "Pumas UNAM",
+    "title": "FC Juarez VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736697/pumas-unam-fc-juarez"
+  },
+  {
+    "gameId": "736698",
+    "date": "Tuesday, September 23, 2025",
+    "team1": "León",
+    "score": "2 - 2",
+    "team2": "Mazatlán FC",
+    "title": "León VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736698/mazatlan-fc-leon"
+  },
+  {
+    "gameId": "736699",
+    "date": "Wednesday, September 24, 2025",
+    "team1": "Cruz Azul",
+    "score": "2 - 2",
+    "team2": "Querétaro",
+    "title": "Cruz Azul VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736699/queretaro-cruz-azul"
+  },
+  {
+    "gameId": "736700",
+    "date": "Wednesday, September 24, 2025",
+    "team1": "Tigres UANL",
+    "score": "2 - 0",
+    "team2": "Atlas",
+    "title": "Tigres UANL VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736700/atlas-tigres-uanl"
+  },
+  {
+    "gameId": "736701",
+    "date": "Wednesday, September 24, 2025",
+    "team1": "Toluca",
+    "score": "6 - 2",
+    "team2": "Monterrey",
+    "title": "Toluca VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736701/monterrey-toluca"
+  },
+  {
+    "gameId": "736703",
+    "date": "Wednesday, September 24, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "0 - 1",
+    "team2": "América",
+    "title": "Atlético de San Luis VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736703/america-atletico-de-san-luis"
+  },
+  {
+    "gameId": "736702",
+    "date": "Wednesday, September 24, 2025",
+    "team1": "Santos",
+    "score": "1 - 0",
+    "team2": "Tijuana",
+    "title": "Santos VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736702/tijuana-santos"
+  },
+  {
+    "gameId": "736704",
+    "date": "Friday, September 26, 2025",
+    "team1": "FC Juarez",
+    "score": "2 - 0",
+    "team2": "León",
+    "title": "FC Juarez VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736704/leon-fc-juarez"
+  },
+  {
+    "gameId": "736706",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Atlas",
+    "score": "3 - 2",
+    "team2": "Necaxa",
+    "title": "Atlas VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736706/necaxa-atlas"
+  },
+  {
+    "gameId": "736707",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Pachuca",
+    "score": "2 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Pachuca VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736707/atletico-de-san-luis-pachuca"
+  },
+  {
+    "gameId": "736705",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Puebla",
+    "score": "0 - 2",
+    "team2": "Guadalajara",
+    "title": "Puebla VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736705/guadalajara-puebla"
+  },
+  {
+    "gameId": "736708",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Monterrey",
+    "score": "1 - 0",
+    "team2": "Santos",
+    "title": "Monterrey VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736708/santos-monterrey"
+  },
+  {
+    "gameId": "736711",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Toluca",
+    "score": "3 - 1",
+    "team2": "Mazatlán FC",
+    "title": "Toluca VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736711/mazatlan-fc-toluca"
+  },
+  {
+    "gameId": "736709",
+    "date": "Saturday, September 27, 2025",
+    "team1": "América",
+    "score": "4 - 1",
+    "team2": "Pumas UNAM",
+    "title": "América VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736709/pumas-unam-america"
+  },
+  {
+    "gameId": "736716",
+    "date": "20251004",
+    "team1": "Querétaro",
+    "score": "3 - 1",
+    "team2": "Puebla",
+    "title": "Querétaro VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736716/puebla-queretaro"
+  },
+  {
+    "gameId": "736725",
+    "date": "20251018",
+    "team1": "Santos",
+    "score": "2 - 0",
+    "team2": "León",
+    "title": "Santos VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736725/leon-santos"
+  },
+  {
+    "gameId": "736730",
+    "date": "20251018",
+    "team1": "Toluca",
+    "score": "4 - 0",
+    "team2": "Querétaro",
+    "title": "Toluca VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736730/queretaro-toluca"
+  },
+  {
+    "gameId": "736742",
+    "date": "20251025",
+    "team1": "Tigres UANL",
+    "score": "2 - 0",
+    "team2": "Tijuana",
+    "title": "Tigres UANL VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736742/tijuana-tigres-uanl"
+  },
+  {
+    "gameId": "736749",
+    "date": "Friday, October 31, 2025",
+    "team1": "Necaxa",
+    "score": "4 - 1",
+    "team2": "Santos",
+    "title": "Necaxa VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736749/santos-necaxa"
+  },
+  {
+    "gameId": "736750",
+    "date": "Friday, October 31, 2025",
+    "team1": "Atlético de San Luis",
+    "score": "1 - 2",
+    "team2": "FC Juarez",
+    "title": "Atlético de San Luis VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736750/fc-juarez-atletico-de-san-luis"
+  },
+  {
+    "gameId": "736751",
+    "date": "Friday, October 31, 2025",
+    "team1": "Puebla",
+    "score": "0 - 3",
+    "team2": "Cruz Azul",
+    "title": "Puebla VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736751/cruz-azul-puebla"
+  },
+  {
+    "gameId": "736752",
+    "date": "20251031",
+    "team1": "Atlas",
+    "score": "0 - 0",
+    "team2": "Toluca",
+    "title": "Atlas VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736752/toluca-atlas"
+  },
+  {
+    "gameId": "736753",
+    "date": "Saturday, November 1, 2025",
+    "team1": "Monterrey",
+    "score": "1 - 1",
+    "team2": "Tigres UANL",
+    "title": "Monterrey VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736753/tigres-uanl-monterrey"
+  },
+  {
+    "gameId": "736754",
+    "date": "Saturday, November 1, 2025",
+    "team1": "América",
+    "score": "2 - 0",
+    "team2": "León",
+    "title": "América VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736754/leon-america"
+  },
+  {
+    "gameId": "736755",
+    "date": "20251101",
+    "team1": "Pumas UNAM",
+    "score": "4 - 1",
+    "team2": "Tijuana",
+    "title": "Pumas UNAM VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736755/tijuana-pumas-unam"
+  },
+  {
+    "gameId": "736756",
+    "date": "20251101",
+    "team1": "Querétaro",
+    "score": "1 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Querétaro VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736756/mazatlan-fc-queretaro"
+  },
+  {
+    "gameId": "736757",
+    "date": "Sunday, November 2, 2025",
+    "team1": "Pachuca",
+    "score": "0 - 1",
+    "team2": "Guadalajara",
+    "title": "Pachuca VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736757/guadalajara-pachuca"
+  },
+  {
+    "gameId": "736758",
+    "date": "Friday, November 7, 2025",
+    "team1": "FC Juarez",
+    "score": "1 - 2",
+    "team2": "Querétaro",
+    "title": "FC Juarez VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736758/queretaro-fc-juarez"
+  },
+  {
+    "gameId": "736759",
+    "date": "Friday, November 7, 2025",
+    "team1": "Mazatlán FC",
+    "score": "1 - 1",
+    "team2": "Necaxa",
+    "title": "Mazatlán FC VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736759/necaxa-mazatlan-fc"
+  },
+  {
+    "gameId": "736760",
+    "date": "Friday, November 7, 2025",
+    "team1": "Tijuana",
+    "score": "2 - 0",
+    "team2": "Atlas",
+    "title": "Tijuana VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736760/atlas-tijuana"
+  },
+  {
+    "gameId": "736762",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Tigres UANL",
+    "score": "3 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Tigres UANL VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736762/atletico-de-san-luis-tigres-uanl"
+  },
+  {
+    "gameId": "736761",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Guadalajara",
+    "score": "4 - 2",
+    "team2": "Monterrey",
+    "title": "Guadalajara VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736761/monterrey-guadalajara"
+  },
+  {
+    "gameId": "736763",
+    "date": "Saturday, November 8, 2025",
+    "team1": "León",
+    "score": "1 - 2",
+    "team2": "Puebla",
+    "title": "León VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736763/puebla-leon"
+  },
+  {
+    "gameId": "736764",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Toluca",
+    "score": "2 - 0",
+    "team2": "América",
+    "title": "Toluca VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736764/america-toluca"
+  },
+  {
+    "gameId": "736765",
+    "date": "Saturday, November 8, 2025",
+    "team1": "Cruz Azul",
+    "score": "2 - 3",
+    "team2": "Pumas UNAM",
+    "title": "Cruz Azul VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736765/pumas-unam-cruz-azul"
+  },
+  {
+    "gameId": "736766",
+    "date": "Sunday, November 9, 2025",
+    "team1": "Santos",
+    "score": "1 - 0",
+    "team2": "Pachuca",
+    "title": "Santos VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736766/pachuca-santos"
+  },
+  {
+    "gameId": "760937",
+    "date": "Thursday, November 20, 2025",
+    "team1": "Pachuca",
+    "score": "3 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Pachuca VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760937/pumas-unam-pachuca"
+  },
+  {
+    "gameId": "760936",
+    "date": "Thursday, November 20, 2025",
+    "team1": "Tijuana",
+    "score": "3 - 1",
+    "team2": "FC Juarez",
+    "title": "Tijuana VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760936/fc-juarez-tijuana"
+  },
+  {
+    "gameId": "760940",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "FC Juarez",
+    "score": "1 - 2",
+    "team2": "Toluca",
+    "title": "FC Juarez VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760940/toluca-fc-juarez"
+  },
+  {
+    "gameId": "760941",
+    "date": "Wednesday, November 26, 2025",
+    "team1": "Monterrey",
+    "score": "2 - 0",
+    "team2": "América",
+    "title": "Monterrey VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760941/america-monterrey"
+  },
+  {
+    "gameId": "760939",
+    "date": "20251126",
+    "team1": "Tijuana",
+    "score": "3 - 0",
+    "team2": "Tigres UANL",
+    "title": "Tijuana VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760939/tigres-uanl-tijuana"
+  },
+  {
+    "gameId": "760938",
+    "date": "Thursday, November 27, 2025",
+    "team1": "Guadalajara",
+    "score": "0 - 0",
+    "team2": "Cruz Azul",
+    "title": "Guadalajara VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760938/cruz-azul-guadalajara"
+  },
+  {
+    "gameId": "760944",
+    "date": "Saturday, November 29, 2025",
+    "team1": "América",
+    "score": "2 - 1",
+    "team2": "Monterrey",
+    "title": "América VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760944/monterrey-america"
+  },
+  {
+    "gameId": "760945",
+    "date": "Saturday, November 29, 2025",
+    "team1": "Toluca",
+    "score": "0 - 0",
+    "team2": "FC Juarez",
+    "title": "Toluca VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760945/fc-juarez-toluca"
+  },
+  {
+    "gameId": "760942",
+    "date": "Saturday, November 29, 2025",
+    "team1": "Tigres UANL",
+    "score": "5 - 0",
+    "team2": "Tijuana",
+    "title": "Tigres UANL VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760942/tijuana-tigres-uanl"
+  },
+  {
+    "gameId": "760943",
+    "date": "Sunday, November 30, 2025",
+    "team1": "Cruz Azul",
+    "score": "3 - 2",
+    "team2": "Guadalajara",
+    "title": "Cruz Azul VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/760943/guadalajara-cruz-azul"
+  },
+  {
+    "gameId": "762218",
+    "date": "Wednesday, December 3, 2025",
+    "team1": "Cruz Azul",
+    "score": "1 - 1",
+    "team2": "Tigres UANL",
+    "title": "Cruz Azul VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762218/tigres-uanl-cruz-azul"
+  },
+  {
+    "gameId": "762219",
+    "date": "Wednesday, December 3, 2025",
+    "team1": "Monterrey",
+    "score": "1 - 0",
+    "team2": "Toluca",
+    "title": "Monterrey VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762219/toluca-monterrey"
+  },
+  {
+    "gameId": "762221",
+    "date": "Saturday, December 6, 2025",
+    "team1": "Toluca",
+    "score": "3 - 2",
+    "team2": "Monterrey",
+    "title": "Toluca VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762221/monterrey-toluca"
+  },
+  {
+    "gameId": "762220",
+    "date": "Saturday, December 6, 2025",
+    "team1": "Tigres UANL",
+    "score": "1 - 1",
+    "team2": "Cruz Azul",
+    "title": "Tigres UANL VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762220/cruz-azul-tigres-uanl"
+  },
+  {
+    "gameId": "762464",
+    "date": "Thursday, December 11, 2025",
+    "team1": "Tigres UANL",
+    "score": "1 - 0",
+    "team2": "Toluca",
+    "title": "Tigres UANL VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762464/toluca-tigres-uanl"
+  },
+  {
+    "gameId": "762465",
+    "date": "Sunday, December 14, 2025",
+    "team1": "Toluca",
+    "score": "2 - 1",
+    "team2": "Tigres UANL",
+    "title": "Toluca VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762465/tigres-uanl-toluca"
+  }
+]

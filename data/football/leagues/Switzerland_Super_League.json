@@ -1,0 +1,2432 @@
+[
+  {
+    "gameId": "705056",
+    "date": "Saturday, July 20, 2024",
+    "team1": "FC Lugano",
+    "score": "2 - 1",
+    "team2": "Grasshoppers",
+    "title": "FC Lugano VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705056/grasshoppers-fc-lugano"
+  },
+  {
+    "gameId": "705057",
+    "date": "Saturday, July 20, 2024",
+    "team1": "Yverdon",
+    "score": "0 - 2",
+    "team2": "FC Zürich",
+    "title": "Yverdon VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705057/fc-zurich-yverdon"
+  },
+  {
+    "gameId": "705058",
+    "date": "Saturday, July 20, 2024",
+    "team1": "Winterthur",
+    "score": "1 - 0",
+    "team2": "St. Gallen",
+    "title": "Winterthur VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705058/st-gallen-winterthur"
+  },
+  {
+    "gameId": "705059",
+    "date": "Sunday, July 21, 2024",
+    "team1": "Young Boys",
+    "score": "1 - 2",
+    "team2": "FC Sion",
+    "title": "Young Boys VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705059/fc-sion-young-boys"
+  },
+  {
+    "gameId": "705060",
+    "date": "Sunday, July 21, 2024",
+    "team1": "FC Luzern",
+    "score": "1 - 2",
+    "team2": "Servette",
+    "title": "FC Luzern VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705060/servette-fc-luzern"
+  },
+  {
+    "gameId": "705061",
+    "date": "Sunday, July 21, 2024",
+    "team1": "Lausanne Sports",
+    "score": "3 - 2",
+    "team2": "FC Basel",
+    "title": "Lausanne Sports VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705061/fc-basel-lausanne-sports"
+  },
+  {
+    "gameId": "705062",
+    "date": "Wednesday, July 24, 2024",
+    "team1": "Servette",
+    "score": "3 - 1",
+    "team2": "Young Boys",
+    "title": "Servette VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705062/young-boys-servette"
+  },
+  {
+    "gameId": "705064",
+    "date": "Saturday, July 27, 2024",
+    "team1": "FC Sion",
+    "score": "4 - 0",
+    "team2": "Lausanne Sports",
+    "title": "FC Sion VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705064/lausanne-sports-fc-sion"
+  },
+  {
+    "gameId": "705063",
+    "date": "Saturday, July 27, 2024",
+    "team1": "Grasshoppers",
+    "score": "2 - 2",
+    "team2": "FC Luzern",
+    "title": "Grasshoppers VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705063/fc-luzern-grasshoppers"
+  },
+  {
+    "gameId": "705065",
+    "date": "Saturday, July 27, 2024",
+    "team1": "FC Basel",
+    "score": "1 - 2",
+    "team2": "FC Lugano",
+    "title": "FC Basel VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705065/fc-lugano-fc-basel"
+  },
+  {
+    "gameId": "705066",
+    "date": "Sunday, July 28, 2024",
+    "team1": "Servette",
+    "score": "3 - 2",
+    "team2": "Yverdon",
+    "title": "Servette VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705066/yverdon-servette"
+  },
+  {
+    "gameId": "705067",
+    "date": "Sunday, July 28, 2024",
+    "team1": "FC Zürich",
+    "score": "4 - 2",
+    "team2": "Winterthur",
+    "title": "FC Zürich VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705067/winterthur-fc-zurich"
+  },
+  {
+    "gameId": "705068",
+    "date": "Sunday, July 28, 2024",
+    "team1": "St. Gallen",
+    "score": "4 - 0",
+    "team2": "Young Boys",
+    "title": "St. Gallen VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705068/young-boys-st-gallen"
+  },
+  {
+    "gameId": "705069",
+    "date": "Saturday, August 3, 2024",
+    "team1": "FC Lugano",
+    "score": "3 - 1",
+    "team2": "Servette",
+    "title": "FC Lugano VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705069/servette-fc-lugano"
+  },
+  {
+    "gameId": "705070",
+    "date": "Saturday, August 3, 2024",
+    "team1": "Grasshoppers",
+    "score": "0 - 3",
+    "team2": "FC Basel",
+    "title": "Grasshoppers VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705070/fc-basel-grasshoppers"
+  },
+  {
+    "gameId": "705071",
+    "date": "Saturday, August 3, 2024",
+    "team1": "FC Luzern",
+    "score": "1 - 0",
+    "team2": "FC Sion",
+    "title": "FC Luzern VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705071/fc-sion-fc-luzern"
+  },
+  {
+    "gameId": "705072",
+    "date": "Sunday, August 4, 2024",
+    "team1": "Lausanne Sports",
+    "score": "3 - 4",
+    "team2": "St. Gallen",
+    "title": "Lausanne Sports VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705072/st-gallen-lausanne-sports"
+  },
+  {
+    "gameId": "705074",
+    "date": "Sunday, August 4, 2024",
+    "team1": "Winterthur",
+    "score": "0 - 0",
+    "team2": "Yverdon",
+    "title": "Winterthur VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705074/yverdon-winterthur"
+  },
+  {
+    "gameId": "705073",
+    "date": "Sunday, August 4, 2024",
+    "team1": "Young Boys",
+    "score": "2 - 2",
+    "team2": "FC Zürich",
+    "title": "Young Boys VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705073/fc-zurich-young-boys"
+  },
+  {
+    "gameId": "705075",
+    "date": "Saturday, August 10, 2024",
+    "team1": "FC Sion",
+    "score": "2 - 0",
+    "team2": "Winterthur",
+    "title": "FC Sion VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705075/winterthur-fc-sion"
+  },
+  {
+    "gameId": "705077",
+    "date": "Saturday, August 10, 2024",
+    "team1": "Yverdon",
+    "score": "2 - 2",
+    "team2": "Young Boys",
+    "title": "Yverdon VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705077/young-boys-yverdon"
+  },
+  {
+    "gameId": "705078",
+    "date": "Sunday, August 11, 2024",
+    "team1": "St. Gallen",
+    "score": "1 - 0",
+    "team2": "Grasshoppers",
+    "title": "St. Gallen VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705078/grasshoppers-st-gallen"
+  },
+  {
+    "gameId": "705076",
+    "date": "Sunday, August 11, 2024",
+    "team1": "FC Lugano",
+    "score": "2 - 3",
+    "team2": "FC Luzern",
+    "title": "FC Lugano VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705076/fc-luzern-fc-lugano"
+  },
+  {
+    "gameId": "705079",
+    "date": "Sunday, August 11, 2024",
+    "team1": "FC Zürich",
+    "score": "2 - 0",
+    "team2": "Lausanne Sports",
+    "title": "FC Zürich VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705079/lausanne-sports-fc-zurich"
+  },
+  {
+    "gameId": "705080",
+    "date": "Sunday, August 11, 2024",
+    "team1": "Servette",
+    "score": "0 - 6",
+    "team2": "FC Basel",
+    "title": "Servette VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705080/fc-basel-servette"
+  },
+  {
+    "gameId": "705082",
+    "date": "Saturday, August 24, 2024",
+    "team1": "FC Luzern",
+    "score": "3 - 0",
+    "team2": "Winterthur",
+    "title": "FC Luzern VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705082/winterthur-fc-luzern"
+  },
+  {
+    "gameId": "705083",
+    "date": "Saturday, August 24, 2024",
+    "team1": "Grasshoppers",
+    "score": "3 - 1",
+    "team2": "FC Sion",
+    "title": "Grasshoppers VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705083/fc-sion-grasshoppers"
+  },
+  {
+    "gameId": "705085",
+    "date": "Sunday, August 25, 2024",
+    "team1": "FC Basel",
+    "score": "2 - 0",
+    "team2": "Yverdon",
+    "title": "FC Basel VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705085/yverdon-fc-basel"
+  },
+  {
+    "gameId": "705087",
+    "date": "Saturday, August 31, 2024",
+    "team1": "FC Sion",
+    "score": "1 - 1",
+    "team2": "FC Basel",
+    "title": "FC Sion VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705087/fc-basel-fc-sion"
+  },
+  {
+    "gameId": "705086",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Yverdon",
+    "score": "2 - 1",
+    "team2": "Grasshoppers",
+    "title": "Yverdon VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705086/grasshoppers-yverdon"
+  },
+  {
+    "gameId": "705088",
+    "date": "Saturday, August 31, 2024",
+    "team1": "Young Boys",
+    "score": "1 - 1",
+    "team2": "Lausanne Sports",
+    "title": "Young Boys VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705088/lausanne-sports-young-boys"
+  },
+  {
+    "gameId": "705089",
+    "date": "Sunday, September 1, 2024",
+    "team1": "Winterthur",
+    "score": "0 - 1",
+    "team2": "Servette",
+    "title": "Winterthur VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705089/servette-winterthur"
+  },
+  {
+    "gameId": "705091",
+    "date": "Sunday, September 1, 2024",
+    "team1": "FC Lugano",
+    "score": "1 - 1",
+    "team2": "St. Gallen",
+    "title": "FC Lugano VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705091/st-gallen-fc-lugano"
+  },
+  {
+    "gameId": "705090",
+    "date": "Sunday, September 1, 2024",
+    "team1": "FC Zürich",
+    "score": "1 - 1",
+    "team2": "FC Luzern",
+    "title": "FC Zürich VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705090/fc-luzern-fc-zurich"
+  },
+  {
+    "gameId": "705081",
+    "date": "Wednesday, September 18, 2024",
+    "team1": "Lausanne Sports",
+    "score": "1 - 2",
+    "team2": "FC Lugano",
+    "title": "Lausanne Sports VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705081/fc-lugano-lausanne-sports"
+  },
+  {
+    "gameId": "705093",
+    "date": "Saturday, September 21, 2024",
+    "team1": "Grasshoppers",
+    "score": "2 - 2",
+    "team2": "Servette",
+    "title": "Grasshoppers VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705093/servette-grasshoppers"
+  },
+  {
+    "gameId": "705092",
+    "date": "Saturday, September 21, 2024",
+    "team1": "St. Gallen",
+    "score": "2 - 3",
+    "team2": "FC Luzern",
+    "title": "St. Gallen VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705092/fc-luzern-st-gallen"
+  },
+  {
+    "gameId": "705094",
+    "date": "Saturday, September 21, 2024",
+    "team1": "FC Basel",
+    "score": "0 - 2",
+    "team2": "FC Zürich",
+    "title": "FC Basel VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705094/fc-zurich-fc-basel"
+  },
+  {
+    "gameId": "705095",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Lausanne Sports",
+    "score": "3 - 1",
+    "team2": "Yverdon",
+    "title": "Lausanne Sports VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705095/yverdon-lausanne-sports"
+  },
+  {
+    "gameId": "705097",
+    "date": "Sunday, September 22, 2024",
+    "team1": "FC Sion",
+    "score": "0 - 0",
+    "team2": "FC Lugano",
+    "title": "FC Sion VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705097/fc-lugano-fc-sion"
+  },
+  {
+    "gameId": "705096",
+    "date": "Sunday, September 22, 2024",
+    "team1": "Winterthur",
+    "score": "1 - 4",
+    "team2": "Young Boys",
+    "title": "Winterthur VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705096/young-boys-winterthur"
+  },
+  {
+    "gameId": "705084",
+    "date": "Tuesday, September 24, 2024",
+    "team1": "St. Gallen",
+    "score": "4 - 1",
+    "team2": "FC Zürich",
+    "title": "St. Gallen VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705084/fc-zurich-st-gallen"
+  },
+  {
+    "gameId": "705103",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Servette",
+    "score": "1 - 0",
+    "team2": "Lausanne Sports",
+    "title": "Servette VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705103/lausanne-sports-servette"
+  },
+  {
+    "gameId": "705098",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Yverdon",
+    "score": "1 - 0",
+    "team2": "St. Gallen",
+    "title": "Yverdon VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705098/st-gallen-yverdon"
+  },
+  {
+    "gameId": "705104",
+    "date": "Saturday, September 28, 2024",
+    "team1": "Young Boys",
+    "score": "0 - 1",
+    "team2": "Grasshoppers",
+    "title": "Young Boys VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705104/grasshoppers-young-boys"
+  },
+  {
+    "gameId": "705105",
+    "date": "Sunday, September 29, 2024",
+    "team1": "FC Zürich",
+    "score": "1 - 0",
+    "team2": "FC Sion",
+    "title": "FC Zürich VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705105/fc-sion-fc-zurich"
+  },
+  {
+    "gameId": "705102",
+    "date": "Sunday, September 29, 2024",
+    "team1": "FC Lugano",
+    "score": "2 - 1",
+    "team2": "Winterthur",
+    "title": "FC Lugano VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705102/winterthur-fc-lugano"
+  },
+  {
+    "gameId": "705099",
+    "date": "Sunday, September 29, 2024",
+    "team1": "FC Luzern",
+    "score": "1 - 0",
+    "team2": "FC Basel",
+    "title": "FC Luzern VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705099/fc-basel-fc-luzern"
+  },
+  {
+    "gameId": "705101",
+    "date": "Saturday, October 5, 2024",
+    "team1": "FC Luzern",
+    "score": "2 - 2",
+    "team2": "Lausanne Sports",
+    "title": "FC Luzern VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705101/lausanne-sports-fc-luzern"
+  },
+  {
+    "gameId": "705100",
+    "date": "Saturday, October 5, 2024",
+    "team1": "FC Sion",
+    "score": "1 - 1",
+    "team2": "Yverdon",
+    "title": "FC Sion VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705100/yverdon-fc-sion"
+  },
+  {
+    "gameId": "705040",
+    "date": "Saturday, October 5, 2024",
+    "team1": "Winterthur",
+    "score": "1 - 0",
+    "team2": "Grasshoppers",
+    "title": "Winterthur VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705040/grasshoppers-winterthur"
+  },
+  {
+    "gameId": "705041",
+    "date": "Sunday, October 6, 2024",
+    "team1": "FC Zürich",
+    "score": "1 - 1",
+    "team2": "FC Lugano",
+    "title": "FC Zürich VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705041/fc-lugano-fc-zurich"
+  },
+  {
+    "gameId": "705043",
+    "date": "Sunday, October 6, 2024",
+    "team1": "FC Basel",
+    "score": "1 - 0",
+    "team2": "Young Boys",
+    "title": "FC Basel VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705043/young-boys-fc-basel"
+  },
+  {
+    "gameId": "705042",
+    "date": "Sunday, October 6, 2024",
+    "team1": "St. Gallen",
+    "score": "1 - 1",
+    "team2": "Servette",
+    "title": "St. Gallen VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705042/servette-st-gallen"
+  },
+  {
+    "gameId": "705045",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Grasshoppers",
+    "score": "1 - 2",
+    "team2": "FC Zürich",
+    "title": "Grasshoppers VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705045/fc-zurich-grasshoppers"
+  },
+  {
+    "gameId": "705044",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Young Boys",
+    "score": "2 - 1",
+    "team2": "FC Luzern",
+    "title": "Young Boys VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705044/fc-luzern-young-boys"
+  },
+  {
+    "gameId": "705046",
+    "date": "Saturday, October 19, 2024",
+    "team1": "Servette",
+    "score": "3 - 0",
+    "team2": "FC Sion",
+    "title": "Servette VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705046/fc-sion-servette"
+  },
+  {
+    "gameId": "705049",
+    "date": "Sunday, October 20, 2024",
+    "team1": "FC Basel",
+    "score": "2 - 1",
+    "team2": "St. Gallen",
+    "title": "FC Basel VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705049/st-gallen-fc-basel"
+  },
+  {
+    "gameId": "705048",
+    "date": "Sunday, October 20, 2024",
+    "team1": "Lausanne Sports",
+    "score": "2 - 0",
+    "team2": "Winterthur",
+    "title": "Lausanne Sports VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705048/winterthur-lausanne-sports"
+  },
+  {
+    "gameId": "705047",
+    "date": "Sunday, October 20, 2024",
+    "team1": "Yverdon",
+    "score": "2 - 0",
+    "team2": "FC Lugano",
+    "title": "Yverdon VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705047/fc-lugano-yverdon"
+  },
+  {
+    "gameId": "705051",
+    "date": "Saturday, October 26, 2024",
+    "team1": "Lausanne Sports",
+    "score": "3 - 0",
+    "team2": "Grasshoppers",
+    "title": "Lausanne Sports VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705051/grasshoppers-lausanne-sports"
+  },
+  {
+    "gameId": "705050",
+    "date": "Saturday, October 26, 2024",
+    "team1": "Winterthur",
+    "score": "1 - 6",
+    "team2": "FC Basel",
+    "title": "Winterthur VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705050/fc-basel-winterthur"
+  },
+  {
+    "gameId": "705052",
+    "date": "Saturday, October 26, 2024",
+    "team1": "FC Luzern",
+    "score": "2 - 3",
+    "team2": "Yverdon",
+    "title": "FC Luzern VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705052/yverdon-fc-luzern"
+  },
+  {
+    "gameId": "705053",
+    "date": "Sunday, October 27, 2024",
+    "team1": "FC Sion",
+    "score": "2 - 2",
+    "team2": "St. Gallen",
+    "title": "FC Sion VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705053/st-gallen-fc-sion"
+  },
+  {
+    "gameId": "705055",
+    "date": "Sunday, October 27, 2024",
+    "team1": "FC Lugano",
+    "score": "2 - 0",
+    "team2": "Young Boys",
+    "title": "FC Lugano VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705055/young-boys-fc-lugano"
+  },
+  {
+    "gameId": "705054",
+    "date": "Sunday, October 27, 2024",
+    "team1": "FC Zürich",
+    "score": "1 - 3",
+    "team2": "Servette",
+    "title": "FC Zürich VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/705054/servette-fc-zurich"
+  },
+  {
+    "gameId": "720011",
+    "date": "Tuesday, October 29, 2024",
+    "team1": "Yverdon",
+    "score": "0 - 3",
+    "team2": "Lausanne Sports",
+    "title": "Yverdon VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720011/lausanne-sports-yverdon"
+  },
+  {
+    "gameId": "720012",
+    "date": "Wednesday, October 30, 2024",
+    "team1": "FC Sion",
+    "score": "0 - 2",
+    "team2": "FC Zürich",
+    "title": "FC Sion VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720012/fc-zurich-fc-sion"
+  },
+  {
+    "gameId": "720007",
+    "date": "Wednesday, October 30, 2024",
+    "team1": "St. Gallen",
+    "score": "2 - 2",
+    "team2": "Winterthur",
+    "title": "St. Gallen VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720007/winterthur-st-gallen"
+  },
+  {
+    "gameId": "720008",
+    "date": "Wednesday, October 30, 2024",
+    "team1": "Young Boys",
+    "score": "3 - 2",
+    "team2": "FC Basel",
+    "title": "Young Boys VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720008/fc-basel-young-boys"
+  },
+  {
+    "gameId": "720010",
+    "date": "Thursday, October 31, 2024",
+    "team1": "Grasshoppers",
+    "score": "1 - 1",
+    "team2": "FC Lugano",
+    "title": "Grasshoppers VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720010/fc-lugano-grasshoppers"
+  },
+  {
+    "gameId": "720009",
+    "date": "Thursday, October 31, 2024",
+    "team1": "Servette",
+    "score": "2 - 2",
+    "team2": "FC Luzern",
+    "title": "Servette VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720009/fc-luzern-servette"
+  },
+  {
+    "gameId": "720015",
+    "date": "Saturday, November 2, 2024",
+    "team1": "FC Basel",
+    "score": "5 - 0",
+    "team2": "Winterthur",
+    "title": "FC Basel VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720015/winterthur-fc-basel"
+  },
+  {
+    "gameId": "720016",
+    "date": "Saturday, November 2, 2024",
+    "team1": "FC Zürich",
+    "score": "0 - 0",
+    "team2": "Young Boys",
+    "title": "FC Zürich VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720016/young-boys-fc-zurich"
+  },
+  {
+    "gameId": "720014",
+    "date": "Saturday, November 2, 2024",
+    "team1": "St. Gallen",
+    "score": "1 - 1",
+    "team2": "FC Sion",
+    "title": "St. Gallen VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720014/fc-sion-st-gallen"
+  },
+  {
+    "gameId": "720013",
+    "date": "Sunday, November 3, 2024",
+    "team1": "Lausanne Sports",
+    "score": "1 - 0",
+    "team2": "Servette",
+    "title": "Lausanne Sports VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720013/servette-lausanne-sports"
+  },
+  {
+    "gameId": "720018",
+    "date": "Sunday, November 3, 2024",
+    "team1": "FC Lugano",
+    "score": "2 - 0",
+    "team2": "Yverdon",
+    "title": "FC Lugano VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720018/yverdon-fc-lugano"
+  },
+  {
+    "gameId": "720017",
+    "date": "Sunday, November 3, 2024",
+    "team1": "FC Luzern",
+    "score": "2 - 0",
+    "team2": "Grasshoppers",
+    "title": "FC Luzern VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720017/grasshoppers-fc-luzern"
+  },
+  {
+    "gameId": "720022",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Winterthur",
+    "score": "1 - 0",
+    "team2": "Lausanne Sports",
+    "title": "Winterthur VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720022/lausanne-sports-winterthur"
+  },
+  {
+    "gameId": "720023",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Yverdon",
+    "score": "1 - 4",
+    "team2": "FC Basel",
+    "title": "Yverdon VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720023/fc-basel-yverdon"
+  },
+  {
+    "gameId": "720019",
+    "date": "Saturday, November 9, 2024",
+    "team1": "Servette",
+    "score": "1 - 1",
+    "team2": "FC Zürich",
+    "title": "Servette VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720019/fc-zurich-servette"
+  },
+  {
+    "gameId": "720021",
+    "date": "Sunday, November 10, 2024",
+    "team1": "FC Sion",
+    "score": "4 - 2",
+    "team2": "FC Luzern",
+    "title": "FC Sion VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720021/fc-luzern-fc-sion"
+  },
+  {
+    "gameId": "720020",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Grasshoppers",
+    "score": "1 - 2",
+    "team2": "St. Gallen",
+    "title": "Grasshoppers VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720020/st-gallen-grasshoppers"
+  },
+  {
+    "gameId": "720024",
+    "date": "Sunday, November 10, 2024",
+    "team1": "Young Boys",
+    "score": "2 - 1",
+    "team2": "FC Lugano",
+    "title": "Young Boys VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720024/fc-lugano-young-boys"
+  },
+  {
+    "gameId": "720030",
+    "date": "Saturday, November 23, 2024",
+    "team1": "FC Luzern",
+    "score": "1 - 1",
+    "team2": "Young Boys",
+    "title": "FC Luzern VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720030/young-boys-fc-luzern"
+  },
+  {
+    "gameId": "720027",
+    "date": "Saturday, November 23, 2024",
+    "team1": "Grasshoppers",
+    "score": "1 - 1",
+    "team2": "Winterthur",
+    "title": "Grasshoppers VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720027/winterthur-grasshoppers"
+  },
+  {
+    "gameId": "720026",
+    "date": "Saturday, November 23, 2024",
+    "team1": "Lausanne Sports",
+    "score": "1 - 0",
+    "team2": "FC Sion",
+    "title": "Lausanne Sports VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720026/fc-sion-lausanne-sports"
+  },
+  {
+    "gameId": "720029",
+    "date": "Sunday, November 24, 2024",
+    "team1": "FC Lugano",
+    "score": "4 - 1",
+    "team2": "FC Zürich",
+    "title": "FC Lugano VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720029/fc-zurich-fc-lugano"
+  },
+  {
+    "gameId": "720028",
+    "date": "Sunday, November 24, 2024",
+    "team1": "FC Basel",
+    "score": "3 - 1",
+    "team2": "Servette",
+    "title": "FC Basel VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720028/servette-fc-basel"
+  },
+  {
+    "gameId": "720025",
+    "date": "Sunday, November 24, 2024",
+    "team1": "St. Gallen",
+    "score": "0 - 0",
+    "team2": "Yverdon",
+    "title": "St. Gallen VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720025/yverdon-st-gallen"
+  },
+  {
+    "gameId": "720032",
+    "date": "Saturday, November 30, 2024",
+    "team1": "FC Basel",
+    "score": "1 - 1",
+    "team2": "Lausanne Sports",
+    "title": "FC Basel VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720032/lausanne-sports-fc-basel"
+  },
+  {
+    "gameId": "720034",
+    "date": "Saturday, November 30, 2024",
+    "team1": "Yverdon",
+    "score": "0 - 1",
+    "team2": "FC Luzern",
+    "title": "Yverdon VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720034/fc-luzern-yverdon"
+  },
+  {
+    "gameId": "720036",
+    "date": "Saturday, November 30, 2024",
+    "team1": "FC Zürich",
+    "score": "1 - 1",
+    "team2": "Grasshoppers",
+    "title": "FC Zürich VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720036/grasshoppers-fc-zurich"
+  },
+  {
+    "gameId": "720033",
+    "date": "Sunday, December 1, 2024",
+    "team1": "Winterthur",
+    "score": "1 - 3",
+    "team2": "FC Sion",
+    "title": "Winterthur VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720033/fc-sion-winterthur"
+  },
+  {
+    "gameId": "720035",
+    "date": "Sunday, December 1, 2024",
+    "team1": "Servette",
+    "score": "3 - 0",
+    "team2": "FC Lugano",
+    "title": "Servette VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720035/fc-lugano-servette"
+  },
+  {
+    "gameId": "720031",
+    "date": "Sunday, December 1, 2024",
+    "team1": "Young Boys",
+    "score": "3 - 1",
+    "team2": "St. Gallen",
+    "title": "Young Boys VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720031/st-gallen-young-boys"
+  },
+  {
+    "gameId": "720039",
+    "date": "Saturday, December 7, 2024",
+    "team1": "FC Sion",
+    "score": "3 - 1",
+    "team2": "Young Boys",
+    "title": "FC Sion VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720039/young-boys-fc-sion"
+  },
+  {
+    "gameId": "720042",
+    "date": "Saturday, December 7, 2024",
+    "team1": "Grasshoppers",
+    "score": "1 - 1",
+    "team2": "Yverdon",
+    "title": "Grasshoppers VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720042/yverdon-grasshoppers"
+  },
+  {
+    "gameId": "720037",
+    "date": "Saturday, December 7, 2024",
+    "team1": "FC Luzern",
+    "score": "1 - 4",
+    "team2": "FC Lugano",
+    "title": "FC Luzern VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720037/fc-lugano-fc-luzern"
+  },
+  {
+    "gameId": "720038",
+    "date": "Sunday, December 8, 2024",
+    "team1": "Lausanne Sports",
+    "score": "3 - 0",
+    "team2": "FC Zürich",
+    "title": "Lausanne Sports VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720038/fc-zurich-lausanne-sports"
+  },
+  {
+    "gameId": "720041",
+    "date": "Sunday, December 8, 2024",
+    "team1": "Servette",
+    "score": "1 - 1",
+    "team2": "Winterthur",
+    "title": "Servette VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720041/winterthur-servette"
+  },
+  {
+    "gameId": "720040",
+    "date": "Sunday, December 8, 2024",
+    "team1": "St. Gallen",
+    "score": "1 - 1",
+    "team2": "FC Basel",
+    "title": "St. Gallen VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720040/fc-basel-st-gallen"
+  },
+  {
+    "gameId": "720046",
+    "date": "Saturday, December 14, 2024",
+    "team1": "Winterthur",
+    "score": "3 - 4",
+    "team2": "FC Luzern",
+    "title": "Winterthur VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720046/fc-luzern-winterthur"
+  },
+  {
+    "gameId": "720043",
+    "date": "Saturday, December 14, 2024",
+    "team1": "Yverdon",
+    "score": "0 - 1",
+    "team2": "FC Sion",
+    "title": "Yverdon VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720043/fc-sion-yverdon"
+  },
+  {
+    "gameId": "720048",
+    "date": "Saturday, December 14, 2024",
+    "team1": "FC Basel",
+    "score": "0 - 1",
+    "team2": "Grasshoppers",
+    "title": "FC Basel VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720048/grasshoppers-fc-basel"
+  },
+  {
+    "gameId": "720045",
+    "date": "Sunday, December 15, 2024",
+    "team1": "Young Boys",
+    "score": "2 - 1",
+    "team2": "Servette",
+    "title": "Young Boys VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720045/servette-young-boys"
+  },
+  {
+    "gameId": "720047",
+    "date": "Sunday, December 15, 2024",
+    "team1": "FC Lugano",
+    "score": "1 - 4",
+    "team2": "Lausanne Sports",
+    "title": "FC Lugano VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720047/lausanne-sports-fc-lugano"
+  },
+  {
+    "gameId": "720044",
+    "date": "Sunday, December 15, 2024",
+    "team1": "FC Zürich",
+    "score": "0 - 2",
+    "team2": "St. Gallen",
+    "title": "FC Zürich VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720044/st-gallen-fc-zurich"
+  },
+  {
+    "gameId": "720051",
+    "date": "Saturday, January 18, 2025",
+    "team1": "FC Sion",
+    "score": "0 - 1",
+    "team2": "Grasshoppers",
+    "title": "FC Sion VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720051/grasshoppers-fc-sion"
+  },
+  {
+    "gameId": "720053",
+    "date": "Saturday, January 18, 2025",
+    "team1": "Young Boys",
+    "score": "0 - 0",
+    "team2": "Winterthur",
+    "title": "Young Boys VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720053/winterthur-young-boys"
+  },
+  {
+    "gameId": "720049",
+    "date": "Saturday, January 18, 2025",
+    "team1": "Servette",
+    "score": "1 - 1",
+    "team2": "St. Gallen",
+    "title": "Servette VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720049/st-gallen-servette"
+  },
+  {
+    "gameId": "720050",
+    "date": "Sunday, January 19, 2025",
+    "team1": "FC Zürich",
+    "score": "1 - 0",
+    "team2": "Yverdon",
+    "title": "FC Zürich VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720050/yverdon-fc-zurich"
+  },
+  {
+    "gameId": "720054",
+    "date": "Sunday, January 19, 2025",
+    "team1": "FC Lugano",
+    "score": "2 - 2",
+    "team2": "FC Basel",
+    "title": "FC Lugano VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720054/fc-basel-fc-lugano"
+  },
+  {
+    "gameId": "720052",
+    "date": "Sunday, January 19, 2025",
+    "team1": "Lausanne Sports",
+    "score": "0 - 0",
+    "team2": "FC Luzern",
+    "title": "Lausanne Sports VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720052/fc-luzern-lausanne-sports"
+  },
+  {
+    "gameId": "720060",
+    "date": "Saturday, January 25, 2025",
+    "team1": "Grasshoppers",
+    "score": "0 - 0",
+    "team2": "Young Boys",
+    "title": "Grasshoppers VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720060/young-boys-grasshoppers"
+  },
+  {
+    "gameId": "720059",
+    "date": "Saturday, January 25, 2025",
+    "team1": "Yverdon",
+    "score": "0 - 0",
+    "team2": "Servette",
+    "title": "Yverdon VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720059/servette-yverdon"
+  },
+  {
+    "gameId": "720057",
+    "date": "Saturday, January 25, 2025",
+    "team1": "Winterthur",
+    "score": "2 - 3",
+    "team2": "FC Lugano",
+    "title": "Winterthur VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720057/fc-lugano-winterthur"
+  },
+  {
+    "gameId": "720056",
+    "date": "Sunday, January 26, 2025",
+    "team1": "St. Gallen",
+    "score": "3 - 2",
+    "team2": "Lausanne Sports",
+    "title": "St. Gallen VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720056/lausanne-sports-st-gallen"
+  },
+  {
+    "gameId": "720055",
+    "date": "Sunday, January 26, 2025",
+    "team1": "FC Basel",
+    "score": "4 - 1",
+    "team2": "FC Sion",
+    "title": "FC Basel VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720055/fc-sion-fc-basel"
+  },
+  {
+    "gameId": "720058",
+    "date": "Sunday, January 26, 2025",
+    "team1": "FC Luzern",
+    "score": "3 - 1",
+    "team2": "FC Zürich",
+    "title": "FC Luzern VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720058/fc-zurich-fc-luzern"
+  },
+  {
+    "gameId": "720063",
+    "date": "Saturday, February 1, 2025",
+    "team1": "FC Lugano",
+    "score": "3 - 2",
+    "team2": "FC Sion",
+    "title": "FC Lugano VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720063/fc-sion-fc-lugano"
+  },
+  {
+    "gameId": "720061",
+    "date": "Saturday, February 1, 2025",
+    "team1": "Lausanne Sports",
+    "score": "1 - 2",
+    "team2": "Young Boys",
+    "title": "Lausanne Sports VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720061/young-boys-lausanne-sports"
+  },
+  {
+    "gameId": "720064",
+    "date": "Saturday, February 1, 2025",
+    "team1": "Servette",
+    "score": "1 - 1",
+    "team2": "Grasshoppers",
+    "title": "Servette VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720064/grasshoppers-servette"
+  },
+  {
+    "gameId": "720065",
+    "date": "Sunday, February 2, 2025",
+    "team1": "FC Luzern",
+    "score": "2 - 0",
+    "team2": "St. Gallen",
+    "title": "FC Luzern VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720065/st-gallen-fc-luzern"
+  },
+  {
+    "gameId": "720066",
+    "date": "Sunday, February 2, 2025",
+    "team1": "FC Zürich",
+    "score": "0 - 1",
+    "team2": "FC Basel",
+    "title": "FC Zürich VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720066/fc-basel-fc-zurich"
+  },
+  {
+    "gameId": "720062",
+    "date": "Sunday, February 2, 2025",
+    "team1": "Yverdon",
+    "score": "3 - 0",
+    "team2": "Winterthur",
+    "title": "Yverdon VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720062/winterthur-yverdon"
+  },
+  {
+    "gameId": "720071",
+    "date": "Tuesday, February 4, 2025",
+    "team1": "FC Sion",
+    "score": "3 - 3",
+    "team2": "Servette",
+    "title": "FC Sion VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720071/servette-fc-sion"
+  },
+  {
+    "gameId": "720067",
+    "date": "Tuesday, February 4, 2025",
+    "team1": "Grasshoppers",
+    "score": "2 - 2",
+    "team2": "Lausanne Sports",
+    "title": "Grasshoppers VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720067/lausanne-sports-grasshoppers"
+  },
+  {
+    "gameId": "720069",
+    "date": "Wednesday, February 5, 2025",
+    "team1": "St. Gallen",
+    "score": "2 - 1",
+    "team2": "FC Lugano",
+    "title": "St. Gallen VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720069/fc-lugano-st-gallen"
+  },
+  {
+    "gameId": "720068",
+    "date": "Wednesday, February 5, 2025",
+    "team1": "Young Boys",
+    "score": "6 - 1",
+    "team2": "Yverdon",
+    "title": "Young Boys VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720068/yverdon-young-boys"
+  },
+  {
+    "gameId": "720070",
+    "date": "Thursday, February 6, 2025",
+    "team1": "FC Basel",
+    "score": "2 - 1",
+    "team2": "FC Luzern",
+    "title": "FC Basel VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720070/fc-luzern-fc-basel"
+  },
+  {
+    "gameId": "720072",
+    "date": "Thursday, February 6, 2025",
+    "team1": "Winterthur",
+    "score": "0 - 2",
+    "team2": "FC Zürich",
+    "title": "Winterthur VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/720072/fc-zurich-winterthur"
+  },
+  {
+    "gameId": "727310",
+    "date": "Saturday, February 8, 2025",
+    "team1": "FC Lugano",
+    "score": "1 - 1",
+    "team2": "Grasshoppers",
+    "title": "FC Lugano VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727310/grasshoppers-fc-lugano"
+  },
+  {
+    "gameId": "727309",
+    "date": "Saturday, February 8, 2025",
+    "team1": "Lausanne Sports",
+    "score": "4 - 1",
+    "team2": "Yverdon",
+    "title": "Lausanne Sports VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727309/yverdon-lausanne-sports"
+  },
+  {
+    "gameId": "727311",
+    "date": "Saturday, February 8, 2025",
+    "team1": "Young Boys",
+    "score": "5 - 1",
+    "team2": "FC Sion",
+    "title": "Young Boys VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727311/fc-sion-young-boys"
+  },
+  {
+    "gameId": "727312",
+    "date": "Sunday, February 9, 2025",
+    "team1": "Servette",
+    "score": "2 - 1",
+    "team2": "FC Basel",
+    "title": "Servette VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727312/fc-basel-servette"
+  },
+  {
+    "gameId": "727313",
+    "date": "Sunday, February 9, 2025",
+    "team1": "FC Luzern",
+    "score": "3 - 2",
+    "team2": "Winterthur",
+    "title": "FC Luzern VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727313/winterthur-fc-luzern"
+  },
+  {
+    "gameId": "727314",
+    "date": "Sunday, February 9, 2025",
+    "team1": "FC Zürich",
+    "score": "1 - 2",
+    "team2": "St. Gallen",
+    "title": "FC Zürich VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727314/st-gallen-fc-zurich"
+  },
+  {
+    "gameId": "727315",
+    "date": "Saturday, February 15, 2025",
+    "team1": "FC Lugano",
+    "score": "2 - 0",
+    "team2": "FC Luzern",
+    "title": "FC Lugano VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727315/fc-luzern-fc-lugano"
+  },
+  {
+    "gameId": "727316",
+    "date": "Saturday, February 15, 2025",
+    "team1": "FC Sion",
+    "score": "2 - 1",
+    "team2": "FC Zürich",
+    "title": "FC Sion VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727316/fc-zurich-fc-sion"
+  },
+  {
+    "gameId": "727317",
+    "date": "Saturday, February 15, 2025",
+    "team1": "Winterthur",
+    "score": "1 - 0",
+    "team2": "Young Boys",
+    "title": "Winterthur VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727317/young-boys-winterthur"
+  },
+  {
+    "gameId": "727318",
+    "date": "Sunday, February 16, 2025",
+    "team1": "Yverdon",
+    "score": "1 - 0",
+    "team2": "St. Gallen",
+    "title": "Yverdon VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727318/st-gallen-yverdon"
+  },
+  {
+    "gameId": "727319",
+    "date": "Sunday, February 16, 2025",
+    "team1": "FC Basel",
+    "score": "1 - 1",
+    "team2": "Lausanne Sports",
+    "title": "FC Basel VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727319/lausanne-sports-fc-basel"
+  },
+  {
+    "gameId": "727320",
+    "date": "Sunday, February 16, 2025",
+    "team1": "Grasshoppers",
+    "score": "1 - 2",
+    "team2": "Servette",
+    "title": "Grasshoppers VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727320/servette-grasshoppers"
+  },
+  {
+    "gameId": "727321",
+    "date": "Saturday, February 22, 2025",
+    "team1": "FC Zürich",
+    "score": "2 - 1",
+    "team2": "Yverdon",
+    "title": "FC Zürich VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727321/yverdon-fc-zurich"
+  },
+  {
+    "gameId": "727322",
+    "date": "Saturday, February 22, 2025",
+    "team1": "Lausanne Sports",
+    "score": "2 - 2",
+    "team2": "Grasshoppers",
+    "title": "Lausanne Sports VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727322/grasshoppers-lausanne-sports"
+  },
+  {
+    "gameId": "727323",
+    "date": "Saturday, February 22, 2025",
+    "team1": "St. Gallen",
+    "score": "2 - 2",
+    "team2": "FC Basel",
+    "title": "St. Gallen VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727323/fc-basel-st-gallen"
+  },
+  {
+    "gameId": "727324",
+    "date": "Sunday, February 23, 2025",
+    "team1": "FC Luzern",
+    "score": "2 - 1",
+    "team2": "FC Sion",
+    "title": "FC Luzern VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727324/fc-sion-fc-luzern"
+  },
+  {
+    "gameId": "727325",
+    "date": "Sunday, February 23, 2025",
+    "team1": "Servette",
+    "score": "3 - 1",
+    "team2": "Winterthur",
+    "title": "Servette VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727325/winterthur-servette"
+  },
+  {
+    "gameId": "727326",
+    "date": "Sunday, February 23, 2025",
+    "team1": "Young Boys",
+    "score": "1 - 0",
+    "team2": "FC Lugano",
+    "title": "Young Boys VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727326/fc-lugano-young-boys"
+  },
+  {
+    "gameId": "727328",
+    "date": "Saturday, March 1, 2025",
+    "team1": "FC Basel",
+    "score": "2 - 0",
+    "team2": "FC Sion",
+    "title": "FC Basel VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727328/fc-sion-fc-basel"
+  },
+  {
+    "gameId": "727327",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Winterthur",
+    "score": "4 - 0",
+    "team2": "St. Gallen",
+    "title": "Winterthur VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727327/st-gallen-winterthur"
+  },
+  {
+    "gameId": "727329",
+    "date": "Saturday, March 1, 2025",
+    "team1": "Lausanne Sports",
+    "score": "0 - 1",
+    "team2": "Servette",
+    "title": "Lausanne Sports VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727329/servette-lausanne-sports"
+  },
+  {
+    "gameId": "727330",
+    "date": "Sunday, March 2, 2025",
+    "team1": "FC Lugano",
+    "score": "0 - 3",
+    "team2": "FC Zürich",
+    "title": "FC Lugano VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727330/fc-zurich-fc-lugano"
+  },
+  {
+    "gameId": "727331",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Grasshoppers",
+    "score": "1 - 0",
+    "team2": "Young Boys",
+    "title": "Grasshoppers VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727331/young-boys-grasshoppers"
+  },
+  {
+    "gameId": "727332",
+    "date": "Sunday, March 2, 2025",
+    "team1": "Yverdon",
+    "score": "2 - 2",
+    "team2": "FC Luzern",
+    "title": "Yverdon VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727332/fc-luzern-yverdon"
+  },
+  {
+    "gameId": "727333",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Young Boys",
+    "score": "3 - 0",
+    "team2": "Lausanne Sports",
+    "title": "Young Boys VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727333/lausanne-sports-young-boys"
+  },
+  {
+    "gameId": "727334",
+    "date": "Saturday, March 8, 2025",
+    "team1": "Yverdon",
+    "score": "2 - 1",
+    "team2": "Winterthur",
+    "title": "Yverdon VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727334/winterthur-yverdon"
+  },
+  {
+    "gameId": "727335",
+    "date": "Saturday, March 8, 2025",
+    "team1": "St. Gallen",
+    "score": "3 - 1",
+    "team2": "Grasshoppers",
+    "title": "St. Gallen VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727335/grasshoppers-st-gallen"
+  },
+  {
+    "gameId": "727336",
+    "date": "Sunday, March 9, 2025",
+    "team1": "FC Zürich",
+    "score": "1 - 3",
+    "team2": "Servette",
+    "title": "FC Zürich VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727336/servette-fc-zurich"
+  },
+  {
+    "gameId": "727337",
+    "date": "Sunday, March 9, 2025",
+    "team1": "FC Luzern",
+    "score": "1 - 1",
+    "team2": "FC Basel",
+    "title": "FC Luzern VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727337/fc-basel-fc-luzern"
+  },
+  {
+    "gameId": "727338",
+    "date": "Sunday, March 9, 2025",
+    "team1": "FC Sion",
+    "score": "2 - 1",
+    "team2": "FC Lugano",
+    "title": "FC Sion VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727338/fc-lugano-fc-sion"
+  },
+  {
+    "gameId": "727339",
+    "date": "Saturday, March 15, 2025",
+    "team1": "Servette",
+    "score": "2 - 3",
+    "team2": "Yverdon",
+    "title": "Servette VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727339/yverdon-servette"
+  },
+  {
+    "gameId": "727340",
+    "date": "Saturday, March 15, 2025",
+    "team1": "St. Gallen",
+    "score": "0 - 2",
+    "team2": "Lausanne Sports",
+    "title": "St. Gallen VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727340/lausanne-sports-st-gallen"
+  },
+  {
+    "gameId": "727341",
+    "date": "Saturday, March 15, 2025",
+    "team1": "FC Zürich",
+    "score": "3 - 2",
+    "team2": "FC Luzern",
+    "title": "FC Zürich VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727341/fc-luzern-fc-zurich"
+  },
+  {
+    "gameId": "727342",
+    "date": "Sunday, March 16, 2025",
+    "team1": "Grasshoppers",
+    "score": "1 - 1",
+    "team2": "FC Sion",
+    "title": "Grasshoppers VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727342/fc-sion-grasshoppers"
+  },
+  {
+    "gameId": "727344",
+    "date": "Sunday, March 16, 2025",
+    "team1": "FC Basel",
+    "score": "1 - 2",
+    "team2": "Young Boys",
+    "title": "FC Basel VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727344/young-boys-fc-basel"
+  },
+  {
+    "gameId": "727343",
+    "date": "Sunday, March 16, 2025",
+    "team1": "FC Lugano",
+    "score": "2 - 1",
+    "team2": "Winterthur",
+    "title": "FC Lugano VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727343/winterthur-fc-lugano"
+  },
+  {
+    "gameId": "727346",
+    "date": "Saturday, March 29, 2025",
+    "team1": "FC Sion",
+    "score": "1 - 1",
+    "team2": "Yverdon",
+    "title": "FC Sion VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727346/yverdon-fc-sion"
+  },
+  {
+    "gameId": "727345",
+    "date": "Saturday, March 29, 2025",
+    "team1": "Young Boys",
+    "score": "1 - 0",
+    "team2": "St. Gallen",
+    "title": "Young Boys VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727345/st-gallen-young-boys"
+  },
+  {
+    "gameId": "727347",
+    "date": "Saturday, March 29, 2025",
+    "team1": "FC Lugano",
+    "score": "0 - 2",
+    "team2": "Servette",
+    "title": "FC Lugano VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727347/servette-fc-lugano"
+  },
+  {
+    "gameId": "727348",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Winterthur",
+    "score": "0 - 2",
+    "team2": "FC Basel",
+    "title": "Winterthur VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727348/fc-basel-winterthur"
+  },
+  {
+    "gameId": "727350",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Grasshoppers",
+    "score": "1 - 2",
+    "team2": "FC Zürich",
+    "title": "Grasshoppers VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727350/fc-zurich-grasshoppers"
+  },
+  {
+    "gameId": "727349",
+    "date": "Sunday, March 30, 2025",
+    "team1": "Lausanne Sports",
+    "score": "1 - 4",
+    "team2": "FC Luzern",
+    "title": "Lausanne Sports VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727349/fc-luzern-lausanne-sports"
+  },
+  {
+    "gameId": "727351",
+    "date": "Tuesday, April 1, 2025",
+    "team1": "Servette",
+    "score": "0 - 1",
+    "team2": "Young Boys",
+    "title": "Servette VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727351/young-boys-servette"
+  },
+  {
+    "gameId": "727352",
+    "date": "Tuesday, April 1, 2025",
+    "team1": "Yverdon",
+    "score": "0 - 2",
+    "team2": "FC Lugano",
+    "title": "Yverdon VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727352/fc-lugano-yverdon"
+  },
+  {
+    "gameId": "727353",
+    "date": "Wednesday, April 2, 2025",
+    "team1": "FC Sion",
+    "score": "1 - 2",
+    "team2": "Winterthur",
+    "title": "FC Sion VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727353/winterthur-fc-sion"
+  },
+  {
+    "gameId": "727354",
+    "date": "Wednesday, April 2, 2025",
+    "team1": "FC Zürich",
+    "score": "2 - 2",
+    "team2": "Lausanne Sports",
+    "title": "FC Zürich VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727354/lausanne-sports-fc-zurich"
+  },
+  {
+    "gameId": "727355",
+    "date": "Thursday, April 3, 2025",
+    "team1": "FC Basel",
+    "score": "2 - 1",
+    "team2": "Grasshoppers",
+    "title": "FC Basel VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727355/grasshoppers-fc-basel"
+  },
+  {
+    "gameId": "727356",
+    "date": "Thursday, April 3, 2025",
+    "team1": "FC Luzern",
+    "score": "1 - 1",
+    "team2": "St. Gallen",
+    "title": "FC Luzern VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727356/st-gallen-fc-luzern"
+  },
+  {
+    "gameId": "727357",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Lausanne Sports",
+    "score": "2 - 0",
+    "team2": "FC Sion",
+    "title": "Lausanne Sports VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727357/fc-sion-lausanne-sports"
+  },
+  {
+    "gameId": "727358",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Winterthur",
+    "score": "0 - 0",
+    "team2": "FC Zürich",
+    "title": "Winterthur VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727358/fc-zurich-winterthur"
+  },
+  {
+    "gameId": "727359",
+    "date": "Saturday, April 5, 2025",
+    "team1": "Young Boys",
+    "score": "1 - 1",
+    "team2": "Yverdon",
+    "title": "Young Boys VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727359/yverdon-young-boys"
+  },
+  {
+    "gameId": "727360",
+    "date": "Sunday, April 6, 2025",
+    "team1": "St. Gallen",
+    "score": "1 - 0",
+    "team2": "Servette",
+    "title": "St. Gallen VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727360/servette-st-gallen"
+  },
+  {
+    "gameId": "727362",
+    "date": "Sunday, April 6, 2025",
+    "team1": "FC Basel",
+    "score": "2 - 0",
+    "team2": "FC Lugano",
+    "title": "FC Basel VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727362/fc-lugano-fc-basel"
+  },
+  {
+    "gameId": "727361",
+    "date": "Sunday, April 6, 2025",
+    "team1": "Grasshoppers",
+    "score": "3 - 1",
+    "team2": "FC Luzern",
+    "title": "Grasshoppers VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727361/fc-luzern-grasshoppers"
+  },
+  {
+    "gameId": "727363",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Winterthur",
+    "score": "1 - 0",
+    "team2": "Lausanne Sports",
+    "title": "Winterthur VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727363/lausanne-sports-winterthur"
+  },
+  {
+    "gameId": "727364",
+    "date": "Saturday, April 12, 2025",
+    "team1": "Yverdon",
+    "score": "1 - 2",
+    "team2": "Grasshoppers",
+    "title": "Yverdon VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727364/grasshoppers-yverdon"
+  },
+  {
+    "gameId": "727365",
+    "date": "Saturday, April 12, 2025",
+    "team1": "FC Zürich",
+    "score": "0 - 4",
+    "team2": "FC Basel",
+    "title": "FC Zürich VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727365/fc-basel-fc-zurich"
+  },
+  {
+    "gameId": "727366",
+    "date": "Sunday, April 13, 2025",
+    "team1": "FC Lugano",
+    "score": "1 - 1",
+    "team2": "St. Gallen",
+    "title": "FC Lugano VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727366/st-gallen-fc-lugano"
+  },
+  {
+    "gameId": "727367",
+    "date": "Sunday, April 13, 2025",
+    "team1": "FC Luzern",
+    "score": "5 - 0",
+    "team2": "Young Boys",
+    "title": "FC Luzern VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727367/young-boys-fc-luzern"
+  },
+  {
+    "gameId": "727368",
+    "date": "Sunday, April 13, 2025",
+    "team1": "FC Sion",
+    "score": "1 - 1",
+    "team2": "Servette",
+    "title": "FC Sion VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727368/servette-fc-sion"
+  },
+  {
+    "gameId": "727370",
+    "date": "Saturday, April 19, 2025",
+    "team1": "Grasshoppers",
+    "score": "0 - 1",
+    "team2": "Winterthur",
+    "title": "Grasshoppers VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727370/winterthur-grasshoppers"
+  },
+  {
+    "gameId": "727369",
+    "date": "Monday, April 21, 2025",
+    "team1": "FC Basel",
+    "score": "5 - 0",
+    "team2": "Yverdon",
+    "title": "FC Basel VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727369/yverdon-fc-basel"
+  },
+  {
+    "gameId": "727371",
+    "date": "Monday, April 21, 2025",
+    "team1": "Lausanne Sports",
+    "score": "2 - 0",
+    "team2": "FC Lugano",
+    "title": "Lausanne Sports VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727371/fc-lugano-lausanne-sports"
+  },
+  {
+    "gameId": "727372",
+    "date": "Monday, April 21, 2025",
+    "team1": "Servette",
+    "score": "2 - 1",
+    "team2": "FC Luzern",
+    "title": "Servette VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727372/fc-luzern-servette"
+  },
+  {
+    "gameId": "727373",
+    "date": "Monday, April 21, 2025",
+    "team1": "St. Gallen",
+    "score": "1 - 0",
+    "team2": "FC Sion",
+    "title": "St. Gallen VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727373/fc-sion-st-gallen"
+  },
+  {
+    "gameId": "727374",
+    "date": "Monday, April 21, 2025",
+    "team1": "Young Boys",
+    "score": "2 - 1",
+    "team2": "FC Zürich",
+    "title": "Young Boys VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/727374/fc-zurich-young-boys"
+  },
+  {
+    "gameId": "735488",
+    "date": "Saturday, May 3, 2025",
+    "team1": "Winterthur",
+    "score": "2 - 0",
+    "team2": "Grasshoppers",
+    "title": "Winterthur VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735488/grasshoppers-winterthur"
+  },
+  {
+    "gameId": "735489",
+    "date": "Saturday, May 3, 2025",
+    "team1": "Lausanne Sports",
+    "score": "3 - 2",
+    "team2": "Young Boys",
+    "title": "Lausanne Sports VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735489/young-boys-lausanne-sports"
+  },
+  {
+    "gameId": "735490",
+    "date": "Sunday, May 4, 2025",
+    "team1": "FC Sion",
+    "score": "2 - 1",
+    "team2": "FC Zürich",
+    "title": "FC Sion VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735490/fc-zurich-fc-sion"
+  },
+  {
+    "gameId": "735493",
+    "date": "Sunday, May 4, 2025",
+    "team1": "FC Basel",
+    "score": "5 - 1",
+    "team2": "Servette",
+    "title": "FC Basel VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735493/servette-fc-basel"
+  },
+  {
+    "gameId": "735491",
+    "date": "Sunday, May 4, 2025",
+    "team1": "FC Luzern",
+    "score": "0 - 2",
+    "team2": "FC Lugano",
+    "title": "FC Luzern VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735491/fc-lugano-fc-luzern"
+  },
+  {
+    "gameId": "735492",
+    "date": "Tuesday, May 6, 2025",
+    "team1": "Yverdon",
+    "score": "1 - 1",
+    "team2": "St. Gallen",
+    "title": "Yverdon VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735492/st-gallen-yverdon"
+  },
+  {
+    "gameId": "735495",
+    "date": "Saturday, May 10, 2025",
+    "team1": "FC Zürich",
+    "score": "3 - 0",
+    "team2": "Grasshoppers",
+    "title": "FC Zürich VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735495/grasshoppers-fc-zurich"
+  },
+  {
+    "gameId": "735496",
+    "date": "Saturday, May 10, 2025",
+    "team1": "St. Gallen",
+    "score": "1 - 4",
+    "team2": "Winterthur",
+    "title": "St. Gallen VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735496/winterthur-st-gallen"
+  },
+  {
+    "gameId": "735494",
+    "date": "Saturday, May 10, 2025",
+    "team1": "Yverdon",
+    "score": "1 - 1",
+    "team2": "FC Sion",
+    "title": "Yverdon VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735494/fc-sion-yverdon"
+  },
+  {
+    "gameId": "735497",
+    "date": "Saturday, May 10, 2025",
+    "team1": "FC Lugano",
+    "score": "2 - 5",
+    "team2": "FC Basel",
+    "title": "FC Lugano VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735497/fc-basel-fc-lugano"
+  },
+  {
+    "gameId": "735498",
+    "date": "Sunday, May 11, 2025",
+    "team1": "FC Luzern",
+    "score": "1 - 1",
+    "team2": "Lausanne Sports",
+    "title": "FC Luzern VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735498/lausanne-sports-fc-luzern"
+  },
+  {
+    "gameId": "735499",
+    "date": "Sunday, May 11, 2025",
+    "team1": "Servette",
+    "score": "0 - 0",
+    "team2": "Young Boys",
+    "title": "Servette VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735499/young-boys-servette"
+  },
+  {
+    "gameId": "735500",
+    "date": "Tuesday, May 13, 2025",
+    "team1": "FC Sion",
+    "score": "1 - 1",
+    "team2": "St. Gallen",
+    "title": "FC Sion VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735500/st-gallen-fc-sion"
+  },
+  {
+    "gameId": "735501",
+    "date": "Tuesday, May 13, 2025",
+    "team1": "FC Zürich",
+    "score": "4 - 1",
+    "team2": "Winterthur",
+    "title": "FC Zürich VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735501/winterthur-fc-zurich"
+  },
+  {
+    "gameId": "735502",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "Grasshoppers",
+    "score": "5 - 0",
+    "team2": "Yverdon",
+    "title": "Grasshoppers VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735502/yverdon-grasshoppers"
+  },
+  {
+    "gameId": "735503",
+    "date": "Wednesday, May 14, 2025",
+    "team1": "Lausanne Sports",
+    "score": "2 - 3",
+    "team2": "FC Basel",
+    "title": "Lausanne Sports VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735503/fc-basel-lausanne-sports"
+  },
+  {
+    "gameId": "735505",
+    "date": "Thursday, May 15, 2025",
+    "team1": "Servette",
+    "score": "4 - 1",
+    "team2": "FC Lugano",
+    "title": "Servette VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735505/fc-lugano-servette"
+  },
+  {
+    "gameId": "735504",
+    "date": "Thursday, May 15, 2025",
+    "team1": "Young Boys",
+    "score": "2 - 1",
+    "team2": "FC Luzern",
+    "title": "Young Boys VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735504/fc-luzern-young-boys"
+  },
+  {
+    "gameId": "735506",
+    "date": "Saturday, May 17, 2025",
+    "team1": "St. Gallen",
+    "score": "3 - 2",
+    "team2": "FC Zürich",
+    "title": "St. Gallen VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735506/fc-zurich-st-gallen"
+  },
+  {
+    "gameId": "735507",
+    "date": "Saturday, May 17, 2025",
+    "team1": "Winterthur",
+    "score": "2 - 2",
+    "team2": "Yverdon",
+    "title": "Winterthur VS Yverdon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735507/yverdon-winterthur"
+  },
+  {
+    "gameId": "735508",
+    "date": "Saturday, May 17, 2025",
+    "team1": "FC Sion",
+    "score": "2 - 1",
+    "team2": "Grasshoppers",
+    "title": "FC Sion VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735508/grasshoppers-fc-sion"
+  },
+  {
+    "gameId": "735509",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Young Boys",
+    "score": "6 - 2",
+    "team2": "FC Basel",
+    "title": "Young Boys VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735509/fc-basel-young-boys"
+  },
+  {
+    "gameId": "735511",
+    "date": "Sunday, May 18, 2025",
+    "team1": "FC Luzern",
+    "score": "3 - 4",
+    "team2": "Servette",
+    "title": "FC Luzern VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735511/servette-fc-luzern"
+  },
+  {
+    "gameId": "735510",
+    "date": "Sunday, May 18, 2025",
+    "team1": "Lausanne Sports",
+    "score": "1 - 1",
+    "team2": "FC Lugano",
+    "title": "Lausanne Sports VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735510/fc-lugano-lausanne-sports"
+  },
+  {
+    "gameId": "735512",
+    "date": "Thursday, May 22, 2025",
+    "team1": "Grasshoppers",
+    "score": "2 - 0",
+    "team2": "St. Gallen",
+    "title": "Grasshoppers VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735512/st-gallen-grasshoppers"
+  },
+  {
+    "gameId": "735513",
+    "date": "Thursday, May 22, 2025",
+    "team1": "Winterthur",
+    "score": "2 - 0",
+    "team2": "FC Sion",
+    "title": "Winterthur VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735513/fc-sion-winterthur"
+  },
+  {
+    "gameId": "735514",
+    "date": "Thursday, May 22, 2025",
+    "team1": "Yverdon",
+    "score": "3 - 2",
+    "team2": "FC Zürich",
+    "title": "Yverdon VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735514/fc-zurich-yverdon"
+  },
+  {
+    "gameId": "735515",
+    "date": "Saturday, May 24, 2025",
+    "team1": "FC Basel",
+    "score": "4 - 0",
+    "team2": "FC Luzern",
+    "title": "FC Basel VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735515/fc-luzern-fc-basel"
+  },
+  {
+    "gameId": "735516",
+    "date": "Saturday, May 24, 2025",
+    "team1": "FC Lugano",
+    "score": "1 - 1",
+    "team2": "Young Boys",
+    "title": "FC Lugano VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735516/young-boys-fc-lugano"
+  },
+  {
+    "gameId": "735517",
+    "date": "Saturday, May 24, 2025",
+    "team1": "Servette",
+    "score": "3 - 3",
+    "team2": "Lausanne Sports",
+    "title": "Servette VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/735517/lausanne-sports-servette"
+  },
+  {
+    "gameId": "743134",
+    "date": "Friday, July 25, 2025",
+    "team1": "FC Zürich",
+    "score": "2 - 3",
+    "team2": "FC Sion",
+    "title": "FC Zürich VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743134/fc-sion-fc-zurich"
+  },
+  {
+    "gameId": "743135",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Grasshoppers",
+    "score": "2 - 3",
+    "team2": "FC Luzern",
+    "title": "Grasshoppers VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743135/fc-luzern-grasshoppers"
+  },
+  {
+    "gameId": "743136",
+    "date": "Saturday, July 26, 2025",
+    "team1": "St. Gallen",
+    "score": "2 - 1",
+    "team2": "FC Basel",
+    "title": "St. Gallen VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743136/fc-basel-st-gallen"
+  },
+  {
+    "gameId": "743137",
+    "date": "Saturday, July 26, 2025",
+    "team1": "Young Boys",
+    "score": "3 - 1",
+    "team2": "Servette",
+    "title": "Young Boys VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743137/servette-young-boys"
+  },
+  {
+    "gameId": "743139",
+    "date": "Sunday, July 27, 2025",
+    "team1": "FC Lugano",
+    "score": "1 - 2",
+    "team2": "FC Thun",
+    "title": "FC Lugano VS FC Thun",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743139/fc-thun-fc-lugano"
+  },
+  {
+    "gameId": "743138",
+    "date": "Sunday, July 27, 2025",
+    "team1": "Lausanne Sports",
+    "score": "3 - 2",
+    "team2": "Winterthur",
+    "title": "Lausanne Sports VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743138/winterthur-lausanne-sports"
+  },
+  {
+    "gameId": "743140",
+    "date": "Saturday, August 2, 2025",
+    "team1": "Servette",
+    "score": "1 - 4",
+    "team2": "St. Gallen",
+    "title": "Servette VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743140/st-gallen-servette"
+  },
+  {
+    "gameId": "743141",
+    "date": "Saturday, August 2, 2025",
+    "team1": "Winterthur",
+    "score": "1 - 1",
+    "team2": "Young Boys",
+    "title": "Winterthur VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743141/young-boys-winterthur"
+  },
+  {
+    "gameId": "743142",
+    "date": "Saturday, August 2, 2025",
+    "team1": "FC Basel",
+    "score": "2 - 1",
+    "team2": "Grasshoppers",
+    "title": "FC Basel VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743142/grasshoppers-fc-basel"
+  },
+  {
+    "gameId": "743143",
+    "date": "Sunday, August 3, 2025",
+    "team1": "FC Thun",
+    "score": "2 - 1",
+    "team2": "Lausanne Sports",
+    "title": "FC Thun VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743143/lausanne-sports-fc-thun"
+  },
+  {
+    "gameId": "743145",
+    "date": "Sunday, August 3, 2025",
+    "team1": "FC Luzern",
+    "score": "1 - 1",
+    "team2": "FC Zürich",
+    "title": "FC Luzern VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743145/fc-zurich-fc-luzern"
+  },
+  {
+    "gameId": "743144",
+    "date": "Sunday, August 3, 2025",
+    "team1": "FC Sion",
+    "score": "4 - 0",
+    "team2": "FC Lugano",
+    "title": "FC Sion VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743144/fc-lugano-fc-sion"
+  },
+  {
+    "gameId": "743146",
+    "date": "Wednesday, August 6, 2025",
+    "team1": "FC Basel",
+    "score": "4 - 1",
+    "team2": "Young Boys",
+    "title": "FC Basel VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743146/young-boys-fc-basel"
+  },
+  {
+    "gameId": "743148",
+    "date": "Saturday, August 9, 2025",
+    "team1": "St. Gallen",
+    "score": "5 - 0",
+    "team2": "Winterthur",
+    "title": "St. Gallen VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743148/winterthur-st-gallen"
+  },
+  {
+    "gameId": "743149",
+    "date": "Saturday, August 9, 2025",
+    "team1": "FC Luzern",
+    "score": "1 - 2",
+    "team2": "FC Thun",
+    "title": "FC Luzern VS FC Thun",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743149/fc-thun-fc-luzern"
+  },
+  {
+    "gameId": "743150",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Young Boys",
+    "score": "0 - 0",
+    "team2": "FC Sion",
+    "title": "Young Boys VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743150/fc-sion-young-boys"
+  },
+  {
+    "gameId": "743152",
+    "date": "Sunday, August 10, 2025",
+    "team1": "FC Lugano",
+    "score": "3 - 1",
+    "team2": "FC Basel",
+    "title": "FC Lugano VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743152/fc-basel-fc-lugano"
+  },
+  {
+    "gameId": "743151",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Lausanne Sports",
+    "score": "1 - 2",
+    "team2": "FC Zürich",
+    "title": "Lausanne Sports VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743151/fc-zurich-lausanne-sports"
+  },
+  {
+    "gameId": "743147",
+    "date": "Sunday, August 10, 2025",
+    "team1": "Servette",
+    "score": "1 - 1",
+    "team2": "Grasshoppers",
+    "title": "Servette VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743147/grasshoppers-servette"
+  },
+  {
+    "gameId": "743154",
+    "date": "Saturday, August 23, 2025",
+    "team1": "FC Zürich",
+    "score": "0 - 4",
+    "team2": "FC Thun",
+    "title": "FC Zürich VS FC Thun",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743154/fc-thun-fc-zurich"
+  },
+  {
+    "gameId": "743155",
+    "date": "Sunday, August 24, 2025",
+    "team1": "Grasshoppers",
+    "score": "2 - 2",
+    "team2": "Winterthur",
+    "title": "Grasshoppers VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743155/winterthur-grasshoppers"
+  },
+  {
+    "gameId": "743157",
+    "date": "Sunday, August 24, 2025",
+    "team1": "St. Gallen",
+    "score": "0 - 1",
+    "team2": "FC Luzern",
+    "title": "St. Gallen VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743157/fc-luzern-st-gallen"
+  },
+  {
+    "gameId": "743159",
+    "date": "Saturday, August 30, 2025",
+    "team1": "FC Thun",
+    "score": "1 - 1",
+    "team2": "Grasshoppers",
+    "title": "FC Thun VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743159/grasshoppers-fc-thun"
+  },
+  {
+    "gameId": "743158",
+    "date": "Saturday, August 30, 2025",
+    "team1": "Winterthur",
+    "score": "1 - 3",
+    "team2": "FC Zürich",
+    "title": "Winterthur VS FC Zürich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743158/fc-zurich-winterthur"
+  },
+  {
+    "gameId": "743160",
+    "date": "Saturday, August 30, 2025",
+    "team1": "FC Sion",
+    "score": "0 - 1",
+    "team2": "FC Basel",
+    "title": "FC Sion VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743160/fc-basel-fc-sion"
+  },
+  {
+    "gameId": "743161",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Lausanne Sports",
+    "score": "1 - 2",
+    "team2": "St. Gallen",
+    "title": "Lausanne Sports VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743161/st-gallen-lausanne-sports"
+  },
+  {
+    "gameId": "743162",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Servette",
+    "score": "2 - 2",
+    "team2": "FC Luzern",
+    "title": "Servette VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743162/fc-luzern-servette"
+  },
+  {
+    "gameId": "743163",
+    "date": "Sunday, August 31, 2025",
+    "team1": "Young Boys",
+    "score": "3 - 1",
+    "team2": "FC Lugano",
+    "title": "Young Boys VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743163/fc-lugano-young-boys"
+  },
+  {
+    "gameId": "743164",
+    "date": "Saturday, September 13, 2025",
+    "team1": "FC Thun",
+    "score": "1 - 3",
+    "team2": "FC Basel",
+    "title": "FC Thun VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743164/fc-basel-fc-thun"
+  },
+  {
+    "gameId": "743165",
+    "date": "Saturday, September 13, 2025",
+    "team1": "FC Zürich",
+    "score": "2 - 1",
+    "team2": "Servette",
+    "title": "FC Zürich VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743165/servette-fc-zurich"
+  },
+  {
+    "gameId": "743166",
+    "date": "Saturday, September 13, 2025",
+    "team1": "St. Gallen",
+    "score": "1 - 0",
+    "team2": "FC Lugano",
+    "title": "St. Gallen VS FC Lugano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743166/fc-lugano-st-gallen"
+  },
+  {
+    "gameId": "743167",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Winterthur",
+    "score": "2 - 3",
+    "team2": "FC Sion",
+    "title": "Winterthur VS FC Sion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743167/fc-sion-winterthur"
+  },
+  {
+    "gameId": "743168",
+    "date": "Sunday, September 14, 2025",
+    "team1": "FC Luzern",
+    "score": "1 - 2",
+    "team2": "Young Boys",
+    "title": "FC Luzern VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743168/young-boys-fc-luzern"
+  },
+  {
+    "gameId": "743169",
+    "date": "Sunday, September 14, 2025",
+    "team1": "Grasshoppers",
+    "score": "3 - 1",
+    "team2": "Lausanne Sports",
+    "title": "Grasshoppers VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743169/lausanne-sports-grasshoppers"
+  },
+  {
+    "gameId": "743156",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "FC Lugano",
+    "score": "1 - 1",
+    "team2": "Lausanne Sports",
+    "title": "FC Lugano VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743156/lausanne-sports-fc-lugano"
+  },
+  {
+    "gameId": "743153",
+    "date": "Wednesday, September 17, 2025",
+    "team1": "FC Sion",
+    "score": "0 - 2",
+    "team2": "Servette",
+    "title": "FC Sion VS Servette",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743153/servette-fc-sion"
+  },
+  {
+    "gameId": "743172",
+    "date": "Saturday, September 27, 2025",
+    "team1": "FC Lugano",
+    "score": "2 - 1",
+    "team2": "Grasshoppers",
+    "title": "FC Lugano VS Grasshoppers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743172/grasshoppers-fc-lugano"
+  },
+  {
+    "gameId": "743173",
+    "date": "Saturday, September 27, 2025",
+    "team1": "Servette",
+    "score": "4 - 0",
+    "team2": "Winterthur",
+    "title": "Servette VS Winterthur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743173/winterthur-servette"
+  },
+  {
+    "gameId": "743170",
+    "date": "Saturday, September 27, 2025",
+    "team1": "FC Zürich",
+    "score": "3 - 1",
+    "team2": "St. Gallen",
+    "title": "FC Zürich VS St. Gallen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743170/st-gallen-fc-zurich"
+  },
+  {
+    "gameId": "743175",
+    "date": "Sunday, September 28, 2025",
+    "team1": "Young Boys",
+    "score": "4 - 2",
+    "team2": "FC Thun",
+    "title": "Young Boys VS FC Thun",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743175/fc-thun-young-boys"
+  },
+  {
+    "gameId": "743171",
+    "date": "Sunday, September 28, 2025",
+    "team1": "FC Basel",
+    "score": "1 - 2",
+    "team2": "FC Luzern",
+    "title": "FC Basel VS FC Luzern",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743171/fc-luzern-fc-basel"
+  },
+  {
+    "gameId": "743174",
+    "date": "Sunday, September 28, 2025",
+    "team1": "FC Sion",
+    "score": "0 - 0",
+    "team2": "Lausanne Sports",
+    "title": "FC Sion VS Lausanne Sports",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743174/lausanne-sports-fc-sion"
+  }
+]
