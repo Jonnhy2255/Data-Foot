@@ -4183,5 +4183,41 @@
     "team2": "Cercle Brugge KSV",
     "title": "Oud-Heverlee Leuven VS Cercle Brugge KSV",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742684/cercle-brugge-ksv-oud-heverlee-leuven"
+  },
+  {
+    "gameId": "742690",
+    "date": "Friday, December 26, 2025",
+    "team1": "Racing Genk",
+    "score": "3 - 5",
+    "team2": "Club Brugge",
+    "title": "Racing Genk VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742690/club-brugge-racing-genk"
+  },
+  {
+    "gameId": "742691",
+    "date": "Friday, December 26, 2025",
+    "team1": "Cercle Brugge KSV",
+    "score": "1 - 1",
+    "team2": "Union St.-Gilloise",
+    "title": "Cercle Brugge KSV VS Union St.-Gilloise",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742691/union-st-gilloise-cercle-brugge-ksv"
+  },
+  {
+    "gameId": "742693",
+    "date": "Friday, December 26, 2025",
+    "team1": "Standard Liege",
+    "score": "1 - 2",
+    "team2": "Sint-Truidense",
+    "title": "Standard Liege VS Sint-Truidense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742693/sint-truidense-standard-liege"
+  },
+  {
+    "gameId": "742686",
+    "date": "Friday, December 26, 2025",
+    "team1": "Anderlecht",
+    "score": "1 - 2",
+    "team2": "Royal Charleroi SC",
+    "title": "Anderlecht VS Royal Charleroi SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742686/royal-charleroi-sc-anderlecht"
   }
 ]

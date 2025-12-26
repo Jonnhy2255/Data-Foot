@@ -4948,5 +4948,14 @@
     "team2": "Nottingham Forest",
     "title": "Fulham VS Nottingham Forest",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740758/nottingham-forest-fulham"
+  },
+  {
+    "gameId": "740769",
+    "date": "Friday, December 26, 2025",
+    "team1": "Manchester United",
+    "score": "1 - 0",
+    "team2": "Newcastle United",
+    "title": "Manchester United VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740769/newcastle-united-manchester-united"
   }
 ]

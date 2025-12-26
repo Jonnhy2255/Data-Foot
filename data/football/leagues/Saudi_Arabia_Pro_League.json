@@ -3508,5 +3508,32 @@
     "team2": "Al Najma",
     "title": "Neom SC VS Al Najma",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756002/al-najma-neom-sc"
+  },
+  {
+    "gameId": "756000",
+    "date": "Friday, December 26, 2025",
+    "team1": "Al Fateh",
+    "score": "2 - 1",
+    "team2": "Al Ahli",
+    "title": "Al Fateh VS Al Ahli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756000/al-ahli-al-fateh"
+  },
+  {
+    "gameId": "756001",
+    "date": "Friday, December 26, 2025",
+    "team1": "Al Kholood",
+    "score": "0 - 2",
+    "team2": "Al Taawoun",
+    "title": "Al Kholood VS Al Taawoun",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756001/al-taawoun-al-kholood"
+  },
+  {
+    "gameId": "755994",
+    "date": "Friday, December 26, 2025",
+    "team1": "Al Hilal",
+    "score": "3 - 2",
+    "team2": "Al Khaleej",
+    "title": "Al Hilal VS Al Khaleej",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/755994/al-khaleej-al-hilal"
   }
 ]
