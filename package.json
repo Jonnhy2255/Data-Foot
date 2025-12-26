@@ -1,5 +1,5 @@
 {
-  "name": "sports-data",
+  "name": "@jonnhy225/sports-data",
   "version": "1.0.0",
   "description": "Bibliothèque JS pour lister les ligues de football disponibles à partir de fichiers JSON",
   "type": "module",
