@@ -2,7 +2,7 @@ name: Scrape ESPN Soccer Matches
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # toutes les 6 heures
+    - cron: '0 */6 * * *'   # toutes les 6 heures
   workflow_dispatch:        # permet lancement manuel
 
 jobs:
@@ -38,38 +38,38 @@ jobs:
 
           # Liste complète des fichiers JSON
           FILES="
-            data/p_league.json
-            data/laliga.json
-            data/bundesliga.json
-            data/Argentina_Primera_Nacional.json
-            data/Austria_Bundesliga.json
-            data/Belgium_Jupiler_Pro_League.json
-            data/Brazil_Serie_A.json
-            data/Brazil_Serie_B.json
-            data/Chile_Primera_Division.json
-            data/China_Super_League.json
-            data/Colombia_Primera_A.json
-            data/England_National_League.json
-            data/France_Ligue_1.json
-            data/Greece_Super_League_1.json
-            data/Italy_Serie_A.json
-            data/Japan_J1_League.json
-            data/Mexico_Liga_MX.json
-            data/Netherlands_Eredivisie.json
-            data/Paraguay_Division_Profesional.json
-            data/Peru_Primera_Division.json
-            data/Portugal_Primeira_Liga.json
-            data/Romania_Liga_I.json
-            data/Russia_Premier_League.json
-            data/Saudi_Arabia_Pro_League.json
-            data/Sweden_Allsvenskan.json
-            data/Switzerland_Super_League.json
-            data/Turkey_Super_Lig.json
-            data/USA_Major_League_Soccer.json
-            data/Venezuela_Primera_Division.json
-            data/UEFA_Champions_League.json
-            data/UEFA_Europa_League.json
-            data/FIFA_Club_World_Cup.json
+            data/football/leagues/England_Premier_League.json
+            data/football/leagues/Spain_Laliga.json
+            data/football/leagues/bundesliga.json
+            data/football/leagues/Argentina_Primera_Nacional.json
+            data/football/leagues/Austria_Bundesliga.json
+            data/football/leagues/Belgium_Jupiler_Pro_League.json
+            data/football/leagues/Brazil_Serie_A.json
+            data/football/leagues/Brazil_Serie_B.json
+            data/football/leagues/Chile_Primera_Division.json
+            data/football/leagues/China_Super_League.json
+            data/football/leagues/Colombia_Primera_A.json
+            data/football/leagues/England_National_League.json
+            data/football/leagues/France_Ligue_1.json
+            data/football/leagues/Greece_Super_League_1.json
+            data/football/leagues/Italy_Serie_A.json
+            data/football/leagues/Japan_J1_League.json
+            data/football/leagues/Mexico_Liga_MX.json
+            data/football/leagues/Netherlands_Eredivisie.json
+            data/football/leagues/Paraguay_Division_Profesional.json
+            data/football/leagues/Peru_Primera_Division.json
+            data/football/leagues/Portugal_Primeira_Liga.json
+            data/football/leagues/Romania_Liga_I.json
+            data/football/leagues/Russia_Premier_League.json
+            data/football/leagues/Saudi_Arabia_Pro_League.json
+            data/football/leagues/Sweden_Allsvenskan.json
+            data/football/leagues/Switzerland_Super_League.json
+            data/football/leagues/Turkey_Super_Lig.json
+            data/football/leagues/USA_Major_League_Soccer.json
+            data/football/leagues/Venezuela_Primera_Division.json
+            data/football/leagues/UEFA_Champions_League.json
+            data/football/leagues/UEFA_Europa_League.json
+            data/football/leagues/FIFA_Club_World_Cup.json
           "
 
           # Ajouter uniquement les fichiers qui existent
@@ -93,4 +93,4 @@ jobs:
 
       # 6️⃣ Log des fichiers pour vérification
       - name: List JSON files
-        run: ls -lh data/*.json
+        run: ls -lh data/football/leagues/*.json
