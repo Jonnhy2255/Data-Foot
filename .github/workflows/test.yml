@@ -1,8 +1,10 @@
-name: Test Data-Foot
+name: Test Sports-Data
 
 on:
-  push:
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   test:
@@ -18,5 +20,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run test
+      - name: Run index.js
         run: node src/index.js
