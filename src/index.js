@@ -1,30 +1,75 @@
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
-// Chemin vers le dossier contenant les fichiers JSON
-const dataDir = path.resolve('./data/football/leagues');
+/* ===== Résolution chemins ESM ===== */
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-/**
- * Liste toutes les ligues disponibles dans le dossier data/football/leagues
- * @returns {string[]} Tableau des noms de ligues
- */
-export function listLeagues() {
-  try {
-    const files = fs.readdirSync(dataDir);
+/* ===== Dossiers ===== */
+const leaguesDir = path.resolve(__dirname, '../data/football/leagues');
+const leagueIdsPath = path.resolve(__dirname, '../data/football/league-ids.json');
 
-    // Filtrer les fichiers JSON et retirer l'extension
-    const leagues = files
-      .filter(file => file.endsWith('.json'))
-      .map(file => file.replace('.json', ''));
-
-    return leagues;
-  } catch (err) {
-    console.error('Erreur lors de la lecture du dossier leagues:', err);
-    return [];
-  }
+/* ===== Utils ===== */
+function readJSON(filePath) {
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 }
 
-// Exemple d'utilisation si exécuté directement
-if (import.meta.url === process.argv[1] || import.meta.url === `file://${process.argv[1]}`) {
-  console.log('Ligues disponibles :', listLeagues());
+/* =========================================================
+   1️⃣ Lister les ligues disponibles (nom + id ESPN)
+   ========================================================= */
+export function listLeagues() {
+  if (!fs.existsSync(leagueIdsPath)) {
+    throw new Error('league-ids.json introuvable');
+  }
+
+  const leagueIds = readJSON(leagueIdsPath);
+
+  return Object.entries(leagueIds).map(([name, data]) => ({
+    name,
+    id: data.id,
+    file: data.file
+  }));
+}
+
+/* =========================================================
+   2️⃣ Récupérer les N derniers matchs d’une ligue
+   ========================================================= */
+export function getLastMatches(leagueName, n = 5) {
+  if (!fs.existsSync(leagueIdsPath)) {
+    throw new Error('league-ids.json introuvable');
+  }
+
+  const leagueIds = readJSON(leagueIdsPath);
+  const league = leagueIds[leagueName];
+
+  if (!league) {
+    throw new Error(`Ligue inconnue : ${leagueName}`);
+  }
+
+  const leagueFile = path.join(leaguesDir, league.file);
+
+  if (!fs.existsSync(leagueFile)) {
+    throw new Error(`Fichier de matchs introuvable : ${league.file}`);
+  }
+
+  const matches = readJSON(leagueFile);
+
+  if (!Array.isArray(matches)) {
+    throw new Error('Format JSON invalide (attendu: tableau)');
+  }
+
+  // ESPN est déjà chronologique → on prend la fin
+  return matches.slice(-n).reverse();
+}
+
+/* =========================================================
+   🔧 Test direct en CLI
+   ========================================================= */
+if (process.argv[1] === __filename) {
+  console.log('\n📋 Ligues disponibles :');
+  console.table(listLeagues());
+
+  console.log('\n⚽ 3 derniers matchs – Premier League');
+  console.table(getLastMatches('England_Premier_League', 3));
 }
