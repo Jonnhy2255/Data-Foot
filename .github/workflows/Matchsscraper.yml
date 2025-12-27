@@ -2,7 +2,7 @@ name: Scrape ESPN Soccer Matches
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # toutes les 6 heures
+    - cron: '0 0 * * *'   # Tous les jours à 00:00 UTC
   workflow_dispatch:        # permet lancement manuel
 
 jobs:
@@ -40,7 +40,7 @@ jobs:
           FILES="
             data/football/leagues/England_Premier_League.json
             data/football/leagues/Spain_Laliga.json
-            data/football/leagues/bundesliga.json
+            data/football/leagues/Germany_Bundesliga.json
             data/football/leagues/Argentina_Primera_Nacional.json
             data/football/leagues/Austria_Bundesliga.json
             data/football/leagues/Belgium_Jupiler_Pro_League.json
@@ -86,7 +86,7 @@ jobs:
             echo "✅ Aucun changement détecté dans les JSON."
           else
             echo "🔄 $FILES_CHANGED fichier(s) modifié(s), commit en cours..."
-            git commit -m "🔄 Mise à jour automatique des matchs $(date +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "🔄 Mise à jour automatique des matchs $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
             echo "✅ Push terminé."
           fi
