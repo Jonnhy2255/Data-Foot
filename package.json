@@ -1,6 +1,6 @@
 {
   "name": "@jonnhy225/sports-data",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Bibliothèque JS pour lister les ligues de football disponibles à partir de fichiers JSON",
   "type": "module",
   "main": "src/index.js",
@@ -16,5 +16,10 @@
     "json"
   ],
   "author": "Jonnhy Billions",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "src/",
+    "data/football/leagues/",
+    "data/football/league-ids.json"
+  ]
 }
