@@ -16,7 +16,7 @@ function readJSON(filePath) {
 }
 
 /* =========================================================
-   1️⃣ Lister les ligues disponibles (nom + id ESPN)
+   1️⃣ Lister les ligues disponibles (nom + id ESPN + fichier)
    ========================================================= */
 export function listLeagues() {
   if (!fs.existsSync(leagueIdsPath)) {
