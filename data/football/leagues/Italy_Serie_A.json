@@ -4822,5 +4822,50 @@
     "team2": "Atalanta",
     "title": "Genoa VS Atalanta",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/736942/atalanta-genoa"
+  },
+  {
+    "gameId": "736953",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Parma",
+    "score": "1 - 0",
+    "team2": "Fiorentina",
+    "title": "Parma VS Fiorentina",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736953/fiorentina-parma"
+  },
+  {
+    "gameId": "736950",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Lecce",
+    "score": "0 - 3",
+    "team2": "Como",
+    "title": "Lecce VS Como",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736950/como-lecce"
+  },
+  {
+    "gameId": "736945",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Torino",
+    "score": "1 - 2",
+    "team2": "Cagliari",
+    "title": "Torino VS Cagliari",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736945/cagliari-torino"
+  },
+  {
+    "gameId": "736948",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Udinese",
+    "score": "1 - 1",
+    "team2": "Lazio",
+    "title": "Udinese VS Lazio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736948/lazio-udinese"
+  },
+  {
+    "gameId": "736947",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Pisa",
+    "score": "0 - 2",
+    "team2": "Juventus",
+    "title": "Pisa VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736947/juventus-pisa"
   }
 ]

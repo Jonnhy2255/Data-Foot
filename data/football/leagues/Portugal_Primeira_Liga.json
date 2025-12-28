@@ -3967,5 +3967,23 @@
     "team2": "Sporting CP",
     "title": "Vitória de Guimaraes VS Sporting CP",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750372/sporting-cp-vitoria-de-guimaraes"
+  },
+  {
+    "gameId": "750388",
+    "date": "Saturday, December 27, 2025",
+    "team1": "FC Famalicao",
+    "score": "2 - 3",
+    "team2": "Estrela",
+    "title": "FC Famalicao VS Estrela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750388/estrela-fc-famalicao"
+  },
+  {
+    "gameId": "750384",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Estoril",
+    "score": "4 - 1",
+    "team2": "Alverca",
+    "title": "Estoril VS Alverca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750384/alverca-estoril"
   }
 ]

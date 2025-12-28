@@ -4219,5 +4219,41 @@
     "team2": "Royal Charleroi SC",
     "title": "Anderlecht VS Royal Charleroi SC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742686/royal-charleroi-sc-anderlecht"
+  },
+  {
+    "gameId": "742692",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Antwerp",
+    "score": "2 - 1",
+    "team2": "Zulte-Waregem",
+    "title": "Antwerp VS Zulte-Waregem",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742692/zulte-waregem-antwerp"
+  },
+  {
+    "gameId": "742687",
+    "date": "Saturday, December 27, 2025",
+    "team1": "RAAL La Louvière",
+    "score": "0 - 0",
+    "team2": "Oud-Heverlee Leuven",
+    "title": "RAAL La Louvière VS Oud-Heverlee Leuven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742687/oud-heverlee-leuven-raal-la-louviere"
+  },
+  {
+    "gameId": "742688",
+    "date": "Saturday, December 27, 2025",
+    "team1": "KV Mechelen",
+    "score": "1 - 1",
+    "team2": "Dender",
+    "title": "KV Mechelen VS Dender",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742688/dender-kv-mechelen"
+  },
+  {
+    "gameId": "742689",
+    "date": "Saturday, December 27, 2025",
+    "team1": "KAA Gent",
+    "score": "2 - 0",
+    "team2": "KVC Westerlo",
+    "title": "KAA Gent VS KVC Westerlo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742689/kvc-westerlo-kaa-gent"
   }
 ]
