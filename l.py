@@ -4,6 +4,7 @@ import json
 from datetime import datetime, timedelta
 import re
 import time
+import os   # ✅ ajout pour gérer les chemins
 
 # =============================
 # CONFIGURATION GLOBALE
@@ -162,6 +163,8 @@ def extract_matches_for_date(league_id, date_obj, all_matches):
 # BOUCLE PRINCIPALE
 # =============================
 
+OUTPUT_DIR = "data/football/leagues"  # ✅ ton dossier cible
+
 for league_name, league in LEAGUES.items():
     print(f"\n===== {league_name} =====")
 
@@ -182,7 +185,9 @@ for league_name, league in LEAGUES.items():
         current_date += timedelta(days=1)
         time.sleep(1)
 
-    with open(league["json"], "w", encoding="utf-8") as f:
+    # ✅ Sauvegarde dans le bon dossier
+    output_path = os.path.join(OUTPUT_DIR, league["json"])
+    with open(output_path, "w", encoding="utf-8") as f:
         json.dump(list(all_matches.values()), f, indent=2, ensure_ascii=False)
 
-    print(f"✅ {league['json']} généré — {len(all_matches)} matchs")
+    print(f"✅ {output_path} généré — {len(all_matches)} matchs")
