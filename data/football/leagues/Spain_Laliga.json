@@ -1,0 +1,1763 @@
+[
+  {
+    "gameId": "643929",
+    "date": "Friday, January 6, 2023",
+    "team_home": "Elche",
+    "team_away": "Elche",
+    "score": "0 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643929/celta-vigo-elche",
+    "stats": {
+      "Possession": {
+        "home": "56.6%",
+        "away": "43.4%"
+      },
+      "Shots on Goal": {
+        "home": "5",
+        "away": "7"
+      },
+      "Shot Attempts": {
+        "home": "13",
+        "away": "14"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "Corner Kicks": {
+        "home": "8",
+        "away": "4"
+      },
+      "Saves": {
+        "home": "6",
+        "away": "5"
+      }
+    }
+  },
+  {
+    "gameId": "643921",
+    "date": "Friday, January 6, 2023",
+    "team_home": "Valencia",
+    "team_away": "Valencia",
+    "score": "0 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643921/cadiz-valencia",
+    "stats": {
+      "Possession": {
+        "home": "74%",
+        "away": "26%"
+      },
+      "Shots on Goal": {
+        "home": "2",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "11",
+        "away": "6"
+      },
+      "Yellow Cards": {
+        "home": "5",
+        "away": "6"
+      },
+      "Corner Kicks": {
+        "home": "13",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "2"
+      }
+    }
+  },
+  {
+    "gameId": "643930",
+    "date": "Saturday, January 7, 2023",
+    "team_home": "Villarreal",
+    "team_away": "Villarreal",
+    "score": "2 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643930/real-madrid-villarreal",
+    "stats": {
+      "Possession": {
+        "home": "48.8%",
+        "away": "51.2%"
+      },
+      "Shots on Goal": {
+        "home": "5",
+        "away": "3"
+      },
+      "Shot Attempts": {
+        "home": "17",
+        "away": "13"
+      },
+      "Yellow Cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "Corner Kicks": {
+        "home": "6",
+        "away": "5"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643924",
+    "date": "Saturday, January 7, 2023",
+    "team_home": "Mallorca",
+    "team_away": "Mallorca",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643924/real-valladolid-mallorca",
+    "stats": {
+      "Possession": {
+        "home": "41.7%",
+        "away": "58.3%"
+      },
+      "Shots on Goal": {
+        "home": "4",
+        "away": "1"
+      },
+      "Shot Attempts": {
+        "home": "13",
+        "away": "9"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "6",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643925",
+    "date": "Saturday, January 7, 2023",
+    "team_home": "Espanyol",
+    "team_away": "Espanyol",
+    "score": "2 - 2",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643925/girona-espanyol",
+    "stats": {
+      "Possession": {
+        "home": "44.2%",
+        "away": "55.8%"
+      },
+      "Shots on Goal": {
+        "home": "6",
+        "away": "5"
+      },
+      "Shot Attempts": {
+        "home": "12",
+        "away": "12"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "5",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "3",
+        "away": "4"
+      }
+    }
+  },
+  {
+    "gameId": "643926",
+    "date": "Sunday, January 8, 2023",
+    "team_home": "Almería",
+    "team_away": "Almería",
+    "score": "0 - 2",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643926/real-sociedad-almeria",
+    "stats": {
+      "Possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "Shots on Goal": {
+        "home": "1",
+        "away": "6"
+      },
+      "Shot Attempts": {
+        "home": "6",
+        "away": "9"
+      },
+      "Yellow Cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "Corner Kicks": {
+        "home": "4",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "4",
+        "away": "1"
+      }
+    }
+  },
+  {
+    "gameId": "643923",
+    "date": "Sunday, January 8, 2023",
+    "team_home": "Rayo Vallecano",
+    "team_away": "Rayo Vallecano",
+    "score": "1 - 2",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643923/real-betis-rayo-vallecano",
+    "stats": {
+      "Possession": {
+        "home": "61.6%",
+        "away": "38.4%"
+      },
+      "Shots on Goal": {
+        "home": "3",
+        "away": "3"
+      },
+      "Shot Attempts": {
+        "home": "15",
+        "away": "14"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "5",
+        "away": "7"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "2"
+      }
+    }
+  },
+  {
+    "gameId": "643922",
+    "date": "Sunday, January 8, 2023",
+    "team_home": "Sevilla",
+    "team_away": "Sevilla",
+    "score": "2 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643922/getafe-sevilla",
+    "stats": {
+      "Possession": {
+        "home": "58.2%",
+        "away": "41.8%"
+      },
+      "Shots on Goal": {
+        "home": "5",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "11",
+        "away": "11"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "4",
+        "away": "4"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643928",
+    "date": "Sunday, January 8, 2023",
+    "team_home": "Atlético Madrid",
+    "team_away": "Atlético Madrid",
+    "score": "0 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643928/barcelona-atletico-madrid",
+    "stats": {
+      "Possession": {
+        "home": "40.9%",
+        "away": "59.1%"
+      },
+      "Shots on Goal": {
+        "home": "5",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "20",
+        "away": "10"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "7",
+        "away": "4"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643927",
+    "date": "Monday, January 9, 2023",
+    "team_home": "Athletic Club",
+    "team_away": "Athletic Club",
+    "score": "0 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643927/osasuna-athletic-club",
+    "stats": {
+      "Possession": {
+        "home": "60.1%",
+        "away": "39.9%"
+      },
+      "Shots on Goal": {
+        "home": "3",
+        "away": "1"
+      },
+      "Shot Attempts": {
+        "home": "17",
+        "away": "3"
+      },
+      "Yellow Cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "Corner Kicks": {
+        "home": "14",
+        "away": "1"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643937",
+    "date": "Friday, January 13, 2023",
+    "team_home": "Celta Vigo",
+    "team_away": "Celta Vigo",
+    "score": "1 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643937/villarreal-celta-vigo",
+    "stats": {
+      "Shots on Goal": {
+        "home": "0",
+        "away": "0"
+      },
+      "Shot Attempts": {
+        "home": "0",
+        "away": "0"
+      },
+      "Yellow Cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "Corner Kicks": {
+        "home": "0",
+        "away": "0"
+      },
+      "Saves": {
+        "home": "0",
+        "away": "0"
+      }
+    }
+  },
+  {
+    "gameId": "643934",
+    "date": "Saturday, January 14, 2023",
+    "team_home": "Real Valladolid",
+    "team_away": "Real Valladolid",
+    "score": "0 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643934/rayo-vallecano-real-valladolid",
+    "stats": {
+      "Possession": {
+        "home": "44.9%",
+        "away": "55.1%"
+      },
+      "Shots on Goal": {
+        "home": "2",
+        "away": "6"
+      },
+      "Shot Attempts": {
+        "home": "9",
+        "away": "13"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "4",
+        "away": "8"
+      },
+      "Saves": {
+        "home": "5",
+        "away": "2"
+      }
+    }
+  },
+  {
+    "gameId": "643935",
+    "date": "Saturday, January 14, 2023",
+    "team_home": "Girona",
+    "team_away": "Girona",
+    "score": "2 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643935/sevilla-girona",
+    "stats": {
+      "Possession": {
+        "home": "45.9%",
+        "away": "54.1%"
+      },
+      "Shots on Goal": {
+        "home": "7",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "19",
+        "away": "10"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "Corner Kicks": {
+        "home": "5",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "5"
+      }
+    }
+  },
+  {
+    "gameId": "643940",
+    "date": "Saturday, January 14, 2023",
+    "team_home": "Osasuna",
+    "team_away": "Osasuna",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643940/mallorca-osasuna",
+    "stats": {
+      "Possession": {
+        "home": "62.3%",
+        "away": "37.7%"
+      },
+      "Shots on Goal": {
+        "home": "4",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "15",
+        "away": "6"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "3",
+        "away": "1"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643933",
+    "date": "Saturday, January 14, 2023",
+    "team_home": "Real Sociedad",
+    "team_away": "Real Sociedad",
+    "score": "3 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643933/athletic-club-real-sociedad",
+    "stats": {
+      "Possession": {
+        "home": "57.5%",
+        "away": "42.5%"
+      },
+      "Shots on Goal": {
+        "home": "5",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "11",
+        "away": "6"
+      },
+      "Yellow Cards": {
+        "home": "5",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "4",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "2"
+      }
+    }
+  },
+  {
+    "gameId": "643939",
+    "date": "Sunday, January 15, 2023",
+    "team_home": "Getafe",
+    "team_away": "Getafe",
+    "score": "1 - 2",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643939/espanyol-getafe",
+    "stats": {
+      "Possession": {
+        "home": "61.7%",
+        "away": "38.3%"
+      },
+      "Shots on Goal": {
+        "home": "2",
+        "away": "4"
+      },
+      "Shot Attempts": {
+        "home": "10",
+        "away": "10"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "5",
+        "away": "1"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "1"
+      }
+    }
+  },
+  {
+    "gameId": "643936",
+    "date": "Sunday, January 15, 2023",
+    "team_home": "Almería",
+    "team_away": "Almería",
+    "score": "1 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643936/atletico-madrid-almeria",
+    "stats": {
+      "Possession": {
+        "home": "55%",
+        "away": "45%"
+      },
+      "Shots on Goal": {
+        "home": "3",
+        "away": "7"
+      },
+      "Shot Attempts": {
+        "home": "14",
+        "away": "12"
+      },
+      "Yellow Cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "3",
+        "away": "4"
+      },
+      "Saves": {
+        "home": "5",
+        "away": "2"
+      }
+    }
+  },
+  {
+    "gameId": "643938",
+    "date": "Monday, January 16, 2023",
+    "team_home": "Cádiz",
+    "team_away": "Cádiz",
+    "score": "1 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643938/elche-cadiz",
+    "stats": {
+      "Possession": {
+        "home": "50.1%",
+        "away": "49.9%"
+      },
+      "Shots on Goal": {
+        "home": "3",
+        "away": "5"
+      },
+      "Shot Attempts": {
+        "home": "16",
+        "away": "12"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "3",
+        "away": "6"
+      },
+      "Saves": {
+        "home": "4",
+        "away": "2"
+      }
+    }
+  },
+  {
+    "gameId": "643945",
+    "date": "Friday, January 20, 2023",
+    "team_home": "Mallorca",
+    "team_away": "Mallorca",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643945/celta-vigo-mallorca",
+    "stats": {
+      "Possession": {
+        "home": "41.8%",
+        "away": "58.2%"
+      },
+      "Shots on Goal": {
+        "home": "3",
+        "away": "3"
+      },
+      "Shot Attempts": {
+        "home": "8",
+        "away": "10"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "4",
+        "away": "6"
+      },
+      "Saves": {
+        "home": "3",
+        "away": "2"
+      }
+    }
+  },
+  {
+    "gameId": "643946",
+    "date": "Saturday, January 21, 2023",
+    "team_home": "Rayo Vallecano",
+    "team_away": "Rayo Vallecano",
+    "score": "0 - 2",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643946/real-sociedad-rayo-vallecano",
+    "stats": {
+      "Possession": {
+        "home": "54.3%",
+        "away": "45.7%"
+      },
+      "Shots on Goal": {
+        "home": "2",
+        "away": "7"
+      },
+      "Shot Attempts": {
+        "home": "14",
+        "away": "12"
+      },
+      "Yellow Cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "Corner Kicks": {
+        "home": "3",
+        "away": "4"
+      },
+      "Saves": {
+        "home": "5",
+        "away": "2"
+      }
+    }
+  },
+  {
+    "gameId": "643944",
+    "date": "Saturday, January 21, 2023",
+    "team_home": "Espanyol",
+    "team_away": "Espanyol",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643944/real-betis-espanyol",
+    "stats": {
+      "Possession": {
+        "home": "30.2%",
+        "away": "69.8%"
+      },
+      "Shots on Goal": {
+        "home": "2",
+        "away": "4"
+      },
+      "Shot Attempts": {
+        "home": "8",
+        "away": "13"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "7",
+        "away": "4"
+      },
+      "Saves": {
+        "home": "3",
+        "away": "1"
+      }
+    }
+  },
+  {
+    "gameId": "643942",
+    "date": "Saturday, January 21, 2023",
+    "team_home": "Atlético Madrid",
+    "team_away": "Atlético Madrid",
+    "score": "3 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643942/real-valladolid-atletico-madrid",
+    "stats": {
+      "Possession": {
+        "home": "47.2%",
+        "away": "52.8%"
+      },
+      "Shots on Goal": {
+        "home": "8",
+        "away": "1"
+      },
+      "Shot Attempts": {
+        "home": "18",
+        "away": "7"
+      },
+      "Yellow Cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "Corner Kicks": {
+        "home": "4",
+        "away": "1"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "5"
+      }
+    }
+  },
+  {
+    "gameId": "643947",
+    "date": "Saturday, January 21, 2023",
+    "team_home": "Sevilla",
+    "team_away": "Sevilla",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643947/cadiz-sevilla",
+    "stats": {
+      "Possession": {
+        "home": "74.9%",
+        "away": "25.1%"
+      },
+      "Shots on Goal": {
+        "home": "9",
+        "away": "1"
+      },
+      "Shot Attempts": {
+        "home": "17",
+        "away": "4"
+      },
+      "Yellow Cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "8",
+        "away": "1"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "7"
+      }
+    }
+  },
+  {
+    "gameId": "643948",
+    "date": "Sunday, January 22, 2023",
+    "team_home": "Villarreal",
+    "team_away": "Villarreal",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643948/girona-villarreal",
+    "stats": {
+      "Possession": {
+        "home": "69.4%",
+        "away": "30.6%"
+      },
+      "Shots on Goal": {
+        "home": "9",
+        "away": "1"
+      },
+      "Shot Attempts": {
+        "home": "19",
+        "away": "8"
+      },
+      "Yellow Cards": {
+        "home": "5",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "3",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "8"
+      }
+    }
+  },
+  {
+    "gameId": "643949",
+    "date": "Sunday, January 22, 2023",
+    "team_home": "Elche",
+    "team_away": "Elche",
+    "score": "1 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643949/osasuna-elche",
+    "stats": {
+      "Possession": {
+        "home": "42.2%",
+        "away": "57.8%"
+      },
+      "Shots on Goal": {
+        "home": "4",
+        "away": "4"
+      },
+      "Shot Attempts": {
+        "home": "13",
+        "away": "8"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "Corner Kicks": {
+        "home": "7",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "3",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643950",
+    "date": "Sunday, January 22, 2023",
+    "team_home": "Barcelona",
+    "team_away": "Barcelona",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643950/getafe-barcelona",
+    "stats": {
+      "Shots on Goal": {
+        "home": "0",
+        "away": "0"
+      },
+      "Shot Attempts": {
+        "home": "0",
+        "away": "0"
+      },
+      "Yellow Cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "Corner Kicks": {
+        "home": "0",
+        "away": "0"
+      },
+      "Saves": {
+        "home": "0",
+        "away": "0"
+      }
+    }
+  },
+  {
+    "gameId": "643941",
+    "date": "Sunday, January 22, 2023",
+    "team_home": "Athletic Club",
+    "team_away": "Athletic Club",
+    "score": "0 - 2",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643941/real-madrid-athletic-club",
+    "stats": {
+      "Possession": {
+        "home": "50.2%",
+        "away": "49.8%"
+      },
+      "Shots on Goal": {
+        "home": "3",
+        "away": "4"
+      },
+      "Shot Attempts": {
+        "home": "18",
+        "away": "10"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "12",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643943",
+    "date": "Monday, January 23, 2023",
+    "team_home": "Valencia",
+    "team_away": "Valencia",
+    "score": "2 - 2",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643943/almeria-valencia",
+    "stats": {
+      "Possession": {
+        "home": "57.3%",
+        "away": "42.7%"
+      },
+      "Shots on Goal": {
+        "home": "6",
+        "away": "3"
+      },
+      "Shot Attempts": {
+        "home": "16",
+        "away": "14"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "Corner Kicks": {
+        "home": "6",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "4"
+      }
+    }
+  },
+  {
+    "gameId": "643951",
+    "date": "Friday, January 27, 2023",
+    "team_home": "Almería",
+    "team_away": "Almería",
+    "score": "3 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643951/espanyol-almeria",
+    "stats": {
+      "Possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "Shots on Goal": {
+        "home": "7",
+        "away": "3"
+      },
+      "Shot Attempts": {
+        "home": "19",
+        "away": "6"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "2",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "4"
+      }
+    }
+  },
+  {
+    "gameId": "643958",
+    "date": "Saturday, January 28, 2023",
+    "team_home": "Cádiz",
+    "team_away": "Cádiz",
+    "score": "2 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643958/mallorca-cadiz",
+    "stats": {
+      "Possession": {
+        "home": "42.4%",
+        "away": "57.6%"
+      },
+      "Shots on Goal": {
+        "home": "4",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "11",
+        "away": "9"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "6",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "2"
+      }
+    }
+  },
+  {
+    "gameId": "643956",
+    "date": "Saturday, January 28, 2023",
+    "team_home": "Girona",
+    "team_away": "Girona",
+    "score": "0 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643956/barcelona-girona",
+    "stats": {
+      "Shots on Goal": {
+        "home": "0",
+        "away": "0"
+      },
+      "Shot Attempts": {
+        "home": "0",
+        "away": "0"
+      },
+      "Yellow Cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "Corner Kicks": {
+        "home": "0",
+        "away": "0"
+      },
+      "Saves": {
+        "home": "0",
+        "away": "0"
+      }
+    }
+  },
+  {
+    "gameId": "643952",
+    "date": "Saturday, January 28, 2023",
+    "team_home": "Sevilla",
+    "team_away": "Sevilla",
+    "score": "3 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643952/elche-sevilla",
+    "stats": {
+      "Possession": {
+        "home": "81%",
+        "away": "19%"
+      },
+      "Shots on Goal": {
+        "home": "8",
+        "away": "1"
+      },
+      "Shot Attempts": {
+        "home": "22",
+        "away": "6"
+      },
+      "Yellow Cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "5",
+        "away": "2"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "5"
+      }
+    }
+  },
+  {
+    "gameId": "643957",
+    "date": "Saturday, January 28, 2023",
+    "team_home": "Getafe",
+    "team_away": "Getafe",
+    "score": "0 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643957/real-betis-getafe",
+    "stats": {
+      "Possession": {
+        "home": "38.4%",
+        "away": "61.6%"
+      },
+      "Shots on Goal": {
+        "home": "1",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "6",
+        "away": "13"
+      },
+      "Yellow Cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "6",
+        "away": "1"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "1"
+      }
+    }
+  },
+  {
+    "gameId": "643953",
+    "date": "Sunday, January 29, 2023",
+    "team_home": "Real Valladolid",
+    "team_away": "Real Valladolid",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643953/valencia-real-valladolid",
+    "stats": {
+      "Possession": {
+        "home": "53.3%",
+        "away": "46.7%"
+      },
+      "Shots on Goal": {
+        "home": "6",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "13",
+        "away": "15"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "Corner Kicks": {
+        "home": "4",
+        "away": "7"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "5"
+      }
+    }
+  },
+  {
+    "gameId": "643960",
+    "date": "Sunday, January 29, 2023",
+    "team_home": "Osasuna",
+    "team_away": "Osasuna",
+    "score": "0 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643960/atletico-madrid-osasuna",
+    "stats": {
+      "Possession": {
+        "home": "51.8%",
+        "away": "48.2%"
+      },
+      "Shots on Goal": {
+        "home": "4",
+        "away": "5"
+      },
+      "Shot Attempts": {
+        "home": "14",
+        "away": "13"
+      },
+      "Yellow Cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "Corner Kicks": {
+        "home": "5",
+        "away": "4"
+      },
+      "Saves": {
+        "home": "4",
+        "away": "4"
+      }
+    }
+  },
+  {
+    "gameId": "643959",
+    "date": "Sunday, January 29, 2023",
+    "team_home": "Celta Vigo",
+    "team_away": "Celta Vigo",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643959/athletic-club-celta-vigo",
+    "stats": {
+      "Possession": {
+        "home": "49.2%",
+        "away": "50.8%"
+      },
+      "Shots on Goal": {
+        "home": "3",
+        "away": "0"
+      },
+      "Shot Attempts": {
+        "home": "9",
+        "away": "5"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "2",
+        "away": "5"
+      },
+      "Saves": {
+        "home": "0",
+        "away": "2"
+      }
+    }
+  },
+  {
+    "gameId": "643954",
+    "date": "Sunday, January 29, 2023",
+    "team_home": "Real Madrid",
+    "team_away": "Real Madrid",
+    "score": "0 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643954/real-sociedad-real-madrid",
+    "stats": {
+      "Possession": {
+        "home": "61.4%",
+        "away": "38.6%"
+      },
+      "Shots on Goal": {
+        "home": "7",
+        "away": "3"
+      },
+      "Shot Attempts": {
+        "home": "20",
+        "away": "8"
+      },
+      "Yellow Cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "Corner Kicks": {
+        "home": "10",
+        "away": "3"
+      },
+      "Saves": {
+        "home": "3",
+        "away": "7"
+      }
+    }
+  },
+  {
+    "gameId": "643955",
+    "date": "Monday, January 30, 2023",
+    "team_home": "Villarreal",
+    "team_away": "Villarreal",
+    "score": "0 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643955/rayo-vallecano-villarreal",
+    "stats": {
+      "Possession": {
+        "home": "61.8%",
+        "away": "38.2%"
+      },
+      "Shots on Goal": {
+        "home": "3",
+        "away": "3"
+      },
+      "Shot Attempts": {
+        "home": "12",
+        "away": "11"
+      },
+      "Yellow Cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "5",
+        "away": "4"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643931",
+    "date": "Wednesday, February 1, 2023",
+    "team_home": "Real Betis",
+    "team_away": "Real Betis",
+    "score": "1 - 2",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643931/barcelona-real-betis",
+    "stats": {
+      "Shots on Goal": {
+        "home": "0",
+        "away": "0"
+      },
+      "Shot Attempts": {
+        "home": "0",
+        "away": "0"
+      },
+      "Yellow Cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "Corner Kicks": {
+        "home": "0",
+        "away": "0"
+      },
+      "Saves": {
+        "home": "0",
+        "away": "0"
+      }
+    }
+  },
+  {
+    "gameId": "643932",
+    "date": "Thursday, February 2, 2023",
+    "team_home": "Real Madrid",
+    "team_away": "Real Madrid",
+    "score": "2 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643932/valencia-real-madrid",
+    "stats": {
+      "Possession": {
+        "home": "70.5%",
+        "away": "29.5%"
+      },
+      "Shots on Goal": {
+        "home": "8",
+        "away": "0"
+      },
+      "Shot Attempts": {
+        "home": "19",
+        "away": "4"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "Corner Kicks": {
+        "home": "6",
+        "away": "6"
+      },
+      "Saves": {
+        "home": "0",
+        "away": "5"
+      }
+    }
+  },
+  {
+    "gameId": "643969",
+    "date": "Friday, February 3, 2023",
+    "team_home": "Athletic Club",
+    "team_away": "Athletic Club",
+    "score": "4 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643969/cadiz-athletic-club",
+    "stats": {
+      "Shots on Goal": {
+        "home": "0",
+        "away": "0"
+      },
+      "Shot Attempts": {
+        "home": "0",
+        "away": "0"
+      },
+      "Yellow Cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "Corner Kicks": {
+        "home": "0",
+        "away": "0"
+      },
+      "Saves": {
+        "home": "0",
+        "away": "0"
+      }
+    }
+  },
+  {
+    "gameId": "643970",
+    "date": "Saturday, February 4, 2023",
+    "team_home": "Espanyol",
+    "team_away": "Espanyol",
+    "score": "1 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643970/osasuna-espanyol",
+    "stats": {
+      "Possession": {
+        "home": "40.3%",
+        "away": "59.7%"
+      },
+      "Shots on Goal": {
+        "home": "4",
+        "away": "3"
+      },
+      "Shot Attempts": {
+        "home": "9",
+        "away": "9"
+      },
+      "Yellow Cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "4",
+        "away": "3"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643966",
+    "date": "Saturday, February 4, 2023",
+    "team_home": "Elche",
+    "team_away": "Elche",
+    "score": "3 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643966/villarreal-elche",
+    "stats": {
+      "Possession": {
+        "home": "27.7%",
+        "away": "72.3%"
+      },
+      "Shots on Goal": {
+        "home": "7",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "18",
+        "away": "14"
+      },
+      "Yellow Cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "6",
+        "away": "10"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "4"
+      }
+    }
+  },
+  {
+    "gameId": "643968",
+    "date": "Saturday, February 4, 2023",
+    "team_home": "Atlético Madrid",
+    "team_away": "Atlético Madrid",
+    "score": "1 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643968/getafe-atletico-madrid",
+    "stats": {
+      "Possession": {
+        "home": "62.6%",
+        "away": "37.4%"
+      },
+      "Shots on Goal": {
+        "home": "4",
+        "away": "1"
+      },
+      "Shot Attempts": {
+        "home": "12",
+        "away": "9"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "5"
+      },
+      "Corner Kicks": {
+        "home": "8",
+        "away": "0"
+      },
+      "Saves": {
+        "home": "0",
+        "away": "3"
+      }
+    }
+  },
+  {
+    "gameId": "643961",
+    "date": "Saturday, February 4, 2023",
+    "team_home": "Real Betis",
+    "team_away": "Real Betis",
+    "score": "3 - 4",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643961/celta-vigo-real-betis",
+    "stats": {
+      "Possession": {
+        "home": "54.8%",
+        "away": "45.2%"
+      },
+      "Shots on Goal": {
+        "home": "7",
+        "away": "7"
+      },
+      "Shot Attempts": {
+        "home": "15",
+        "away": "9"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "Corner Kicks": {
+        "home": "5",
+        "away": "5"
+      },
+      "Saves": {
+        "home": "2",
+        "away": "4"
+      }
+    }
+  },
+  {
+    "gameId": "643963",
+    "date": "Sunday, February 5, 2023",
+    "team_home": "Mallorca",
+    "team_away": "Mallorca",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643963/real-madrid-mallorca",
+    "stats": {
+      "Possession": {
+        "home": "26.3%",
+        "away": "73.7%"
+      },
+      "Shots on Goal": {
+        "home": "1",
+        "away": "1"
+      },
+      "Shot Attempts": {
+        "home": "4",
+        "away": "20"
+      },
+      "Yellow Cards": {
+        "home": "5",
+        "away": "5"
+      },
+      "Corner Kicks": {
+        "home": "1",
+        "away": "12"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "1"
+      }
+    }
+  },
+  {
+    "gameId": "643964",
+    "date": "Sunday, February 5, 2023",
+    "team_home": "Girona",
+    "team_away": "Girona",
+    "score": "1 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643964/valencia-girona",
+    "stats": {
+      "Possession": {
+        "home": "51.7%",
+        "away": "48.3%"
+      },
+      "Shots on Goal": {
+        "home": "8",
+        "away": "4"
+      },
+      "Shot Attempts": {
+        "home": "20",
+        "away": "8"
+      },
+      "Yellow Cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "Corner Kicks": {
+        "home": "8",
+        "away": "4"
+      },
+      "Saves": {
+        "home": "4",
+        "away": "7"
+      }
+    }
+  },
+  {
+    "gameId": "643965",
+    "date": "Sunday, February 5, 2023",
+    "team_home": "Real Sociedad",
+    "team_away": "Real Sociedad",
+    "score": "0 - 1",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643965/real-valladolid-real-sociedad",
+    "stats": {
+      "Possession": {
+        "home": "54.8%",
+        "away": "45.2%"
+      },
+      "Shots on Goal": {
+        "home": "4",
+        "away": "2"
+      },
+      "Shot Attempts": {
+        "home": "15",
+        "away": "7"
+      },
+      "Yellow Cards": {
+        "home": "4",
+        "away": "5"
+      },
+      "Corner Kicks": {
+        "home": "0",
+        "away": "4"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "4"
+      }
+    }
+  },
+  {
+    "gameId": "643967",
+    "date": "Sunday, February 5, 2023",
+    "team_home": "Barcelona",
+    "team_away": "Barcelona",
+    "score": "3 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643967/sevilla-barcelona",
+    "stats": {
+      "Shots on Goal": {
+        "home": "0",
+        "away": "0"
+      },
+      "Shot Attempts": {
+        "home": "0",
+        "away": "0"
+      },
+      "Yellow Cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "Corner Kicks": {
+        "home": "0",
+        "away": "0"
+      },
+      "Saves": {
+        "home": "0",
+        "away": "0"
+      }
+    }
+  },
+  {
+    "gameId": "643962",
+    "date": "Monday, February 6, 2023",
+    "team_home": "Rayo Vallecano",
+    "team_away": "Rayo Vallecano",
+    "score": "2 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643962/almeria-rayo-vallecano",
+    "stats": {
+      "Possession": {
+        "home": "48.8%",
+        "away": "51.2%"
+      },
+      "Shots on Goal": {
+        "home": "11",
+        "away": "5"
+      },
+      "Shot Attempts": {
+        "home": "15",
+        "away": "14"
+      },
+      "Yellow Cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "Corner Kicks": {
+        "home": "3",
+        "away": "7"
+      },
+      "Saves": {
+        "home": "5",
+        "away": "10"
+      }
+    }
+  },
+  {
+    "gameId": "643977",
+    "date": "Friday, February 10, 2023",
+    "team_home": "Cádiz",
+    "team_away": "Cádiz",
+    "score": "2 - 0",
+    "league": "esp.1",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/643977/girona-cadiz",
+    "stats": {
+      "Possession": {
+        "home": "42.6%",
+        "away": "57.4%"
+      },
+      "Shots on Goal": {
+        "home": "3",
+        "away": "1"
+      },
+      "Shot Attempts": {
+        "home": "12",
+        "away": "7"
+      },
+      "Yellow Cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "Corner Kicks": {
+        "home": "5",
+        "away": "6"
+      },
+      "Saves": {
+        "home": "1",
+        "away": "2"
+      }
+    }
+  }
+]

@@ -1,0 +1,3982 @@
+[
+  {
+    "gameId": "660618",
+    "date": "Friday, February 3, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660618/almagro-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "660620",
+    "date": "Friday, February 3, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660620/san-martin-tucuman-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "660610",
+    "date": "Saturday, February 4, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660610/nueva-chicago-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "660624",
+    "date": "Saturday, February 4, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660624/guillermo-brown-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "660612",
+    "date": "Saturday, February 4, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660612/san-martin-san-juan-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "660615",
+    "date": "Saturday, February 4, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660615/temperley-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "660611",
+    "date": "Sunday, February 5, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660611/san-telmo-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "660622",
+    "date": "Sunday, February 5, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660622/defensores-unidos-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "660623",
+    "date": "Sunday, February 5, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660623/agropecuario-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "660609",
+    "date": "Friday, February 10, 2023",
+    "team_home": "Aldosivi",
+    "team_away": "Aldosivi",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660609/independiente-rivadavia-aldosivi",
+    "stats": {}
+  },
+  {
+    "gameId": "660613",
+    "date": "Friday, February 10, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660613/tristan-suarez-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "660621",
+    "date": "Friday, February 10, 2023",
+    "team_home": "Gimnasia y Esgrima (Jujuy)",
+    "team_away": "Gimnasia y Esgrima (Jujuy)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660621/ferro-carril-oeste-gimnasia-y-esgrima-jujuy",
+    "stats": {}
+  },
+  {
+    "gameId": "660619",
+    "date": "Friday, February 10, 2023",
+    "team_home": "Estudiantes (Buenos Aires)",
+    "team_away": "Estudiantes (Buenos Aires)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660619/atlanta-estudiantes-buenos-aires",
+    "stats": {}
+  },
+  {
+    "gameId": "661181",
+    "date": "Saturday, February 11, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661181/almirante-brown-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "660614",
+    "date": "Saturday, February 11, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660614/racing-cordoba-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "660616",
+    "date": "Saturday, February 11, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660616/chacarita-juniors-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "661188",
+    "date": "Saturday, February 11, 2023",
+    "team_home": "Flandria",
+    "team_away": "Flandria",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661188/alvarado-mar-del-plata-flandria",
+    "stats": {}
+  },
+  {
+    "gameId": "661195",
+    "date": "Saturday, February 11, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "2 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661195/defensores-de-belgrano-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "661196",
+    "date": "Saturday, February 11, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661196/estudiantes-de-rio-cuarto-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "660626",
+    "date": "Saturday, February 11, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660626/mitre-santiago-del-estero-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "661194",
+    "date": "Saturday, February 11, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661194/all-boys-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "661193",
+    "date": "Saturday, February 11, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661193/gimnasia-mendoza-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "661185",
+    "date": "Sunday, February 12, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661185/patronato-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "661190",
+    "date": "Sunday, February 12, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "4 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661190/guemes-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "660617",
+    "date": "Sunday, February 12, 2023",
+    "team_home": "Deportivo Maipú",
+    "team_away": "Deportivo Maipú",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660617/chaco-for-ever-deportivo-maipu",
+    "stats": {}
+  },
+  {
+    "gameId": "660625",
+    "date": "Sunday, February 12, 2023",
+    "team_home": "Quilmes",
+    "team_away": "Quilmes",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/660625/deportivo-riestra-quilmes",
+    "stats": {}
+  },
+  {
+    "gameId": "661180",
+    "date": "Monday, February 13, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661180/deportivo-moron-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "661213",
+    "date": "Friday, February 17, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661213/san-martin-san-juan-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "661199",
+    "date": "Friday, February 17, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661199/temperley-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "661208",
+    "date": "Friday, February 17, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "2 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661208/san-telmo-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "661189",
+    "date": "Friday, February 17, 2023",
+    "team_home": "Gimnasia y Esgrima (Jujuy)",
+    "team_away": "Gimnasia y Esgrima (Jujuy)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661189/aldosivi-gimnasia-y-esgrima-jujuy",
+    "stats": {}
+  },
+  {
+    "gameId": "661192",
+    "date": "Friday, February 17, 2023",
+    "team_home": "Racing (Córdoba)",
+    "team_away": "Racing (Córdoba)",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661192/estudiantes-buenos-aires-racing-cordoba",
+    "stats": {}
+  },
+  {
+    "gameId": "661187",
+    "date": "Friday, February 17, 2023",
+    "team_home": "Ferro Carril Oeste",
+    "team_away": "Ferro Carril Oeste",
+    "score": "2 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661187/quilmes-ferro-carril-oeste",
+    "stats": {}
+  },
+  {
+    "gameId": "661183",
+    "date": "Saturday, February 18, 2023",
+    "team_home": "Chacarita Juniors",
+    "team_away": "Chacarita Juniors",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661183/villa-dalmine-chacarita-juniors",
+    "stats": {}
+  },
+  {
+    "gameId": "661186",
+    "date": "Saturday, February 18, 2023",
+    "team_home": "Deportivo Riestra",
+    "team_away": "Deportivo Riestra",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661186/brown-adrogue-deportivo-riestra",
+    "stats": {}
+  },
+  {
+    "gameId": "661209",
+    "date": "Saturday, February 18, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661209/flandria-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "661197",
+    "date": "Saturday, February 18, 2023",
+    "team_home": "Tristán Suárez",
+    "team_away": "Tristán Suárez",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661197/deportivo-madryn-tristan-suarez",
+    "stats": {}
+  },
+  {
+    "gameId": "661203",
+    "date": "Saturday, February 18, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661203/almagro-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "661191",
+    "date": "Sunday, February 19, 2023",
+    "team_home": "Mitre (Santiago del Estero)",
+    "team_away": "Mitre (Santiago del Estero)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661191/deportivo-maipu-mitre-santiago-del-estero",
+    "stats": {}
+  },
+  {
+    "gameId": "661184",
+    "date": "Sunday, February 19, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661184/independiente-rivadavia-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "661210",
+    "date": "Sunday, February 19, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661210/defensores-unidos-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "661206",
+    "date": "Sunday, February 19, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661206/guillermo-brown-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "661200",
+    "date": "Monday, February 20, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "4 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661200/agropecuario-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661212",
+    "date": "Monday, February 20, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661212/san-martin-tucuman-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "661182",
+    "date": "Monday, February 20, 2023",
+    "team_home": "Atlanta",
+    "team_away": "Atlanta",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661182/atletico-rafaela-atlanta",
+    "stats": {}
+  },
+  {
+    "gameId": "661229",
+    "date": "Friday, February 24, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661229/all-boys-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "661215",
+    "date": "Friday, February 24, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661215/tristan-suarez-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "661207",
+    "date": "Friday, February 24, 2023",
+    "team_home": "Estudiantes (Buenos Aires)",
+    "team_away": "Estudiantes (Buenos Aires)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661207/deportivo-riestra-estudiantes-buenos-aires",
+    "stats": {}
+  },
+  {
+    "gameId": "661233",
+    "date": "Saturday, February 25, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661233/estudiantes-de-rio-cuarto-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "661202",
+    "date": "Saturday, February 25, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661202/ferro-carril-oeste-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "661204",
+    "date": "Saturday, February 25, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661204/atlanta-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "661222",
+    "date": "Saturday, February 25, 2023",
+    "team_home": "Flandria",
+    "team_away": "Flandria",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661222/patronato-flandria",
+    "stats": {}
+  },
+  {
+    "gameId": "661214",
+    "date": "Saturday, February 25, 2023",
+    "team_home": "Quilmes",
+    "team_away": "Quilmes",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661214/gimnasia-y-esgrima-jujuy-quilmes",
+    "stats": {}
+  },
+  {
+    "gameId": "661230",
+    "date": "Saturday, February 25, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661230/nueva-chicago-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "661228",
+    "date": "Saturday, February 25, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661228/guemes-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "661216",
+    "date": "Saturday, February 25, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661216/gimnasia-mendoza-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "661198",
+    "date": "Sunday, February 26, 2023",
+    "team_home": "Aldosivi",
+    "team_away": "Aldosivi",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661198/chaco-for-ever-aldosivi",
+    "stats": {}
+  },
+  {
+    "gameId": "661219",
+    "date": "Sunday, February 26, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661219/deportivo-moron-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "661224",
+    "date": "Sunday, February 26, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661224/almirante-brown-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661205",
+    "date": "Sunday, February 26, 2023",
+    "team_home": "Deportivo Maipú",
+    "team_away": "Deportivo Maipú",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661205/chacarita-juniors-deportivo-maipu",
+    "stats": {}
+  },
+  {
+    "gameId": "661201",
+    "date": "Sunday, February 26, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661201/racing-cordoba-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "661211",
+    "date": "Sunday, February 26, 2023",
+    "team_home": "Independiente Rivadavia",
+    "team_away": "Independiente Rivadavia",
+    "score": "4 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661211/mitre-santiago-del-estero-independiente-rivadavia",
+    "stats": {}
+  },
+  {
+    "gameId": "661232",
+    "date": "Monday, February 27, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661232/defensores-de-belgrano-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "661220",
+    "date": "Friday, March 3, 2023",
+    "team_home": "Deportivo Riestra",
+    "team_away": "Deportivo Riestra",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661220/atletico-rafaela-deportivo-riestra",
+    "stats": {}
+  },
+  {
+    "gameId": "661227",
+    "date": "Friday, March 3, 2023",
+    "team_home": "Racing (Córdoba)",
+    "team_away": "Racing (Córdoba)",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661227/deportivo-madryn-racing-cordoba",
+    "stats": {}
+  },
+  {
+    "gameId": "661251",
+    "date": "Friday, March 3, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661251/almagro-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "661218",
+    "date": "Saturday, March 4, 2023",
+    "team_home": "Chacarita Juniors",
+    "team_away": "Chacarita Juniors",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661218/independiente-rivadavia-chacarita-juniors",
+    "stats": {}
+  },
+  {
+    "gameId": "661223",
+    "date": "Saturday, March 4, 2023",
+    "team_home": "Gimnasia y Esgrima (Jujuy)",
+    "team_away": "Gimnasia y Esgrima (Jujuy)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661223/brown-adrogue-gimnasia-y-esgrima-jujuy",
+    "stats": {}
+  },
+  {
+    "gameId": "661248",
+    "date": "Saturday, March 4, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661248/san-telmo-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "661231",
+    "date": "Saturday, March 4, 2023",
+    "team_home": "Tristán Suárez",
+    "team_away": "Tristán Suárez",
+    "score": "0 - 4",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661231/deportivo-maipu-tristan-suarez",
+    "stats": {}
+  },
+  {
+    "gameId": "661246",
+    "date": "Saturday, March 4, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661246/flandria-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "661225",
+    "date": "Saturday, March 4, 2023",
+    "team_home": "Mitre (Santiago del Estero)",
+    "team_away": "Mitre (Santiago del Estero)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661225/chaco-for-ever-mitre-santiago-del-estero",
+    "stats": {}
+  },
+  {
+    "gameId": "661243",
+    "date": "Saturday, March 4, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661243/san-martin-san-juan-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "661221",
+    "date": "Saturday, March 4, 2023",
+    "team_home": "Ferro Carril Oeste",
+    "team_away": "Ferro Carril Oeste",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661221/estudiantes-buenos-aires-ferro-carril-oeste",
+    "stats": {}
+  },
+  {
+    "gameId": "661236",
+    "date": "Sunday, March 5, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661236/defensores-unidos-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661217",
+    "date": "Sunday, March 5, 2023",
+    "team_home": "Atlanta",
+    "team_away": "Atlanta",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661217/villa-dalmine-atlanta",
+    "stats": {}
+  },
+  {
+    "gameId": "661250",
+    "date": "Sunday, March 5, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661250/temperley-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "661245",
+    "date": "Sunday, March 5, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661245/agropecuario-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "661226",
+    "date": "Sunday, March 5, 2023",
+    "team_home": "Quilmes",
+    "team_away": "Quilmes",
+    "score": "4 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661226/aldosivi-quilmes",
+    "stats": {}
+  },
+  {
+    "gameId": "661235",
+    "date": "Monday, March 6, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "4 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661235/guillermo-brown-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "661249",
+    "date": "Monday, March 6, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "6 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661249/alvarado-mar-del-plata-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "661237",
+    "date": "Friday, March 10, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661237/ferro-carril-oeste-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "661238",
+    "date": "Saturday, March 11, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661238/quilmes-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "661258",
+    "date": "Saturday, March 11, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661258/defensores-de-belgrano-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "661241",
+    "date": "Saturday, March 11, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "0 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661241/deportivo-riestra-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "661254",
+    "date": "Saturday, March 11, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661254/guemes-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "661267",
+    "date": "Saturday, March 11, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661267/almirante-brown-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "661252",
+    "date": "Saturday, March 11, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661252/all-boys-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "661263",
+    "date": "Saturday, March 11, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661263/patronato-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "661244",
+    "date": "Saturday, March 11, 2023",
+    "team_home": "Estudiantes (Buenos Aires)",
+    "team_away": "Estudiantes (Buenos Aires)",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661244/gimnasia-y-esgrima-jujuy-estudiantes-buenos-aires",
+    "stats": {}
+  },
+  {
+    "gameId": "661242",
+    "date": "Sunday, March 12, 2023",
+    "team_home": "Deportivo Maipú",
+    "team_away": "Deportivo Maipú",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661242/atlanta-deportivo-maipu",
+    "stats": {}
+  },
+  {
+    "gameId": "661261",
+    "date": "Sunday, March 12, 2023",
+    "team_home": "Flandria",
+    "team_away": "Flandria",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661261/deportivo-moron-flandria",
+    "stats": {}
+  },
+  {
+    "gameId": "661264",
+    "date": "Sunday, March 12, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661264/estudiantes-de-rio-cuarto-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661239",
+    "date": "Sunday, March 12, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661239/chacarita-juniors-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "661240",
+    "date": "Sunday, March 12, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661240/racing-cordoba-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "661253",
+    "date": "Sunday, March 12, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661253/nueva-chicago-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "661247",
+    "date": "Sunday, March 12, 2023",
+    "team_home": "Independiente Rivadavia",
+    "team_away": "Independiente Rivadavia",
+    "score": "1 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661247/tristan-suarez-independiente-rivadavia",
+    "stats": {}
+  },
+  {
+    "gameId": "661268",
+    "date": "Monday, March 13, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661268/san-martin-tucuman-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "661234",
+    "date": "Monday, March 13, 2023",
+    "team_home": "Aldosivi",
+    "team_away": "Aldosivi",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661234/mitre-santiago-del-estero-aldosivi",
+    "stats": {}
+  },
+  {
+    "gameId": "661260",
+    "date": "Friday, March 17, 2023",
+    "team_home": "Ferro Carril Oeste",
+    "team_away": "Ferro Carril Oeste",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661260/deportivo-madryn-ferro-carril-oeste",
+    "stats": {}
+  },
+  {
+    "gameId": "661262",
+    "date": "Saturday, March 18, 2023",
+    "team_home": "Gimnasia y Esgrima (Jujuy)",
+    "team_away": "Gimnasia y Esgrima (Jujuy)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661262/atletico-rafaela-gimnasia-y-esgrima-jujuy",
+    "stats": {}
+  },
+  {
+    "gameId": "661272",
+    "date": "Saturday, March 18, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661272/flandria-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661256",
+    "date": "Saturday, March 18, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661256/aldosivi-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "661284",
+    "date": "Saturday, March 18, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661284/agropecuario-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "661269",
+    "date": "Saturday, March 18, 2023",
+    "team_home": "Tristán Suárez",
+    "team_away": "Tristán Suárez",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661269/chaco-for-ever-tristan-suarez",
+    "stats": {}
+  },
+  {
+    "gameId": "661271",
+    "date": "Saturday, March 18, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661271/guillermo-brown-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "661257",
+    "date": "Saturday, March 18, 2023",
+    "team_home": "Chacarita Juniors",
+    "team_away": "Chacarita Juniors",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661257/mitre-santiago-del-estero-chacarita-juniors",
+    "stats": {}
+  },
+  {
+    "gameId": "661265",
+    "date": "Saturday, March 18, 2023",
+    "team_home": "Quilmes",
+    "team_away": "Quilmes",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661265/estudiantes-buenos-aires-quilmes",
+    "stats": {}
+  },
+  {
+    "gameId": "661275",
+    "date": "Sunday, March 19, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661275/san-martin-san-juan-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "661255",
+    "date": "Sunday, March 19, 2023",
+    "team_home": "Atlanta",
+    "team_away": "Atlanta",
+    "score": "2 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661255/independiente-rivadavia-atlanta",
+    "stats": {}
+  },
+  {
+    "gameId": "661266",
+    "date": "Sunday, March 19, 2023",
+    "team_home": "Racing (Córdoba)",
+    "team_away": "Racing (Córdoba)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661266/deportivo-maipu-racing-cordoba",
+    "stats": {}
+  },
+  {
+    "gameId": "661286",
+    "date": "Sunday, March 19, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661286/san-telmo-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "661281",
+    "date": "Sunday, March 19, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661281/gimnasia-mendoza-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "661285",
+    "date": "Sunday, March 19, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661285/almagro-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "661280",
+    "date": "Sunday, March 19, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661280/defensores-unidos-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "661259",
+    "date": "Monday, March 20, 2023",
+    "team_home": "Deportivo Riestra",
+    "team_away": "Deportivo Riestra",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661259/villa-dalmine-deportivo-riestra",
+    "stats": {}
+  },
+  {
+    "gameId": "661278",
+    "date": "Monday, March 20, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661278/alvarado-mar-del-plata-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "661304",
+    "date": "Saturday, March 25, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661304/san-martin-tucuman-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "661279",
+    "date": "Saturday, March 25, 2023",
+    "team_home": "Estudiantes (Buenos Aires)",
+    "team_away": "Estudiantes (Buenos Aires)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661279/brown-adrogue-estudiantes-buenos-aires",
+    "stats": {}
+  },
+  {
+    "gameId": "661295",
+    "date": "Saturday, March 25, 2023",
+    "team_home": "Flandria",
+    "team_away": "Flandria",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661295/defensores-de-belgrano-flandria",
+    "stats": {}
+  },
+  {
+    "gameId": "661276",
+    "date": "Saturday, March 25, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661276/gimnasia-y-esgrima-jujuy-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "661299",
+    "date": "Saturday, March 25, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661299/guemes-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "661288",
+    "date": "Saturday, March 25, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661288/almirante-brown-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "661287",
+    "date": "Saturday, March 25, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661287/ferro-carril-oeste-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "661270",
+    "date": "Sunday, March 26, 2023",
+    "team_home": "Aldosivi",
+    "team_away": "Aldosivi",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661270/chacarita-juniors-aldosivi",
+    "stats": {}
+  },
+  {
+    "gameId": "661305",
+    "date": "Sunday, March 26, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661305/temperley-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "661291",
+    "date": "Sunday, March 26, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661291/all-boys-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "661298",
+    "date": "Sunday, March 26, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661298/nueva-chicago-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661297",
+    "date": "Sunday, March 26, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "2 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661297/deportivo-moron-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "661283",
+    "date": "Sunday, March 26, 2023",
+    "team_home": "Mitre (Santiago del Estero)",
+    "team_away": "Mitre (Santiago del Estero)",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661283/tristan-suarez-mitre-santiago-del-estero",
+    "stats": {}
+  },
+  {
+    "gameId": "661274",
+    "date": "Sunday, March 26, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661274/atlanta-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "661277",
+    "date": "Sunday, March 26, 2023",
+    "team_home": "Deportivo Maipú",
+    "team_away": "Deportivo Maipú",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661277/deportivo-riestra-deportivo-maipu",
+    "stats": {}
+  },
+  {
+    "gameId": "661302",
+    "date": "Sunday, March 26, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661302/estudiantes-de-rio-cuarto-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "661273",
+    "date": "Sunday, March 26, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661273/quilmes-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "661282",
+    "date": "Monday, March 27, 2023",
+    "team_home": "Independiente Rivadavia",
+    "team_away": "Independiente Rivadavia",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661282/racing-cordoba-independiente-rivadavia",
+    "stats": {}
+  },
+  {
+    "gameId": "661319",
+    "date": "Thursday, March 30, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661319/defensores-unidos-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "661307",
+    "date": "Friday, March 31, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661307/san-martin-san-juan-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "661308",
+    "date": "Friday, March 31, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661308/gimnasia-mendoza-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661322",
+    "date": "Friday, March 31, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661322/agropecuario-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "661316",
+    "date": "Friday, March 31, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661316/flandria-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "661296",
+    "date": "Friday, March 31, 2023",
+    "team_home": "Gimnasia y Esgrima (Jujuy)",
+    "team_away": "Gimnasia y Esgrima (Jujuy)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661296/villa-dalmine-gimnasia-y-esgrima-jujuy",
+    "stats": {}
+  },
+  {
+    "gameId": "661320",
+    "date": "Friday, March 31, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661320/guillermo-brown-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "661312",
+    "date": "Saturday, April 1, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661312/alvarado-mar-del-plata-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "661303",
+    "date": "Saturday, April 1, 2023",
+    "team_home": "Tristán Suárez",
+    "team_away": "Tristán Suárez",
+    "score": "1 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661303/chacarita-juniors-tristan-suarez",
+    "stats": {}
+  },
+  {
+    "gameId": "661293",
+    "date": "Saturday, April 1, 2023",
+    "team_home": "Estudiantes (Buenos Aires)",
+    "team_away": "Estudiantes (Buenos Aires)",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661293/aldosivi-estudiantes-buenos-aires",
+    "stats": {}
+  },
+  {
+    "gameId": "661292",
+    "date": "Sunday, April 2, 2023",
+    "team_home": "Deportivo Riestra",
+    "team_away": "Deportivo Riestra",
+    "score": "3 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661292/independiente-rivadavia-deportivo-riestra",
+    "stats": {}
+  },
+  {
+    "gameId": "661321",
+    "date": "Sunday, April 2, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "3 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661321/almagro-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "661315",
+    "date": "Sunday, April 2, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661315/patronato-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "661301",
+    "date": "Sunday, April 2, 2023",
+    "team_home": "Racing (Córdoba)",
+    "team_away": "Racing (Córdoba)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661301/chaco-for-ever-racing-cordoba",
+    "stats": {}
+  },
+  {
+    "gameId": "661294",
+    "date": "Sunday, April 2, 2023",
+    "team_home": "Ferro Carril Oeste",
+    "team_away": "Ferro Carril Oeste",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661294/deportivo-maipu-ferro-carril-oeste",
+    "stats": {}
+  },
+  {
+    "gameId": "661290",
+    "date": "Monday, April 3, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661290/atletico-rafaela-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "661289",
+    "date": "Monday, April 3, 2023",
+    "team_home": "Atlanta",
+    "team_away": "Atlanta",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661289/mitre-santiago-del-estero-atlanta",
+    "stats": {}
+  },
+  {
+    "gameId": "661300",
+    "date": "Monday, April 3, 2023",
+    "team_home": "Quilmes",
+    "team_away": "Quilmes",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661300/deportivo-madryn-quilmes",
+    "stats": {}
+  },
+  {
+    "gameId": "661333",
+    "date": "Wednesday, April 5, 2023",
+    "team_home": "Flandria",
+    "team_away": "Flandria",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661333/all-boys-flandria",
+    "stats": {}
+  },
+  {
+    "gameId": "661329",
+    "date": "Wednesday, April 5, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661329/san-martin-tucuman-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "661324",
+    "date": "Wednesday, April 5, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661324/san-telmo-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "661335",
+    "date": "Wednesday, April 5, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661335/defensores-de-belgrano-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "661336",
+    "date": "Wednesday, April 5, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "2 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661336/temperley-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661325",
+    "date": "Wednesday, April 5, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661325/estudiantes-de-rio-cuarto-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "661337",
+    "date": "Wednesday, April 5, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661337/deportivo-moron-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "661341",
+    "date": "Wednesday, April 5, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661341/nueva-chicago-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "661314",
+    "date": "Friday, April 7, 2023",
+    "team_home": "Deportivo Maipú",
+    "team_away": "Deportivo Maipú",
+    "score": "3 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661314/gimnasia-y-esgrima-jujuy-deportivo-maipu",
+    "stats": {}
+  },
+  {
+    "gameId": "661344",
+    "date": "Saturday, April 8, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661344/agropecuario-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "661313",
+    "date": "Saturday, April 8, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661313/brown-adrogue-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "661306",
+    "date": "Saturday, April 8, 2023",
+    "team_home": "Aldosivi",
+    "team_away": "Aldosivi",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661306/tristan-suarez-aldosivi",
+    "stats": {}
+  },
+  {
+    "gameId": "661359",
+    "date": "Saturday, April 8, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661359/alvarado-mar-del-plata-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "661310",
+    "date": "Saturday, April 8, 2023",
+    "team_home": "Chacarita Juniors",
+    "team_away": "Chacarita Juniors",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661310/atlanta-chacarita-juniors",
+    "stats": {}
+  },
+  {
+    "gameId": "661317",
+    "date": "Saturday, April 8, 2023",
+    "team_home": "Independiente Rivadavia",
+    "team_away": "Independiente Rivadavia",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661317/ferro-carril-oeste-independiente-rivadavia",
+    "stats": {}
+  },
+  {
+    "gameId": "661345",
+    "date": "Saturday, April 8, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661345/guemes-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661323",
+    "date": "Saturday, April 8, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661323/quilmes-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "661355",
+    "date": "Sunday, April 9, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "4 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661355/san-martin-san-juan-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "661311",
+    "date": "Sunday, April 9, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661311/deportivo-riestra-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "661318",
+    "date": "Sunday, April 9, 2023",
+    "team_home": "Mitre (Santiago del Estero)",
+    "team_away": "Mitre (Santiago del Estero)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661318/racing-cordoba-mitre-santiago-del-estero",
+    "stats": {}
+  },
+  {
+    "gameId": "661309",
+    "date": "Sunday, April 9, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661309/estudiantes-buenos-aires-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "661356",
+    "date": "Monday, April 10, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661356/guillermo-brown-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "661354",
+    "date": "Monday, April 10, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661354/flandria-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "661343",
+    "date": "Monday, April 10, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661343/patronato-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "661351",
+    "date": "Monday, April 10, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661351/gimnasia-mendoza-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "661357",
+    "date": "Monday, April 10, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661357/defensores-unidos-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "661327",
+    "date": "Friday, April 14, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "2 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661327/aldosivi-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "661334",
+    "date": "Friday, April 14, 2023",
+    "team_home": "Gimnasia y Esgrima (Jujuy)",
+    "team_away": "Gimnasia y Esgrima (Jujuy)",
+    "score": "1 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661334/independiente-rivadavia-gimnasia-y-esgrima-jujuy",
+    "stats": {}
+  },
+  {
+    "gameId": "661374",
+    "date": "Friday, April 14, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661374/estudiantes-de-rio-cuarto-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "661328",
+    "date": "Saturday, April 15, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661328/villa-dalmine-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "661365",
+    "date": "Saturday, April 15, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "2 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661365/almirante-brown-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "661369",
+    "date": "Saturday, April 15, 2023",
+    "team_home": "Flandria",
+    "team_away": "Flandria",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661369/san-martin-tucuman-flandria",
+    "stats": {}
+  },
+  {
+    "gameId": "661372",
+    "date": "Sunday, April 16, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661372/almagro-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661363",
+    "date": "Sunday, April 16, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "3 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661363/san-telmo-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "661331",
+    "date": "Sunday, April 16, 2023",
+    "team_home": "Estudiantes (Buenos Aires)",
+    "team_away": "Estudiantes (Buenos Aires)",
+    "score": "0 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661331/deportivo-madryn-estudiantes-buenos-aires",
+    "stats": {}
+  },
+  {
+    "gameId": "661373",
+    "date": "Sunday, April 16, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661373/defensores-de-belgrano-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "661339",
+    "date": "Sunday, April 16, 2023",
+    "team_home": "Quilmes",
+    "team_away": "Quilmes",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661339/deportivo-maipu-quilmes",
+    "stats": {}
+  },
+  {
+    "gameId": "661360",
+    "date": "Sunday, April 16, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661360/nueva-chicago-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "661371",
+    "date": "Sunday, April 16, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661371/all-boys-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "661377",
+    "date": "Sunday, April 16, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661377/temperley-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "661332",
+    "date": "Sunday, April 16, 2023",
+    "team_home": "Ferro Carril Oeste",
+    "team_away": "Ferro Carril Oeste",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661332/chaco-for-ever-ferro-carril-oeste",
+    "stats": {}
+  },
+  {
+    "gameId": "661330",
+    "date": "Monday, April 17, 2023",
+    "team_home": "Deportivo Riestra",
+    "team_away": "Deportivo Riestra",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661330/mitre-santiago-del-estero-deportivo-riestra",
+    "stats": {}
+  },
+  {
+    "gameId": "661326",
+    "date": "Monday, April 17, 2023",
+    "team_home": "Atlanta",
+    "team_away": "Atlanta",
+    "score": "3 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661326/tristan-suarez-atlanta",
+    "stats": {}
+  },
+  {
+    "gameId": "661340",
+    "date": "Monday, April 17, 2023",
+    "team_home": "Racing (Córdoba)",
+    "team_away": "Racing (Córdoba)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661340/chacarita-juniors-racing-cordoba",
+    "stats": {}
+  },
+  {
+    "gameId": "661387",
+    "date": "Friday, April 21, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661387/guemes-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "661378",
+    "date": "Saturday, April 22, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661378/guillermo-brown-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "661349",
+    "date": "Saturday, April 22, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661349/atletico-rafaela-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "661390",
+    "date": "Saturday, April 22, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "2 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661390/gimnasia-mendoza-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "661346",
+    "date": "Saturday, April 22, 2023",
+    "team_home": "Chacarita Juniors",
+    "team_away": "Chacarita Juniors",
+    "score": "4 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661346/deportivo-riestra-chacarita-juniors",
+    "stats": {}
+  },
+  {
+    "gameId": "661348",
+    "date": "Saturday, April 22, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661348/estudiantes-buenos-aires-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "661342",
+    "date": "Saturday, April 22, 2023",
+    "team_home": "Aldosivi",
+    "team_away": "Aldosivi",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661342/atlanta-aldosivi",
+    "stats": {}
+  },
+  {
+    "gameId": "661380",
+    "date": "Saturday, April 22, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661380/patronato-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "661381",
+    "date": "Sunday, April 23, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661381/defensores-unidos-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "661392",
+    "date": "Sunday, April 23, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661392/san-martin-san-juan-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "661358",
+    "date": "Sunday, April 23, 2023",
+    "team_home": "Tristán Suárez",
+    "team_away": "Tristán Suárez",
+    "score": "3 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661358/racing-cordoba-tristan-suarez",
+    "stats": {}
+  },
+  {
+    "gameId": "661350",
+    "date": "Sunday, April 23, 2023",
+    "team_home": "Deportivo Maipú",
+    "team_away": "Deportivo Maipú",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661350/brown-adrogue-deportivo-maipu",
+    "stats": {}
+  },
+  {
+    "gameId": "661353",
+    "date": "Sunday, April 23, 2023",
+    "team_home": "Mitre (Santiago del Estero)",
+    "team_away": "Mitre (Santiago del Estero)",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661353/ferro-carril-oeste-mitre-santiago-del-estero",
+    "stats": {}
+  },
+  {
+    "gameId": "661347",
+    "date": "Sunday, April 23, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661347/gimnasia-y-esgrima-jujuy-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "661352",
+    "date": "Sunday, April 23, 2023",
+    "team_home": "Independiente Rivadavia",
+    "team_away": "Independiente Rivadavia",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661352/quilmes-independiente-rivadavia",
+    "stats": {}
+  },
+  {
+    "gameId": "661385",
+    "date": "Monday, April 24, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661385/deportivo-moron-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "661393",
+    "date": "Monday, April 24, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661393/flandria-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "661391",
+    "date": "Monday, April 24, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661391/alvarado-mar-del-plata-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "661370",
+    "date": "Friday, April 28, 2023",
+    "team_home": "Gimnasia y Esgrima (Jujuy)",
+    "team_away": "Gimnasia y Esgrima (Jujuy)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661370/mitre-santiago-del-estero-gimnasia-y-esgrima-jujuy",
+    "stats": {}
+  },
+  {
+    "gameId": "661362",
+    "date": "Saturday, April 29, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661362/independiente-rivadavia-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "661400",
+    "date": "Saturday, April 29, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661400/agropecuario-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "661364",
+    "date": "Saturday, April 29, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661364/aldosivi-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "661367",
+    "date": "Saturday, April 29, 2023",
+    "team_home": "Estudiantes (Buenos Aires)",
+    "team_away": "Estudiantes (Buenos Aires)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661367/deportivo-maipu-estudiantes-buenos-aires",
+    "stats": {}
+  },
+  {
+    "gameId": "661375",
+    "date": "Saturday, April 29, 2023",
+    "team_home": "Quilmes",
+    "team_away": "Quilmes",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661375/chaco-for-ever-quilmes",
+    "stats": {}
+  },
+  {
+    "gameId": "661366",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Deportivo Riestra",
+    "team_away": "Deportivo Riestra",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661366/tristan-suarez-deportivo-riestra",
+    "stats": {}
+  },
+  {
+    "gameId": "661406",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Flandria",
+    "team_away": "Flandria",
+    "score": "1 - 4",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661406/san-telmo-flandria",
+    "stats": {}
+  },
+  {
+    "gameId": "661396",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661396/defensores-de-belgrano-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661413",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661413/temperley-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "661408",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661408/san-martin-tucuman-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "661376",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Racing (Córdoba)",
+    "team_away": "Racing (Córdoba)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661376/atlanta-racing-cordoba",
+    "stats": {}
+  },
+  {
+    "gameId": "661397",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661397/estudiantes-de-rio-cuarto-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "661409",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661409/all-boys-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "661412",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661412/almagro-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "661410",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661410/nueva-chicago-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "661361",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661361/villa-dalmine-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "661368",
+    "date": "Sunday, April 30, 2023",
+    "team_home": "Ferro Carril Oeste",
+    "team_away": "Ferro Carril Oeste",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661368/chacarita-juniors-ferro-carril-oeste",
+    "stats": {}
+  },
+  {
+    "gameId": "661417",
+    "date": "Friday, May 5, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661417/flandria-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "661416",
+    "date": "Friday, May 5, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661416/deportivo-moron-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "661426",
+    "date": "Saturday, May 6, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661426/guemes-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "661414",
+    "date": "Saturday, May 6, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "4 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661414/san-martin-san-juan-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "661429",
+    "date": "Saturday, May 6, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661429/alvarado-mar-del-plata-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "661394",
+    "date": "Saturday, May 6, 2023",
+    "team_home": "Tristán Suárez",
+    "team_away": "Tristán Suárez",
+    "score": "2 - 4",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661394/ferro-carril-oeste-tristan-suarez",
+    "stats": {}
+  },
+  {
+    "gameId": "661379",
+    "date": "Saturday, May 6, 2023",
+    "team_home": "Aldosivi",
+    "team_away": "Aldosivi",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661379/racing-cordoba-aldosivi",
+    "stats": {}
+  },
+  {
+    "gameId": "661383",
+    "date": "Saturday, May 6, 2023",
+    "team_home": "Chacarita Juniors",
+    "team_away": "Chacarita Juniors",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661383/gimnasia-y-esgrima-jujuy-chacarita-juniors",
+    "stats": {}
+  },
+  {
+    "gameId": "661395",
+    "date": "Saturday, May 6, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "1 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661395/deportivo-madryn-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "661388",
+    "date": "Saturday, May 6, 2023",
+    "team_home": "Independiente Rivadavia",
+    "team_away": "Independiente Rivadavia",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661388/estudiantes-buenos-aires-independiente-rivadavia",
+    "stats": {}
+  },
+  {
+    "gameId": "661422",
+    "date": "Saturday, May 6, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661422/almirante-brown-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "661386",
+    "date": "Sunday, May 7, 2023",
+    "team_home": "Deportivo Maipú",
+    "team_away": "Deportivo Maipú",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661386/atletico-rafaela-deportivo-maipu",
+    "stats": {}
+  },
+  {
+    "gameId": "661423",
+    "date": "Sunday, May 7, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661423/defensores-unidos-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661430",
+    "date": "Sunday, May 7, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661430/gimnasia-mendoza-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "661384",
+    "date": "Sunday, May 7, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661384/brown-adrogue-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "661389",
+    "date": "Sunday, May 7, 2023",
+    "team_home": "Mitre (Santiago del Estero)",
+    "team_away": "Mitre (Santiago del Estero)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661389/quilmes-mitre-santiago-del-estero",
+    "stats": {}
+  },
+  {
+    "gameId": "661428",
+    "date": "Sunday, May 7, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661428/patronato-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "661382",
+    "date": "Monday, May 8, 2023",
+    "team_home": "Atlanta",
+    "team_away": "Atlanta",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661382/deportivo-riestra-atlanta",
+    "stats": {}
+  },
+  {
+    "gameId": "661407",
+    "date": "Friday, May 12, 2023",
+    "team_home": "Gimnasia y Esgrima (Jujuy)",
+    "team_away": "Gimnasia y Esgrima (Jujuy)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661407/tristan-suarez-gimnasia-y-esgrima-jujuy",
+    "stats": {}
+  },
+  {
+    "gameId": "661439",
+    "date": "Saturday, May 13, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661439/nueva-chicago-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "661401",
+    "date": "Saturday, May 13, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "2 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661401/deportivo-maipu-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "661436",
+    "date": "Saturday, May 13, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661436/estudiantes-de-rio-cuarto-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "661444",
+    "date": "Saturday, May 13, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661444/san-telmo-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "661446",
+    "date": "Saturday, May 13, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661446/temperley-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "661398",
+    "date": "Saturday, May 13, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "1 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661398/independiente-rivadavia-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "661402",
+    "date": "Saturday, May 13, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661402/aldosivi-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "661432",
+    "date": "Saturday, May 13, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661432/all-boys-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661411",
+    "date": "Saturday, May 13, 2023",
+    "team_home": "Quilmes",
+    "team_away": "Quilmes",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661411/chacarita-juniors-quilmes",
+    "stats": {}
+  },
+  {
+    "gameId": "661399",
+    "date": "Sunday, May 14, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661399/mitre-santiago-del-estero-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "661442",
+    "date": "Sunday, May 14, 2023",
+    "team_home": "Flandria",
+    "team_away": "Flandria",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661442/agropecuario-flandria",
+    "stats": {}
+  },
+  {
+    "gameId": "661433",
+    "date": "Sunday, May 14, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661433/almagro-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "661405",
+    "date": "Sunday, May 14, 2023",
+    "team_home": "Ferro Carril Oeste",
+    "team_away": "Ferro Carril Oeste",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661405/atlanta-ferro-carril-oeste",
+    "stats": {}
+  },
+  {
+    "gameId": "661403",
+    "date": "Monday, May 15, 2023",
+    "team_home": "Deportivo Riestra",
+    "team_away": "Deportivo Riestra",
+    "score": "2 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661403/racing-cordoba-deportivo-riestra",
+    "stats": {}
+  },
+  {
+    "gameId": "661445",
+    "date": "Monday, May 15, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661445/san-martin-tucuman-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "661404",
+    "date": "Monday, May 15, 2023",
+    "team_home": "Estudiantes (Buenos Aires)",
+    "team_away": "Estudiantes (Buenos Aires)",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661404/chaco-for-ever-estudiantes-buenos-aires",
+    "stats": {}
+  },
+  {
+    "gameId": "661448",
+    "date": "Monday, May 15, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661448/guillermo-brown-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "661460",
+    "date": "Saturday, May 20, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661460/almirante-brown-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "661466",
+    "date": "Saturday, May 20, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661466/alvarado-mar-del-plata-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "661415",
+    "date": "Saturday, May 20, 2023",
+    "team_home": "Aldosivi",
+    "team_away": "Aldosivi",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661415/deportivo-riestra-aldosivi",
+    "stats": {}
+  },
+  {
+    "gameId": "661451",
+    "date": "Saturday, May 20, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661451/gimnasia-mendoza-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "661455",
+    "date": "Saturday, May 20, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661455/san-martin-san-juan-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "661463",
+    "date": "Saturday, May 20, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661463/patronato-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "661464",
+    "date": "Saturday, May 20, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "3 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661464/guemes-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "661420",
+    "date": "Saturday, May 20, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661420/atletico-rafaela-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "661424",
+    "date": "Saturday, May 20, 2023",
+    "team_home": "Independiente Rivadavia",
+    "team_away": "Independiente Rivadavia",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661424/deportivo-madryn-independiente-rivadavia",
+    "stats": {}
+  },
+  {
+    "gameId": "661431",
+    "date": "Saturday, May 20, 2023",
+    "team_home": "Tristán Suárez",
+    "team_away": "Tristán Suárez",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661431/quilmes-tristan-suarez",
+    "stats": {}
+  },
+  {
+    "gameId": "661419",
+    "date": "Sunday, May 21, 2023",
+    "team_home": "Chacarita Juniors",
+    "team_away": "Chacarita Juniors",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661419/brown-adrogue-chacarita-juniors",
+    "stats": {}
+  },
+  {
+    "gameId": "661457",
+    "date": "Sunday, May 21, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661457/flandria-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661421",
+    "date": "Sunday, May 21, 2023",
+    "team_home": "Deportivo Maipú",
+    "team_away": "Deportivo Maipú",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661421/villa-dalmine-deportivo-maipu",
+    "stats": {}
+  },
+  {
+    "gameId": "661425",
+    "date": "Sunday, May 21, 2023",
+    "team_home": "Mitre (Santiago del Estero)",
+    "team_away": "Mitre (Santiago del Estero)",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661425/estudiantes-buenos-aires-mitre-santiago-del-estero",
+    "stats": {}
+  },
+  {
+    "gameId": "661462",
+    "date": "Sunday, May 21, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661462/deportivo-moron-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "661427",
+    "date": "Monday, May 22, 2023",
+    "team_home": "Racing (Córdoba)",
+    "team_away": "Racing (Córdoba)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661427/ferro-carril-oeste-racing-cordoba",
+    "stats": {}
+  },
+  {
+    "gameId": "661418",
+    "date": "Monday, May 22, 2023",
+    "team_home": "Atlanta",
+    "team_away": "Atlanta",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661418/gimnasia-y-esgrima-jujuy-atlanta",
+    "stats": {}
+  },
+  {
+    "gameId": "661450",
+    "date": "Monday, May 22, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661450/defensores-de-belgrano-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "661474",
+    "date": "Friday, May 26, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661474/agropecuario-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "661472",
+    "date": "Friday, May 26, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661472/all-boys-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "661437",
+    "date": "Saturday, May 27, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661437/chaco-for-ever-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "661449",
+    "date": "Saturday, May 27, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "0 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661449/independiente-rivadavia-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "661475",
+    "date": "Saturday, May 27, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661475/san-telmo-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "661468",
+    "date": "Saturday, May 27, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661468/san-martin-tucuman-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661471",
+    "date": "Saturday, May 27, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661471/temperley-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "661447",
+    "date": "Saturday, May 27, 2023",
+    "team_home": "Quilmes",
+    "team_away": "Quilmes",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661447/atlanta-quilmes",
+    "stats": {}
+  },
+  {
+    "gameId": "661435",
+    "date": "Sunday, May 28, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661435/tristan-suarez-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "661438",
+    "date": "Sunday, May 28, 2023",
+    "team_home": "Deportivo Maipú",
+    "team_away": "Deportivo Maipú",
+    "score": "3 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661438/aldosivi-deportivo-maipu",
+    "stats": {}
+  },
+  {
+    "gameId": "661473",
+    "date": "Sunday, May 28, 2023",
+    "team_home": "Flandria",
+    "team_away": "Flandria",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661473/defensores-unidos-flandria",
+    "stats": {}
+  },
+  {
+    "gameId": "661476",
+    "date": "Sunday, May 28, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661476/almagro-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "661469",
+    "date": "Sunday, May 28, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661469/guillermo-brown-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "661443",
+    "date": "Sunday, May 28, 2023",
+    "team_home": "Gimnasia y Esgrima (Jujuy)",
+    "team_away": "Gimnasia y Esgrima (Jujuy)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661443/racing-cordoba-gimnasia-y-esgrima-jujuy",
+    "stats": {}
+  },
+  {
+    "gameId": "661440",
+    "date": "Sunday, May 28, 2023",
+    "team_home": "Estudiantes (Buenos Aires)",
+    "team_away": "Estudiantes (Buenos Aires)",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661440/chacarita-juniors-estudiantes-buenos-aires",
+    "stats": {}
+  },
+  {
+    "gameId": "661434",
+    "date": "Sunday, May 28, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661434/mitre-santiago-del-estero-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "661441",
+    "date": "Monday, May 29, 2023",
+    "team_home": "Ferro Carril Oeste",
+    "team_away": "Ferro Carril Oeste",
+    "score": "2 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661441/deportivo-riestra-ferro-carril-oeste",
+    "stats": {}
+  },
+  {
+    "gameId": "661470",
+    "date": "Tuesday, May 30, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661470/nueva-chicago-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "661453",
+    "date": "Friday, June 2, 2023",
+    "team_home": "Chacarita Juniors",
+    "team_away": "Chacarita Juniors",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661453/atletico-rafaela-chacarita-juniors",
+    "stats": {}
+  },
+  {
+    "gameId": "661456",
+    "date": "Saturday, June 3, 2023",
+    "team_home": "Deportivo Riestra",
+    "team_away": "Deportivo Riestra",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661456/gimnasia-y-esgrima-jujuy-deportivo-riestra",
+    "stats": {}
+  },
+  {
+    "gameId": "661478",
+    "date": "Saturday, June 3, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661478/guemes-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "661465",
+    "date": "Saturday, June 3, 2023",
+    "team_home": "Tristán Suárez",
+    "team_away": "Tristán Suárez",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661465/estudiantes-buenos-aires-tristan-suarez",
+    "stats": {}
+  },
+  {
+    "gameId": "661477",
+    "date": "Saturday, June 3, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661477/patronato-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "661454",
+    "date": "Saturday, June 3, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661454/villa-dalmine-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "661458",
+    "date": "Saturday, June 3, 2023",
+    "team_home": "Independiente Rivadavia",
+    "team_away": "Independiente Rivadavia",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661458/deportivo-maipu-independiente-rivadavia",
+    "stats": {}
+  },
+  {
+    "gameId": "661485",
+    "date": "Saturday, June 3, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661485/almirante-brown-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "661481",
+    "date": "Sunday, June 4, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661481/estudiantes-de-rio-cuarto-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "661480",
+    "date": "Sunday, June 4, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661480/gimnasia-mendoza-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "661484",
+    "date": "Sunday, June 4, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661484/deportivo-moron-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "661479",
+    "date": "Sunday, June 4, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661479/alvarado-mar-del-plata-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "661482",
+    "date": "Sunday, June 4, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661482/flandria-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "661467",
+    "date": "Sunday, June 4, 2023",
+    "team_home": "Aldosivi",
+    "team_away": "Aldosivi",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661467/ferro-carril-oeste-aldosivi",
+    "stats": {}
+  },
+  {
+    "gameId": "661483",
+    "date": "Sunday, June 4, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661483/defensores-de-belgrano-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "661459",
+    "date": "Monday, June 5, 2023",
+    "team_home": "Mitre (Santiago del Estero)",
+    "team_away": "Mitre (Santiago del Estero)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661459/deportivo-madryn-mitre-santiago-del-estero",
+    "stats": {}
+  },
+  {
+    "gameId": "661452",
+    "date": "Monday, June 5, 2023",
+    "team_home": "Atlanta",
+    "team_away": "Atlanta",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661452/brown-adrogue-atlanta",
+    "stats": {}
+  },
+  {
+    "gameId": "661461",
+    "date": "Monday, June 5, 2023",
+    "team_home": "Racing (Córdoba)",
+    "team_away": "Racing (Córdoba)",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661461/quilmes-racing-cordoba",
+    "stats": {}
+  },
+  {
+    "gameId": "670150",
+    "date": "Thursday, June 8, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670150/estudiantes-de-rio-cuarto-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "670151",
+    "date": "Friday, June 9, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670151/all-boys-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "670152",
+    "date": "Friday, June 9, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670152/alvarado-mar-del-plata-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "670162",
+    "date": "Saturday, June 10, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670162/almirante-brown-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "670163",
+    "date": "Saturday, June 10, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670163/patronato-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "670165",
+    "date": "Saturday, June 10, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670165/guemes-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "670166",
+    "date": "Saturday, June 10, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670166/deportivo-moron-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "670164",
+    "date": "Saturday, June 10, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670164/gimnasia-mendoza-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "670167",
+    "date": "Saturday, June 10, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670167/defensores-de-belgrano-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "661338",
+    "date": "Wednesday, June 14, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/661338/almirante-brown-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "670178",
+    "date": "Friday, June 16, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670178/temperley-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "671633",
+    "date": "Saturday, June 17, 2023",
+    "team_home": "Tristán Suárez",
+    "team_away": "Tristán Suárez",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/671633/atletico-rafaela-tristan-suarez",
+    "stats": {}
+  },
+  {
+    "gameId": "671634",
+    "date": "Saturday, June 17, 2023",
+    "team_home": "Chacarita Juniors",
+    "team_away": "Chacarita Juniors",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/671634/deportivo-madryn-chacarita-juniors",
+    "stats": {}
+  },
+  {
+    "gameId": "671635",
+    "date": "Saturday, June 17, 2023",
+    "team_home": "Independiente Rivadavia",
+    "team_away": "Independiente Rivadavia",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/671635/aldosivi-independiente-rivadavia",
+    "stats": {}
+  },
+  {
+    "gameId": "670187",
+    "date": "Saturday, June 17, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670187/flandria-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "670194",
+    "date": "Saturday, June 17, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670194/agropecuario-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "670182",
+    "date": "Sunday, June 18, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670182/defensores-unidos-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "670191",
+    "date": "Sunday, June 18, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670191/san-telmo-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "670179",
+    "date": "Sunday, June 18, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670179/san-martin-san-juan-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "670180",
+    "date": "Sunday, June 18, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670180/guillermo-brown-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "671636",
+    "date": "Sunday, June 18, 2023",
+    "team_home": "Mitre (Santiago del Estero)",
+    "team_away": "Mitre (Santiago del Estero)",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/671636/villa-dalmine-mitre-santiago-del-estero",
+    "stats": {}
+  },
+  {
+    "gameId": "671637",
+    "date": "Sunday, June 18, 2023",
+    "team_home": "Ferro Carril Oeste",
+    "team_away": "Ferro Carril Oeste",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/671637/gimnasia-y-esgrima-jujuy-ferro-carril-oeste",
+    "stats": {}
+  },
+  {
+    "gameId": "670185",
+    "date": "Sunday, June 18, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670185/san-martin-tucuman-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "670186",
+    "date": "Monday, June 19, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670186/almagro-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "671639",
+    "date": "Monday, June 19, 2023",
+    "team_home": "Atlanta",
+    "team_away": "Atlanta",
+    "score": "3 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/671639/estudiantes-buenos-aires-atlanta",
+    "stats": {}
+  },
+  {
+    "gameId": "671638",
+    "date": "Monday, June 19, 2023",
+    "team_home": "Deportivo Riestra",
+    "team_away": "Deportivo Riestra",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/671638/quilmes-deportivo-riestra",
+    "stats": {}
+  },
+  {
+    "gameId": "671640",
+    "date": "Monday, June 19, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/671640/deportivo-maipu-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "671641",
+    "date": "Monday, June 19, 2023",
+    "team_home": "Racing (Córdoba)",
+    "team_away": "Racing (Córdoba)",
+    "score": "1 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/671641/brown-adrogue-racing-cordoba",
+    "stats": {}
+  },
+  {
+    "gameId": "670199",
+    "date": "Friday, June 23, 2023",
+    "team_home": "Defensores Unidos",
+    "team_away": "Defensores Unidos",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670199/guemes-defensores-unidos",
+    "stats": {}
+  },
+  {
+    "gameId": "670155",
+    "date": "Saturday, June 24, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670155/chacarita-juniors-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "670212",
+    "date": "Saturday, June 24, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670212/defensores-de-belgrano-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "670154",
+    "date": "Saturday, June 24, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670154/tristan-suarez-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "670195",
+    "date": "Saturday, June 24, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "4 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670195/almirante-brown-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "670210",
+    "date": "Saturday, June 24, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670210/estudiantes-de-rio-cuarto-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "670160",
+    "date": "Saturday, June 24, 2023",
+    "team_home": "Independiente Rivadavia",
+    "team_away": "Independiente Rivadavia",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670160/chaco-for-ever-independiente-rivadavia",
+    "stats": {}
+  },
+  {
+    "gameId": "670208",
+    "date": "Saturday, June 24, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670208/patronato-san-martin-san-juan",
+    "stats": {}
+  },
+  {
+    "gameId": "670211",
+    "date": "Saturday, June 24, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670211/all-boys-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "670159",
+    "date": "Saturday, June 24, 2023",
+    "team_home": "Quilmes",
+    "team_away": "Quilmes",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670159/ferro-carril-oeste-quilmes",
+    "stats": {}
+  },
+  {
+    "gameId": "670157",
+    "date": "Sunday, June 25, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670157/deportivo-riestra-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "670161",
+    "date": "Sunday, June 25, 2023",
+    "team_home": "Estudiantes (Buenos Aires)",
+    "team_away": "Estudiantes (Buenos Aires)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670161/racing-cordoba-estudiantes-buenos-aires",
+    "stats": {}
+  },
+  {
+    "gameId": "670204",
+    "date": "Sunday, June 25, 2023",
+    "team_home": "Guillermo Brown",
+    "team_away": "Guillermo Brown",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670204/deportivo-moron-guillermo-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "670209",
+    "date": "Sunday, June 25, 2023",
+    "team_home": "San Martín (Tucumán)",
+    "team_away": "San Martín (Tucumán)",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670209/nueva-chicago-san-martin-tucuman",
+    "stats": {}
+  },
+  {
+    "gameId": "670158",
+    "date": "Sunday, June 25, 2023",
+    "team_home": "Deportivo Maipú",
+    "team_away": "Deportivo Maipú",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670158/mitre-santiago-del-estero-deportivo-maipu",
+    "stats": {}
+  },
+  {
+    "gameId": "670153",
+    "date": "Sunday, June 25, 2023",
+    "team_home": "Aldosivi",
+    "team_away": "Aldosivi",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670153/gimnasia-y-esgrima-jujuy-aldosivi",
+    "stats": {}
+  },
+  {
+    "gameId": "670156",
+    "date": "Sunday, June 25, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670156/atlanta-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "670202",
+    "date": "Monday, June 26, 2023",
+    "team_home": "Flandria",
+    "team_away": "Flandria",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670202/gimnasia-mendoza-flandria",
+    "stats": {}
+  },
+  {
+    "gameId": "670225",
+    "date": "Friday, June 30, 2023",
+    "team_home": "Güemes",
+    "team_away": "Güemes",
+    "score": "4 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670225/san-martin-san-juan-guemes",
+    "stats": {}
+  },
+  {
+    "gameId": "670176",
+    "date": "Friday, June 30, 2023",
+    "team_home": "Ferro Carril Oeste",
+    "team_away": "Ferro Carril Oeste",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670176/brown-adrogue-ferro-carril-oeste",
+    "stats": {}
+  },
+  {
+    "gameId": "670170",
+    "date": "Friday, June 30, 2023",
+    "team_home": "Gimnasia y Esgrima (Jujuy)",
+    "team_away": "Gimnasia y Esgrima (Jujuy)",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670170/quilmes-gimnasia-y-esgrima-jujuy",
+    "stats": {}
+  },
+  {
+    "gameId": "670172",
+    "date": "Saturday, July 1, 2023",
+    "team_home": "Tristán Suárez",
+    "team_away": "Tristán Suárez",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670172/villa-dalmine-tristan-suarez",
+    "stats": {}
+  },
+  {
+    "gameId": "670169",
+    "date": "Saturday, July 1, 2023",
+    "team_home": "Racing (Córdoba)",
+    "team_away": "Racing (Córdoba)",
+    "score": "3 - 3",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670169/atletico-rafaela-racing-cordoba",
+    "stats": {}
+  },
+  {
+    "gameId": "670215",
+    "date": "Saturday, July 1, 2023",
+    "team_home": "Almirante Brown",
+    "team_away": "Almirante Brown",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670215/guillermo-brown-almirante-brown",
+    "stats": {}
+  },
+  {
+    "gameId": "670228",
+    "date": "Saturday, July 1, 2023",
+    "team_home": "Nueva Chicago",
+    "team_away": "Nueva Chicago",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670228/temperley-nueva-chicago",
+    "stats": {}
+  },
+  {
+    "gameId": "670221",
+    "date": "Saturday, July 1, 2023",
+    "team_home": "Deportivo Morón",
+    "team_away": "Deportivo Morón",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670221/defensores-unidos-deportivo-moron",
+    "stats": {}
+  },
+  {
+    "gameId": "670173",
+    "date": "Sunday, July 2, 2023",
+    "team_home": "Chacarita Juniors",
+    "team_away": "Chacarita Juniors",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670173/deportivo-maipu-chacarita-juniors",
+    "stats": {}
+  },
+  {
+    "gameId": "670175",
+    "date": "Sunday, July 2, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "3 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670175/aldosivi-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "670224",
+    "date": "Sunday, July 2, 2023",
+    "team_home": "Gimnasia (Mendoza)",
+    "team_away": "Gimnasia (Mendoza)",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670224/alvarado-mar-del-plata-gimnasia-mendoza",
+    "stats": {}
+  },
+  {
+    "gameId": "670223",
+    "date": "Sunday, July 2, 2023",
+    "team_home": "Estudiantes de Río Cuarto",
+    "team_away": "Estudiantes de Río Cuarto",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670223/almagro-estudiantes-de-rio-cuarto",
+    "stats": {}
+  },
+  {
+    "gameId": "670229",
+    "date": "Sunday, July 2, 2023",
+    "team_home": "Patronato",
+    "team_away": "Patronato",
+    "score": "3 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670229/flandria-patronato",
+    "stats": {}
+  },
+  {
+    "gameId": "670218",
+    "date": "Sunday, July 2, 2023",
+    "team_home": "Defensores de Belgrano",
+    "team_away": "Defensores de Belgrano",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670218/agropecuario-defensores-de-belgrano",
+    "stats": {}
+  },
+  {
+    "gameId": "670168",
+    "date": "Sunday, July 2, 2023",
+    "team_home": "Mitre (Santiago del Estero)",
+    "team_away": "Mitre (Santiago del Estero)",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670168/independiente-rivadavia-mitre-santiago-del-estero",
+    "stats": {}
+  },
+  {
+    "gameId": "670171",
+    "date": "Monday, July 3, 2023",
+    "team_home": "Deportivo Riestra",
+    "team_away": "Deportivo Riestra",
+    "score": "2 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670171/estudiantes-buenos-aires-deportivo-riestra",
+    "stats": {}
+  },
+  {
+    "gameId": "670174",
+    "date": "Monday, July 3, 2023",
+    "team_home": "Atlanta",
+    "team_away": "Atlanta",
+    "score": "1 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670174/deportivo-madryn-atlanta",
+    "stats": {}
+  },
+  {
+    "gameId": "670214",
+    "date": "Monday, July 3, 2023",
+    "team_home": "All Boys",
+    "team_away": "All Boys",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670214/san-telmo-all-boys",
+    "stats": {}
+  },
+  {
+    "gameId": "670189",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "Brown (Adrogué)",
+    "team_away": "Brown (Adrogué)",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670189/gimnasia-y-esgrima-jujuy-brown-adrogue",
+    "stats": {}
+  },
+  {
+    "gameId": "670231",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "Agropecuario",
+    "team_away": "Agropecuario",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670231/estudiantes-de-rio-cuarto-agropecuario",
+    "stats": {}
+  },
+  {
+    "gameId": "670232",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "Almagro",
+    "team_away": "Almagro",
+    "score": "0 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670232/all-boys-almagro",
+    "stats": {}
+  },
+  {
+    "gameId": "670192",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "Deportivo Madryn",
+    "team_away": "Deportivo Madryn",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670192/racing-cordoba-deportivo-madryn",
+    "stats": {}
+  },
+  {
+    "gameId": "670247",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "Temperley",
+    "team_away": "Temperley",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670247/san-martin-tucuman-temperley",
+    "stats": {}
+  },
+  {
+    "gameId": "670188",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "Atletico Rafaela",
+    "team_away": "Atletico Rafaela",
+    "score": "0 - 1",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670188/deportivo-riestra-atletico-rafaela",
+    "stats": {}
+  },
+  {
+    "gameId": "670246",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "San Telmo",
+    "team_away": "San Telmo",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670246/nueva-chicago-san-telmo",
+    "stats": {}
+  },
+  {
+    "gameId": "670183",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "Villa Dálmine",
+    "team_away": "Villa Dálmine",
+    "score": "0 - 2",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670183/atlanta-villa-dalmine",
+    "stats": {}
+  },
+  {
+    "gameId": "670233",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "Alvarado (Mar del Plata)",
+    "team_away": "Alvarado (Mar del Plata)",
+    "score": "2 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670233/patronato-alvarado-mar-del-plata",
+    "stats": {}
+  },
+  {
+    "gameId": "670190",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "Chaco For Ever",
+    "team_away": "Chaco For Ever",
+    "score": "1 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670190/mitre-santiago-del-estero-chaco-for-ever",
+    "stats": {}
+  },
+  {
+    "gameId": "670245",
+    "date": "Saturday, July 8, 2023",
+    "team_home": "San Martín (San Juan)",
+    "team_away": "San Martín (San Juan)",
+    "score": "4 - 0",
+    "league": "arg.2",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/670245/deportivo-moron-san-martin-san-juan",
+    "stats": {}
+  }
+]
