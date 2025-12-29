@@ -1,0 +1,83 @@
+[
+  {
+    "gameId": "740770",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Nottingham Forest",
+    "score": "1 - 2",
+    "team2": "Manchester City",
+    "title": "Nottingham Forest VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740770/manchester-city-nottingham-forest"
+  },
+  {
+    "gameId": "740772",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Arsenal",
+    "score": "2 - 1",
+    "team2": "Brighton & Hove Albion",
+    "title": "Arsenal VS Brighton & Hove Albion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740772/brighton-hove-albion-arsenal"
+  },
+  {
+    "gameId": "740774",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Brentford",
+    "score": "4 - 1",
+    "team2": "AFC Bournemouth",
+    "title": "Brentford VS AFC Bournemouth",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740774/afc-bournemouth-brentford"
+  },
+  {
+    "gameId": "740773",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Burnley",
+    "score": "0 - 0",
+    "team2": "Everton",
+    "title": "Burnley VS Everton",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740773/everton-burnley"
+  },
+  {
+    "gameId": "740775",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Liverpool",
+    "score": "2 - 1",
+    "team2": "Wolverhampton Wanderers",
+    "title": "Liverpool VS Wolverhampton Wanderers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740775/wolverhampton-wanderers-liverpool"
+  },
+  {
+    "gameId": "740768",
+    "date": "Saturday, December 27, 2025",
+    "team1": "West Ham United",
+    "score": "0 - 1",
+    "team2": "Fulham",
+    "title": "West Ham United VS Fulham",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740768/fulham-west-ham-united"
+  },
+  {
+    "gameId": "740766",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Chelsea",
+    "score": "1 - 2",
+    "team2": "Aston Villa",
+    "title": "Chelsea VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740766/aston-villa-chelsea"
+  },
+  {
+    "gameId": "740767",
+    "date": "Sunday, December 28, 2025",
+    "team1": "Sunderland",
+    "score": "1 - 1",
+    "team2": "Leeds United",
+    "title": "Sunderland VS Leeds United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740767/leeds-united-sunderland"
+  },
+  {
+    "gameId": "740771",
+    "date": "Sunday, December 28, 2025",
+    "team1": "Crystal Palace",
+    "score": "0 - 1",
+    "team2": "Tottenham Hotspur",
+    "title": "Crystal Palace VS Tottenham Hotspur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740771/tottenham-hotspur-crystal-palace"
+  }
+]

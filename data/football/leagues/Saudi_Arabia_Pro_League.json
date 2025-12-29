@@ -1,0 +1,29 @@
+[
+  {
+    "gameId": "755997",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Al Qadsiah",
+    "score": "1 - 1",
+    "team2": "Damac",
+    "title": "Al Qadsiah VS Damac",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/755997/damac-al-qadsiah"
+  },
+  {
+    "gameId": "755996",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Al Nassr",
+    "score": "3 - 0",
+    "team2": "Al Okhdood",
+    "title": "Al Nassr VS Al Okhdood",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/755996/al-okhdood-al-nassr"
+  },
+  {
+    "gameId": "755995",
+    "date": "Saturday, December 27, 2025",
+    "team1": "Al Ittihad",
+    "score": "2 - 0",
+    "team2": "Al Shabab",
+    "title": "Al Ittihad VS Al Shabab",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/755995/al-shabab-al-ittihad"
+  }
+]
