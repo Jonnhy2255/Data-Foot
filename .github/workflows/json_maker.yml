@@ -2,8 +2,8 @@ name: Football Scraper Daily
 
 # Exécution automatique tous les jours à 01h UTC
 on:
-  schedule:
-    - cron: '0 1 * * *'
+ # schedule:
+   # - cron: '0 1 * * *'
   workflow_dispatch:  # Permet de lancer manuellement
 
 jobs:
