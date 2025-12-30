@@ -1,0 +1,29 @@
+[
+  {
+    "gameId": "756005",
+    "date": "Monday, December 29, 2025",
+    "team1": "Al Khaleej",
+    "score": "0 - 1",
+    "team2": "Al Fateh",
+    "title": "Al Khaleej VS Al Fateh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756005/al-fateh-al-khaleej"
+  },
+  {
+    "gameId": "756010",
+    "date": "Monday, December 29, 2025",
+    "team1": "Al Riyadh",
+    "score": "1 - 2",
+    "team2": "Al Hazem",
+    "title": "Al Riyadh VS Al Hazem",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756010/al-hazem-al-riyadh"
+  },
+  {
+    "gameId": "756009",
+    "date": "Monday, December 29, 2025",
+    "team1": "Al Taawoun",
+    "score": "1 - 0",
+    "team2": "Al Najma",
+    "title": "Al Taawoun VS Al Najma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756009/al-najma-al-taawoun"
+  }
+]
