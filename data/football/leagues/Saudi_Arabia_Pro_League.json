@@ -25,5 +25,32 @@
     "team2": "Al Najma",
     "title": "Al Taawoun VS Al Najma",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756009/al-najma-al-taawoun"
+  },
+  {
+    "gameId": "756011",
+    "date": "Tuesday, December 30, 2025",
+    "team1": "Al Ahli",
+    "score": "2 - 0",
+    "team2": "Al Fayha",
+    "title": "Al Ahli VS Al Fayha",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756011/al-fayha-al-ahli"
+  },
+  {
+    "gameId": "756006",
+    "date": "Tuesday, December 30, 2025",
+    "team1": "Al Ettifaq",
+    "score": "2 - 2",
+    "team2": "Al Nassr",
+    "title": "Al Ettifaq VS Al Nassr",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756006/al-nassr-al-ettifaq"
+  },
+  {
+    "gameId": "756003",
+    "date": "Tuesday, December 30, 2025",
+    "team1": "Al Okhdood",
+    "score": "0 - 1",
+    "team2": "Damac",
+    "title": "Al Okhdood VS Damac",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756003/damac-al-okhdood"
   }
 ]

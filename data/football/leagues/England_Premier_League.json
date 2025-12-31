@@ -16,5 +16,59 @@
     "team2": "Tottenham Hotspur",
     "title": "Crystal Palace VS Tottenham Hotspur",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740771/tottenham-hotspur-crystal-palace"
+  },
+  {
+    "gameId": "740778",
+    "date": "Tuesday, December 30, 2025",
+    "team1": "Burnley",
+    "score": "1 - 3",
+    "team2": "Newcastle United",
+    "title": "Burnley VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740778/newcastle-united-burnley"
+  },
+  {
+    "gameId": "740779",
+    "date": "Tuesday, December 30, 2025",
+    "team1": "Chelsea",
+    "score": "2 - 2",
+    "team2": "AFC Bournemouth",
+    "title": "Chelsea VS AFC Bournemouth",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740779/afc-bournemouth-chelsea"
+  },
+  {
+    "gameId": "740783",
+    "date": "Tuesday, December 30, 2025",
+    "team1": "Nottingham Forest",
+    "score": "0 - 2",
+    "team2": "Everton",
+    "title": "Nottingham Forest VS Everton",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740783/everton-nottingham-forest"
+  },
+  {
+    "gameId": "740785",
+    "date": "Tuesday, December 30, 2025",
+    "team1": "West Ham United",
+    "score": "2 - 2",
+    "team2": "Brighton & Hove Albion",
+    "title": "West Ham United VS Brighton & Hove Albion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740785/brighton-hove-albion-west-ham-united"
+  },
+  {
+    "gameId": "740776",
+    "date": "Tuesday, December 30, 2025",
+    "team1": "Arsenal",
+    "score": "4 - 1",
+    "team2": "Aston Villa",
+    "title": "Arsenal VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740776/aston-villa-arsenal"
+  },
+  {
+    "gameId": "740782",
+    "date": "Tuesday, December 30, 2025",
+    "team1": "Manchester United",
+    "score": "1 - 1",
+    "team2": "Wolverhampton Wanderers",
+    "title": "Manchester United VS Wolverhampton Wanderers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740782/wolverhampton-wanderers-manchester-united"
   }
 ]
