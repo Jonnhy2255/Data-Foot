@@ -52,5 +52,32 @@
     "team2": "Damac",
     "title": "Al Okhdood VS Damac",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756003/damac-al-okhdood"
+  },
+  {
+    "gameId": "756004",
+    "date": "Wednesday, December 31, 2025",
+    "team1": "Neom SC",
+    "score": "1 - 3",
+    "team2": "Al Ittihad",
+    "title": "Neom SC VS Al Ittihad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756004/al-ittihad-neom-sc"
+  },
+  {
+    "gameId": "756008",
+    "date": "Wednesday, December 31, 2025",
+    "team1": "Al Kholood",
+    "score": "1 - 3",
+    "team2": "Al Hilal",
+    "title": "Al Kholood VS Al Hilal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756008/al-hilal-al-kholood"
+  },
+  {
+    "gameId": "756007",
+    "date": "Wednesday, December 31, 2025",
+    "team1": "Al Shabab",
+    "score": "2 - 3",
+    "team2": "Al Qadsiah",
+    "title": "Al Shabab VS Al Qadsiah",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756007/al-qadsiah-al-shabab"
   }
 ]
