@@ -43,5 +43,23 @@
     "team2": "AVS",
     "title": "FC Porto VS AVS",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750389/avs-fc-porto"
+  },
+  {
+    "gameId": "750393",
+    "date": "Friday, January 2, 2026",
+    "team1": "Gil Vicente",
+    "score": "1 - 1",
+    "team2": "Sporting CP",
+    "title": "Gil Vicente VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750393/sporting-cp-gil-vicente"
+  },
+  {
+    "gameId": "750390",
+    "date": "Friday, January 2, 2026",
+    "team1": "Vitória de Guimaraes",
+    "score": "2 - 1",
+    "team2": "C.D. Nacional",
+    "title": "Vitória de Guimaraes VS C.D. Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750390/cd-nacional-vitoria-de-guimaraes"
   }
 ]
