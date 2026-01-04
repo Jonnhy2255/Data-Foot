@@ -7,5 +7,41 @@
     "team2": "Getafe",
     "title": "Rayo Vallecano VS Getafe",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748316/getafe-rayo-vallecano"
+  },
+  {
+    "gameId": "748321",
+    "date": "Saturday, January 3, 2026",
+    "team1": "Celta Vigo",
+    "score": "4 - 1",
+    "team2": "Valencia",
+    "title": "Celta Vigo VS Valencia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748321/valencia-celta-vigo"
+  },
+  {
+    "gameId": "748317",
+    "date": "Saturday, January 3, 2026",
+    "team1": "Osasuna",
+    "score": "1 - 1",
+    "team2": "Athletic Club",
+    "title": "Osasuna VS Athletic Club",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748317/athletic-club-osasuna"
+  },
+  {
+    "gameId": "748320",
+    "date": "Saturday, January 3, 2026",
+    "team1": "Elche",
+    "score": "1 - 3",
+    "team2": "Villarreal",
+    "title": "Elche VS Villarreal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748320/villarreal-elche"
+  },
+  {
+    "gameId": "748319",
+    "date": "Saturday, January 3, 2026",
+    "team1": "Espanyol",
+    "score": "0 - 2",
+    "team2": "Barcelona",
+    "title": "Espanyol VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748319/barcelona-espanyol"
   }
 ]

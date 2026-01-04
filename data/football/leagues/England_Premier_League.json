@@ -106,5 +106,41 @@
     "team2": "Manchester City",
     "title": "Sunderland VS Manchester City",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740784/manchester-city-sunderland"
+  },
+  {
+    "gameId": "740789",
+    "date": "Saturday, January 3, 2026",
+    "team1": "Aston Villa",
+    "score": "3 - 1",
+    "team2": "Nottingham Forest",
+    "title": "Aston Villa VS Nottingham Forest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740789/nottingham-forest-aston-villa"
+  },
+  {
+    "gameId": "740795",
+    "date": "Saturday, January 3, 2026",
+    "team1": "Brighton & Hove Albion",
+    "score": "2 - 0",
+    "team2": "Burnley",
+    "title": "Brighton & Hove Albion VS Burnley",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740795/burnley-brighton-hove-albion"
+  },
+  {
+    "gameId": "740787",
+    "date": "Saturday, January 3, 2026",
+    "team1": "Wolverhampton Wanderers",
+    "score": "3 - 0",
+    "team2": "West Ham United",
+    "title": "Wolverhampton Wanderers VS West Ham United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740787/west-ham-united-wolverhampton-wanderers"
+  },
+  {
+    "gameId": "740788",
+    "date": "Saturday, January 3, 2026",
+    "team1": "AFC Bournemouth",
+    "score": "2 - 3",
+    "team2": "Arsenal",
+    "title": "AFC Bournemouth VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740788/arsenal-afc-bournemouth"
   }
 ]

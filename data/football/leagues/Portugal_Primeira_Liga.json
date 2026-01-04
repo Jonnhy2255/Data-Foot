@@ -61,5 +61,41 @@
     "team2": "C.D. Nacional",
     "title": "Vitória de Guimaraes VS C.D. Nacional",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750390/cd-nacional-vitoria-de-guimaraes"
+  },
+  {
+    "gameId": "750392",
+    "date": "Saturday, January 3, 2026",
+    "team1": "Tondela",
+    "score": "3 - 1",
+    "team2": "Arouca",
+    "title": "Tondela VS Arouca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750392/arouca-tondela"
+  },
+  {
+    "gameId": "750391",
+    "date": "Saturday, January 3, 2026",
+    "team1": "Benfica",
+    "score": "3 - 1",
+    "team2": "Estoril",
+    "title": "Benfica VS Estoril",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750391/estoril-benfica"
+  },
+  {
+    "gameId": "750396",
+    "date": "Saturday, January 3, 2026",
+    "team1": "Estrela",
+    "score": "3 - 3",
+    "team2": "Braga",
+    "title": "Estrela VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750396/braga-estrela"
+  },
+  {
+    "gameId": "750397",
+    "date": "Saturday, January 3, 2026",
+    "team1": "AVS",
+    "score": "0 - 2",
+    "team2": "Moreirense",
+    "title": "AVS VS Moreirense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750397/moreirense-avs"
   }
 ]
