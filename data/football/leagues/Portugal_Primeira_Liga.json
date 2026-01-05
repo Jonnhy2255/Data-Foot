@@ -97,5 +97,32 @@
     "team2": "Moreirense",
     "title": "AVS VS Moreirense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750397/moreirense-avs"
+  },
+  {
+    "gameId": "750394",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Rio Ave",
+    "score": "3 - 1",
+    "team2": "Casa Pia",
+    "title": "Rio Ave VS Casa Pia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750394/casa-pia-rio-ave"
+  },
+  {
+    "gameId": "750395",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Santa Clara",
+    "score": "0 - 1",
+    "team2": "FC Porto",
+    "title": "Santa Clara VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750395/fc-porto-santa-clara"
+  },
+  {
+    "gameId": "750398",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Alverca",
+    "score": "1 - 0",
+    "team2": "FC Famalicao",
+    "title": "Alverca VS FC Famalicao",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750398/fc-famalicao-alverca"
   }
 ]

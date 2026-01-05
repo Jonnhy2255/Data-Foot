@@ -43,5 +43,50 @@
     "team2": "Barcelona",
     "title": "Espanyol VS Barcelona",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748319/barcelona-espanyol"
+  },
+  {
+    "gameId": "748323",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Sevilla",
+    "score": "0 - 3",
+    "team2": "Levante",
+    "title": "Sevilla VS Levante",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748323/levante-sevilla"
+  },
+  {
+    "gameId": "748315",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Real Madrid",
+    "score": "5 - 1",
+    "team2": "Real Betis",
+    "title": "Real Madrid VS Real Betis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748315/real-betis-real-madrid"
+  },
+  {
+    "gameId": "748322",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Alavés",
+    "score": "1 - 1",
+    "team2": "Real Oviedo",
+    "title": "Alavés VS Real Oviedo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748322/real-oviedo-alaves"
+  },
+  {
+    "gameId": "748318",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Mallorca",
+    "score": "1 - 2",
+    "team2": "Girona",
+    "title": "Mallorca VS Girona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748318/girona-mallorca"
+  },
+  {
+    "gameId": "748314",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Real Sociedad",
+    "score": "1 - 1",
+    "team2": "Atlético Madrid",
+    "title": "Real Sociedad VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748314/atletico-madrid-real-sociedad"
   }
 ]

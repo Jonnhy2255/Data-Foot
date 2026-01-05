@@ -34,5 +34,50 @@
     "team2": "Stade Rennais",
     "title": "Lille VS Stade Rennais",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746558/stade-rennais-lille"
+  },
+  {
+    "gameId": "746560",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Marseille",
+    "score": "0 - 2",
+    "team2": "Nantes",
+    "title": "Marseille VS Nantes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746560/nantes-marseille"
+  },
+  {
+    "gameId": "746556",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Brest",
+    "score": "2 - 0",
+    "team2": "AJ Auxerre",
+    "title": "Brest VS AJ Auxerre",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746556/aj-auxerre-brest"
+  },
+  {
+    "gameId": "746557",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Le Havre AC",
+    "score": "2 - 1",
+    "team2": "Angers",
+    "title": "Le Havre AC VS Angers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746557/angers-le-havre-ac"
+  },
+  {
+    "gameId": "746559",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Lorient",
+    "score": "1 - 1",
+    "team2": "Metz",
+    "title": "Lorient VS Metz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746559/metz-lorient"
+  },
+  {
+    "gameId": "746563",
+    "date": "Sunday, January 4, 2026",
+    "team1": "Paris Saint-Germain",
+    "score": "2 - 1",
+    "team2": "Paris FC",
+    "title": "Paris Saint-Germain VS Paris FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746563/paris-fc-paris-saint-germain"
   }
 ]
