@@ -196,5 +196,14 @@
     "team2": "Chelsea",
     "title": "Manchester City VS Chelsea",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740792/chelsea-manchester-city"
+  },
+  {
+    "gameId": "740801",
+    "date": "Tuesday, January 6, 2026",
+    "team1": "West Ham United",
+    "score": "1 - 2",
+    "team2": "Nottingham Forest",
+    "title": "West Ham United VS Nottingham Forest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740801/nottingham-forest-west-ham-united"
   }
 ]

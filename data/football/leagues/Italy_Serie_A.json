@@ -133,5 +133,32 @@
     "team2": "Bologna",
     "title": "Internazionale VS Bologna",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/736960/bologna-internazionale"
+  },
+  {
+    "gameId": "736971",
+    "date": "Tuesday, January 6, 2026",
+    "team1": "Pisa",
+    "score": "0 - 3",
+    "team2": "Como",
+    "title": "Pisa VS Como",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736971/como-pisa"
+  },
+  {
+    "gameId": "736967",
+    "date": "Tuesday, January 6, 2026",
+    "team1": "Lecce",
+    "score": "0 - 2",
+    "team2": "AS Roma",
+    "title": "Lecce VS AS Roma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736967/as-roma-lecce"
+  },
+  {
+    "gameId": "736972",
+    "date": "Tuesday, January 6, 2026",
+    "team1": "Sassuolo",
+    "score": "0 - 3",
+    "team2": "Juventus",
+    "title": "Sassuolo VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736972/juventus-sassuolo"
   }
 ]
