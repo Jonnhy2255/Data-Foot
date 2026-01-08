@@ -160,5 +160,50 @@
     "team2": "Juventus",
     "title": "Sassuolo VS Juventus",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/736972/juventus-sassuolo"
+  },
+  {
+    "gameId": "736964",
+    "date": "Wednesday, January 7, 2026",
+    "team1": "Bologna",
+    "score": "0 - 2",
+    "team2": "Atalanta",
+    "title": "Bologna VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736964/atalanta-bologna"
+  },
+  {
+    "gameId": "736969",
+    "date": "Wednesday, January 7, 2026",
+    "team1": "Napoli",
+    "score": "2 - 2",
+    "team2": "Hellas Verona",
+    "title": "Napoli VS Hellas Verona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736969/hellas-verona-napoli"
+  },
+  {
+    "gameId": "736966",
+    "date": "Wednesday, January 7, 2026",
+    "team1": "Lazio",
+    "score": "2 - 2",
+    "team2": "Fiorentina",
+    "title": "Lazio VS Fiorentina",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736966/fiorentina-lazio"
+  },
+  {
+    "gameId": "736970",
+    "date": "Wednesday, January 7, 2026",
+    "team1": "Parma",
+    "score": "0 - 2",
+    "team2": "Internazionale",
+    "title": "Parma VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736970/internazionale-parma"
+  },
+  {
+    "gameId": "736973",
+    "date": "Wednesday, January 7, 2026",
+    "team1": "Torino",
+    "score": "1 - 2",
+    "team2": "Udinese",
+    "title": "Torino VS Udinese",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736973/udinese-torino"
   }
 ]
