@@ -277,5 +277,14 @@
     "team2": "Leeds United",
     "title": "Newcastle United VS Leeds United",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740804/leeds-united-newcastle-united"
+  },
+  {
+    "gameId": "740796",
+    "date": "Thursday, January 8, 2026",
+    "team1": "Arsenal",
+    "score": "0 - 0",
+    "team2": "Liverpool",
+    "title": "Arsenal VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740796/liverpool-arsenal"
   }
 ]
