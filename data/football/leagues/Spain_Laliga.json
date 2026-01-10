@@ -88,5 +88,14 @@
     "team2": "Atlético Madrid",
     "title": "Real Sociedad VS Atlético Madrid",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748314/atletico-madrid-real-sociedad"
+  },
+  {
+    "gameId": "748330",
+    "date": "Friday, January 9, 2026",
+    "team1": "Getafe",
+    "score": "1 - 2",
+    "team2": "Real Sociedad",
+    "title": "Getafe VS Real Sociedad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748330/real-sociedad-getafe"
   }
 ]
