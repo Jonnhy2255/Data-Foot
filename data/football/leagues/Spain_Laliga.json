@@ -97,5 +97,41 @@
     "team2": "Real Sociedad",
     "title": "Getafe VS Real Sociedad",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748330/real-sociedad-getafe"
+  },
+  {
+    "gameId": "748326",
+    "date": "Saturday, January 10, 2026",
+    "team1": "Real Oviedo",
+    "score": "1 - 1",
+    "team2": "Real Betis",
+    "title": "Real Oviedo VS Real Betis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748326/real-betis-real-oviedo"
+  },
+  {
+    "gameId": "748333",
+    "date": "Saturday, January 10, 2026",
+    "team1": "Villarreal",
+    "score": "3 - 1",
+    "team2": "Alavés",
+    "title": "Villarreal VS Alavés",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748333/alaves-villarreal"
+  },
+  {
+    "gameId": "748329",
+    "date": "Saturday, January 10, 2026",
+    "team1": "Girona",
+    "score": "1 - 0",
+    "team2": "Osasuna",
+    "title": "Girona VS Osasuna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748329/osasuna-girona"
+  },
+  {
+    "gameId": "748324",
+    "date": "Saturday, January 10, 2026",
+    "team1": "Valencia",
+    "score": "1 - 1",
+    "team2": "Elche",
+    "title": "Valencia VS Elche",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748324/elche-valencia"
   }
 ]

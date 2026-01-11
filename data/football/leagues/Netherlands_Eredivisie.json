@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "gameId": "741137",
+    "date": "Saturday, January 10, 2026",
+    "team1": "AZ Alkmaar",
+    "score": "1 - 0",
+    "team2": "FC Volendam",
+    "title": "AZ Alkmaar VS FC Volendam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741137/fc-volendam-az-alkmaar"
+  },
+  {
+    "gameId": "741130",
+    "date": "Saturday, January 10, 2026",
+    "team1": "FC Twente",
+    "score": "1 - 1",
+    "team2": "PEC Zwolle",
+    "title": "FC Twente VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741130/pec-zwolle-fc-twente"
+  },
+  {
+    "gameId": "741131",
+    "date": "Saturday, January 10, 2026",
+    "team1": "PSV Eindhoven",
+    "score": "5 - 1",
+    "team2": "Excelsior",
+    "title": "PSV Eindhoven VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741131/excelsior-psv-eindhoven"
+  },
+  {
+    "gameId": "741136",
+    "date": "Saturday, January 10, 2026",
+    "team1": "FC Groningen",
+    "score": "0 - 0",
+    "team2": "NAC Breda",
+    "title": "FC Groningen VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741136/nac-breda-fc-groningen"
+  }
+]

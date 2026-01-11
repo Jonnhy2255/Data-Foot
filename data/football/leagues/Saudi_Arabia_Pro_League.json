@@ -214,5 +214,32 @@
     "team2": "Al Ittihad",
     "title": "Al Kholood VS Al Ittihad",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756028/al-ittihad-al-kholood"
+  },
+  {
+    "gameId": "756024",
+    "date": "Saturday, January 10, 2026",
+    "team1": "Neom SC",
+    "score": "0 - 1",
+    "team2": "Al Fateh",
+    "title": "Neom SC VS Al Fateh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756024/al-fateh-neom-sc"
+  },
+  {
+    "gameId": "756021",
+    "date": "Saturday, January 10, 2026",
+    "team1": "Al Riyadh",
+    "score": "1 - 1",
+    "team2": "Al Fayha",
+    "title": "Al Riyadh VS Al Fayha",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756021/al-fayha-al-riyadh"
+  },
+  {
+    "gameId": "756022",
+    "date": "Saturday, January 10, 2026",
+    "team1": "Al Okhdood",
+    "score": "0 - 1",
+    "team2": "Al Ahli",
+    "title": "Al Okhdood VS Al Ahli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756022/al-ahli-al-okhdood"
   }
 ]

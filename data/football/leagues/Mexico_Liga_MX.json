@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "gameId": "401840817",
+    "date": "Friday, January 9, 2026",
+    "team1": "Mazatlán FC",
+    "score": "1 - 2",
+    "team2": "FC Juarez",
+    "title": "Mazatlán FC VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840817/fc-juarez-mazatlan-fc"
+  },
+  {
+    "gameId": "401840815",
+    "date": "Friday, January 9, 2026",
+    "team1": "Atlas",
+    "score": "1 - 0",
+    "team2": "Puebla",
+    "title": "Atlas VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840815/puebla-atlas"
+  },
+  {
+    "gameId": "401840816",
+    "date": "Friday, January 9, 2026",
+    "team1": "Tijuana",
+    "score": "0 - 0",
+    "team2": "América",
+    "title": "Tijuana VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840816/america-tijuana"
+  }
+]
