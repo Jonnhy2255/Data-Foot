@@ -133,5 +133,23 @@
     "team2": "Elche",
     "title": "Valencia VS Elche",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748324/elche-valencia"
+  },
+  {
+    "gameId": "748327",
+    "date": "Sunday, January 11, 2026",
+    "team1": "Rayo Vallecano",
+    "score": "2 - 1",
+    "team2": "Mallorca",
+    "title": "Rayo Vallecano VS Mallorca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748327/mallorca-rayo-vallecano"
+  },
+  {
+    "gameId": "748328",
+    "date": "Sunday, January 11, 2026",
+    "team1": "Levante",
+    "score": "1 - 1",
+    "team2": "Espanyol",
+    "title": "Levante VS Espanyol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748328/espanyol-levante"
   }
 ]

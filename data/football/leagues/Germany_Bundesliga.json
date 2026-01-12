@@ -43,5 +43,23 @@
     "team2": "VfB Stuttgart",
     "title": "Bayer Leverkusen VS VfB Stuttgart",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746861/vfb-stuttgart-bayer-leverkusen"
+  },
+  {
+    "gameId": "746860",
+    "date": "Sunday, January 11, 2026",
+    "team1": "Borussia Mönchengladbach",
+    "score": "4 - 0",
+    "team2": "FC Augsburg",
+    "title": "Borussia Mönchengladbach VS FC Augsburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746860/fc-augsburg-borussia-monchengladbach"
+  },
+  {
+    "gameId": "746858",
+    "date": "Sunday, January 11, 2026",
+    "team1": "Bayern Munich",
+    "score": "8 - 1",
+    "team2": "VfL Wolfsburg",
+    "title": "Bayern Munich VS VfL Wolfsburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746858/vfl-wolfsburg-bayern-munich"
   }
 ]

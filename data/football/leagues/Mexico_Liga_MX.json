@@ -25,5 +25,50 @@
     "team2": "América",
     "title": "Tijuana VS América",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840816/america-tijuana"
+  },
+  {
+    "gameId": "401840818",
+    "date": "Saturday, January 10, 2026",
+    "team1": "Guadalajara",
+    "score": "2 - 0",
+    "team2": "Pachuca",
+    "title": "Guadalajara VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840818/pachuca-guadalajara"
+  },
+  {
+    "gameId": "401840819",
+    "date": "Saturday, January 10, 2026",
+    "team1": "León",
+    "score": "2 - 1",
+    "team2": "Cruz Azul",
+    "title": "León VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840819/cruz-azul-leon"
+  },
+  {
+    "gameId": "401840820",
+    "date": "Saturday, January 10, 2026",
+    "team1": "Santos",
+    "score": "1 - 3",
+    "team2": "Necaxa",
+    "title": "Santos VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840820/necaxa-santos"
+  },
+  {
+    "gameId": "401840821",
+    "date": "Saturday, January 10, 2026",
+    "team1": "Monterrey",
+    "score": "0 - 1",
+    "team2": "Toluca",
+    "title": "Monterrey VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840821/toluca-monterrey"
+  },
+  {
+    "gameId": "401840822",
+    "date": "20260110",
+    "team1": "Pumas UNAM",
+    "score": "1 - 1",
+    "team2": "Querétaro",
+    "title": "Pumas UNAM VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840822/queretaro-pumas-unam"
   }
 ]

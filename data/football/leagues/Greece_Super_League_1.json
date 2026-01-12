@@ -25,5 +25,41 @@
     "team2": "PAOK Salonika",
     "title": "Panetolikos VS PAOK Salonika",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752384/paok-salonika-panetolikos"
+  },
+  {
+    "gameId": "752382",
+    "date": "Sunday, January 11, 2026",
+    "team1": "Levadiakos",
+    "score": "3 - 1",
+    "team2": "Volos NFC",
+    "title": "Levadiakos VS Volos NFC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752382/volos-nfc-levadiakos"
+  },
+  {
+    "gameId": "752383",
+    "date": "Sunday, January 11, 2026",
+    "team1": "OFI Crete",
+    "score": "4 - 0",
+    "team2": "Asteras Tripoli",
+    "title": "OFI Crete VS Asteras Tripoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752383/asteras-tripoli-ofi-crete"
+  },
+  {
+    "gameId": "752381",
+    "date": "Sunday, January 11, 2026",
+    "team1": "Aris",
+    "score": "1 - 1",
+    "team2": "AEK Athens",
+    "title": "Aris VS AEK Athens",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752381/aek-athens-aris"
+  },
+  {
+    "gameId": "752385",
+    "date": "Sunday, January 11, 2026",
+    "team1": "Panathinaikos",
+    "score": "3 - 0",
+    "team2": "Panserraikos FC",
+    "title": "Panathinaikos VS Panserraikos FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752385/panserraikos-fc-panathinaikos"
   }
 ]

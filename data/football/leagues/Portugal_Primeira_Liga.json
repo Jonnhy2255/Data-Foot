@@ -124,5 +124,23 @@
     "team2": "FC Famalicao",
     "title": "Alverca VS FC Famalicao",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750398/fc-famalicao-alverca"
+  },
+  {
+    "gameId": "750382",
+    "date": "Sunday, January 11, 2026",
+    "team1": "C.D. Nacional",
+    "score": "3 - 3",
+    "team2": "Santa Clara",
+    "title": "C.D. Nacional VS Santa Clara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750382/santa-clara-cd-nacional"
+  },
+  {
+    "gameId": "750387",
+    "date": "Sunday, January 11, 2026",
+    "team1": "Moreirense",
+    "score": "1 - 0",
+    "team2": "Tondela",
+    "title": "Moreirense VS Tondela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750387/tondela-moreirense"
   }
 ]
