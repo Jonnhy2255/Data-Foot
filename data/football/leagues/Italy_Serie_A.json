@@ -295,5 +295,23 @@
     "team2": "Napoli",
     "title": "Internazionale VS Napoli",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/736979/napoli-internazionale"
+  },
+  {
+    "gameId": "736974",
+    "date": "Monday, January 12, 2026",
+    "team1": "Genoa",
+    "score": "3 - 0",
+    "team2": "Cagliari",
+    "title": "Genoa VS Cagliari",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736974/cagliari-genoa"
+  },
+  {
+    "gameId": "736980",
+    "date": "Monday, January 12, 2026",
+    "team1": "Juventus",
+    "score": "5 - 0",
+    "team2": "Cremonese",
+    "title": "Juventus VS Cremonese",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736980/cremonese-juventus"
   }
 ]

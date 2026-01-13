@@ -241,5 +241,32 @@
     "team2": "Al Ahli",
     "title": "Al Okhdood VS Al Ahli",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756022/al-ahli-al-okhdood"
+  },
+  {
+    "gameId": "756030",
+    "date": "Monday, January 12, 2026",
+    "team1": "Al Hazem",
+    "score": "3 - 2",
+    "team2": "Al Najma",
+    "title": "Al Hazem VS Al Najma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756030/al-najma-al-hazem"
+  },
+  {
+    "gameId": "756038",
+    "date": "Monday, January 12, 2026",
+    "team1": "Al Ettifaq",
+    "score": "1 - 2",
+    "team2": "Al Khaleej",
+    "title": "Al Ettifaq VS Al Khaleej",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756038/al-khaleej-al-ettifaq"
+  },
+  {
+    "gameId": "756036",
+    "date": "Monday, January 12, 2026",
+    "team1": "Al Hilal",
+    "score": "3 - 1",
+    "team2": "Al Nassr",
+    "title": "Al Hilal VS Al Nassr",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756036/al-nassr-al-hilal"
   }
 ]

@@ -70,5 +70,14 @@
     "team2": "Querétaro",
     "title": "Pumas UNAM VS Querétaro",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840822/queretaro-pumas-unam"
+  },
+  {
+    "gameId": "401840823",
+    "date": "Sunday, January 11, 2026",
+    "team1": "Atlético de San Luis",
+    "score": "1 - 2",
+    "team2": "Tigres UANL",
+    "title": "Atlético de San Luis VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840823/tigres-uanl-atletico-de-san-luis"
   }
 ]
