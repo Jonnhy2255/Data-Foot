@@ -268,5 +268,32 @@
     "team2": "Al Nassr",
     "title": "Al Hilal VS Al Nassr",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756036/al-nassr-al-hilal"
+  },
+  {
+    "gameId": "756035",
+    "date": "Tuesday, January 13, 2026",
+    "team1": "Al Okhdood",
+    "score": "1 - 0",
+    "team2": "Al Kholood",
+    "title": "Al Okhdood VS Al Kholood",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756035/al-kholood-al-okhdood"
+  },
+  {
+    "gameId": "756037",
+    "date": "Tuesday, January 13, 2026",
+    "team1": "Al Fateh",
+    "score": "3 - 1",
+    "team2": "Al Riyadh",
+    "title": "Al Fateh VS Al Riyadh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756037/al-riyadh-al-fateh"
+  },
+  {
+    "gameId": "756034",
+    "date": "Tuesday, January 13, 2026",
+    "team1": "Damac",
+    "score": "1 - 1",
+    "team2": "Al Ittihad",
+    "title": "Damac VS Al Ittihad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756034/al-ittihad-damac"
   }
 ]

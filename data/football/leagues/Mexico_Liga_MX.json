@@ -79,5 +79,14 @@
     "team2": "Tigres UANL",
     "title": "Atlético de San Luis VS Tigres UANL",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840823/tigres-uanl-atletico-de-san-luis"
+  },
+  {
+    "gameId": "401840826",
+    "date": "20260112",
+    "team1": "Puebla",
+    "score": "2 - 1",
+    "team2": "Mazatlán FC",
+    "title": "Puebla VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840826/mazatlan-fc-puebla"
   }
 ]
