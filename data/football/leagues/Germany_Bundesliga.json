@@ -88,5 +88,41 @@
     "team2": "1. FC Heidenheim 1846",
     "title": "Mainz VS 1. FC Heidenheim 1846",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746869/1-fc-heidenheim-1846-mainz"
+  },
+  {
+    "gameId": "746870",
+    "date": "Wednesday, January 14, 2026",
+    "team1": "VfL Wolfsburg",
+    "score": "2 - 1",
+    "team2": "St. Pauli",
+    "title": "VfL Wolfsburg VS St. Pauli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746870/st-pauli-vfl-wolfsburg"
+  },
+  {
+    "gameId": "746864",
+    "date": "Wednesday, January 14, 2026",
+    "team1": "FC Cologne",
+    "score": "1 - 3",
+    "team2": "Bayern Munich",
+    "title": "FC Cologne VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746864/bayern-munich-fc-cologne"
+  },
+  {
+    "gameId": "746865",
+    "date": "Wednesday, January 14, 2026",
+    "team1": "RB Leipzig",
+    "score": "2 - 0",
+    "team2": "SC Freiburg",
+    "title": "RB Leipzig VS SC Freiburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746865/sc-freiburg-rb-leipzig"
+  },
+  {
+    "gameId": "746862",
+    "date": "Wednesday, January 14, 2026",
+    "team1": "TSG Hoffenheim",
+    "score": "5 - 1",
+    "team2": "Borussia Mönchengladbach",
+    "title": "TSG Hoffenheim VS Borussia Mönchengladbach",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746862/borussia-monchengladbach-tsg-hoffenheim"
   }
 ]

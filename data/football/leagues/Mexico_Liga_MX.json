@@ -88,5 +88,32 @@
     "team2": "Mazatlán FC",
     "title": "Puebla VS Mazatlán FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840826/mazatlan-fc-puebla"
+  },
+  {
+    "gameId": "401840824",
+    "date": "Tuesday, January 13, 2026",
+    "team1": "Necaxa",
+    "score": "0 - 2",
+    "team2": "Monterrey",
+    "title": "Necaxa VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840824/monterrey-necaxa"
+  },
+  {
+    "gameId": "401840825",
+    "date": "Tuesday, January 13, 2026",
+    "team1": "Pachuca",
+    "score": "2 - 1",
+    "team2": "León",
+    "title": "Pachuca VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840825/leon-pachuca"
+  },
+  {
+    "gameId": "401840828",
+    "date": "Tuesday, January 13, 2026",
+    "team1": "FC Juarez",
+    "score": "0 - 1",
+    "team2": "Guadalajara",
+    "title": "FC Juarez VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840828/guadalajara-fc-juarez"
   }
 ]
