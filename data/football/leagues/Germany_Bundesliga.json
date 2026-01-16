@@ -124,5 +124,14 @@
     "team2": "Borussia Mönchengladbach",
     "title": "TSG Hoffenheim VS Borussia Mönchengladbach",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746862/borussia-monchengladbach-tsg-hoffenheim"
+  },
+  {
+    "gameId": "746867",
+    "date": "Thursday, January 15, 2026",
+    "team1": "FC Augsburg",
+    "score": "1 - 1",
+    "team2": "1. FC Union Berlin",
+    "title": "FC Augsburg VS 1. FC Union Berlin",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746867/1-fc-union-berlin-fc-augsburg"
   }
 ]

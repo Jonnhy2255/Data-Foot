@@ -115,5 +115,50 @@
     "team2": "Guadalajara",
     "title": "FC Juarez VS Guadalajara",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840828/guadalajara-fc-juarez"
+  },
+  {
+    "gameId": "401840827",
+    "date": "Wednesday, January 14, 2026",
+    "team1": "Cruz Azul",
+    "score": "2 - 0",
+    "team2": "Atlas",
+    "title": "Cruz Azul VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840827/atlas-cruz-azul"
+  },
+  {
+    "gameId": "401840830",
+    "date": "Wednesday, January 14, 2026",
+    "team1": "Querétaro",
+    "score": "1 - 2",
+    "team2": "Tijuana",
+    "title": "Querétaro VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840830/tijuana-queretaro"
+  },
+  {
+    "gameId": "401840829",
+    "date": "Wednesday, January 14, 2026",
+    "team1": "América",
+    "score": "0 - 2",
+    "team2": "Atlético de San Luis",
+    "title": "América VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840829/atletico-de-san-luis-america"
+  },
+  {
+    "gameId": "401840831",
+    "date": "Wednesday, January 14, 2026",
+    "team1": "Tigres UANL",
+    "score": "0 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Tigres UANL VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840831/pumas-unam-tigres-uanl"
+  },
+  {
+    "gameId": "401840832",
+    "date": "Wednesday, January 14, 2026",
+    "team1": "Toluca",
+    "score": "3 - 1",
+    "team2": "Santos",
+    "title": "Toluca VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840832/santos-toluca"
   }
 ]
