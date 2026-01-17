@@ -133,5 +133,14 @@
     "team2": "1. FC Union Berlin",
     "title": "FC Augsburg VS 1. FC Union Berlin",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746867/1-fc-union-berlin-fc-augsburg"
+  },
+  {
+    "gameId": "746872",
+    "date": "Friday, January 16, 2026",
+    "team1": "Werder Bremen",
+    "score": "3 - 3",
+    "team2": "Eintracht Frankfurt",
+    "title": "Werder Bremen VS Eintracht Frankfurt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746872/eintracht-frankfurt-werder-bremen"
   }
 ]
