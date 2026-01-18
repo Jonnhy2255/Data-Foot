@@ -358,5 +358,32 @@
     "team2": "Atalanta",
     "title": "Pisa VS Atalanta",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/736991/atalanta-pisa"
+  },
+  {
+    "gameId": "736989",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Udinese",
+    "score": "0 - 1",
+    "team2": "Internazionale",
+    "title": "Udinese VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736989/internazionale-udinese"
+  },
+  {
+    "gameId": "736993",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Napoli",
+    "score": "1 - 0",
+    "team2": "Sassuolo",
+    "title": "Napoli VS Sassuolo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736993/sassuolo-napoli"
+  },
+  {
+    "gameId": "736986",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Cagliari",
+    "score": "1 - 0",
+    "team2": "Juventus",
+    "title": "Cagliari VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736986/juventus-cagliari"
   }
 ]

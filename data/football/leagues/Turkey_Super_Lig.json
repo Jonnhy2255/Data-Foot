@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "gameId": "750072",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Istanbul Basaksehir",
+    "score": "2 - 1",
+    "team2": "Fatih Karagümrük",
+    "title": "Istanbul Basaksehir VS Fatih Karagümrük",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750072/fatih-karagumruk-istanbul-basaksehir"
+  },
+  {
+    "gameId": "750079",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Galatasaray",
+    "score": "1 - 1",
+    "team2": "Gaziantep FK",
+    "title": "Galatasaray VS Gaziantep FK",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750079/gaziantep-fk-galatasaray"
+  }
+]

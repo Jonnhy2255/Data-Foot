@@ -142,5 +142,59 @@
     "team2": "Eintracht Frankfurt",
     "title": "Werder Bremen VS Eintracht Frankfurt",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746872/eintracht-frankfurt-werder-bremen"
+  },
+  {
+    "gameId": "746878",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Borussia Dortmund",
+    "score": "3 - 2",
+    "team2": "St. Pauli",
+    "title": "Borussia Dortmund VS St. Pauli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746878/st-pauli-borussia-dortmund"
+  },
+  {
+    "gameId": "746879",
+    "date": "Saturday, January 17, 2026",
+    "team1": "FC Cologne",
+    "score": "2 - 1",
+    "team2": "Mainz",
+    "title": "FC Cologne VS Mainz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746879/mainz-fc-cologne"
+  },
+  {
+    "gameId": "746876",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Hamburg SV",
+    "score": "0 - 0",
+    "team2": "Borussia Mönchengladbach",
+    "title": "Hamburg SV VS Borussia Mönchengladbach",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746876/borussia-monchengladbach-hamburg-sv"
+  },
+  {
+    "gameId": "746873",
+    "date": "Saturday, January 17, 2026",
+    "team1": "TSG Hoffenheim",
+    "score": "1 - 0",
+    "team2": "Bayer Leverkusen",
+    "title": "TSG Hoffenheim VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746873/bayer-leverkusen-tsg-hoffenheim"
+  },
+  {
+    "gameId": "746871",
+    "date": "Saturday, January 17, 2026",
+    "team1": "VfL Wolfsburg",
+    "score": "1 - 1",
+    "team2": "1. FC Heidenheim 1846",
+    "title": "VfL Wolfsburg VS 1. FC Heidenheim 1846",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746871/1-fc-heidenheim-1846-vfl-wolfsburg"
+  },
+  {
+    "gameId": "746875",
+    "date": "Saturday, January 17, 2026",
+    "team1": "RB Leipzig",
+    "score": "1 - 5",
+    "team2": "Bayern Munich",
+    "title": "RB Leipzig VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746875/bayern-munich-rb-leipzig"
   }
 ]

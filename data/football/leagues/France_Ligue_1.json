@@ -97,5 +97,32 @@
     "team2": "Lille",
     "title": "Paris Saint-Germain VS Lille",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746570/lille-paris-saint-germain"
+  },
+  {
+    "gameId": "746566",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Lens",
+    "score": "1 - 0",
+    "team2": "AJ Auxerre",
+    "title": "Lens VS AJ Auxerre",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746566/aj-auxerre-lens"
+  },
+  {
+    "gameId": "746573",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Toulouse",
+    "score": "5 - 1",
+    "team2": "Nice",
+    "title": "Toulouse VS Nice",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746573/nice-toulouse"
+  },
+  {
+    "gameId": "746565",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Angers",
+    "score": "2 - 5",
+    "team2": "Marseille",
+    "title": "Angers VS Marseille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746565/marseille-angers"
   }
 ]

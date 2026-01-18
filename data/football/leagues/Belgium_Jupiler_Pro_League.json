@@ -7,5 +7,32 @@
     "team2": "RAAL La Louvière",
     "title": "Club Brugge VS RAAL La Louvière",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742694/raal-la-louviere-club-brugge"
+  },
+  {
+    "gameId": "742701",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Zulte-Waregem",
+    "score": "2 - 1",
+    "team2": "Racing Genk",
+    "title": "Zulte-Waregem VS Racing Genk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742701/racing-genk-zulte-waregem"
+  },
+  {
+    "gameId": "742700",
+    "date": "Saturday, January 17, 2026",
+    "team1": "KVC Westerlo",
+    "score": "0 - 2",
+    "team2": "Cercle Brugge KSV",
+    "title": "KVC Westerlo VS Cercle Brugge KSV",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742700/cercle-brugge-ksv-kvc-westerlo"
+  },
+  {
+    "gameId": "742699",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Union St.-Gilloise",
+    "score": "1 - 0",
+    "team2": "KV Mechelen",
+    "title": "Union St.-Gilloise VS KV Mechelen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742699/kv-mechelen-union-st-gilloise"
   }
 ]

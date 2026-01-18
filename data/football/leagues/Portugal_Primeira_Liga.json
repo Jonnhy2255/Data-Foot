@@ -151,5 +151,41 @@
     "team2": "Casa Pia",
     "title": "Sporting CP VS Casa Pia",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750405/casa-pia-sporting-cp"
+  },
+  {
+    "gameId": "750402",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Gil Vicente",
+    "score": "2 - 1",
+    "team2": "C.D. Nacional",
+    "title": "Gil Vicente VS C.D. Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750402/cd-nacional-gil-vicente"
+  },
+  {
+    "gameId": "750400",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Alverca",
+    "score": "2 - 1",
+    "team2": "Moreirense",
+    "title": "Alverca VS Moreirense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750400/moreirense-alverca"
+  },
+  {
+    "gameId": "750403",
+    "date": "Saturday, January 17, 2026",
+    "team1": "AVS",
+    "score": "0 - 1",
+    "team2": "Arouca",
+    "title": "AVS VS Arouca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750403/arouca-avs"
+  },
+  {
+    "gameId": "750407",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Rio Ave",
+    "score": "0 - 2",
+    "team2": "Benfica",
+    "title": "Rio Ave VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750407/benfica-rio-ave"
   }
 ]

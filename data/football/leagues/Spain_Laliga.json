@@ -169,5 +169,41 @@
     "team2": "Girona",
     "title": "Espanyol VS Girona",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748337/girona-espanyol"
+  },
+  {
+    "gameId": "748342",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Real Madrid",
+    "score": "2 - 0",
+    "team2": "Levante",
+    "title": "Real Madrid VS Levante",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748342/levante-real-madrid"
+  },
+  {
+    "gameId": "748339",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Mallorca",
+    "score": "3 - 2",
+    "team2": "Athletic Club",
+    "title": "Mallorca VS Athletic Club",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748339/athletic-club-mallorca"
+  },
+  {
+    "gameId": "748340",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Osasuna",
+    "score": "3 - 2",
+    "team2": "Real Oviedo",
+    "title": "Osasuna VS Real Oviedo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748340/real-oviedo-osasuna"
+  },
+  {
+    "gameId": "748341",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Real Betis",
+    "score": "2 - 0",
+    "team2": "Villarreal",
+    "title": "Real Betis VS Villarreal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748341/villarreal-real-betis"
   }
 ]
