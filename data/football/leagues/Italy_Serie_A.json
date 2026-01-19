@@ -385,5 +385,41 @@
     "team2": "Juventus",
     "title": "Cagliari VS Juventus",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/736986/juventus-cagliari"
+  },
+  {
+    "gameId": "736992",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Parma",
+    "score": "0 - 0",
+    "team2": "Genoa",
+    "title": "Parma VS Genoa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736992/genoa-parma"
+  },
+  {
+    "gameId": "736987",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Bologna",
+    "score": "1 - 2",
+    "team2": "Fiorentina",
+    "title": "Bologna VS Fiorentina",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736987/fiorentina-bologna"
+  },
+  {
+    "gameId": "736990",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Torino",
+    "score": "0 - 2",
+    "team2": "AS Roma",
+    "title": "Torino VS AS Roma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736990/as-roma-torino"
+  },
+  {
+    "gameId": "736988",
+    "date": "Sunday, January 18, 2026",
+    "team1": "AC Milan",
+    "score": "1 - 0",
+    "team2": "Lecce",
+    "title": "AC Milan VS Lecce",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736988/lecce-ac-milan"
   }
 ]

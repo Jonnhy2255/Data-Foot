@@ -196,5 +196,23 @@
     "team2": "Bayern Munich",
     "title": "RB Leipzig VS Bayern Munich",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746875/bayern-munich-rb-leipzig"
+  },
+  {
+    "gameId": "746874",
+    "date": "Sunday, January 18, 2026",
+    "team1": "VfB Stuttgart",
+    "score": "1 - 1",
+    "team2": "1. FC Union Berlin",
+    "title": "VfB Stuttgart VS 1. FC Union Berlin",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746874/1-fc-union-berlin-vfb-stuttgart"
+  },
+  {
+    "gameId": "746877",
+    "date": "Sunday, January 18, 2026",
+    "team1": "FC Augsburg",
+    "score": "2 - 2",
+    "team2": "SC Freiburg",
+    "title": "FC Augsburg VS SC Freiburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746877/sc-freiburg-fc-augsburg"
   }
 ]

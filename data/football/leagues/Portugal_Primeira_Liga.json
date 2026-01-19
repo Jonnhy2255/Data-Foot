@@ -187,5 +187,32 @@
     "team2": "Benfica",
     "title": "Rio Ave VS Benfica",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750407/benfica-rio-ave"
+  },
+  {
+    "gameId": "750406",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Santa Clara",
+    "score": "0 - 1",
+    "team2": "FC Famalicao",
+    "title": "Santa Clara VS FC Famalicao",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750406/fc-famalicao-santa-clara"
+  },
+  {
+    "gameId": "750404",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Tondela",
+    "score": "0 - 1",
+    "team2": "Braga",
+    "title": "Tondela VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750404/braga-tondela"
+  },
+  {
+    "gameId": "750399",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Vitória de Guimaraes",
+    "score": "0 - 1",
+    "team2": "FC Porto",
+    "title": "Vitória de Guimaraes VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750399/fc-porto-vitoria-de-guimaraes"
   }
 ]

@@ -16,5 +16,41 @@
     "team2": "Gaziantep FK",
     "title": "Galatasaray VS Gaziantep FK",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750079/gaziantep-fk-galatasaray"
+  },
+  {
+    "gameId": "750071",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Kasimpasa",
+    "score": "0 - 0",
+    "team2": "Antalyaspor",
+    "title": "Kasimpasa VS Antalyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750071/antalyaspor-kasimpasa"
+  },
+  {
+    "gameId": "750074",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Genclerbirligi",
+    "score": "1 - 1",
+    "team2": "Samsunspor",
+    "title": "Genclerbirligi VS Samsunspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750074/samsunspor-genclerbirligi"
+  },
+  {
+    "gameId": "750078",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Kocaelispor",
+    "score": "1 - 2",
+    "team2": "Trabzonspor",
+    "title": "Kocaelispor VS Trabzonspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750078/trabzonspor-kocaelispor"
+  },
+  {
+    "gameId": "750077",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Alanyaspor",
+    "score": "2 - 3",
+    "team2": "Fenerbahce",
+    "title": "Alanyaspor VS Fenerbahce",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750077/fenerbahce-alanyaspor"
   }
 ]

@@ -25,5 +25,41 @@
     "team2": "Internacional de Bogotá",
     "title": "América de Cali VS Internacional de Bogotá",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843147/internacional-de-bogota-america-de-cali"
+  },
+  {
+    "gameId": "401843149",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Atlético Nacional",
+    "score": "4 - 0",
+    "team2": "Boyacá Chicó",
+    "title": "Atlético Nacional VS Boyacá Chicó",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843149/boyaca-chico-atletico-nacional"
+  },
+  {
+    "gameId": "401843148",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Bucaramanga",
+    "score": "2 - 1",
+    "team2": "Millonarios",
+    "title": "Bucaramanga VS Millonarios",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843148/millonarios-bucaramanga"
+  },
+  {
+    "gameId": "401843176",
+    "date": "20260117",
+    "team1": "Deportivo Pasto",
+    "score": "1 - 0",
+    "team2": "Independiente Medellín",
+    "title": "Deportivo Pasto VS Independiente Medellín",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843176/independiente-medellin-deportivo-pasto"
+  },
+  {
+    "gameId": "401843175",
+    "date": "20260117",
+    "team1": "Jaguares de Córdoba",
+    "score": "1 - 0",
+    "team2": "Deportivo Cali",
+    "title": "Jaguares de Córdoba VS Deportivo Cali",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843175/deportivo-cali-jaguares-de-cordoba"
   }
 ]

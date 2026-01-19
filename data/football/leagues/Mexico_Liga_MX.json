@@ -169,5 +169,68 @@
     "team2": "Monterrey",
     "title": "Mazatlán FC VS Monterrey",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840833/monterrey-mazatlan-fc"
+  },
+  {
+    "gameId": "401840835",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Necaxa",
+    "score": "0 - 1",
+    "team2": "Atlas",
+    "title": "Necaxa VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840835/atlas-necaxa"
+  },
+  {
+    "gameId": "401840834",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Guadalajara",
+    "score": "2 - 1",
+    "team2": "Querétaro",
+    "title": "Guadalajara VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840834/queretaro-guadalajara"
+  },
+  {
+    "gameId": "401840836",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Tigres UANL",
+    "score": "0 - 0",
+    "team2": "Toluca",
+    "title": "Tigres UANL VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840836/toluca-tigres-uanl"
+  },
+  {
+    "gameId": "401840838",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Cruz Azul",
+    "score": "1 - 0",
+    "team2": "Puebla",
+    "title": "Cruz Azul VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840838/puebla-cruz-azul"
+  },
+  {
+    "gameId": "401840837",
+    "date": "Saturday, January 17, 2026",
+    "team1": "Tijuana",
+    "score": "1 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Tijuana VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840837/atletico-de-san-luis-tijuana"
+  },
+  {
+    "gameId": "401840839",
+    "date": "20260117",
+    "team1": "Pumas UNAM",
+    "score": "1 - 1",
+    "team2": "León",
+    "title": "Pumas UNAM VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840839/leon-pumas-unam"
+  },
+  {
+    "gameId": "401840840",
+    "date": "20260117",
+    "team1": "Santos",
+    "score": "2 - 2",
+    "team2": "FC Juarez",
+    "title": "Santos VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840840/fc-juarez-santos"
   }
 ]

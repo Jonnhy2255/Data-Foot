@@ -349,5 +349,23 @@
     "team2": "Arsenal",
     "title": "Nottingham Forest VS Arsenal",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740812/arsenal-nottingham-forest"
+  },
+  {
+    "gameId": "740815",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Wolverhampton Wanderers",
+    "score": "0 - 0",
+    "team2": "Newcastle United",
+    "title": "Wolverhampton Wanderers VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740815/newcastle-united-wolverhampton-wanderers"
+  },
+  {
+    "gameId": "740806",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Aston Villa",
+    "score": "0 - 1",
+    "team2": "Everton",
+    "title": "Aston Villa VS Everton",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740806/everton-aston-villa"
   }
 ]

@@ -34,5 +34,41 @@
     "team2": "KV Mechelen",
     "title": "Union St.-Gilloise VS KV Mechelen",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742699/kv-mechelen-union-st-gilloise"
+  },
+  {
+    "gameId": "742696",
+    "date": "Sunday, January 18, 2026",
+    "team1": "KAA Gent",
+    "score": "4 - 2",
+    "team2": "Anderlecht",
+    "title": "KAA Gent VS Anderlecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742696/anderlecht-kaa-gent"
+  },
+  {
+    "gameId": "742695",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Dender",
+    "score": "1 - 0",
+    "team2": "Antwerp",
+    "title": "Dender VS Antwerp",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742695/antwerp-dender"
+  },
+  {
+    "gameId": "742698",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Royal Charleroi SC",
+    "score": "2 - 0",
+    "team2": "Standard Liege",
+    "title": "Royal Charleroi SC VS Standard Liege",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742698/standard-liege-royal-charleroi-sc"
+  },
+  {
+    "gameId": "742697",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Sint-Truidense",
+    "score": "1 - 0",
+    "team2": "Oud-Heverlee Leuven",
+    "title": "Sint-Truidense VS Oud-Heverlee Leuven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742697/oud-heverlee-leuven-sint-truidense"
   }
 ]
