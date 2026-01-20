@@ -232,5 +232,14 @@
     "team2": "FC Juarez",
     "title": "Santos VS FC Juarez",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840840/fc-juarez-santos"
+  },
+  {
+    "gameId": "401840841",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Pachuca",
+    "score": "0 - 0",
+    "team2": "América",
+    "title": "Pachuca VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840841/america-pachuca"
   }
 ]

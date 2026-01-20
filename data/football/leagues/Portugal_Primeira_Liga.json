@@ -214,5 +214,14 @@
     "team2": "FC Porto",
     "title": "Vitória de Guimaraes VS FC Porto",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750399/fc-porto-vitoria-de-guimaraes"
+  },
+  {
+    "gameId": "750401",
+    "date": "Monday, January 19, 2026",
+    "team1": "Estrela",
+    "score": "0 - 5",
+    "team2": "Estoril",
+    "title": "Estrela VS Estoril",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750401/estoril-estrela"
   }
 ]

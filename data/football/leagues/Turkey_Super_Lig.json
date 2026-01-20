@@ -52,5 +52,32 @@
     "team2": "Fenerbahce",
     "title": "Alanyaspor VS Fenerbahce",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750077/fenerbahce-alanyaspor"
+  },
+  {
+    "gameId": "750075",
+    "date": "Monday, January 19, 2026",
+    "team1": "Konyaspor",
+    "score": "1 - 1",
+    "team2": "Eyupspor",
+    "title": "Konyaspor VS Eyupspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750075/eyupspor-konyaspor"
+  },
+  {
+    "gameId": "750076",
+    "date": "Monday, January 19, 2026",
+    "team1": "Besiktas",
+    "score": "1 - 0",
+    "team2": "Kayserispor",
+    "title": "Besiktas VS Kayserispor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750076/kayserispor-besiktas"
+  },
+  {
+    "gameId": "750073",
+    "date": "Monday, January 19, 2026",
+    "team1": "Goztepe",
+    "score": "3 - 1",
+    "team2": "Caykur Rizespor",
+    "title": "Goztepe VS Caykur Rizespor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750073/caykur-rizespor-goztepe"
   }
 ]

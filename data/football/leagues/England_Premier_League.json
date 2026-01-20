@@ -367,5 +367,14 @@
     "team2": "Everton",
     "title": "Aston Villa VS Everton",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740806/everton-aston-villa"
+  },
+  {
+    "gameId": "740807",
+    "date": "Monday, January 19, 2026",
+    "team1": "Brighton & Hove Albion",
+    "score": "1 - 1",
+    "team2": "AFC Bournemouth",
+    "title": "Brighton & Hove Albion VS AFC Bournemouth",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740807/afc-bournemouth-brighton-hove-albion"
   }
 ]

@@ -61,5 +61,32 @@
     "team2": "Deportivo Cali",
     "title": "Jaguares de Córdoba VS Deportivo Cali",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843175/deportivo-cali-jaguares-de-cordoba"
+  },
+  {
+    "gameId": "401843151",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Atlético Junior",
+    "score": "0 - 2",
+    "team2": "Deportes Tolima",
+    "title": "Atlético Junior VS Deportes Tolima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843151/deportes-tolima-atletico-junior"
+  },
+  {
+    "gameId": "401843154",
+    "date": "Sunday, January 18, 2026",
+    "team1": "Independiente Santa Fe",
+    "score": "1 - 1",
+    "team2": "Águilas Doradas",
+    "title": "Independiente Santa Fe VS Águilas Doradas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843154/aguilas-doradas-independiente-santa-fe"
+  },
+  {
+    "gameId": "401843150",
+    "date": "Monday, January 19, 2026",
+    "team1": "Cúcuta Deportivo",
+    "score": "1 - 2",
+    "team2": "Once Caldas",
+    "title": "Cúcuta Deportivo VS Once Caldas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843150/once-caldas-cucuta-deportivo"
   }
 ]
