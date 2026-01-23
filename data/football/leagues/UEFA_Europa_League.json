@@ -1,1 +1,164 @@
-[]
+[
+  {
+    "gameId": "757913",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Bologna",
+    "score": "2 - 2",
+    "team2": "Celtic",
+    "title": "Bologna VS Celtic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757913/celtic-bologna"
+  },
+  {
+    "gameId": "757908",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Fenerbahce",
+    "score": "0 - 1",
+    "team2": "Aston Villa",
+    "title": "Fenerbahce VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757908/aston-villa-fenerbahce"
+  },
+  {
+    "gameId": "757911",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Feyenoord Rotterdam",
+    "score": "3 - 0",
+    "team2": "SK Sturm Graz",
+    "title": "Feyenoord Rotterdam VS SK Sturm Graz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757911/sk-sturm-graz-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "757907",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Malmö FF",
+    "score": "0 - 1",
+    "team2": "Red Star Belgrade",
+    "title": "Malmö FF VS Red Star Belgrade",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757907/red-star-belgrade-malmo-ff"
+  },
+  {
+    "gameId": "757905",
+    "date": "Thursday, January 22, 2026",
+    "team1": "PAOK Salonika",
+    "score": "2 - 0",
+    "team2": "Real Betis",
+    "title": "PAOK Salonika VS Real Betis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757905/real-betis-paok-salonika"
+  },
+  {
+    "gameId": "757912",
+    "date": "Thursday, January 22, 2026",
+    "team1": "SC Freiburg",
+    "score": "1 - 0",
+    "team2": "Maccabi Tel-Aviv",
+    "title": "SC Freiburg VS Maccabi Tel-Aviv",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757912/maccabi-tel-aviv-sc-freiburg"
+  },
+  {
+    "gameId": "757910",
+    "date": "Thursday, January 22, 2026",
+    "team1": "SK Brann",
+    "score": "3 - 3",
+    "team2": "FC Midtjylland",
+    "title": "SK Brann VS FC Midtjylland",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757910/fc-midtjylland-sk-brann"
+  },
+  {
+    "gameId": "757909",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Viktoria Plzen",
+    "score": "1 - 1",
+    "team2": "FC Porto",
+    "title": "Viktoria Plzen VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757909/fc-porto-viktoria-plzen"
+  },
+  {
+    "gameId": "757906",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Young Boys",
+    "score": "0 - 1",
+    "team2": "Lyon",
+    "title": "Young Boys VS Lyon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757906/lyon-young-boys"
+  },
+  {
+    "gameId": "757920",
+    "date": "Thursday, January 22, 2026",
+    "team1": "AS Roma",
+    "score": "2 - 0",
+    "team2": "VfB Stuttgart",
+    "title": "AS Roma VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757920/vfb-stuttgart-as-roma"
+  },
+  {
+    "gameId": "757921",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Braga",
+    "score": "1 - 0",
+    "team2": "Nottingham Forest",
+    "title": "Braga VS Nottingham Forest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757921/nottingham-forest-braga"
+  },
+  {
+    "gameId": "757914",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Celta Vigo",
+    "score": "2 - 1",
+    "team2": "Lille",
+    "title": "Celta Vigo VS Lille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757914/lille-celta-vigo"
+  },
+  {
+    "gameId": "757915",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Dinamo Zagreb",
+    "score": "4 - 1",
+    "team2": "FCSB",
+    "title": "Dinamo Zagreb VS FCSB",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757915/fcsb-dinamo-zagreb"
+  },
+  {
+    "gameId": "757917",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Ferencvaros",
+    "score": "1 - 1",
+    "team2": "Panathinaikos",
+    "title": "Ferencvaros VS Panathinaikos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757917/panathinaikos-ferencvaros"
+  },
+  {
+    "gameId": "757922",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Nice",
+    "score": "3 - 1",
+    "team2": "Go Ahead Eagles",
+    "title": "Nice VS Go Ahead Eagles",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757922/go-ahead-eagles-nice"
+  },
+  {
+    "gameId": "757919",
+    "date": "Thursday, January 22, 2026",
+    "team1": "Rangers",
+    "score": "1 - 0",
+    "team2": "Ludogorets Razgrad",
+    "title": "Rangers VS Ludogorets Razgrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757919/ludogorets-razgrad-rangers"
+  },
+  {
+    "gameId": "757918",
+    "date": "Thursday, January 22, 2026",
+    "team1": "RB Salzburg",
+    "score": "3 - 1",
+    "team2": "FC Basel",
+    "title": "RB Salzburg VS FC Basel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757918/fc-basel-rb-salzburg"
+  },
+  {
+    "gameId": "757916",
+    "date": "Thursday, January 22, 2026",
+    "team1": "FC Utrecht",
+    "score": "0 - 2",
+    "team2": "Racing Genk",
+    "title": "FC Utrecht VS Racing Genk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757916/racing-genk-fc-utrecht"
+  }
+]
