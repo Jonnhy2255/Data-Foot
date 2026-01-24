@@ -160,5 +160,14 @@
     "team2": "Brest",
     "title": "Lyon VS Brest",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746567/brest-lyon"
+  },
+  {
+    "gameId": "746574",
+    "date": "Friday, January 23, 2026",
+    "team1": "AJ Auxerre",
+    "score": "0 - 1",
+    "team2": "Paris Saint-Germain",
+    "title": "AJ Auxerre VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746574/paris-saint-germain-aj-auxerre"
   }
 ]

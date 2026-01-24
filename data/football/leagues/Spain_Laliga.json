@@ -250,5 +250,14 @@
     "team2": "Sevilla",
     "title": "Elche VS Sevilla",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748336/sevilla-elche"
+  },
+  {
+    "gameId": "748353",
+    "date": "Friday, January 23, 2026",
+    "team1": "Levante",
+    "score": "3 - 2",
+    "team2": "Elche",
+    "title": "Levante VS Elche",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748353/elche-levante"
   }
 ]

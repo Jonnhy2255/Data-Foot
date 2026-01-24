@@ -439,5 +439,14 @@
     "team2": "Como",
     "title": "Lazio VS Como",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/736984/como-lazio"
+  },
+  {
+    "gameId": "737001",
+    "date": "Friday, January 23, 2026",
+    "team1": "Internazionale",
+    "score": "6 - 2",
+    "team2": "Pisa",
+    "title": "Internazionale VS Pisa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737001/pisa-internazionale"
   }
 ]

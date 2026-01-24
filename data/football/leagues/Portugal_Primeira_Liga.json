@@ -223,5 +223,14 @@
     "team2": "Estoril",
     "title": "Estrela VS Estoril",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750401/estoril-estrela"
+  },
+  {
+    "gameId": "750408",
+    "date": "Friday, January 23, 2026",
+    "team1": "Casa Pia",
+    "score": "3 - 3",
+    "team2": "AVS",
+    "title": "Casa Pia VS AVS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750408/avs-casa-pia"
   }
 ]

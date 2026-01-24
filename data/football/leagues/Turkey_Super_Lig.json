@@ -79,5 +79,14 @@
     "team2": "Caykur Rizespor",
     "title": "Goztepe VS Caykur Rizespor",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750073/caykur-rizespor-goztepe"
+  },
+  {
+    "gameId": "750080",
+    "date": "Friday, January 23, 2026",
+    "team1": "Trabzonspor",
+    "score": "2 - 1",
+    "team2": "Kasimpasa",
+    "title": "Trabzonspor VS Kasimpasa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750080/kasimpasa-trabzonspor"
   }
 ]

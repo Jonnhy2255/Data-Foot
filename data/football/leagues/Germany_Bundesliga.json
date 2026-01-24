@@ -214,5 +214,14 @@
     "team2": "SC Freiburg",
     "title": "FC Augsburg VS SC Freiburg",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746877/sc-freiburg-fc-augsburg"
+  },
+  {
+    "gameId": "746884",
+    "date": "Friday, January 23, 2026",
+    "team1": "St. Pauli",
+    "score": "0 - 0",
+    "team2": "Hamburg SV",
+    "title": "St. Pauli VS Hamburg SV",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746884/hamburg-sv-st-pauli"
   }
 ]
