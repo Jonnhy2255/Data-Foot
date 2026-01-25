@@ -259,5 +259,41 @@
     "team2": "Elche",
     "title": "Levante VS Elche",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748353/elche-levante"
+  },
+  {
+    "gameId": "748348",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Rayo Vallecano",
+    "score": "1 - 3",
+    "team2": "Osasuna",
+    "title": "Rayo Vallecano VS Osasuna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748348/osasuna-rayo-vallecano"
+  },
+  {
+    "gameId": "748352",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Valencia",
+    "score": "3 - 2",
+    "team2": "Espanyol",
+    "title": "Valencia VS Espanyol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748352/espanyol-valencia"
+  },
+  {
+    "gameId": "748351",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Sevilla",
+    "score": "2 - 1",
+    "team2": "Athletic Club",
+    "title": "Sevilla VS Athletic Club",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748351/athletic-club-sevilla"
+  },
+  {
+    "gameId": "748349",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Villarreal",
+    "score": "0 - 2",
+    "team2": "Real Madrid",
+    "title": "Villarreal VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748349/real-madrid-villarreal"
   }
 ]

@@ -88,5 +88,32 @@
     "team2": "Kasimpasa",
     "title": "Trabzonspor VS Kasimpasa",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750080/kasimpasa-trabzonspor"
+  },
+  {
+    "gameId": "750082",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Kayserispor",
+    "score": "0 - 3",
+    "team2": "Istanbul Basaksehir",
+    "title": "Kayserispor VS Istanbul Basaksehir",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750082/istanbul-basaksehir-kayserispor"
+  },
+  {
+    "gameId": "750081",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Samsunspor",
+    "score": "0 - 0",
+    "team2": "Kocaelispor",
+    "title": "Samsunspor VS Kocaelispor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750081/kocaelispor-samsunspor"
+  },
+  {
+    "gameId": "750085",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Fatih Karagümrük",
+    "score": "1 - 3",
+    "team2": "Galatasaray",
+    "title": "Fatih Karagümrük VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750085/galatasaray-fatih-karagumruk"
   }
 ]

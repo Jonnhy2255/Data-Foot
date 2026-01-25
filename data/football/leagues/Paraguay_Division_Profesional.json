@@ -7,5 +7,23 @@
     "team2": "Trinidense",
     "title": "Deportivo Recoleta VS Trinidense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/762419/trinidense-deportivo-recoleta"
+  },
+  {
+    "gameId": "762414",
+    "date": "Friday, January 23, 2026",
+    "team1": "2 de Mayo",
+    "score": "1 - 2",
+    "team2": "Sportivo Luqueño",
+    "title": "2 de Mayo VS Sportivo Luqueño",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762414/sportivo-luqueno-2-de-mayo"
+  },
+  {
+    "gameId": "762417",
+    "date": "20260123",
+    "team1": "Nacional",
+    "score": "1 - 0",
+    "team2": "Sportivo San Lorenzo",
+    "title": "Nacional VS Sportivo San Lorenzo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762417/sportivo-san-lorenzo-nacional"
   }
 ]

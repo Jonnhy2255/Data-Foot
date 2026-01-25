@@ -88,5 +88,41 @@
     "team2": "Once Caldas",
     "title": "Cúcuta Deportivo VS Once Caldas",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843150/once-caldas-cucuta-deportivo"
+  },
+  {
+    "gameId": "401850718",
+    "date": "Friday, January 23, 2026",
+    "team1": "Internacional de Bogotá",
+    "score": "2 - 1",
+    "team2": "Cúcuta Deportivo",
+    "title": "Internacional de Bogotá VS Cúcuta Deportivo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850718/cucuta-deportivo-internacional-de-bogota"
+  },
+  {
+    "gameId": "401850719",
+    "date": "Friday, January 23, 2026",
+    "team1": "Deportes Tolima",
+    "score": "2 - 0",
+    "team2": "Alianza FC",
+    "title": "Deportes Tolima VS Alianza FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850719/alianza-fc-deportes-tolima"
+  },
+  {
+    "gameId": "401850720",
+    "date": "20260123",
+    "team1": "Deportivo Pereira",
+    "score": "0 - 0",
+    "team2": "Fortaleza CEIF",
+    "title": "Deportivo Pereira VS Fortaleza CEIF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850720/fortaleza-ceif-deportivo-pereira"
+  },
+  {
+    "gameId": "401850721",
+    "date": "20260123",
+    "team1": "Llaneros",
+    "score": "1 - 1",
+    "team2": "Bucaramanga",
+    "title": "Llaneros VS Bucaramanga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850721/bucaramanga-llaneros"
   }
 ]

@@ -169,5 +169,32 @@
     "team2": "Paris Saint-Germain",
     "title": "AJ Auxerre VS Paris Saint-Germain",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746574/paris-saint-germain-aj-auxerre"
+  },
+  {
+    "gameId": "746582",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Stade Rennais",
+    "score": "0 - 2",
+    "team2": "Lorient",
+    "title": "Stade Rennais VS Lorient",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746582/lorient-stade-rennais"
+  },
+  {
+    "gameId": "746576",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Le Havre AC",
+    "score": "0 - 0",
+    "team2": "AS Monaco",
+    "title": "Le Havre AC VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746576/as-monaco-le-havre-ac"
+  },
+  {
+    "gameId": "746578",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Marseille",
+    "score": "3 - 1",
+    "team2": "Lens",
+    "title": "Marseille VS Lens",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746578/lens-marseille"
   }
 ]

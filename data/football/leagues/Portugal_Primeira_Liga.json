@@ -232,5 +232,32 @@
     "team2": "AVS",
     "title": "Casa Pia VS AVS",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750408/avs-casa-pia"
+  },
+  {
+    "gameId": "750414",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Moreirense",
+    "score": "1 - 0",
+    "team2": "Santa Clara",
+    "title": "Moreirense VS Santa Clara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750414/santa-clara-moreirense"
+  },
+  {
+    "gameId": "750409",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Arouca",
+    "score": "1 - 2",
+    "team2": "Sporting CP",
+    "title": "Arouca VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750409/sporting-cp-arouca"
+  },
+  {
+    "gameId": "750413",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Estoril",
+    "score": "4 - 2",
+    "team2": "Vitória de Guimaraes",
+    "title": "Estoril VS Vitória de Guimaraes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750413/vitoria-de-guimaraes-estoril"
   }
 ]

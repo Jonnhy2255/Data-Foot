@@ -376,5 +376,50 @@
     "team2": "AFC Bournemouth",
     "title": "Brighton & Hove Albion VS AFC Bournemouth",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740807/afc-bournemouth-brighton-hove-albion"
+  },
+  {
+    "gameId": "740825",
+    "date": "Saturday, January 24, 2026",
+    "team1": "West Ham United",
+    "score": "3 - 1",
+    "team2": "Sunderland",
+    "title": "West Ham United VS Sunderland",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740825/sunderland-west-ham-united"
+  },
+  {
+    "gameId": "740819",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Burnley",
+    "score": "2 - 2",
+    "team2": "Tottenham Hotspur",
+    "title": "Burnley VS Tottenham Hotspur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740819/tottenham-hotspur-burnley"
+  },
+  {
+    "gameId": "740822",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Fulham",
+    "score": "2 - 1",
+    "team2": "Brighton & Hove Albion",
+    "title": "Fulham VS Brighton & Hove Albion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740822/brighton-hove-albion-fulham"
+  },
+  {
+    "gameId": "740823",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Manchester City",
+    "score": "2 - 0",
+    "team2": "Wolverhampton Wanderers",
+    "title": "Manchester City VS Wolverhampton Wanderers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740823/wolverhampton-wanderers-manchester-city"
+  },
+  {
+    "gameId": "740817",
+    "date": "Saturday, January 24, 2026",
+    "team1": "AFC Bournemouth",
+    "score": "3 - 2",
+    "team2": "Liverpool",
+    "title": "AFC Bournemouth VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740817/liverpool-afc-bournemouth"
   }
 ]

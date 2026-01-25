@@ -79,5 +79,32 @@
     "team2": "KAA Gent",
     "title": "Standard Liege VS KAA Gent",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742706/kaa-gent-standard-liege"
+  },
+  {
+    "gameId": "742707",
+    "date": "Saturday, January 24, 2026",
+    "team1": "RAAL La Louvière",
+    "score": "1 - 2",
+    "team2": "Sint-Truidense",
+    "title": "RAAL La Louvière VS Sint-Truidense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742707/sint-truidense-raal-la-louviere"
+  },
+  {
+    "gameId": "742702",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Club Brugge",
+    "score": "4 - 3",
+    "team2": "Zulte-Waregem",
+    "title": "Club Brugge VS Zulte-Waregem",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742702/zulte-waregem-club-brugge"
+  },
+  {
+    "gameId": "742708",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Oud-Heverlee Leuven",
+    "score": "0 - 0",
+    "team2": "Union St.-Gilloise",
+    "title": "Oud-Heverlee Leuven VS Union St.-Gilloise",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742708/union-st-gilloise-oud-heverlee-leuven"
   }
 ]
