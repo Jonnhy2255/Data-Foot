@@ -277,5 +277,23 @@
     "team2": "Borussia Dortmund",
     "title": "1. FC Union Berlin VS Borussia Dortmund",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746886/borussia-dortmund-1-fc-union-berlin"
+  },
+  {
+    "gameId": "746882",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Borussia Mönchengladbach",
+    "score": "0 - 3",
+    "team2": "VfB Stuttgart",
+    "title": "Borussia Mönchengladbach VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746882/vfb-stuttgart-borussia-monchengladbach"
+  },
+  {
+    "gameId": "746887",
+    "date": "Sunday, January 25, 2026",
+    "team1": "SC Freiburg",
+    "score": "2 - 1",
+    "team2": "FC Cologne",
+    "title": "SC Freiburg VS FC Cologne",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746887/fc-cologne-sc-freiburg"
   }
 ]

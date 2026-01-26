@@ -259,5 +259,41 @@
     "team2": "Vitória de Guimaraes",
     "title": "Estoril VS Vitória de Guimaraes",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750413/vitoria-de-guimaraes-estoril"
+  },
+  {
+    "gameId": "750411",
+    "date": "Sunday, January 25, 2026",
+    "team1": "C.D. Nacional",
+    "score": "4 - 0",
+    "team2": "Rio Ave",
+    "title": "C.D. Nacional VS Rio Ave",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750411/rio-ave-cd-nacional"
+  },
+  {
+    "gameId": "750410",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Benfica",
+    "score": "4 - 0",
+    "team2": "Estrela",
+    "title": "Benfica VS Estrela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750410/estrela-benfica"
+  },
+  {
+    "gameId": "750415",
+    "date": "Sunday, January 25, 2026",
+    "team1": "FC Famalicao",
+    "score": "3 - 0",
+    "team2": "Tondela",
+    "title": "FC Famalicao VS Tondela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750415/tondela-fc-famalicao"
+  },
+  {
+    "gameId": "750412",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Braga",
+    "score": "5 - 0",
+    "team2": "Alverca",
+    "title": "Braga VS Alverca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750412/alverca-braga"
   }
 ]

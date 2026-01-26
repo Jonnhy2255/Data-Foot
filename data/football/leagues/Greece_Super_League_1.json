@@ -142,5 +142,32 @@
     "team2": "Panserraikos FC",
     "title": "Larissa FC VS Panserraikos FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752397/panserraikos-fc-larissa-fc"
+  },
+  {
+    "gameId": "752393",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Aris",
+    "score": "2 - 2",
+    "team2": "Levadiakos",
+    "title": "Aris VS Levadiakos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752393/levadiakos-aris"
+  },
+  {
+    "gameId": "752398",
+    "date": "Sunday, January 25, 2026",
+    "team1": "OFI Crete",
+    "score": "1 - 0",
+    "team2": "Panetolikos",
+    "title": "OFI Crete VS Panetolikos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752398/panetolikos-ofi-crete"
+  },
+  {
+    "gameId": "752395",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Atromitos",
+    "score": "0 - 0",
+    "team2": "Panathinaikos",
+    "title": "Atromitos VS Panathinaikos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752395/panathinaikos-atromitos"
   }
 ]

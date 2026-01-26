@@ -421,5 +421,41 @@
     "team2": "Liverpool",
     "title": "AFC Bournemouth VS Liverpool",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740817/liverpool-afc-bournemouth"
+  },
+  {
+    "gameId": "740818",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Brentford",
+    "score": "0 - 2",
+    "team2": "Nottingham Forest",
+    "title": "Brentford VS Nottingham Forest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740818/nottingham-forest-brentford"
+  },
+  {
+    "gameId": "740820",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Crystal Palace",
+    "score": "1 - 3",
+    "team2": "Chelsea",
+    "title": "Crystal Palace VS Chelsea",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740820/chelsea-crystal-palace"
+  },
+  {
+    "gameId": "740824",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Newcastle United",
+    "score": "0 - 2",
+    "team2": "Aston Villa",
+    "title": "Newcastle United VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740824/aston-villa-newcastle-united"
+  },
+  {
+    "gameId": "740816",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Arsenal",
+    "score": "2 - 3",
+    "team2": "Manchester United",
+    "title": "Arsenal VS Manchester United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740816/manchester-united-arsenal"
   }
 ]

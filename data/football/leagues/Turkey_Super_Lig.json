@@ -115,5 +115,41 @@
     "team2": "Galatasaray",
     "title": "Fatih Karagümrük VS Galatasaray",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750085/galatasaray-fatih-karagumruk"
+  },
+  {
+    "gameId": "750083",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Gaziantep FK",
+    "score": "1 - 1",
+    "team2": "Konyaspor",
+    "title": "Gaziantep FK VS Konyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750083/konyaspor-gaziantep-fk"
+  },
+  {
+    "gameId": "750084",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Antalyaspor",
+    "score": "2 - 1",
+    "team2": "Genclerbirligi",
+    "title": "Antalyaspor VS Genclerbirligi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750084/genclerbirligi-antalyaspor"
+  },
+  {
+    "gameId": "750087",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Caykur Rizespor",
+    "score": "1 - 1",
+    "team2": "Alanyaspor",
+    "title": "Caykur Rizespor VS Alanyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750087/alanyaspor-caykur-rizespor"
+  },
+  {
+    "gameId": "750088",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Fenerbahce",
+    "score": "1 - 1",
+    "team2": "Goztepe",
+    "title": "Fenerbahce VS Goztepe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750088/goztepe-fenerbahce"
   }
 ]

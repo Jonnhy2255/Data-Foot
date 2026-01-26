@@ -196,5 +196,41 @@
     "team2": "Excelsior",
     "title": "FC Twente VS Excelsior",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741155/excelsior-fc-twente"
+  },
+  {
+    "gameId": "741152",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Telstar",
+    "score": "0 - 1",
+    "team2": "AZ Alkmaar",
+    "title": "Telstar VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741152/az-alkmaar-telstar"
+  },
+  {
+    "gameId": "741154",
+    "date": "Sunday, January 25, 2026",
+    "team1": "FC Groningen",
+    "score": "1 - 2",
+    "team2": "Fortuna Sittard",
+    "title": "FC Groningen VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741154/fortuna-sittard-fc-groningen"
+  },
+  {
+    "gameId": "741147",
+    "date": "Sunday, January 25, 2026",
+    "team1": "FC Utrecht",
+    "score": "0 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "FC Utrecht VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741147/sparta-rotterdam-fc-utrecht"
+  },
+  {
+    "gameId": "741153",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Feyenoord Rotterdam",
+    "score": "4 - 2",
+    "team2": "Heracles Almelo",
+    "title": "Feyenoord Rotterdam VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741153/heracles-almelo-feyenoord-rotterdam"
   }
 ]

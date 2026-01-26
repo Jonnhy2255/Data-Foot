@@ -124,5 +124,32 @@
     "team2": "Bucaramanga",
     "title": "Llaneros VS Bucaramanga",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850721/bucaramanga-llaneros"
+  },
+  {
+    "gameId": "401850722",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Deportivo Cali",
+    "score": "3 - 1",
+    "team2": "Independiente Medellín",
+    "title": "Deportivo Cali VS Independiente Medellín",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850722/independiente-medellin-deportivo-cali"
+  },
+  {
+    "gameId": "401850723",
+    "date": "Saturday, January 24, 2026",
+    "team1": "Boyacá Chicó",
+    "score": "0 - 1",
+    "team2": "América de Cali",
+    "title": "Boyacá Chicó VS América de Cali",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850723/america-de-cali-boyaca-chico"
+  },
+  {
+    "gameId": "401850724",
+    "date": "20260124",
+    "team1": "Águilas Doradas",
+    "score": "1 - 2",
+    "team2": "Deportivo Pasto",
+    "title": "Águilas Doradas VS Deportivo Pasto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850724/deportivo-pasto-aguilas-doradas"
   }
 ]

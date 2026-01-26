@@ -511,5 +511,32 @@
     "team2": "Al Ahli",
     "title": "Neom SC VS Al Ahli",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756057/al-ahli-neom-sc"
+  },
+  {
+    "gameId": "756064",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Al Najma",
+    "score": "1 - 3",
+    "team2": "Al Qadsiah",
+    "title": "Al Najma VS Al Qadsiah",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756064/al-qadsiah-al-najma"
+  },
+  {
+    "gameId": "756065",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Al Fayha",
+    "score": "2 - 0",
+    "team2": "Al Fateh",
+    "title": "Al Fayha VS Al Fateh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756065/al-fateh-al-fayha"
+  },
+  {
+    "gameId": "756061",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Al Riyadh",
+    "score": "1 - 1",
+    "team2": "Al Hilal",
+    "title": "Al Riyadh VS Al Hilal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756061/al-hilal-al-riyadh"
   }
 ]

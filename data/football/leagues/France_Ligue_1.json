@@ -196,5 +196,50 @@
     "team2": "Lens",
     "title": "Marseille VS Lens",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746578/lens-marseille"
+  },
+  {
+    "gameId": "746580",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Nantes",
+    "score": "1 - 4",
+    "team2": "Nice",
+    "title": "Nantes VS Nice",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746580/nice-nantes"
+  },
+  {
+    "gameId": "746575",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Brest",
+    "score": "0 - 2",
+    "team2": "Toulouse",
+    "title": "Brest VS Toulouse",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746575/toulouse-brest"
+  },
+  {
+    "gameId": "746579",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Metz",
+    "score": "2 - 5",
+    "team2": "Lyon",
+    "title": "Metz VS Lyon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746579/lyon-metz"
+  },
+  {
+    "gameId": "746581",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Paris FC",
+    "score": "0 - 0",
+    "team2": "Angers",
+    "title": "Paris FC VS Angers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746581/angers-paris-fc"
+  },
+  {
+    "gameId": "746577",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Lille",
+    "score": "1 - 4",
+    "team2": "Strasbourg",
+    "title": "Lille VS Strasbourg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746577/strasbourg-lille"
   }
 ]

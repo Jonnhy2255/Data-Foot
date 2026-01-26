@@ -475,5 +475,50 @@
     "team2": "Lazio",
     "title": "Lecce VS Lazio",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/736999/lazio-lecce"
+  },
+  {
+    "gameId": "736998",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Sassuolo",
+    "score": "1 - 0",
+    "team2": "Cremonese",
+    "title": "Sassuolo VS Cremonese",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736998/cremonese-sassuolo"
+  },
+  {
+    "gameId": "736994",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Atalanta",
+    "score": "4 - 0",
+    "team2": "Parma",
+    "title": "Atalanta VS Parma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736994/parma-atalanta"
+  },
+  {
+    "gameId": "736997",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Genoa",
+    "score": "3 - 2",
+    "team2": "Bologna",
+    "title": "Genoa VS Bologna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/736997/bologna-genoa"
+  },
+  {
+    "gameId": "737000",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Juventus",
+    "score": "3 - 0",
+    "team2": "Napoli",
+    "title": "Juventus VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737000/napoli-juventus"
+  },
+  {
+    "gameId": "737003",
+    "date": "Sunday, January 25, 2026",
+    "team1": "AS Roma",
+    "score": "1 - 1",
+    "team2": "AC Milan",
+    "title": "AS Roma VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737003/ac-milan-as-roma"
   }
 ]
