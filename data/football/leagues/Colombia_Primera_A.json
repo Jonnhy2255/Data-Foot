@@ -151,5 +151,23 @@
     "team2": "Deportivo Pasto",
     "title": "Águilas Doradas VS Deportivo Pasto",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850724/deportivo-pasto-aguilas-doradas"
+  },
+  {
+    "gameId": "401850725",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Millonarios",
+    "score": "1 - 2",
+    "team2": "Atlético Junior",
+    "title": "Millonarios VS Atlético Junior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850725/atletico-junior-millonarios"
+  },
+  {
+    "gameId": "401850726",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Once Caldas",
+    "score": "1 - 1",
+    "team2": "Independiente Santa Fe",
+    "title": "Once Caldas VS Independiente Santa Fe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850726/independiente-santa-fe-once-caldas"
   }
 ]

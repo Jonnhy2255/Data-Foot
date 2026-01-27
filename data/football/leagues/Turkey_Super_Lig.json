@@ -151,5 +151,14 @@
     "team2": "Goztepe",
     "title": "Fenerbahce VS Goztepe",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750088/goztepe-fenerbahce"
+  },
+  {
+    "gameId": "750086",
+    "date": "Monday, January 26, 2026",
+    "team1": "Eyupspor",
+    "score": "2 - 2",
+    "team2": "Besiktas",
+    "title": "Eyupspor VS Besiktas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750086/besiktas-eyupspor"
   }
 ]

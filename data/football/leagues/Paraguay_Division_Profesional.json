@@ -34,5 +34,23 @@
     "team2": "Libertad",
     "title": "Cerro Porteño VS Libertad",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/762415/libertad-cerro-porteno"
+  },
+  {
+    "gameId": "762418",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Olimpia",
+    "score": "2 - 1",
+    "team2": "Guarani",
+    "title": "Olimpia VS Guarani",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762418/guarani-olimpia"
+  },
+  {
+    "gameId": "762416",
+    "date": "Sunday, January 25, 2026",
+    "team1": "Sportivo Ameliano",
+    "score": "2 - 2",
+    "team2": "Rubio Ñú",
+    "title": "Sportivo Ameliano VS Rubio Ñú",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/762416/rubio-nu-sportivo-ameliano"
   }
 ]

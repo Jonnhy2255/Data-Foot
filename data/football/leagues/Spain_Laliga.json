@@ -331,5 +331,14 @@
     "team2": "Real Betis",
     "title": "Alavés VS Real Betis",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748344/real-betis-alaves"
+  },
+  {
+    "gameId": "748347",
+    "date": "Monday, January 26, 2026",
+    "team1": "Girona",
+    "score": "1 - 1",
+    "team2": "Getafe",
+    "title": "Girona VS Getafe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748347/getafe-girona"
   }
 ]
