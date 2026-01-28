@@ -295,5 +295,23 @@
     "team2": "FC Cologne",
     "title": "SC Freiburg VS FC Cologne",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746887/fc-cologne-sc-freiburg"
+  },
+  {
+    "gameId": "746857",
+    "date": "Tuesday, January 27, 2026",
+    "team1": "St. Pauli",
+    "score": "1 - 1",
+    "team2": "RB Leipzig",
+    "title": "St. Pauli VS RB Leipzig",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746857/rb-leipzig-st-pauli"
+  },
+  {
+    "gameId": "746855",
+    "date": "Tuesday, January 27, 2026",
+    "team1": "Werder Bremen",
+    "score": "0 - 2",
+    "team2": "TSG Hoffenheim",
+    "title": "Werder Bremen VS TSG Hoffenheim",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746855/tsg-hoffenheim-werder-bremen"
   }
 ]
