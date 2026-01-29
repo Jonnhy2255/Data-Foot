@@ -160,5 +160,167 @@
     "team2": "Barcelona",
     "title": "Slavia Prague VS Barcelona",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/757778/barcelona-slavia-prague"
+  },
+  {
+    "gameId": "757779",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Ajax Amsterdam",
+    "score": "1 - 2",
+    "team2": "Olympiacos",
+    "title": "Ajax Amsterdam VS Olympiacos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757779/olympiacos-ajax-amsterdam"
+  },
+  {
+    "gameId": "757780",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Arsenal",
+    "score": "3 - 2",
+    "team2": "Kairat Almaty",
+    "title": "Arsenal VS Kairat Almaty",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757780/kairat-almaty-arsenal"
+  },
+  {
+    "gameId": "757791",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "AS Monaco",
+    "score": "0 - 0",
+    "team2": "Juventus",
+    "title": "AS Monaco VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757791/juventus-as-monaco"
+  },
+  {
+    "gameId": "757781",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Athletic Club",
+    "score": "2 - 3",
+    "team2": "Sporting CP",
+    "title": "Athletic Club VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757781/sporting-cp-athletic-club"
+  },
+  {
+    "gameId": "757782",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Atlético Madrid",
+    "score": "1 - 2",
+    "team2": "Bodo/Glimt",
+    "title": "Atlético Madrid VS Bodo/Glimt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757782/bodoglimt-atletico-madrid"
+  },
+  {
+    "gameId": "757783",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Barcelona",
+    "score": "4 - 1",
+    "team2": "F.C. København",
+    "title": "Barcelona VS F.C. København",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757783/fc-københavn-barcelona"
+  },
+  {
+    "gameId": "757784",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Bayer Leverkusen",
+    "score": "3 - 0",
+    "team2": "Villarreal",
+    "title": "Bayer Leverkusen VS Villarreal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757784/villarreal-bayer-leverkusen"
+  },
+  {
+    "gameId": "757785",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Benfica",
+    "score": "4 - 2",
+    "team2": "Real Madrid",
+    "title": "Benfica VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757785/real-madrid-benfica"
+  },
+  {
+    "gameId": "757786",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Borussia Dortmund",
+    "score": "0 - 2",
+    "team2": "Internazionale",
+    "title": "Borussia Dortmund VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757786/internazionale-borussia-dortmund"
+  },
+  {
+    "gameId": "757787",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Club Brugge",
+    "score": "3 - 0",
+    "team2": "Marseille",
+    "title": "Club Brugge VS Marseille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757787/marseille-club-brugge"
+  },
+  {
+    "gameId": "757788",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Eintracht Frankfurt",
+    "score": "0 - 2",
+    "team2": "Tottenham Hotspur",
+    "title": "Eintracht Frankfurt VS Tottenham Hotspur",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757788/tottenham-hotspur-eintracht-frankfurt"
+  },
+  {
+    "gameId": "757789",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Liverpool",
+    "score": "6 - 0",
+    "team2": "FK Qarabag",
+    "title": "Liverpool VS FK Qarabag",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757789/fk-qarabag-liverpool"
+  },
+  {
+    "gameId": "757790",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Manchester City",
+    "score": "2 - 0",
+    "team2": "Galatasaray",
+    "title": "Manchester City VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757790/galatasaray-manchester-city"
+  },
+  {
+    "gameId": "757792",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Napoli",
+    "score": "2 - 3",
+    "team2": "Chelsea",
+    "title": "Napoli VS Chelsea",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757792/chelsea-napoli"
+  },
+  {
+    "gameId": "757794",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Pafos",
+    "score": "4 - 1",
+    "team2": "Slavia Prague",
+    "title": "Pafos VS Slavia Prague",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757794/slavia-prague-pafos"
+  },
+  {
+    "gameId": "757795",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Paris Saint-Germain",
+    "score": "1 - 1",
+    "team2": "Newcastle United",
+    "title": "Paris Saint-Germain VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757795/newcastle-united-paris-saint-germain"
+  },
+  {
+    "gameId": "757793",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "PSV Eindhoven",
+    "score": "1 - 2",
+    "team2": "Bayern Munich",
+    "title": "PSV Eindhoven VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757793/bayern-munich-psv-eindhoven"
+  },
+  {
+    "gameId": "757796",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Union St.-Gilloise",
+    "score": "1 - 0",
+    "team2": "Atalanta",
+    "title": "Union St.-Gilloise VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757796/atalanta-union-st-gilloise"
   }
 ]

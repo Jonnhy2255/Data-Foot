@@ -565,5 +565,32 @@
     "team2": "Al Taawoun",
     "title": "Al Nassr VS Al Taawoun",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756062/al-taawoun-al-nassr"
+  },
+  {
+    "gameId": "756074",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Al Najma",
+    "score": "1 - 1",
+    "team2": "Al Riyadh",
+    "title": "Al Najma VS Al Riyadh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756074/al-riyadh-al-najma"
+  },
+  {
+    "gameId": "756073",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Al Ahli",
+    "score": "4 - 0",
+    "team2": "Al Ettifaq",
+    "title": "Al Ahli VS Al Ettifaq",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756073/al-ettifaq-al-ahli"
+  },
+  {
+    "gameId": "756071",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Al Fayha",
+    "score": "3 - 1",
+    "team2": "Al Khaleej",
+    "title": "Al Fayha VS Al Khaleej",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756071/al-khaleej-al-fayha"
   }
 ]

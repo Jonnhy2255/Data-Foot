@@ -178,5 +178,32 @@
     "team2": "Bucaramanga",
     "title": "Cúcuta Deportivo VS Bucaramanga",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850728/bucaramanga-cucuta-deportivo"
+  },
+  {
+    "gameId": "401850729",
+    "date": "Tuesday, January 27, 2026",
+    "team1": "Fortaleza CEIF",
+    "score": "1 - 1",
+    "team2": "Llaneros",
+    "title": "Fortaleza CEIF VS Llaneros",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850729/llaneros-fortaleza-ceif"
+  },
+  {
+    "gameId": "401850730",
+    "date": "Tuesday, January 27, 2026",
+    "team1": "Independiente Medellín",
+    "score": "2 - 2",
+    "team2": "Deportes Tolima",
+    "title": "Independiente Medellín VS Deportes Tolima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850730/deportes-tolima-independiente-medellin"
+  },
+  {
+    "gameId": "401850731",
+    "date": "20260127",
+    "team1": "Alianza FC",
+    "score": "1 - 1",
+    "team2": "Boyacá Chicó",
+    "title": "Alianza FC VS Boyacá Chicó",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850731/boyaca-chico-alianza-fc"
   }
 ]

@@ -52,5 +52,23 @@
     "team2": "Rubio Ñú",
     "title": "Sportivo Ameliano VS Rubio Ñú",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/762416/rubio-nu-sportivo-ameliano"
+  },
+  {
+    "gameId": "401848168",
+    "date": "Tuesday, January 27, 2026",
+    "team1": "Sportivo Luqueño",
+    "score": "1 - 2",
+    "team2": "Nacional",
+    "title": "Sportivo Luqueño VS Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848168/nacional-sportivo-luqueno"
+  },
+  {
+    "gameId": "401848169",
+    "date": "Tuesday, January 27, 2026",
+    "team1": "Sportivo San Lorenzo",
+    "score": "2 - 4",
+    "team2": "Cerro Porteño",
+    "title": "Sportivo San Lorenzo VS Cerro Porteño",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848169/cerro-porteno-sportivo-san-lorenzo"
   }
 ]
