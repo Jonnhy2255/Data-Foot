@@ -70,5 +70,32 @@
     "team2": "Cerro Porteño",
     "title": "Sportivo San Lorenzo VS Cerro Porteño",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848169/cerro-porteno-sportivo-san-lorenzo"
+  },
+  {
+    "gameId": "401848166",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Libertad",
+    "score": "1 - 0",
+    "team2": "Sportivo Ameliano",
+    "title": "Libertad VS Sportivo Ameliano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848166/sportivo-ameliano-libertad"
+  },
+  {
+    "gameId": "401848165",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "2 de Mayo",
+    "score": "1 - 1",
+    "team2": "Olimpia",
+    "title": "2 de Mayo VS Olimpia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848165/olimpia-2-de-mayo"
+  },
+  {
+    "gameId": "401848170",
+    "date": "20260128",
+    "team1": "Trinidense",
+    "score": "0 - 0",
+    "team2": "Guarani",
+    "title": "Trinidense VS Guarani",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848170/guarani-trinidense"
   }
 ]

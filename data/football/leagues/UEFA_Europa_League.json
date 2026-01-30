@@ -160,5 +160,167 @@
     "team2": "Racing Genk",
     "title": "FC Utrecht VS Racing Genk",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/757916/racing-genk-fc-utrecht"
+  },
+  {
+    "gameId": "757939",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Aston Villa",
+    "score": "3 - 2",
+    "team2": "RB Salzburg",
+    "title": "Aston Villa VS RB Salzburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757939/rb-salzburg-aston-villa"
+  },
+  {
+    "gameId": "757937",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Celtic",
+    "score": "4 - 2",
+    "team2": "FC Utrecht",
+    "title": "Celtic VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757937/fc-utrecht-celtic"
+  },
+  {
+    "gameId": "757935",
+    "date": "Thursday, January 29, 2026",
+    "team1": "FC Basel",
+    "score": "0 - 1",
+    "team2": "Viktoria Plzen",
+    "title": "FC Basel VS Viktoria Plzen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757935/viktoria-plzen-fc-basel"
+  },
+  {
+    "gameId": "757940",
+    "date": "Thursday, January 29, 2026",
+    "team1": "FC Midtjylland",
+    "score": "2 - 0",
+    "team2": "Dinamo Zagreb",
+    "title": "FC Midtjylland VS Dinamo Zagreb",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757940/dinamo-zagreb-fc-midtjylland"
+  },
+  {
+    "gameId": "757934",
+    "date": "Thursday, January 29, 2026",
+    "team1": "FC Porto",
+    "score": "3 - 1",
+    "team2": "Rangers",
+    "title": "FC Porto VS Rangers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757934/rangers-fc-porto"
+  },
+  {
+    "gameId": "757933",
+    "date": "Thursday, January 29, 2026",
+    "team1": "FCSB",
+    "score": "1 - 1",
+    "team2": "Fenerbahce",
+    "title": "FCSB VS Fenerbahce",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757933/fenerbahce-fcsb"
+  },
+  {
+    "gameId": "757931",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Go Ahead Eagles",
+    "score": "0 - 0",
+    "team2": "Braga",
+    "title": "Go Ahead Eagles VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757931/braga-go-ahead-eagles"
+  },
+  {
+    "gameId": "757923",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Lille",
+    "score": "1 - 0",
+    "team2": "SC Freiburg",
+    "title": "Lille VS SC Freiburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757923/sc-freiburg-lille"
+  },
+  {
+    "gameId": "757924",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Ludogorets Razgrad",
+    "score": "1 - 0",
+    "team2": "Nice",
+    "title": "Ludogorets Razgrad VS Nice",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757924/nice-ludogorets-razgrad"
+  },
+  {
+    "gameId": "757925",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Lyon",
+    "score": "4 - 2",
+    "team2": "PAOK Salonika",
+    "title": "Lyon VS PAOK Salonika",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757925/paok-salonika-lyon"
+  },
+  {
+    "gameId": "757926",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Maccabi Tel-Aviv",
+    "score": "0 - 3",
+    "team2": "Bologna",
+    "title": "Maccabi Tel-Aviv VS Bologna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757926/bologna-maccabi-tel-aviv"
+  },
+  {
+    "gameId": "757930",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Nottingham Forest",
+    "score": "4 - 0",
+    "team2": "Ferencvaros",
+    "title": "Nottingham Forest VS Ferencvaros",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757930/ferencvaros-nottingham-forest"
+  },
+  {
+    "gameId": "757929",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Panathinaikos",
+    "score": "1 - 1",
+    "team2": "AS Roma",
+    "title": "Panathinaikos VS AS Roma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757929/as-roma-panathinaikos"
+  },
+  {
+    "gameId": "757932",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Racing Genk",
+    "score": "2 - 1",
+    "team2": "Malmö FF",
+    "title": "Racing Genk VS Malmö FF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757932/malmo-ff-racing-genk"
+  },
+  {
+    "gameId": "757928",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Real Betis",
+    "score": "2 - 1",
+    "team2": "Feyenoord Rotterdam",
+    "title": "Real Betis VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757928/feyenoord-rotterdam-real-betis"
+  },
+  {
+    "gameId": "757936",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Red Star Belgrade",
+    "score": "1 - 1",
+    "team2": "Celta Vigo",
+    "title": "Red Star Belgrade VS Celta Vigo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757936/celta-vigo-red-star-belgrade"
+  },
+  {
+    "gameId": "757927",
+    "date": "Thursday, January 29, 2026",
+    "team1": "SK Sturm Graz",
+    "score": "1 - 0",
+    "team2": "SK Brann",
+    "title": "SK Sturm Graz VS SK Brann",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757927/sk-brann-sk-sturm-graz"
+  },
+  {
+    "gameId": "757938",
+    "date": "Thursday, January 29, 2026",
+    "team1": "VfB Stuttgart",
+    "score": "3 - 2",
+    "team2": "Young Boys",
+    "title": "VfB Stuttgart VS Young Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/757938/young-boys-vfb-stuttgart"
   }
 ]

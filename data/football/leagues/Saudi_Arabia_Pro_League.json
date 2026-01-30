@@ -592,5 +592,32 @@
     "team2": "Al Khaleej",
     "title": "Al Fayha VS Al Khaleej",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756071/al-khaleej-al-fayha"
+  },
+  {
+    "gameId": "756072",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Al Fateh",
+    "score": "2 - 2",
+    "team2": "Al Ittihad",
+    "title": "Al Fateh VS Al Ittihad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756072/al-ittihad-al-fateh"
+  },
+  {
+    "gameId": "756066",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Al Hazem",
+    "score": "0 - 4",
+    "team2": "Al Shabab",
+    "title": "Al Hazem VS Al Shabab",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756066/al-shabab-al-hazem"
+  },
+  {
+    "gameId": "756068",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Al Qadsiah",
+    "score": "2 - 2",
+    "team2": "Al Hilal",
+    "title": "Al Qadsiah VS Al Hilal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756068/al-hilal-al-qadsiah"
   }
 ]

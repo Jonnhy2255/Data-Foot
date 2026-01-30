@@ -205,5 +205,32 @@
     "team2": "Boyacá Chicó",
     "title": "Alianza FC VS Boyacá Chicó",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850731/boyaca-chico-alianza-fc"
+  },
+  {
+    "gameId": "401850733",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Independiente Santa Fe",
+    "score": "2 - 2",
+    "team2": "Deportivo Pereira",
+    "title": "Independiente Santa Fe VS Deportivo Pereira",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850733/deportivo-pereira-independiente-santa-fe"
+  },
+  {
+    "gameId": "401850732",
+    "date": "Wednesday, January 28, 2026",
+    "team1": "Deportivo Pasto",
+    "score": "2 - 1",
+    "team2": "Millonarios",
+    "title": "Deportivo Pasto VS Millonarios",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850732/millonarios-deportivo-pasto"
+  },
+  {
+    "gameId": "401850734",
+    "date": "20260128",
+    "team1": "Águilas Doradas",
+    "score": "2 - 1",
+    "team2": "Deportivo Cali",
+    "title": "Águilas Doradas VS Deportivo Cali",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850734/deportivo-cali-aguilas-doradas"
   }
 ]
