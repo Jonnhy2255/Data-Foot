@@ -313,5 +313,14 @@
     "team2": "TSG Hoffenheim",
     "title": "Werder Bremen VS TSG Hoffenheim",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746855/tsg-hoffenheim-werder-bremen"
+  },
+  {
+    "gameId": "746894",
+    "date": "Friday, January 30, 2026",
+    "team1": "FC Cologne",
+    "score": "1 - 0",
+    "team2": "VfL Wolfsburg",
+    "title": "FC Cologne VS VfL Wolfsburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746894/vfl-wolfsburg-fc-cologne"
   }
 ]

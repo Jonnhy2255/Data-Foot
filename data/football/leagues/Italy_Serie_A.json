@@ -529,5 +529,14 @@
     "team2": "Udinese",
     "title": "Hellas Verona VS Udinese",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737002/udinese-hellas-verona"
+  },
+  {
+    "gameId": "737013",
+    "date": "Friday, January 30, 2026",
+    "team1": "Lazio",
+    "score": "3 - 2",
+    "team2": "Genoa",
+    "title": "Lazio VS Genoa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737013/genoa-lazio"
   }
 ]

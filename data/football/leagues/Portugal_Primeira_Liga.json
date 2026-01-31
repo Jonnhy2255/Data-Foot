@@ -304,5 +304,14 @@
     "team2": "Gil Vicente",
     "title": "FC Porto VS Gil Vicente",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750416/gil-vicente-fc-porto"
+  },
+  {
+    "gameId": "750423",
+    "date": "Friday, January 30, 2026",
+    "team1": "Vitória de Guimaraes",
+    "score": "1 - 0",
+    "team2": "Moreirense",
+    "title": "Vitória de Guimaraes VS Moreirense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750423/moreirense-vitoria-de-guimaraes"
   }
 ]

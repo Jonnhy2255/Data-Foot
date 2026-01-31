@@ -340,5 +340,14 @@
     "team2": "Getafe",
     "title": "Girona VS Getafe",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748347/getafe-girona"
+  },
+  {
+    "gameId": "748355",
+    "date": "Friday, January 30, 2026",
+    "team1": "Espanyol",
+    "score": "1 - 2",
+    "team2": "Alavés",
+    "title": "Espanyol VS Alavés",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748355/alaves-espanyol"
   }
 ]

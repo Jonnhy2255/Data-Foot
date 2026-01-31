@@ -232,5 +232,14 @@
     "team2": "Heracles Almelo",
     "title": "Feyenoord Rotterdam VS Heracles Almelo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741153/heracles-almelo-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741162",
+    "date": "Friday, January 30, 2026",
+    "team1": "NAC Breda",
+    "score": "2 - 2",
+    "team2": "FC Twente",
+    "title": "NAC Breda VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741162/fc-twente-nac-breda"
   }
 ]

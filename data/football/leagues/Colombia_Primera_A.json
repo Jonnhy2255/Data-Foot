@@ -232,5 +232,23 @@
     "team2": "Deportivo Cali",
     "title": "Águilas Doradas VS Deportivo Cali",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850734/deportivo-cali-aguilas-doradas"
+  },
+  {
+    "gameId": "401850735",
+    "date": "Thursday, January 29, 2026",
+    "team1": "Jaguares de Córdoba",
+    "score": "2 - 3",
+    "team2": "Internacional de Bogotá",
+    "title": "Jaguares de Córdoba VS Internacional de Bogotá",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850735/internacional-de-bogota-jaguares-de-cordoba"
+  },
+  {
+    "gameId": "401850736",
+    "date": "Thursday, January 29, 2026",
+    "team1": "América de Cali",
+    "score": "1 - 1",
+    "team2": "Once Caldas",
+    "title": "América de Cali VS Once Caldas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850736/once-caldas-america-de-cali"
   }
 ]

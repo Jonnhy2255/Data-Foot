@@ -241,5 +241,14 @@
     "team2": "Strasbourg",
     "title": "Lille VS Strasbourg",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746577/strasbourg-lille"
+  },
+  {
+    "gameId": "746589",
+    "date": "Friday, January 30, 2026",
+    "team1": "Lens",
+    "score": "1 - 0",
+    "team2": "Le Havre AC",
+    "title": "Lens VS Le Havre AC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746589/le-havre-ac-lens"
   }
 ]

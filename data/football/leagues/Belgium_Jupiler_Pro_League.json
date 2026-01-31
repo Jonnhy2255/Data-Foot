@@ -142,5 +142,14 @@
     "team2": "KVC Westerlo",
     "title": "KV Mechelen VS KVC Westerlo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742709/kvc-westerlo-kv-mechelen"
+  },
+  {
+    "gameId": "742716",
+    "date": "Friday, January 30, 2026",
+    "team1": "RAAL La Louvière",
+    "score": "1 - 1",
+    "team2": "KAA Gent",
+    "title": "RAAL La Louvière VS KAA Gent",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742716/kaa-gent-raal-la-louviere"
   }
 ]

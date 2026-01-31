@@ -160,5 +160,23 @@
     "team2": "Besiktas",
     "title": "Eyupspor VS Besiktas",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750086/besiktas-eyupspor"
+  },
+  {
+    "gameId": "750095",
+    "date": "Friday, January 30, 2026",
+    "team1": "Antalyaspor",
+    "score": "1 - 1",
+    "team2": "Trabzonspor",
+    "title": "Antalyaspor VS Trabzonspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750095/trabzonspor-antalyaspor"
+  },
+  {
+    "gameId": "750089",
+    "date": "Friday, January 30, 2026",
+    "team1": "Kasimpasa",
+    "score": "0 - 1",
+    "team2": "Samsunspor",
+    "title": "Kasimpasa VS Samsunspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750089/samsunspor-kasimpasa"
   }
 ]

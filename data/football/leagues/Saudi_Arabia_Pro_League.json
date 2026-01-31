@@ -619,5 +619,32 @@
     "team2": "Al Hilal",
     "title": "Al Qadsiah VS Al Hilal",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756068/al-hilal-al-qadsiah"
+  },
+  {
+    "gameId": "756070",
+    "date": "Friday, January 30, 2026",
+    "team1": "Al Taawoun",
+    "score": "1 - 0",
+    "team2": "Al Okhdood",
+    "title": "Al Taawoun VS Al Okhdood",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756070/al-okhdood-al-taawoun"
+  },
+  {
+    "gameId": "756067",
+    "date": "Friday, January 30, 2026",
+    "team1": "Al Kholood",
+    "score": "0 - 3",
+    "team2": "Al Nassr",
+    "title": "Al Kholood VS Al Nassr",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756067/al-nassr-al-kholood"
+  },
+  {
+    "gameId": "756069",
+    "date": "Friday, January 30, 2026",
+    "team1": "Neom SC",
+    "score": "3 - 0",
+    "team2": "Damac",
+    "title": "Neom SC VS Damac",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756069/damac-neom-sc"
   }
 ]
