@@ -538,5 +538,32 @@
     "team2": "Genoa",
     "title": "Lazio VS Genoa",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737013/genoa-lazio"
+  },
+  {
+    "gameId": "737005",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Pisa",
+    "score": "1 - 3",
+    "team2": "Sassuolo",
+    "title": "Pisa VS Sassuolo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737005/sassuolo-pisa"
+  },
+  {
+    "gameId": "737007",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Napoli",
+    "score": "2 - 1",
+    "team2": "Fiorentina",
+    "title": "Napoli VS Fiorentina",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737007/fiorentina-napoli"
+  },
+  {
+    "gameId": "737011",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Cagliari",
+    "score": "4 - 0",
+    "team2": "Hellas Verona",
+    "title": "Cagliari VS Hellas Verona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737011/hellas-verona-cagliari"
   }
 ]

@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "gameId": "401850409",
+    "date": "Friday, January 30, 2026",
+    "team1": "Universidad de Chile",
+    "score": "0 - 0",
+    "team2": "Audax Italiano",
+    "title": "Universidad de Chile VS Audax Italiano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850409/audax-italiano-universidad-de-chile"
+  },
+  {
+    "gameId": "401850418",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Deportes Limache",
+    "score": "3 - 1",
+    "team2": "Colo Colo",
+    "title": "Deportes Limache VS Colo Colo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850418/colo-colo-deportes-limache"
+  },
+  {
+    "gameId": "401850424",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Universidad de Concepción",
+    "score": "1 - 0",
+    "team2": "Coquimbo Unido",
+    "title": "Universidad de Concepción VS Coquimbo Unido",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850424/coquimbo-unido-universidad-de-concepcion"
+  },
+  {
+    "gameId": "401850422",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Cobresal",
+    "score": "1 - 0",
+    "team2": "Huachipato",
+    "title": "Cobresal VS Huachipato",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850422/huachipato-cobresal"
+  }
+]

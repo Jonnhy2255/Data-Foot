@@ -151,5 +151,32 @@
     "team2": "KAA Gent",
     "title": "RAAL La Louvière VS KAA Gent",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742716/kaa-gent-raal-la-louviere"
+  },
+  {
+    "gameId": "742710",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Cercle Brugge KSV",
+    "score": "0 - 4",
+    "team2": "Antwerp",
+    "title": "Cercle Brugge KSV VS Antwerp",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742710/antwerp-cercle-brugge-ksv"
+  },
+  {
+    "gameId": "742717",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Zulte-Waregem",
+    "score": "0 - 1",
+    "team2": "KVC Westerlo",
+    "title": "Zulte-Waregem VS KVC Westerlo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742717/kvc-westerlo-zulte-waregem"
+  },
+  {
+    "gameId": "742715",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Sint-Truidense",
+    "score": "0 - 2",
+    "team2": "Royal Charleroi SC",
+    "title": "Sint-Truidense VS Royal Charleroi SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742715/royal-charleroi-sc-sint-truidense"
   }
 ]

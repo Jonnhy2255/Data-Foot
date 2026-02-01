@@ -16,5 +16,23 @@
     "team2": "Atlético Grau",
     "title": "UTC VS Atlético Grau",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850344/atletico-grau-utc"
+  },
+  {
+    "gameId": "401850342",
+    "date": "20260130",
+    "team1": "Sport Boys",
+    "score": "1 - 1",
+    "team2": "Los Chankas",
+    "title": "Sport Boys VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850342/los-chankas-sport-boys"
+  },
+  {
+    "gameId": "401850357",
+    "date": "20260130",
+    "team1": "Juan Pablo II",
+    "score": "3 - 3",
+    "team2": "FC Cajamarca",
+    "title": "Juan Pablo II VS FC Cajamarca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850357/fc-cajamarca-juan-pablo-ii"
   }
 ]

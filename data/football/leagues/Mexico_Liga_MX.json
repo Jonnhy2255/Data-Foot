@@ -241,5 +241,59 @@
     "team2": "América",
     "title": "Pachuca VS América",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840841/america-pachuca"
+  },
+  {
+    "gameId": "401840842",
+    "date": "Friday, January 30, 2026",
+    "team1": "Puebla",
+    "score": "0 - 0",
+    "team2": "Toluca",
+    "title": "Puebla VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840842/toluca-puebla"
+  },
+  {
+    "gameId": "401840843",
+    "date": "Friday, January 30, 2026",
+    "team1": "Pumas UNAM",
+    "score": "4 - 0",
+    "team2": "Santos",
+    "title": "Pumas UNAM VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840843/santos-pumas-unam"
+  },
+  {
+    "gameId": "401840844",
+    "date": "Friday, January 30, 2026",
+    "team1": "FC Juarez",
+    "score": "3 - 4",
+    "team2": "Cruz Azul",
+    "title": "FC Juarez VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840844/cruz-azul-fc-juarez"
+  },
+  {
+    "gameId": "401840848",
+    "date": "20260130",
+    "team1": "América",
+    "score": "2 - 0",
+    "team2": "Necaxa",
+    "title": "América VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840848/necaxa-america"
+  },
+  {
+    "gameId": "401840845",
+    "date": "20260130",
+    "team1": "Atlas",
+    "score": "1 - 0",
+    "team2": "Mazatlán FC",
+    "title": "Atlas VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840845/mazatlan-fc-atlas"
+  },
+  {
+    "gameId": "401840850",
+    "date": "20260130",
+    "team1": "Atlético de San Luis",
+    "score": "2 - 3",
+    "team2": "Guadalajara",
+    "title": "Atlético de San Luis VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840850/guadalajara-atletico-de-san-luis"
   }
 ]

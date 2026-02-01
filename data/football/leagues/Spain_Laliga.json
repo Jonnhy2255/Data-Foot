@@ -349,5 +349,41 @@
     "team2": "Alavés",
     "title": "Espanyol VS Alavés",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748355/alaves-espanyol"
+  },
+  {
+    "gameId": "748362",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Real Oviedo",
+    "score": "1 - 0",
+    "team2": "Girona",
+    "title": "Real Oviedo VS Girona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748362/girona-real-oviedo"
+  },
+  {
+    "gameId": "748359",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Osasuna",
+    "score": "2 - 2",
+    "team2": "Villarreal",
+    "title": "Osasuna VS Villarreal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748359/villarreal-osasuna"
+  },
+  {
+    "gameId": "748357",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Levante",
+    "score": "0 - 0",
+    "team2": "Atlético Madrid",
+    "title": "Levante VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748357/atletico-madrid-levante"
+  },
+  {
+    "gameId": "748354",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Elche",
+    "score": "1 - 3",
+    "team2": "Barcelona",
+    "title": "Elche VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748354/barcelona-elche"
   }
 ]

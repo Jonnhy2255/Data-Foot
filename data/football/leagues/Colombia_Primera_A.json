@@ -250,5 +250,14 @@
     "team2": "Once Caldas",
     "title": "América de Cali VS Once Caldas",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850736/once-caldas-america-de-cali"
+  },
+  {
+    "gameId": "401850738",
+    "date": "20260130",
+    "team1": "Cúcuta Deportivo",
+    "score": "1 - 1",
+    "team2": "Fortaleza CEIF",
+    "title": "Cúcuta Deportivo VS Fortaleza CEIF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850738/fortaleza-ceif-cucuta-deportivo"
   }
 ]

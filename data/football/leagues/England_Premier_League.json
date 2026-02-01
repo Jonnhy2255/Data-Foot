@@ -466,5 +466,50 @@
     "team2": "Leeds United",
     "title": "Everton VS Leeds United",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740821/leeds-united-everton"
+  },
+  {
+    "gameId": "740831",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Brighton & Hove Albion",
+    "score": "1 - 1",
+    "team2": "Everton",
+    "title": "Brighton & Hove Albion VS Everton",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740831/everton-brighton-hove-albion"
+  },
+  {
+    "gameId": "740829",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Leeds United",
+    "score": "0 - 4",
+    "team2": "Arsenal",
+    "title": "Leeds United VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740829/arsenal-leeds-united"
+  },
+  {
+    "gameId": "740827",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Wolverhampton Wanderers",
+    "score": "0 - 2",
+    "team2": "AFC Bournemouth",
+    "title": "Wolverhampton Wanderers VS AFC Bournemouth",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740827/afc-bournemouth-wolverhampton-wanderers"
+  },
+  {
+    "gameId": "740835",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Chelsea",
+    "score": "3 - 2",
+    "team2": "West Ham United",
+    "title": "Chelsea VS West Ham United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740835/west-ham-united-chelsea"
+  },
+  {
+    "gameId": "740834",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Liverpool",
+    "score": "4 - 1",
+    "team2": "Newcastle United",
+    "title": "Liverpool VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740834/newcastle-united-liverpool"
   }
 ]

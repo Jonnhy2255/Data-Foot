@@ -178,5 +178,41 @@
     "team2": "Samsunspor",
     "title": "Kasimpasa VS Samsunspor",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750089/samsunspor-kasimpasa"
+  },
+  {
+    "gameId": "750096",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Alanyaspor",
+    "score": "1 - 3",
+    "team2": "Eyupspor",
+    "title": "Alanyaspor VS Eyupspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750096/eyupspor-alanyaspor"
+  },
+  {
+    "gameId": "750090",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Istanbul Basaksehir",
+    "score": "2 - 2",
+    "team2": "Caykur Rizespor",
+    "title": "Istanbul Basaksehir VS Caykur Rizespor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750090/caykur-rizespor-istanbul-basaksehir"
+  },
+  {
+    "gameId": "750094",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Besiktas",
+    "score": "2 - 1",
+    "team2": "Konyaspor",
+    "title": "Besiktas VS Konyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750094/konyaspor-besiktas"
+  },
+  {
+    "gameId": "750091",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Goztepe",
+    "score": "2 - 1",
+    "team2": "Fatih Karagümrük",
+    "title": "Goztepe VS Fatih Karagümrük",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750091/fatih-karagumruk-goztepe"
   }
 ]

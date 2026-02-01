@@ -322,5 +322,59 @@
     "team2": "VfL Wolfsburg",
     "title": "FC Cologne VS VfL Wolfsburg",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746894/vfl-wolfsburg-fc-cologne"
+  },
+  {
+    "gameId": "746890",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Eintracht Frankfurt",
+    "score": "1 - 3",
+    "team2": "Bayer Leverkusen",
+    "title": "Eintracht Frankfurt VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746890/bayer-leverkusen-eintracht-frankfurt"
+  },
+  {
+    "gameId": "746891",
+    "date": "Saturday, January 31, 2026",
+    "team1": "FC Augsburg",
+    "score": "2 - 1",
+    "team2": "St. Pauli",
+    "title": "FC Augsburg VS St. Pauli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746891/st-pauli-fc-augsburg"
+  },
+  {
+    "gameId": "746893",
+    "date": "Saturday, January 31, 2026",
+    "team1": "RB Leipzig",
+    "score": "1 - 2",
+    "team2": "Mainz",
+    "title": "RB Leipzig VS Mainz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746893/mainz-rb-leipzig"
+  },
+  {
+    "gameId": "746897",
+    "date": "Saturday, January 31, 2026",
+    "team1": "TSG Hoffenheim",
+    "score": "3 - 1",
+    "team2": "1. FC Union Berlin",
+    "title": "TSG Hoffenheim VS 1. FC Union Berlin",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746897/1-fc-union-berlin-tsg-hoffenheim"
+  },
+  {
+    "gameId": "746896",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Werder Bremen",
+    "score": "1 - 1",
+    "team2": "Borussia Mönchengladbach",
+    "title": "Werder Bremen VS Borussia Mönchengladbach",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746896/borussia-monchengladbach-werder-bremen"
+  },
+  {
+    "gameId": "746895",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Hamburg SV",
+    "score": "2 - 2",
+    "team2": "Bayern Munich",
+    "title": "Hamburg SV VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746895/bayern-munich-hamburg-sv"
   }
 ]
