@@ -214,5 +214,23 @@
     "team2": "Fatih Karagümrük",
     "title": "Goztepe VS Fatih Karagümrük",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750091/fatih-karagumruk-goztepe"
+  },
+  {
+    "gameId": "750092",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Genclerbirligi",
+    "score": "2 - 1",
+    "team2": "Gaziantep FK",
+    "title": "Genclerbirligi VS Gaziantep FK",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750092/gaziantep-fk-genclerbirligi"
+  },
+  {
+    "gameId": "750097",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Galatasaray",
+    "score": "4 - 0",
+    "team2": "Kayserispor",
+    "title": "Galatasaray VS Kayserispor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750097/kayserispor-galatasaray"
   }
 ]

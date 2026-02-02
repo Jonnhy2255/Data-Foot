@@ -259,5 +259,32 @@
     "team2": "Fortaleza CEIF",
     "title": "Cúcuta Deportivo VS Fortaleza CEIF",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850738/fortaleza-ceif-cucuta-deportivo"
+  },
+  {
+    "gameId": "401850739",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Boyacá Chicó",
+    "score": "0 - 1",
+    "team2": "Independiente Santa Fe",
+    "title": "Boyacá Chicó VS Independiente Santa Fe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850739/independiente-santa-fe-boyaca-chico"
+  },
+  {
+    "gameId": "401850741",
+    "date": "20260131",
+    "team1": "Bucaramanga",
+    "score": "5 - 0",
+    "team2": "Alianza FC",
+    "title": "Bucaramanga VS Alianza FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850741/alianza-fc-bucaramanga"
+  },
+  {
+    "gameId": "401850742",
+    "date": "20260131",
+    "team1": "Deportivo Cali",
+    "score": "3 - 0",
+    "team2": "Deportivo Pasto",
+    "title": "Deportivo Cali VS Deportivo Pasto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850742/deportivo-pasto-deportivo-cali"
   }
 ]

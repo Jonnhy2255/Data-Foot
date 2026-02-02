@@ -295,5 +295,32 @@
     "team2": "Guadalajara",
     "title": "Atlético de San Luis VS Guadalajara",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840850/guadalajara-atletico-de-san-luis"
+  },
+  {
+    "gameId": "401840847",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Monterrey",
+    "score": "2 - 2",
+    "team2": "Tijuana",
+    "title": "Monterrey VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840847/tijuana-monterrey"
+  },
+  {
+    "gameId": "401840846",
+    "date": "Saturday, January 31, 2026",
+    "team1": "León",
+    "score": "1 - 2",
+    "team2": "Tigres UANL",
+    "title": "León VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840846/tigres-uanl-leon"
+  },
+  {
+    "gameId": "401840849",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Querétaro",
+    "score": "0 - 0",
+    "team2": "Pachuca",
+    "title": "Querétaro VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840849/pachuca-queretaro"
   }
 ]

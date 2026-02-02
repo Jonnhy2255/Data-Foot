@@ -34,5 +34,23 @@
     "team2": "Portuguesa",
     "title": "Carabobo VS Portuguesa",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850389/portuguesa-carabobo"
+  },
+  {
+    "gameId": "401850388",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Deportivo La Guaira",
+    "score": "2 - 0",
+    "team2": "Monagas SC",
+    "title": "Deportivo La Guaira VS Monagas SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850388/monagas-sc-deportivo-la-guaira"
+  },
+  {
+    "gameId": "401850386",
+    "date": "20260131",
+    "team1": "Estudiantes de Mérida",
+    "score": "2 - 2",
+    "team2": "Caracas FC",
+    "title": "Estudiantes de Mérida VS Caracas FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850386/caracas-fc-estudiantes-de-merida"
   }
 ]

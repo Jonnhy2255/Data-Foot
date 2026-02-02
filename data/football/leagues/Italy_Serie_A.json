@@ -565,5 +565,41 @@
     "team2": "Hellas Verona",
     "title": "Cagliari VS Hellas Verona",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737011/hellas-verona-cagliari"
+  },
+  {
+    "gameId": "737004",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Torino",
+    "score": "1 - 0",
+    "team2": "Lecce",
+    "title": "Torino VS Lecce",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737004/lecce-torino"
+  },
+  {
+    "gameId": "737010",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Como",
+    "score": "0 - 0",
+    "team2": "Atalanta",
+    "title": "Como VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737010/atalanta-como"
+  },
+  {
+    "gameId": "737009",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Cremonese",
+    "score": "0 - 2",
+    "team2": "Internazionale",
+    "title": "Cremonese VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737009/internazionale-cremonese"
+  },
+  {
+    "gameId": "737006",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Parma",
+    "score": "1 - 4",
+    "team2": "Juventus",
+    "title": "Parma VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737006/juventus-parma"
   }
 ]

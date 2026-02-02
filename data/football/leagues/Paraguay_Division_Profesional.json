@@ -115,5 +115,23 @@
     "team2": "2 de Mayo",
     "title": "Nacional VS 2 de Mayo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848173/2-de-mayo-nacional"
+  },
+  {
+    "gameId": "401848176",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Sportivo Ameliano",
+    "score": "1 - 0",
+    "team2": "Sportivo San Lorenzo",
+    "title": "Sportivo Ameliano VS Sportivo San Lorenzo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848176/sportivo-san-lorenzo-sportivo-ameliano"
+  },
+  {
+    "gameId": "401848174",
+    "date": "20260131",
+    "team1": "Olimpia",
+    "score": "3 - 2",
+    "team2": "Trinidense",
+    "title": "Olimpia VS Trinidense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848174/trinidense-olimpia"
   }
 ]

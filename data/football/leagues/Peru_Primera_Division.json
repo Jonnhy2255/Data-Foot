@@ -34,5 +34,41 @@
     "team2": "FC Cajamarca",
     "title": "Juan Pablo II VS FC Cajamarca",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850357/fc-cajamarca-juan-pablo-ii"
+  },
+  {
+    "gameId": "401850345",
+    "date": "Saturday, January 31, 2026",
+    "team1": "Melgar",
+    "score": "2 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "Melgar VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850345/cienciano-del-cusco-melgar"
+  },
+  {
+    "gameId": "401850340",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 1",
+    "team2": "Sporting Cristal",
+    "title": "Deportivo Garcilaso VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850340/sporting-cristal-deportivo-garcilaso"
+  },
+  {
+    "gameId": "401850339",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Alianza Atlético",
+    "score": "1 - 0",
+    "team2": "Cusco FC",
+    "title": "Alianza Atlético VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850339/cusco-fc-alianza-atletico"
+  },
+  {
+    "gameId": "401850341",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Universitario",
+    "score": "2 - 0",
+    "team2": "ADT",
+    "title": "Universitario VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850341/adt-universitario"
   }
 ]

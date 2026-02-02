@@ -34,5 +34,14 @@
     "team2": "Huachipato",
     "title": "Cobresal VS Huachipato",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850422/huachipato-cobresal"
+  },
+  {
+    "gameId": "401850413",
+    "date": "20260131",
+    "team1": "La Serena",
+    "score": "2 - 2",
+    "team2": "Universidad Católica",
+    "title": "La Serena VS Universidad Católica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850413/universidad-catolica-la-serena"
   }
 ]

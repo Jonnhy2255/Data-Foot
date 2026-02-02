@@ -340,5 +340,32 @@
     "team2": "Estrela",
     "title": "Alverca VS Estrela",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750421/estrela-alverca"
+  },
+  {
+    "gameId": "750419",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Gil Vicente",
+    "score": "5 - 0",
+    "team2": "FC Famalicao",
+    "title": "Gil Vicente VS FC Famalicao",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750419/fc-famalicao-gil-vicente"
+  },
+  {
+    "gameId": "750418",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Sporting CP",
+    "score": "2 - 1",
+    "team2": "C.D. Nacional",
+    "title": "Sporting CP VS C.D. Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750418/cd-nacional-sporting-cp"
+  },
+  {
+    "gameId": "750417",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Tondela",
+    "score": "0 - 0",
+    "team2": "Benfica",
+    "title": "Tondela VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750417/benfica-tondela"
   }
 ]

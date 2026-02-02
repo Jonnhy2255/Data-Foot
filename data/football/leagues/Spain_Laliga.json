@@ -385,5 +385,41 @@
     "team2": "Barcelona",
     "title": "Elche VS Barcelona",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748354/barcelona-elche"
+  },
+  {
+    "gameId": "748356",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Real Madrid",
+    "score": "2 - 1",
+    "team2": "Rayo Vallecano",
+    "title": "Real Madrid VS Rayo Vallecano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748356/rayo-vallecano-real-madrid"
+  },
+  {
+    "gameId": "748360",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Real Betis",
+    "score": "2 - 1",
+    "team2": "Valencia",
+    "title": "Real Betis VS Valencia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748360/valencia-real-betis"
+  },
+  {
+    "gameId": "748361",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Getafe",
+    "score": "0 - 0",
+    "team2": "Celta Vigo",
+    "title": "Getafe VS Celta Vigo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748361/celta-vigo-getafe"
+  },
+  {
+    "gameId": "748358",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Athletic Club",
+    "score": "1 - 1",
+    "team2": "Real Sociedad",
+    "title": "Athletic Club VS Real Sociedad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748358/real-sociedad-athletic-club"
   }
 ]
