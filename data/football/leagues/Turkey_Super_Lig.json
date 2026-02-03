@@ -232,5 +232,14 @@
     "team2": "Kayserispor",
     "title": "Galatasaray VS Kayserispor",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750097/kayserispor-galatasaray"
+  },
+  {
+    "gameId": "750093",
+    "date": "Monday, February 2, 2026",
+    "team1": "Kocaelispor",
+    "score": "0 - 2",
+    "team2": "Fenerbahce",
+    "title": "Kocaelispor VS Fenerbahce",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750093/fenerbahce-kocaelispor"
   }
 ]

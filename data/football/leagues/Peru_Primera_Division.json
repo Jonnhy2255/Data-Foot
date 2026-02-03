@@ -70,5 +70,14 @@
     "team2": "ADT",
     "title": "Universitario VS ADT",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850341/adt-universitario"
+  },
+  {
+    "gameId": "401850356",
+    "date": "Monday, February 2, 2026",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 0",
+    "team2": "Deportivo Moquegua",
+    "title": "Comerciantes Unidos VS Deportivo Moquegua",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850356/deportivo-moquegua-comerciantes-unidos"
   }
 ]

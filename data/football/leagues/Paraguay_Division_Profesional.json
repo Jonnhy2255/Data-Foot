@@ -133,5 +133,14 @@
     "team2": "Trinidense",
     "title": "Olimpia VS Trinidense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848174/trinidense-olimpia"
+  },
+  {
+    "gameId": "401848171",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Guarani",
+    "score": "4 - 0",
+    "team2": "Rubio Ñú",
+    "title": "Guarani VS Rubio Ñú",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848171/rubio-nu-guarani"
   }
 ]

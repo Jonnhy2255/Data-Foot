@@ -286,5 +286,32 @@
     "team2": "Deportivo Pasto",
     "title": "Deportivo Cali VS Deportivo Pasto",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850742/deportivo-pasto-deportivo-cali"
+  },
+  {
+    "gameId": "401850743",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Once Caldas",
+    "score": "1 - 1",
+    "team2": "Jaguares de Córdoba",
+    "title": "Once Caldas VS Jaguares de Córdoba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850743/jaguares-de-cordoba-once-caldas"
+  },
+  {
+    "gameId": "401850744",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Llaneros",
+    "score": "1 - 1",
+    "team2": "Águilas Doradas",
+    "title": "Llaneros VS Águilas Doradas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850744/aguilas-doradas-llaneros"
+  },
+  {
+    "gameId": "401850740",
+    "date": "20260201",
+    "team1": "Millonarios",
+    "score": "0 - 0",
+    "team2": "Independiente Medellín",
+    "title": "Millonarios VS Independiente Medellín",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850740/independiente-medellin-millonarios"
   }
 ]

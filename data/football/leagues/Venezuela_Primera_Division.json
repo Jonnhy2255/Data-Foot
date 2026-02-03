@@ -52,5 +52,14 @@
     "team2": "Caracas FC",
     "title": "Estudiantes de Mérida VS Caracas FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850386/caracas-fc-estudiantes-de-merida"
+  },
+  {
+    "gameId": "401850391",
+    "date": "Sunday, February 1, 2026",
+    "team1": "Universidad Central",
+    "score": "2 - 0",
+    "team2": "Trujillanos",
+    "title": "Universidad Central VS Trujillanos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850391/trujillanos-universidad-central"
   }
 ]

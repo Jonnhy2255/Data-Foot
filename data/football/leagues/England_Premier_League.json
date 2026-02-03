@@ -547,5 +547,14 @@
     "team2": "Manchester City",
     "title": "Tottenham Hotspur VS Manchester City",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740828/manchester-city-tottenham-hotspur"
+  },
+  {
+    "gameId": "740830",
+    "date": "Monday, February 2, 2026",
+    "team1": "Sunderland",
+    "score": "3 - 0",
+    "team2": "Burnley",
+    "title": "Sunderland VS Burnley",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740830/burnley-sunderland"
   }
 ]

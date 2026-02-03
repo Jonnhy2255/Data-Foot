@@ -421,5 +421,14 @@
     "team2": "Real Sociedad",
     "title": "Athletic Club VS Real Sociedad",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748358/real-sociedad-athletic-club"
+  },
+  {
+    "gameId": "748363",
+    "date": "Monday, February 2, 2026",
+    "team1": "Mallorca",
+    "score": "4 - 1",
+    "team2": "Sevilla",
+    "title": "Mallorca VS Sevilla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748363/sevilla-mallorca"
   }
 ]

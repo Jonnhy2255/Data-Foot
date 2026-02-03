@@ -367,5 +367,23 @@
     "team2": "Benfica",
     "title": "Tondela VS Benfica",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750417/benfica-tondela"
+  },
+  {
+    "gameId": "750420",
+    "date": "Monday, February 2, 2026",
+    "team1": "AVS",
+    "score": "0 - 4",
+    "team2": "Braga",
+    "title": "AVS VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750420/braga-avs"
+  },
+  {
+    "gameId": "750422",
+    "date": "Monday, February 2, 2026",
+    "team1": "Casa Pia",
+    "score": "2 - 1",
+    "team2": "FC Porto",
+    "title": "Casa Pia VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750422/fc-porto-casa-pia"
   }
 ]
