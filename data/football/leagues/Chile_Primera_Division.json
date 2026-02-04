@@ -61,5 +61,14 @@
     "team2": "Unión La Calera",
     "title": "Everton CD VS Unión La Calera",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850416/union-la-calera-everton-cd"
+  },
+  {
+    "gameId": "401850600",
+    "date": "Monday, February 2, 2026",
+    "team1": "O'Higgins",
+    "score": "2 - 1",
+    "team2": "Deportes Concepcion",
+    "title": "O'Higgins VS Deportes Concepcion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850600/deportes-concepcion-ohiggins"
   }
 ]

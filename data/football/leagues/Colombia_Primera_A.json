@@ -313,5 +313,23 @@
     "team2": "Independiente Medellín",
     "title": "Millonarios VS Independiente Medellín",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850740/independiente-medellin-millonarios"
+  },
+  {
+    "gameId": "401850745",
+    "date": "Monday, February 2, 2026",
+    "team1": "Internacional de Bogotá",
+    "score": "0 - 0",
+    "team2": "Deportes Tolima",
+    "title": "Internacional de Bogotá VS Deportes Tolima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850745/deportes-tolima-internacional-de-bogota"
+  },
+  {
+    "gameId": "401850746",
+    "date": "Monday, February 2, 2026",
+    "team1": "Deportivo Pereira",
+    "score": "2 - 3",
+    "team2": "Atlético Junior",
+    "title": "Deportivo Pereira VS Atlético Junior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850746/atletico-junior-deportivo-pereira"
   }
 ]

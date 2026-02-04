@@ -610,5 +610,14 @@
     "team2": "AS Roma",
     "title": "Udinese VS AS Roma",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737008/as-roma-udinese"
+  },
+  {
+    "gameId": "737012",
+    "date": "Tuesday, February 3, 2026",
+    "team1": "Bologna",
+    "score": "0 - 3",
+    "team2": "AC Milan",
+    "title": "Bologna VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737012/ac-milan-bologna"
   }
 ]
