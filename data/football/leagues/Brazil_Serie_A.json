@@ -88,5 +88,23 @@
     "team2": "Cruzeiro",
     "title": "Botafogo VS Cruzeiro",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840809/cruzeiro-botafogo"
+  },
+  {
+    "gameId": "401840978",
+    "date": "20260203",
+    "team1": "Flamengo",
+    "score": "1 - 1",
+    "team2": "Internacional",
+    "title": "Flamengo VS Internacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840978/internacional-flamengo"
+  },
+  {
+    "gameId": "401840984",
+    "date": "20260203",
+    "team1": "Red Bull Bragantino",
+    "score": "1 - 0",
+    "team2": "Atlético-MG",
+    "title": "Red Bull Bragantino VS Atlético-MG",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840984/atletico-mg-red-bull-bragantino"
   }
 ]
