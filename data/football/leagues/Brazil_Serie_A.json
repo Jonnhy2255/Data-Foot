@@ -106,5 +106,50 @@
     "team2": "Atlético-MG",
     "title": "Red Bull Bragantino VS Atlético-MG",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840984/atletico-mg-red-bull-bragantino"
+  },
+  {
+    "gameId": "401840985",
+    "date": "Wednesday, February 4, 2026",
+    "team1": "Remo",
+    "score": "2 - 2",
+    "team2": "Mirassol",
+    "title": "Remo VS Mirassol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840985/mirassol-remo"
+  },
+  {
+    "gameId": "401840986",
+    "date": "Wednesday, February 4, 2026",
+    "team1": "Santos",
+    "score": "1 - 1",
+    "team2": "São Paulo",
+    "title": "Santos VS São Paulo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840986/sao-paulo-santos"
+  },
+  {
+    "gameId": "401840987",
+    "date": "Wednesday, February 4, 2026",
+    "team1": "Grêmio",
+    "score": "5 - 3",
+    "team2": "Botafogo",
+    "title": "Grêmio VS Botafogo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840987/botafogo-gremio"
+  },
+  {
+    "gameId": "401840983",
+    "date": "Wednesday, February 4, 2026",
+    "team1": "Palmeiras",
+    "score": "5 - 1",
+    "team2": "Vitória",
+    "title": "Palmeiras VS Vitória",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840983/vitoria-palmeiras"
+  },
+  {
+    "gameId": "401840980",
+    "date": "20260204",
+    "team1": "Bahia",
+    "score": "1 - 1",
+    "team2": "Fluminense",
+    "title": "Bahia VS Fluminense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840980/fluminense-bahia"
   }
 ]

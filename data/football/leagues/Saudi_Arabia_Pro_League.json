@@ -727,5 +727,32 @@
     "team2": "Al Qadsiah",
     "title": "Al Khaleej VS Al Qadsiah",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756076/al-qadsiah-al-khaleej"
+  },
+  {
+    "gameId": "756088",
+    "date": "Thursday, February 5, 2026",
+    "team1": "Al Fayha",
+    "score": "3 - 0",
+    "team2": "Al Najma",
+    "title": "Al Fayha VS Al Najma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756088/al-najma-al-fayha"
+  },
+  {
+    "gameId": "756092",
+    "date": "Thursday, February 5, 2026",
+    "team1": "Al Ahli",
+    "score": "2 - 0",
+    "team2": "Al Hazem",
+    "title": "Al Ahli VS Al Hazem",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756092/al-hazem-al-ahli"
+  },
+  {
+    "gameId": "756086",
+    "date": "Thursday, February 5, 2026",
+    "team1": "Al Okhdood",
+    "score": "0 - 6",
+    "team2": "Al Hilal",
+    "title": "Al Okhdood VS Al Hilal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756086/al-hilal-al-okhdood"
   }
 ]

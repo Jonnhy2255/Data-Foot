@@ -331,5 +331,14 @@
     "team2": "Atlético Junior",
     "title": "Deportivo Pereira VS Atlético Junior",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850746/atletico-junior-deportivo-pereira"
+  },
+  {
+    "gameId": "401850747",
+    "date": "Wednesday, February 4, 2026",
+    "team1": "Atlético Nacional",
+    "score": "2 - 1",
+    "team2": "América de Cali",
+    "title": "Atlético Nacional VS América de Cali",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850747/america-de-cali-atletico-nacional"
   }
 ]
