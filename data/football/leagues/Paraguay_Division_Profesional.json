@@ -160,5 +160,14 @@
     "team2": "Sportivo Luqueño",
     "title": "Cerro Porteño VS Sportivo Luqueño",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848172/sportivo-luqueno-cerro-porteno"
+  },
+  {
+    "gameId": "401848182",
+    "date": "20260205",
+    "team1": "Sportivo San Lorenzo",
+    "score": "0 - 3",
+    "team2": "Deportivo Recoleta",
+    "title": "Sportivo San Lorenzo VS Deportivo Recoleta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848182/deportivo-recoleta-sportivo-san-lorenzo"
   }
 ]

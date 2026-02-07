@@ -313,5 +313,14 @@
     "team2": "Go Ahead Eagles",
     "title": "FC Volendam VS Go Ahead Eagles",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741164/go-ahead-eagles-fc-volendam"
+  },
+  {
+    "gameId": "741169",
+    "date": "Friday, February 6, 2026",
+    "team1": "NAC Breda",
+    "score": "0 - 2",
+    "team2": "Excelsior",
+    "title": "NAC Breda VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741169/excelsior-nac-breda"
   }
 ]

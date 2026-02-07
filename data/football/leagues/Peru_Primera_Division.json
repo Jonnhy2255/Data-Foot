@@ -79,5 +79,14 @@
     "team2": "Deportivo Moquegua",
     "title": "Comerciantes Unidos VS Deportivo Moquegua",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850356/deportivo-moquegua-comerciantes-unidos"
+  },
+  {
+    "gameId": "401857381",
+    "date": "Friday, February 6, 2026",
+    "team1": "Deportivo Moquegua",
+    "score": "2 - 3",
+    "team2": "UTC",
+    "title": "Deportivo Moquegua VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857381/utc-deportivo-moquegua"
   }
 ]

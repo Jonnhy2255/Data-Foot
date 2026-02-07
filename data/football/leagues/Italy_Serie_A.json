@@ -619,5 +619,14 @@
     "team2": "AC Milan",
     "title": "Bologna VS AC Milan",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737012/ac-milan-bologna"
+  },
+  {
+    "gameId": "737018",
+    "date": "Friday, February 6, 2026",
+    "team1": "Hellas Verona",
+    "score": "0 - 0",
+    "team2": "Pisa",
+    "title": "Hellas Verona VS Pisa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737018/pisa-hellas-verona"
   }
 ]

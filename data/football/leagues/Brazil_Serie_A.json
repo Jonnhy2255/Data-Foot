@@ -151,5 +151,23 @@
     "team2": "Fluminense",
     "title": "Bahia VS Fluminense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840980/fluminense-bahia"
+  },
+  {
+    "gameId": "401840982",
+    "date": "Thursday, February 5, 2026",
+    "team1": "Vasco da Gama",
+    "score": "1 - 1",
+    "team2": "Chapecoense",
+    "title": "Vasco da Gama VS Chapecoense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840982/chapecoense-vasco-da-gama"
+  },
+  {
+    "gameId": "401840979",
+    "date": "Thursday, February 5, 2026",
+    "team1": "Cruzeiro",
+    "score": "1 - 2",
+    "team2": "Coritiba",
+    "title": "Cruzeiro VS Coritiba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840979/coritiba-cruzeiro"
   }
 ]

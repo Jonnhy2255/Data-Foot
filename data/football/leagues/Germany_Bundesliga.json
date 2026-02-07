@@ -394,5 +394,14 @@
     "team2": "1. FC Heidenheim 1846",
     "title": "Borussia Dortmund VS 1. FC Heidenheim 1846",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746889/1-fc-heidenheim-1846-borussia-dortmund"
+  },
+  {
+    "gameId": "746900",
+    "date": "Friday, February 6, 2026",
+    "team1": "1. FC Union Berlin",
+    "score": "1 - 1",
+    "team2": "Eintracht Frankfurt",
+    "title": "1. FC Union Berlin VS Eintracht Frankfurt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746900/eintracht-frankfurt-1-fc-union-berlin"
   }
 ]
