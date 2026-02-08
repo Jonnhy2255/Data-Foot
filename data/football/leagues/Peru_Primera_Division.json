@@ -88,5 +88,23 @@
     "team2": "UTC",
     "title": "Deportivo Moquegua VS UTC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857381/utc-deportivo-moquegua"
+  },
+  {
+    "gameId": "401857385",
+    "date": "20260206",
+    "team1": "ADT",
+    "score": "1 - 0",
+    "team2": "Sport Boys",
+    "title": "ADT VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857385/sport-boys-adt"
+  },
+  {
+    "gameId": "401857387",
+    "date": "20260206",
+    "team1": "Atlético Grau",
+    "score": "0 - 0",
+    "team2": "Sport Huancayo",
+    "title": "Atlético Grau VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857387/sport-huancayo-atletico-grau"
   }
 ]

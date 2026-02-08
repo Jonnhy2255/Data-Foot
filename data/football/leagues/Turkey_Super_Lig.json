@@ -241,5 +241,23 @@
     "team2": "Fenerbahce",
     "title": "Kocaelispor VS Fenerbahce",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750093/fenerbahce-kocaelispor"
+  },
+  {
+    "gameId": "750105",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Fatih Karagümrük",
+    "score": "1 - 0",
+    "team2": "Antalyaspor",
+    "title": "Fatih Karagümrük VS Antalyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750105/antalyaspor-fatih-karagumruk"
+  },
+  {
+    "gameId": "750101",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Samsunspor",
+    "score": "0 - 3",
+    "team2": "Trabzonspor",
+    "title": "Samsunspor VS Trabzonspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750101/trabzonspor-samsunspor"
   }
 ]

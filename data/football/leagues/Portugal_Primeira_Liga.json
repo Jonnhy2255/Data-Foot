@@ -385,5 +385,41 @@
     "team2": "FC Porto",
     "title": "Casa Pia VS FC Porto",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750422/fc-porto-casa-pia"
+  },
+  {
+    "gameId": "750431",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Estrela",
+    "score": "1 - 0",
+    "team2": "Santa Clara",
+    "title": "Estrela VS Santa Clara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750431/santa-clara-estrela"
+  },
+  {
+    "gameId": "750426",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Moreirense",
+    "score": "1 - 2",
+    "team2": "Gil Vicente",
+    "title": "Moreirense VS Gil Vicente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750426/gil-vicente-moreirense"
+  },
+  {
+    "gameId": "750427",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Estoril",
+    "score": "2 - 2",
+    "team2": "Tondela",
+    "title": "Estoril VS Tondela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750427/tondela-estoril"
+  },
+  {
+    "gameId": "750434",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Arouca",
+    "score": "3 - 2",
+    "team2": "Vitória de Guimaraes",
+    "title": "Arouca VS Vitória de Guimaraes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750434/vitoria-de-guimaraes-arouca"
   }
 ]

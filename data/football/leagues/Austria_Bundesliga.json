@@ -7,5 +7,23 @@
     "team2": "Austria Vienna",
     "title": "RB Salzburg VS Austria Vienna",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/747433/austria-vienna-rb-salzburg"
+  },
+  {
+    "gameId": "747434",
+    "date": "Saturday, February 7, 2026",
+    "team1": "LASK Linz",
+    "score": "1 - 0",
+    "team2": "WSG Swarovski Tirol",
+    "title": "LASK Linz VS WSG Swarovski Tirol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747434/wsg-swarovski-tirol-lask-linz"
+  },
+  {
+    "gameId": "747437",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Rapid Vienna",
+    "score": "1 - 1",
+    "team2": "TSV Hartberg",
+    "title": "Rapid Vienna VS TSV Hartberg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747437/tsv-hartberg-rapid-vienna"
   }
 ]

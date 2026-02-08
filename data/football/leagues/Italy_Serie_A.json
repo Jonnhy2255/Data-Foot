@@ -628,5 +628,23 @@
     "team2": "Pisa",
     "title": "Hellas Verona VS Pisa",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737018/pisa-hellas-verona"
+  },
+  {
+    "gameId": "737019",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Genoa",
+    "score": "2 - 3",
+    "team2": "Napoli",
+    "title": "Genoa VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737019/napoli-genoa"
+  },
+  {
+    "gameId": "737020",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Fiorentina",
+    "score": "2 - 2",
+    "team2": "Torino",
+    "title": "Fiorentina VS Torino",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737020/torino-fiorentina"
   }
 ]

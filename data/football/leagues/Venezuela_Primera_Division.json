@@ -61,5 +61,41 @@
     "team2": "Trujillanos",
     "title": "Universidad Central VS Trujillanos",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850391/trujillanos-universidad-central"
+  },
+  {
+    "gameId": "401850396",
+    "date": "Friday, February 6, 2026",
+    "team1": "Portuguesa",
+    "score": "1 - 0",
+    "team2": "Deportivo Táchira",
+    "title": "Portuguesa VS Deportivo Táchira",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850396/deportivo-tachira-portuguesa"
+  },
+  {
+    "gameId": "401850392",
+    "date": "Friday, February 6, 2026",
+    "team1": "Academia Anzoátegui",
+    "score": "1 - 3",
+    "team2": "Deportivo Rayo Zuliano",
+    "title": "Academia Anzoátegui VS Deportivo Rayo Zuliano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850392/deportivo-rayo-zuliano-academia-anzoategui"
+  },
+  {
+    "gameId": "401850398",
+    "date": "20260206",
+    "team1": "Zamora",
+    "score": "3 - 2",
+    "team2": "Estudiantes de Mérida",
+    "title": "Zamora VS Estudiantes de Mérida",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850398/estudiantes-de-merida-zamora"
+  },
+  {
+    "gameId": "401850393",
+    "date": "20260206",
+    "team1": "Caracas FC",
+    "score": "1 - 1",
+    "team2": "Academia Puerto Cabello",
+    "title": "Caracas FC VS Academia Puerto Cabello",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850393/academia-puerto-cabello-caracas-fc"
   }
 ]

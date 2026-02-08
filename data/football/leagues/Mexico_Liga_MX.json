@@ -322,5 +322,59 @@
     "team2": "Pachuca",
     "title": "Querétaro VS Pachuca",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840849/pachuca-queretaro"
+  },
+  {
+    "gameId": "401840852",
+    "date": "Friday, February 6, 2026",
+    "team1": "Necaxa",
+    "score": "4 - 1",
+    "team2": "Atlético de San Luis",
+    "title": "Necaxa VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840852/atletico-de-san-luis-necaxa"
+  },
+  {
+    "gameId": "401840851",
+    "date": "Friday, February 6, 2026",
+    "team1": "Tigres UANL",
+    "score": "5 - 1",
+    "team2": "Santos",
+    "title": "Tigres UANL VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840851/santos-tigres-uanl"
+  },
+  {
+    "gameId": "401840853",
+    "date": "Friday, February 6, 2026",
+    "team1": "Mazatlán FC",
+    "score": "1 - 2",
+    "team2": "Guadalajara",
+    "title": "Mazatlán FC VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840853/guadalajara-mazatlan-fc"
+  },
+  {
+    "gameId": "401840854",
+    "date": "Friday, February 6, 2026",
+    "team1": "Tijuana",
+    "score": "0 - 0",
+    "team2": "Puebla",
+    "title": "Tijuana VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840854/puebla-tijuana"
+  },
+  {
+    "gameId": "401840855",
+    "date": "20260206",
+    "team1": "Querétaro",
+    "score": "2 - 0",
+    "team2": "León",
+    "title": "Querétaro VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840855/leon-queretaro"
+  },
+  {
+    "gameId": "401840856",
+    "date": "20260206",
+    "team1": "Toluca",
+    "score": "1 - 1",
+    "team2": "Cruz Azul",
+    "title": "Toluca VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840856/cruz-azul-toluca"
   }
 ]

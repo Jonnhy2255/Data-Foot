@@ -322,5 +322,41 @@
     "team2": "Excelsior",
     "title": "NAC Breda VS Excelsior",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741169/excelsior-nac-breda"
+  },
+  {
+    "gameId": "741168",
+    "date": "Saturday, February 7, 2026",
+    "team1": "NEC Nijmegen",
+    "score": "4 - 1",
+    "team2": "Heracles Almelo",
+    "title": "NEC Nijmegen VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741168/heracles-almelo-nec-nijmegen"
+  },
+  {
+    "gameId": "741170",
+    "date": "Saturday, February 7, 2026",
+    "team1": "PEC Zwolle",
+    "score": "1 - 2",
+    "team2": "FC Volendam",
+    "title": "PEC Zwolle VS FC Volendam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741170/fc-volendam-pec-zwolle"
+  },
+  {
+    "gameId": "741173",
+    "date": "Saturday, February 7, 2026",
+    "team1": "FC Twente",
+    "score": "5 - 0",
+    "team2": "Heerenveen",
+    "title": "FC Twente VS Heerenveen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741173/heerenveen-fc-twente"
+  },
+  {
+    "gameId": "741171",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Fortuna Sittard",
+    "score": "2 - 2",
+    "team2": "Sparta Rotterdam",
+    "title": "Fortuna Sittard VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741171/sparta-rotterdam-fortuna-sittard"
   }
 ]

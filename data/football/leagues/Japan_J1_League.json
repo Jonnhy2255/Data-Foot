@@ -25,5 +25,32 @@
     "team2": "Machida Zelvia",
     "title": "Yokohama F. Marinos VS Machida Zelvia",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859264/machida-zelvia-yokohama-f-marinos"
+  },
+  {
+    "gameId": "401859409",
+    "date": "Friday, February 6, 2026",
+    "team1": "JEF United Ichihara-Chiba",
+    "score": "0 - 2",
+    "team2": "Urawa Red Diamonds",
+    "title": "JEF United Ichihara-Chiba VS Urawa Red Diamonds",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859409/urawa-red-diamonds-jef-united-ichihara-chiba"
+  },
+  {
+    "gameId": "401859265",
+    "date": "Friday, February 6, 2026",
+    "team1": "FC Tokyo",
+    "score": "1 - 1",
+    "team2": "Kashima Antlers",
+    "title": "FC Tokyo VS Kashima Antlers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859265/kashima-antlers-fc-tokyo"
+  },
+  {
+    "gameId": "401859266",
+    "date": "20260206",
+    "team1": "Cerezo Osaka",
+    "score": "0 - 0",
+    "team2": "Gamba Osaka",
+    "title": "Cerezo Osaka VS Gamba Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859266/gamba-osaka-cerezo-osaka"
   }
 ]

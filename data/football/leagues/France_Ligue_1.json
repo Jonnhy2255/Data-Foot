@@ -331,5 +331,32 @@
     "team2": "Lille",
     "title": "Metz VS Lille",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746597/lille-metz"
+  },
+  {
+    "gameId": "746596",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Lens",
+    "score": "3 - 1",
+    "team2": "Stade Rennais",
+    "title": "Lens VS Stade Rennais",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746596/stade-rennais-lens"
+  },
+  {
+    "gameId": "746594",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Brest",
+    "score": "2 - 0",
+    "team2": "Lorient",
+    "title": "Brest VS Lorient",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746594/lorient-brest"
+  },
+  {
+    "gameId": "746598",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Nantes",
+    "score": "0 - 1",
+    "team2": "Lyon",
+    "title": "Nantes VS Lyon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746598/lyon-nantes"
   }
 ]

@@ -439,5 +439,23 @@
     "team2": "Osasuna",
     "title": "Celta Vigo VS Osasuna",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748371/osasuna-celta-vigo"
+  },
+  {
+    "gameId": "748370",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Barcelona",
+    "score": "3 - 0",
+    "team2": "Mallorca",
+    "title": "Barcelona VS Mallorca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748370/mallorca-barcelona"
+  },
+  {
+    "gameId": "748366",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Real Sociedad",
+    "score": "3 - 1",
+    "team2": "Elche",
+    "title": "Real Sociedad VS Elche",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748366/elche-real-sociedad"
   }
 ]

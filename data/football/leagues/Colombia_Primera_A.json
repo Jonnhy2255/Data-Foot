@@ -340,5 +340,50 @@
     "team2": "América de Cali",
     "title": "Atlético Nacional VS América de Cali",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850747/america-de-cali-atletico-nacional"
+  },
+  {
+    "gameId": "401850749",
+    "date": "Friday, February 6, 2026",
+    "team1": "Deportivo Pasto",
+    "score": "0 - 0",
+    "team2": "Bucaramanga",
+    "title": "Deportivo Pasto VS Bucaramanga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850749/bucaramanga-deportivo-pasto"
+  },
+  {
+    "gameId": "401850750",
+    "date": "Friday, February 6, 2026",
+    "team1": "Independiente Medellín",
+    "score": "1 - 2",
+    "team2": "Internacional de Bogotá",
+    "title": "Independiente Medellín VS Internacional de Bogotá",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850750/internacional-de-bogota-independiente-medellin"
+  },
+  {
+    "gameId": "401850751",
+    "date": "20260206",
+    "team1": "Águilas Doradas",
+    "score": "3 - 2",
+    "team2": "Cúcuta Deportivo",
+    "title": "Águilas Doradas VS Cúcuta Deportivo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850751/cucuta-deportivo-aguilas-doradas"
+  },
+  {
+    "gameId": "401850752",
+    "date": "20260206",
+    "team1": "Deportes Tolima",
+    "score": "0 - 1",
+    "team2": "Llaneros",
+    "title": "Deportes Tolima VS Llaneros",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850752/llaneros-deportes-tolima"
+  },
+  {
+    "gameId": "401850792",
+    "date": "20260206",
+    "team1": "Fortaleza CEIF",
+    "score": "1 - 1",
+    "team2": "Independiente Santa Fe",
+    "title": "Fortaleza CEIF VS Independiente Santa Fe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850792/independiente-santa-fe-fortaleza-ceif"
   }
 ]

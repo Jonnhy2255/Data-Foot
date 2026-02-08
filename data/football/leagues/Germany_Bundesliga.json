@@ -403,5 +403,59 @@
     "team2": "Eintracht Frankfurt",
     "title": "1. FC Union Berlin VS Eintracht Frankfurt",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746900/eintracht-frankfurt-1-fc-union-berlin"
+  },
+  {
+    "gameId": "746898",
+    "date": "Saturday, February 7, 2026",
+    "team1": "1. FC Heidenheim 1846",
+    "score": "0 - 2",
+    "team2": "Hamburg SV",
+    "title": "1. FC Heidenheim 1846 VS Hamburg SV",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746898/hamburg-sv-1-fc-heidenheim-1846"
+  },
+  {
+    "gameId": "746902",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Mainz",
+    "score": "2 - 0",
+    "team2": "FC Augsburg",
+    "title": "Mainz VS FC Augsburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746902/fc-augsburg-mainz"
+  },
+  {
+    "gameId": "746905",
+    "date": "Saturday, February 7, 2026",
+    "team1": "SC Freiburg",
+    "score": "1 - 0",
+    "team2": "Werder Bremen",
+    "title": "SC Freiburg VS Werder Bremen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746905/werder-bremen-sc-freiburg"
+  },
+  {
+    "gameId": "746904",
+    "date": "Saturday, February 7, 2026",
+    "team1": "St. Pauli",
+    "score": "2 - 1",
+    "team2": "VfB Stuttgart",
+    "title": "St. Pauli VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746904/vfb-stuttgart-st-pauli"
+  },
+  {
+    "gameId": "746901",
+    "date": "Saturday, February 7, 2026",
+    "team1": "VfL Wolfsburg",
+    "score": "1 - 2",
+    "team2": "Borussia Dortmund",
+    "title": "VfL Wolfsburg VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746901/borussia-dortmund-vfl-wolfsburg"
+  },
+  {
+    "gameId": "746906",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Borussia Mönchengladbach",
+    "score": "1 - 1",
+    "team2": "Bayer Leverkusen",
+    "title": "Borussia Mönchengladbach VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746906/bayer-leverkusen-borussia-monchengladbach"
   }
 ]
