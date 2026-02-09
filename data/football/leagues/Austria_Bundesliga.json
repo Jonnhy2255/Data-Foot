@@ -25,5 +25,32 @@
     "team2": "TSV Hartberg",
     "title": "Rapid Vienna VS TSV Hartberg",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/747437/tsv-hartberg-rapid-vienna"
+  },
+  {
+    "gameId": "747432",
+    "date": "Sunday, February 8, 2026",
+    "team1": "SC Rheindorf Altach",
+    "score": "1 - 0",
+    "team2": "FC Blau-Weiß Linz",
+    "title": "SC Rheindorf Altach VS FC Blau-Weiß Linz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747432/fc-blau-weiß-linz-sc-rheindorf-altach"
+  },
+  {
+    "gameId": "747435",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Wolfsberger",
+    "score": "2 - 2",
+    "team2": "Grazer AK",
+    "title": "Wolfsberger VS Grazer AK",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747435/grazer-ak-wolfsberger"
+  },
+  {
+    "gameId": "747436",
+    "date": "Sunday, February 8, 2026",
+    "team1": "SK Sturm Graz",
+    "score": "1 - 0",
+    "team2": "SV Josko Ried",
+    "title": "SK Sturm Graz VS SV Josko Ried",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747436/sv-josko-ried-sk-sturm-graz"
   }
 ]

@@ -628,5 +628,23 @@
     "team2": "Brentford",
     "title": "Newcastle United VS Brentford",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740844/brentford-newcastle-united"
+  },
+  {
+    "gameId": "740838",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Brighton & Hove Albion",
+    "score": "0 - 1",
+    "team2": "Crystal Palace",
+    "title": "Brighton & Hove Albion VS Crystal Palace",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740838/crystal-palace-brighton-hove-albion"
+  },
+  {
+    "gameId": "740845",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Liverpool",
+    "score": "1 - 2",
+    "team2": "Manchester City",
+    "title": "Liverpool VS Manchester City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740845/manchester-city-liverpool"
   }
 ]

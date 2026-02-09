@@ -97,5 +97,32 @@
     "team2": "Academia Puerto Cabello",
     "title": "Caracas FC VS Academia Puerto Cabello",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850393/academia-puerto-cabello-caracas-fc"
+  },
+  {
+    "gameId": "401850395",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Monagas SC",
+    "score": "0 - 3",
+    "team2": "Universidad Central",
+    "title": "Monagas SC VS Universidad Central",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850395/universidad-central-monagas-sc"
+  },
+  {
+    "gameId": "401850397",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Trujillanos",
+    "score": "1 - 1",
+    "team2": "Carabobo",
+    "title": "Trujillanos VS Carabobo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850397/carabobo-trujillanos"
+  },
+  {
+    "gameId": "401850394",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Metropolitanos FC",
+    "score": "2 - 2",
+    "team2": "Deportivo La Guaira",
+    "title": "Metropolitanos FC VS Deportivo La Guaira",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850394/deportivo-la-guaira-metropolitanos-fc"
   }
 ]

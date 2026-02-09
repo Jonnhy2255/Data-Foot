@@ -358,5 +358,50 @@
     "team2": "Lyon",
     "title": "Nantes VS Lyon",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746598/lyon-nantes"
+  },
+  {
+    "gameId": "746599",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Nice",
+    "score": "0 - 0",
+    "team2": "AS Monaco",
+    "title": "Nice VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746599/as-monaco-nice"
+  },
+  {
+    "gameId": "746593",
+    "date": "Sunday, February 8, 2026",
+    "team1": "AJ Auxerre",
+    "score": "0 - 0",
+    "team2": "Paris FC",
+    "title": "AJ Auxerre VS Paris FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746593/paris-fc-aj-auxerre"
+  },
+  {
+    "gameId": "746592",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Angers",
+    "score": "1 - 0",
+    "team2": "Toulouse",
+    "title": "Angers VS Toulouse",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746592/toulouse-angers"
+  },
+  {
+    "gameId": "746600",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Le Havre AC",
+    "score": "2 - 1",
+    "team2": "Strasbourg",
+    "title": "Le Havre AC VS Strasbourg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746600/strasbourg-le-havre-ac"
+  },
+  {
+    "gameId": "746595",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Paris Saint-Germain",
+    "score": "5 - 0",
+    "team2": "Marseille",
+    "title": "Paris Saint-Germain VS Marseille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746595/marseille-paris-saint-germain"
   }
 ]

@@ -250,5 +250,41 @@
     "team2": "Oud-Heverlee Leuven",
     "title": "KAA Gent VS Oud-Heverlee Leuven",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742718/oud-heverlee-leuven-kaa-gent"
+  },
+  {
+    "gameId": "742719",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Racing Genk",
+    "score": "2 - 0",
+    "team2": "Anderlecht",
+    "title": "Racing Genk VS Anderlecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742719/anderlecht-racing-genk"
+  },
+  {
+    "gameId": "742724",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Union St.-Gilloise",
+    "score": "2 - 1",
+    "team2": "RAAL La Louvière",
+    "title": "Union St.-Gilloise VS RAAL La Louvière",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742724/raal-la-louviere-union-st-gilloise"
+  },
+  {
+    "gameId": "742720",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Club Brugge",
+    "score": "3 - 0",
+    "team2": "Standard Liege",
+    "title": "Club Brugge VS Standard Liege",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742720/standard-liege-club-brugge"
+  },
+  {
+    "gameId": "742721",
+    "date": "Sunday, February 8, 2026",
+    "team1": "KV Mechelen",
+    "score": "2 - 0",
+    "team2": "Antwerp",
+    "title": "KV Mechelen VS Antwerp",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742721/antwerp-kv-mechelen"
   }
 ]

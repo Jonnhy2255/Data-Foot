@@ -106,5 +106,50 @@
     "team2": "Sport Huancayo",
     "title": "Atlético Grau VS Sport Huancayo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857387/sport-huancayo-atletico-grau"
+  },
+  {
+    "gameId": "401857380",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Cusco FC",
+    "score": "1 - 1",
+    "team2": "Universitario",
+    "title": "Cusco FC VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857380/universitario-cusco-fc"
+  },
+  {
+    "gameId": "401857384",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Sporting Cristal",
+    "score": "1 - 2",
+    "team2": "Melgar",
+    "title": "Sporting Cristal VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857384/melgar-sporting-cristal"
+  },
+  {
+    "gameId": "401857382",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Los Chankas",
+    "score": "1 - 0",
+    "team2": "Alianza Atlético",
+    "title": "Los Chankas VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857382/alianza-atletico-los-chankas"
+  },
+  {
+    "gameId": "401857379",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Cienciano del Cusco",
+    "score": "6 - 1",
+    "team2": "Juan Pablo II",
+    "title": "Cienciano del Cusco VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857379/juan-pablo-ii-cienciano-del-cusco"
+  },
+  {
+    "gameId": "401857386",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Alianza Lima",
+    "score": "2 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Alianza Lima VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857386/comerciantes-unidos-alianza-lima"
   }
 ]

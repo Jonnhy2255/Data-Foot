@@ -52,5 +52,41 @@
     "team2": "Gamba Osaka",
     "title": "Cerezo Osaka VS Gamba Osaka",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859266/gamba-osaka-cerezo-osaka"
+  },
+  {
+    "gameId": "401859267",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Avispa Fukuoka",
+    "score": "1 - 1",
+    "team2": "Fagiano Okayama",
+    "title": "Avispa Fukuoka VS Fagiano Okayama",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859267/fagiano-okayama-avispa-fukuoka"
+  },
+  {
+    "gameId": "401859268",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Nagoya Grampus",
+    "score": "1 - 0",
+    "team2": "Shimizu S-Pulse",
+    "title": "Nagoya Grampus VS Shimizu S-Pulse",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859268/shimizu-s-pulse-nagoya-grampus"
+  },
+  {
+    "gameId": "401859269",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Kawasaki Frontale",
+    "score": "5 - 3",
+    "team2": "Kashiwa Reysol",
+    "title": "Kawasaki Frontale VS Kashiwa Reysol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859269/kashiwa-reysol-kawasaki-frontale"
+  },
+  {
+    "gameId": "401859410",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Tokyo Verdy 1969",
+    "score": "3 - 1",
+    "team2": "Mito Hollyhock",
+    "title": "Tokyo Verdy 1969 VS Mito Hollyhock",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859410/mito-hollyhock-tokyo-verdy-1969"
   }
 ]

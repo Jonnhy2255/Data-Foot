@@ -268,5 +268,41 @@
     "team2": "Atromitos",
     "title": "Kifisia VS Atromitos",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752413/atromitos-kifisia"
+  },
+  {
+    "gameId": "752410",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Panserraikos FC",
+    "score": "0 - 4",
+    "team2": "AEK Athens",
+    "title": "Panserraikos FC VS AEK Athens",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752410/aek-athens-panserraikos-fc"
+  },
+  {
+    "gameId": "752412",
+    "date": "Sunday, February 8, 2026",
+    "team1": "OFI Crete",
+    "score": "3 - 2",
+    "team2": "Levadiakos",
+    "title": "OFI Crete VS Levadiakos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752412/levadiakos-ofi-crete"
+  },
+  {
+    "gameId": "752408",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Aris",
+    "score": "0 - 0",
+    "team2": "PAOK Salonika",
+    "title": "Aris VS PAOK Salonika",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752408/paok-salonika-aris"
+  },
+  {
+    "gameId": "752411",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Olympiacos",
+    "score": "0 - 1",
+    "team2": "Panathinaikos",
+    "title": "Olympiacos VS Panathinaikos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752411/panathinaikos-olympiacos"
   }
 ]

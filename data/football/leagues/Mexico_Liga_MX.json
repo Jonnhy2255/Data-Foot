@@ -376,5 +376,32 @@
     "team2": "Cruz Azul",
     "title": "Toluca VS Cruz Azul",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840856/cruz-azul-toluca"
+  },
+  {
+    "gameId": "401840857",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Atlas",
+    "score": "2 - 2",
+    "team2": "Pumas UNAM",
+    "title": "Atlas VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840857/pumas-unam-atlas"
+  },
+  {
+    "gameId": "401840858",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Pachuca",
+    "score": "2 - 0",
+    "team2": "FC Juarez",
+    "title": "Pachuca VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840858/fc-juarez-pachuca"
+  },
+  {
+    "gameId": "401840859",
+    "date": "Saturday, February 7, 2026",
+    "team1": "América",
+    "score": "1 - 0",
+    "team2": "Monterrey",
+    "title": "América VS Monterrey",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840859/monterrey-america"
   }
 ]

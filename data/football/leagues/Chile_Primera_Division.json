@@ -97,5 +97,32 @@
     "team2": "La Serena",
     "title": "O'Higgins VS La Serena",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850430/la-serena-ohiggins"
+  },
+  {
+    "gameId": "401850437",
+    "date": "Saturday, February 7, 2026",
+    "team1": "Colo Colo",
+    "score": "2 - 0",
+    "team2": "Everton CD",
+    "title": "Colo Colo VS Everton CD",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850437/everton-cd-colo-colo"
+  },
+  {
+    "gameId": "401850432",
+    "date": "20260207",
+    "team1": "Huachipato",
+    "score": "2 - 1",
+    "team2": "Universidad de Chile",
+    "title": "Huachipato VS Universidad de Chile",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850432/universidad-de-chile-huachipato"
+  },
+  {
+    "gameId": "401850441",
+    "date": "20260207",
+    "team1": "Ñublense",
+    "score": "1 - 1",
+    "team2": "Deportes Limache",
+    "title": "Ñublense VS Deportes Limache",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850441/deportes-limache-nublense"
   }
 ]

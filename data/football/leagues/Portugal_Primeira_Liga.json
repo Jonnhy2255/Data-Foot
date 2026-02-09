@@ -421,5 +421,32 @@
     "team2": "Vitória de Guimaraes",
     "title": "Arouca VS Vitória de Guimaraes",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750434/vitoria-de-guimaraes-arouca"
+  },
+  {
+    "gameId": "750428",
+    "date": "Sunday, February 8, 2026",
+    "team1": "C.D. Nacional",
+    "score": "0 - 0",
+    "team2": "Casa Pia",
+    "title": "C.D. Nacional VS Casa Pia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750428/casa-pia-cd-nacional"
+  },
+  {
+    "gameId": "750430",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Braga",
+    "score": "3 - 0",
+    "team2": "Rio Ave",
+    "title": "Braga VS Rio Ave",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750430/rio-ave-braga"
+  },
+  {
+    "gameId": "750429",
+    "date": "Sunday, February 8, 2026",
+    "team1": "Benfica",
+    "score": "2 - 1",
+    "team2": "Alverca",
+    "title": "Benfica VS Alverca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750429/alverca-benfica"
   }
 ]
