@@ -727,5 +727,14 @@
     "team2": "Liverpool",
     "title": "Sunderland VS Liverpool",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740853/liverpool-sunderland"
+  },
+  {
+    "gameId": "740847",
+    "date": "Thursday, February 12, 2026",
+    "team1": "Brentford",
+    "score": "1 - 1",
+    "team2": "Arsenal",
+    "title": "Brentford VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740847/arsenal-brentford"
   }
 ]
