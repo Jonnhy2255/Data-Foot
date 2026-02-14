@@ -250,5 +250,14 @@
     "team2": "Red Bull Bragantino",
     "title": "Corinthians VS Red Bull Bragantino",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840988/red-bull-bragantino-corinthians"
+  },
+  {
+    "gameId": "401840997",
+    "date": "Thursday, February 12, 2026",
+    "team1": "Internacional",
+    "score": "1 - 3",
+    "team2": "Palmeiras",
+    "title": "Internacional VS Palmeiras",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840997/palmeiras-internacional"
   }
 ]

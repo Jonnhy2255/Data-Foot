@@ -124,5 +124,23 @@
     "team2": "Deportivo La Guaira",
     "title": "Metropolitanos FC VS Deportivo La Guaira",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850394/deportivo-la-guaira-metropolitanos-fc"
+  },
+  {
+    "gameId": "401850400",
+    "date": "20260212",
+    "team1": "Estudiantes de Mérida",
+    "score": "1 - 2",
+    "team2": "Deportivo Rayo Zuliano",
+    "title": "Estudiantes de Mérida VS Deportivo Rayo Zuliano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850400/deportivo-rayo-zuliano-estudiantes-de-merida"
+  },
+  {
+    "gameId": "401850403",
+    "date": "20260212",
+    "team1": "Carabobo",
+    "score": "1 - 0",
+    "team2": "Monagas SC",
+    "title": "Carabobo VS Monagas SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850403/monagas-sc-carabobo"
   }
 ]

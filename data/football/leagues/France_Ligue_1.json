@@ -403,5 +403,23 @@
     "team2": "Marseille",
     "title": "Paris Saint-Germain VS Marseille",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746595/marseille-paris-saint-germain"
+  },
+  {
+    "gameId": "746601",
+    "date": "Friday, February 13, 2026",
+    "team1": "Stade Rennais",
+    "score": "3 - 1",
+    "team2": "Paris Saint-Germain",
+    "title": "Stade Rennais VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746601/paris-saint-germain-stade-rennais"
+  },
+  {
+    "gameId": "746609",
+    "date": "Friday, February 13, 2026",
+    "team1": "AS Monaco",
+    "score": "3 - 1",
+    "team2": "Nantes",
+    "title": "AS Monaco VS Nantes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746609/nantes-as-monaco"
   }
 ]

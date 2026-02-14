@@ -511,5 +511,14 @@
     "team2": "Espanyol",
     "title": "Villarreal VS Espanyol",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748368/espanyol-villarreal"
+  },
+  {
+    "gameId": "748376",
+    "date": "Friday, February 13, 2026",
+    "team1": "Elche",
+    "score": "0 - 0",
+    "team2": "Osasuna",
+    "title": "Elche VS Osasuna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748376/osasuna-elche"
   }
 ]

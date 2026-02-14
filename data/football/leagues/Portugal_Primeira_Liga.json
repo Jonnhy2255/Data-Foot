@@ -466,5 +466,23 @@
     "team2": "Sporting CP",
     "title": "FC Porto VS Sporting CP",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750432/sporting-cp-fc-porto"
+  },
+  {
+    "gameId": "750440",
+    "date": "Friday, February 13, 2026",
+    "team1": "Santa Clara",
+    "score": "1 - 2",
+    "team2": "Benfica",
+    "title": "Santa Clara VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750440/benfica-santa-clara"
+  },
+  {
+    "gameId": "750438",
+    "date": "Friday, February 13, 2026",
+    "team1": "Tondela",
+    "score": "1 - 1",
+    "team2": "Alverca",
+    "title": "Tondela VS Alverca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750438/alverca-tondela"
   }
 ]

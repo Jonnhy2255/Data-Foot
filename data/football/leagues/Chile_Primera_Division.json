@@ -142,5 +142,14 @@
     "team2": "Cobresal",
     "title": "Unión La Calera VS Cobresal",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850426/cobresal-union-la-calera"
+  },
+  {
+    "gameId": "401850457",
+    "date": "20260212",
+    "team1": "Everton CD",
+    "score": "0 - 3",
+    "team2": "Huachipato",
+    "title": "Everton CD VS Huachipato",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850457/huachipato-everton-cd"
   }
 ]

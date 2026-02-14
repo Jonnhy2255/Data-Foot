@@ -322,5 +322,23 @@
     "team2": "Kasimpasa",
     "title": "Gaziantep FK VS Kasimpasa",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750100/kasimpasa-gaziantep-fk"
+  },
+  {
+    "gameId": "750115",
+    "date": "Friday, February 13, 2026",
+    "team1": "Antalyaspor",
+    "score": "3 - 1",
+    "team2": "Samsunspor",
+    "title": "Antalyaspor VS Samsunspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750115/samsunspor-antalyaspor"
+  },
+  {
+    "gameId": "750108",
+    "date": "Friday, February 13, 2026",
+    "team1": "Galatasaray",
+    "score": "5 - 1",
+    "team2": "Eyupspor",
+    "title": "Galatasaray VS Eyupspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750108/eyupspor-galatasaray"
   }
 ]

@@ -475,5 +475,14 @@
     "team2": "TSG Hoffenheim",
     "title": "Bayern Munich VS TSG Hoffenheim",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746903/tsg-hoffenheim-bayern-munich"
+  },
+  {
+    "gameId": "746908",
+    "date": "Friday, February 13, 2026",
+    "team1": "Borussia Dortmund",
+    "score": "4 - 0",
+    "team2": "Mainz",
+    "title": "Borussia Dortmund VS Mainz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746908/mainz-borussia-dortmund"
   }
 ]

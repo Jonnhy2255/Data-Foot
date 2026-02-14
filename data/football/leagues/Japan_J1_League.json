@@ -88,5 +88,14 @@
     "team2": "Mito Hollyhock",
     "title": "Tokyo Verdy 1969 VS Mito Hollyhock",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859410/mito-hollyhock-tokyo-verdy-1969"
+  },
+  {
+    "gameId": "401859270",
+    "date": "Friday, February 13, 2026",
+    "team1": "Vissel Kobe",
+    "score": "2 - 0",
+    "team2": "V-Varen Nagasaki",
+    "title": "Vissel Kobe VS V-Varen Nagasaki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859270/v-varen-nagasaki-vissel-kobe"
   }
 ]

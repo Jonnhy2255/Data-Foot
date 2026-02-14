@@ -475,5 +475,23 @@
     "team2": "Jaguares de Córdoba",
     "title": "Boyacá Chicó VS Jaguares de Córdoba",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850765/jaguares-de-cordoba-boyaca-chico"
+  },
+  {
+    "gameId": "401850766",
+    "date": "Thursday, February 12, 2026",
+    "team1": "Once Caldas",
+    "score": "2 - 1",
+    "team2": "Atlético Junior",
+    "title": "Once Caldas VS Atlético Junior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850766/atletico-junior-once-caldas"
+  },
+  {
+    "gameId": "401850767",
+    "date": "Thursday, February 12, 2026",
+    "team1": "Atlético Nacional",
+    "score": "4 - 1",
+    "team2": "Fortaleza CEIF",
+    "title": "Atlético Nacional VS Fortaleza CEIF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850767/fortaleza-ceif-atletico-nacional"
   }
 ]

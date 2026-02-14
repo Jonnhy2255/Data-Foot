@@ -160,5 +160,14 @@
     "team2": "Deportivo Garcilaso",
     "title": "FC Cajamarca VS Deportivo Garcilaso",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857383/deportivo-garcilaso-fc-cajamarca"
+  },
+  {
+    "gameId": "401857396",
+    "date": "20260212",
+    "team1": "UTC",
+    "score": "1 - 0",
+    "team2": "Cusco FC",
+    "title": "UTC VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857396/cusco-fc-utc"
   }
 ]
