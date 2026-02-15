@@ -142,5 +142,23 @@
     "team2": "Monagas SC",
     "title": "Carabobo VS Monagas SC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850403/monagas-sc-carabobo"
+  },
+  {
+    "gameId": "401850405",
+    "date": "Friday, February 13, 2026",
+    "team1": "Universidad Central",
+    "score": "3 - 2",
+    "team2": "Metropolitanos FC",
+    "title": "Universidad Central VS Metropolitanos FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850405/metropolitanos-fc-universidad-central"
+  },
+  {
+    "gameId": "401850402",
+    "date": "20260213",
+    "team1": "Deportivo La Guaira",
+    "score": "2 - 0",
+    "team2": "Caracas FC",
+    "title": "Deportivo La Guaira VS Caracas FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850402/caracas-fc-deportivo-la-guaira"
   }
 ]

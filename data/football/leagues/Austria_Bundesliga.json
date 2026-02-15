@@ -52,5 +52,32 @@
     "team2": "SV Josko Ried",
     "title": "SK Sturm Graz VS SV Josko Ried",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/747436/sv-josko-ried-sk-sturm-graz"
+  },
+  {
+    "gameId": "747441",
+    "date": "Saturday, February 14, 2026",
+    "team1": "SV Josko Ried",
+    "score": "1 - 1",
+    "team2": "LASK Linz",
+    "title": "SV Josko Ried VS LASK Linz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747441/lask-linz-sv-josko-ried"
+  },
+  {
+    "gameId": "747442",
+    "date": "Saturday, February 14, 2026",
+    "team1": "TSV Hartberg",
+    "score": "0 - 0",
+    "team2": "SC Rheindorf Altach",
+    "title": "TSV Hartberg VS SC Rheindorf Altach",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747442/sc-rheindorf-altach-tsv-hartberg"
+  },
+  {
+    "gameId": "747443",
+    "date": "Saturday, February 14, 2026",
+    "team1": "WSG Swarovski Tirol",
+    "score": "1 - 0",
+    "team2": "SK Sturm Graz",
+    "title": "WSG Swarovski Tirol VS SK Sturm Graz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747443/sk-sturm-graz-wsg-swarovski-tirol"
   }
 ]

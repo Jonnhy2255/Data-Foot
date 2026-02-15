@@ -304,5 +304,32 @@
     "team2": "Panathinaikos",
     "title": "Olympiacos VS Panathinaikos",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752411/panathinaikos-olympiacos"
+  },
+  {
+    "gameId": "752418",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Panetolikos",
+    "score": "3 - 1",
+    "team2": "Asteras Tripoli",
+    "title": "Panetolikos VS Asteras Tripoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752418/asteras-tripoli-panetolikos"
+  },
+  {
+    "gameId": "752416",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Levadiakos",
+    "score": "0 - 0",
+    "team2": "Olympiacos",
+    "title": "Levadiakos VS Olympiacos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752416/olympiacos-levadiakos"
+  },
+  {
+    "gameId": "752420",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Volos NFC",
+    "score": "1 - 1",
+    "team2": "Aris",
+    "title": "Volos NFC VS Aris",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752420/aris-volos-nfc"
   }
 ]

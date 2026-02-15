@@ -169,5 +169,41 @@
     "team2": "Cusco FC",
     "title": "UTC VS Cusco FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857396/cusco-fc-utc"
+  },
+  {
+    "gameId": "401857395",
+    "date": "Friday, February 13, 2026",
+    "team1": "Universitario",
+    "score": "2 - 1",
+    "team2": "Cienciano del Cusco",
+    "title": "Universitario VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857395/cienciano-del-cusco-universitario"
+  },
+  {
+    "gameId": "401857391",
+    "date": "20260213",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 0",
+    "team2": "ADT",
+    "title": "Deportivo Garcilaso VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857391/adt-deportivo-garcilaso"
+  },
+  {
+    "gameId": "401857390",
+    "date": "20260213",
+    "team1": "Juan Pablo II",
+    "score": "0 - 2",
+    "team2": "Sporting Cristal",
+    "title": "Juan Pablo II VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857390/sporting-cristal-juan-pablo-ii"
+  },
+  {
+    "gameId": "401857388",
+    "date": "20260213",
+    "team1": "Sport Boys",
+    "score": "1 - 0",
+    "team2": "Atlético Grau",
+    "title": "Sport Boys VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857388/atletico-grau-sport-boys"
   }
 ]

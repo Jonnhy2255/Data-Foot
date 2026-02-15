@@ -151,5 +151,32 @@
     "team2": "Huachipato",
     "title": "Everton CD VS Huachipato",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850457/huachipato-everton-cd"
+  },
+  {
+    "gameId": "401850452",
+    "date": "Friday, February 13, 2026",
+    "team1": "Palestino",
+    "score": "0 - 0",
+    "team2": "Universidad de Chile",
+    "title": "Palestino VS Universidad de Chile",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850452/universidad-de-chile-palestino"
+  },
+  {
+    "gameId": "401850455",
+    "date": "20260213",
+    "team1": "La Serena",
+    "score": "0 - 1",
+    "team2": "Coquimbo Unido",
+    "title": "La Serena VS Coquimbo Unido",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850455/coquimbo-unido-la-serena"
+  },
+  {
+    "gameId": "401850459",
+    "date": "20260213",
+    "team1": "Deportes Limache",
+    "score": "2 - 1",
+    "team2": "O'Higgins",
+    "title": "Deportes Limache VS O'Higgins",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850459/ohiggins-deportes-limache"
   }
 ]

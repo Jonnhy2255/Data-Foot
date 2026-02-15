@@ -484,5 +484,59 @@
     "team2": "Mainz",
     "title": "Borussia Dortmund VS Mainz",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746908/mainz-borussia-dortmund"
+  },
+  {
+    "gameId": "746907",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Bayer Leverkusen",
+    "score": "4 - 0",
+    "team2": "St. Pauli",
+    "title": "Bayer Leverkusen VS St. Pauli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746907/st-pauli-bayer-leverkusen"
+  },
+  {
+    "gameId": "746909",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Eintracht Frankfurt",
+    "score": "3 - 0",
+    "team2": "Borussia Mönchengladbach",
+    "title": "Eintracht Frankfurt VS Borussia Mönchengladbach",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746909/borussia-monchengladbach-eintracht-frankfurt"
+  },
+  {
+    "gameId": "746911",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Hamburg SV",
+    "score": "3 - 2",
+    "team2": "1. FC Union Berlin",
+    "title": "Hamburg SV VS 1. FC Union Berlin",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746911/1-fc-union-berlin-hamburg-sv"
+  },
+  {
+    "gameId": "746914",
+    "date": "Saturday, February 14, 2026",
+    "team1": "TSG Hoffenheim",
+    "score": "3 - 0",
+    "team2": "SC Freiburg",
+    "title": "TSG Hoffenheim VS SC Freiburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746914/sc-freiburg-tsg-hoffenheim"
+  },
+  {
+    "gameId": "746913",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Werder Bremen",
+    "score": "0 - 3",
+    "team2": "Bayern Munich",
+    "title": "Werder Bremen VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746913/bayern-munich-werder-bremen"
+  },
+  {
+    "gameId": "746915",
+    "date": "Saturday, February 14, 2026",
+    "team1": "VfB Stuttgart",
+    "score": "3 - 1",
+    "team2": "FC Cologne",
+    "title": "VfB Stuttgart VS FC Cologne",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746915/fc-cologne-vfb-stuttgart"
   }
 ]

@@ -484,5 +484,32 @@
     "team2": "Alverca",
     "title": "Tondela VS Alverca",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750438/alverca-tondela"
+  },
+  {
+    "gameId": "750443",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Casa Pia",
+    "score": "3 - 2",
+    "team2": "Arouca",
+    "title": "Casa Pia VS Arouca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750443/arouca-casa-pia"
+  },
+  {
+    "gameId": "750437",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Vitória de Guimaraes",
+    "score": "2 - 1",
+    "team2": "Estrela",
+    "title": "Vitória de Guimaraes VS Estrela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750437/estrela-vitoria-de-guimaraes"
+  },
+  {
+    "gameId": "750442",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Gil Vicente",
+    "score": "2 - 1",
+    "team2": "Braga",
+    "title": "Gil Vicente VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750442/braga-gil-vicente"
   }
 ]

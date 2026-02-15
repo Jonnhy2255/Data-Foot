@@ -493,5 +493,23 @@
     "team2": "Fortaleza CEIF",
     "title": "Atlético Nacional VS Fortaleza CEIF",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850767/fortaleza-ceif-atletico-nacional"
+  },
+  {
+    "gameId": "401850768",
+    "date": "Friday, February 13, 2026",
+    "team1": "América de Cali",
+    "score": "1 - 0",
+    "team2": "Independiente Santa Fe",
+    "title": "América de Cali VS Independiente Santa Fe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850768/independiente-santa-fe-america-de-cali"
+  },
+  {
+    "gameId": "401850769",
+    "date": "20260213",
+    "team1": "Millonarios",
+    "score": "2 - 1",
+    "team2": "Llaneros",
+    "title": "Millonarios VS Llaneros",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850769/llaneros-millonarios"
   }
 ]

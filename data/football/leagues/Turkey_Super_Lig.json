@@ -340,5 +340,32 @@
     "team2": "Eyupspor",
     "title": "Galatasaray VS Eyupspor",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750108/eyupspor-galatasaray"
+  },
+  {
+    "gameId": "750107",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Genclerbirligi",
+    "score": "2 - 2",
+    "team2": "Caykur Rizespor",
+    "title": "Genclerbirligi VS Caykur Rizespor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750107/caykur-rizespor-genclerbirligi"
+  },
+  {
+    "gameId": "750114",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Alanyaspor",
+    "score": "2 - 1",
+    "team2": "Konyaspor",
+    "title": "Alanyaspor VS Konyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750114/konyaspor-alanyaspor"
+  },
+  {
+    "gameId": "750112",
+    "date": "Saturday, February 14, 2026",
+    "team1": "Trabzonspor",
+    "score": "2 - 3",
+    "team2": "Fenerbahce",
+    "title": "Trabzonspor VS Fenerbahce",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750112/fenerbahce-trabzonspor"
   }
 ]
