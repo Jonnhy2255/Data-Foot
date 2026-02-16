@@ -511,5 +511,32 @@
     "team2": "Braga",
     "title": "Gil Vicente VS Braga",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750442/braga-gil-vicente"
+  },
+  {
+    "gameId": "750436",
+    "date": "Sunday, February 15, 2026",
+    "team1": "C.D. Nacional",
+    "score": "0 - 1",
+    "team2": "FC Porto",
+    "title": "C.D. Nacional VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750436/fc-porto-cd-nacional"
+  },
+  {
+    "gameId": "750435",
+    "date": "Sunday, February 15, 2026",
+    "team1": "AVS",
+    "score": "3 - 0",
+    "team2": "Estoril",
+    "title": "AVS VS Estoril",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750435/estoril-avs"
+  },
+  {
+    "gameId": "750439",
+    "date": "Sunday, February 15, 2026",
+    "team1": "Sporting CP",
+    "score": "1 - 0",
+    "team2": "FC Famalicao",
+    "title": "Sporting CP VS FC Famalicao",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750439/fc-famalicao-sporting-cp"
   }
 ]

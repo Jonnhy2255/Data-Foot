@@ -142,5 +142,41 @@
     "team2": "Yokohama F. Marinos",
     "title": "Kashima Antlers VS Yokohama F. Marinos",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859274/yokohama-f-marinos-kashima-antlers"
+  },
+  {
+    "gameId": "401859412",
+    "date": "Saturday, February 14, 2026",
+    "team1": "JEF United Ichihara-Chiba",
+    "score": "0 - 0",
+    "team2": "Kawasaki Frontale",
+    "title": "JEF United Ichihara-Chiba VS Kawasaki Frontale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859412/kawasaki-frontale-jef-united-ichihara-chiba"
+  },
+  {
+    "gameId": "401859275",
+    "date": "Sunday, February 15, 2026",
+    "team1": "Kashiwa Reysol",
+    "score": "1 - 2",
+    "team2": "Tokyo Verdy 1969",
+    "title": "Kashiwa Reysol VS Tokyo Verdy 1969",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859275/tokyo-verdy-1969-kashiwa-reysol"
+  },
+  {
+    "gameId": "401859276",
+    "date": "Sunday, February 15, 2026",
+    "team1": "Avispa Fukuoka",
+    "score": "0 - 2",
+    "team2": "Cerezo Osaka",
+    "title": "Avispa Fukuoka VS Cerezo Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859276/cerezo-osaka-avispa-fukuoka"
+  },
+  {
+    "gameId": "401859277",
+    "date": "Sunday, February 15, 2026",
+    "team1": "Gamba Osaka",
+    "score": "0 - 0",
+    "team2": "Nagoya Grampus",
+    "title": "Gamba Osaka VS Nagoya Grampus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859277/nagoya-grampus-gamba-osaka"
   }
 ]

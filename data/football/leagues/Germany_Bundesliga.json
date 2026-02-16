@@ -538,5 +538,23 @@
     "team2": "FC Cologne",
     "title": "VfB Stuttgart VS FC Cologne",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746915/fc-cologne-vfb-stuttgart"
+  },
+  {
+    "gameId": "746910",
+    "date": "Sunday, February 15, 2026",
+    "team1": "FC Augsburg",
+    "score": "1 - 0",
+    "team2": "1. FC Heidenheim 1846",
+    "title": "FC Augsburg VS 1. FC Heidenheim 1846",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746910/1-fc-heidenheim-1846-fc-augsburg"
+  },
+  {
+    "gameId": "746912",
+    "date": "Sunday, February 15, 2026",
+    "team1": "RB Leipzig",
+    "score": "2 - 2",
+    "team2": "VfL Wolfsburg",
+    "title": "RB Leipzig VS VfL Wolfsburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746912/vfl-wolfsburg-rb-leipzig"
   }
 ]
