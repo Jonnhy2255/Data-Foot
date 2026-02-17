@@ -358,5 +358,14 @@
     "team2": "Larissa FC",
     "title": "Panathinaikos VS Larissa FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752419/larissa-fc-panathinaikos"
+  },
+  {
+    "gameId": "752414",
+    "date": "Monday, February 16, 2026",
+    "team1": "Atromitos",
+    "score": "2 - 2",
+    "team2": "Panserraikos FC",
+    "title": "Atromitos VS Panserraikos FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752414/panserraikos-fc-atromitos"
   }
 ]

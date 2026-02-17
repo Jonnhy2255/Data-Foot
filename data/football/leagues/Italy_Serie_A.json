@@ -781,5 +781,14 @@
     "team2": "AS Roma",
     "title": "Napoli VS AS Roma",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737030/as-roma-napoli"
+  },
+  {
+    "gameId": "737024",
+    "date": "Monday, February 16, 2026",
+    "team1": "Cagliari",
+    "score": "0 - 2",
+    "team2": "Lecce",
+    "title": "Cagliari VS Lecce",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737024/lecce-cagliari"
   }
 ]

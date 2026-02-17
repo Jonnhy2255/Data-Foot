@@ -538,5 +538,14 @@
     "team2": "FC Famalicao",
     "title": "Sporting CP VS FC Famalicao",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750439/fc-famalicao-sporting-cp"
+  },
+  {
+    "gameId": "750441",
+    "date": "Monday, February 16, 2026",
+    "team1": "Rio Ave",
+    "score": "1 - 2",
+    "team2": "Moreirense",
+    "title": "Rio Ave VS Moreirense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750441/moreirense-rio-ave"
   }
 ]
