@@ -556,5 +556,14 @@
     "team2": "Boyacá Chicó",
     "title": "Fortaleza CEIF VS Boyacá Chicó",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850775/boyaca-chico-fortaleza-ceif"
+  },
+  {
+    "gameId": "401850778",
+    "date": "20260216",
+    "team1": "Alianza FC",
+    "score": "1 - 1",
+    "team2": "Cúcuta Deportivo",
+    "title": "Alianza FC VS Cúcuta Deportivo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850778/cucuta-deportivo-alianza-fc"
   }
 ]

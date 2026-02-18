@@ -322,5 +322,41 @@
     "team2": "Atalanta",
     "title": "Union St.-Gilloise VS Atalanta",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/757796/atalanta-union-st-gilloise"
+  },
+  {
+    "gameId": "401858759",
+    "date": "Tuesday, February 17, 2026",
+    "team1": "Galatasaray",
+    "score": "5 - 2",
+    "team2": "Juventus",
+    "title": "Galatasaray VS Juventus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858759/juventus-galatasaray"
+  },
+  {
+    "gameId": "401858758",
+    "date": "Tuesday, February 17, 2026",
+    "team1": "AS Monaco",
+    "score": "2 - 3",
+    "team2": "Paris Saint-Germain",
+    "title": "AS Monaco VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858758/paris-saint-germain-as-monaco"
+  },
+  {
+    "gameId": "401858735",
+    "date": "Tuesday, February 17, 2026",
+    "team1": "Benfica",
+    "score": "0 - 1",
+    "team2": "Real Madrid",
+    "title": "Benfica VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858735/real-madrid-benfica"
+  },
+  {
+    "gameId": "401858761",
+    "date": "Tuesday, February 17, 2026",
+    "team1": "Borussia Dortmund",
+    "score": "2 - 0",
+    "team2": "Atalanta",
+    "title": "Borussia Dortmund VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858761/atalanta-borussia-dortmund"
   }
 ]
