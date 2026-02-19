@@ -601,5 +601,14 @@
     "team2": "Barcelona",
     "title": "Girona VS Barcelona",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748381/barcelona-girona"
+  },
+  {
+    "gameId": "748302",
+    "date": "Wednesday, February 18, 2026",
+    "team1": "Levante",
+    "score": "0 - 1",
+    "team2": "Villarreal",
+    "title": "Levante VS Villarreal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748302/villarreal-levante"
   }
 ]

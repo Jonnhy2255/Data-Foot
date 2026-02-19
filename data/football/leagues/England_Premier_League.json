@@ -736,5 +736,14 @@
     "team2": "Arsenal",
     "title": "Brentford VS Arsenal",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740847/arsenal-brentford"
+  },
+  {
+    "gameId": "740901",
+    "date": "Wednesday, February 18, 2026",
+    "team1": "Wolverhampton Wanderers",
+    "score": "2 - 2",
+    "team2": "Arsenal",
+    "title": "Wolverhampton Wanderers VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740901/arsenal-wolverhampton-wanderers"
   }
 ]
