@@ -889,5 +889,32 @@
     "team2": "Al Nassr",
     "title": "Al Fateh VS Al Nassr",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756100/al-nassr-al-fateh"
+  },
+  {
+    "gameId": "756109",
+    "date": "Thursday, February 19, 2026",
+    "team1": "Al Ahli",
+    "score": "4 - 1",
+    "team2": "Al Najma",
+    "title": "Al Ahli VS Al Najma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756109/al-najma-al-ahli"
+  },
+  {
+    "gameId": "756108",
+    "date": "Thursday, February 19, 2026",
+    "team1": "Al Ettifaq",
+    "score": "4 - 3",
+    "team2": "Al Fateh",
+    "title": "Al Ettifaq VS Al Fateh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756108/al-fateh-al-ettifaq"
+  },
+  {
+    "gameId": "756106",
+    "date": "Thursday, February 19, 2026",
+    "team1": "Al Kholood",
+    "score": "0 - 2",
+    "team2": "Al Riyadh",
+    "title": "Al Kholood VS Al Riyadh",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756106/al-riyadh-al-kholood"
   }
 ]

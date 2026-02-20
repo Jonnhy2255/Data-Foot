@@ -259,5 +259,14 @@
     "team2": "Palmeiras",
     "title": "Internacional VS Palmeiras",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840997/palmeiras-internacional"
+  },
+  {
+    "gameId": "401840981",
+    "date": "Thursday, February 19, 2026",
+    "team1": "Athletico Paranaense",
+    "score": "0 - 1",
+    "team2": "Corinthians",
+    "title": "Athletico Paranaense VS Corinthians",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840981/corinthians-athletico-paranaense"
   }
 ]
