@@ -610,5 +610,14 @@
     "team2": "Villarreal",
     "title": "Levante VS Villarreal",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748302/villarreal-levante"
+  },
+  {
+    "gameId": "748388",
+    "date": "Friday, February 20, 2026",
+    "team1": "Athletic Club",
+    "score": "2 - 1",
+    "team2": "Elche",
+    "title": "Athletic Club VS Elche",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748388/elche-athletic-club"
   }
 ]

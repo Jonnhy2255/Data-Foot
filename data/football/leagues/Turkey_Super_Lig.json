@@ -403,5 +403,14 @@
     "team2": "Fatih Karagümrük",
     "title": "Kasimpasa VS Fatih Karagümrük",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750110/fatih-karagumruk-kasimpasa"
+  },
+  {
+    "gameId": "750122",
+    "date": "Friday, February 20, 2026",
+    "team1": "Caykur Rizespor",
+    "score": "2 - 0",
+    "team2": "Kocaelispor",
+    "title": "Caykur Rizespor VS Kocaelispor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750122/kocaelispor-caykur-rizespor"
   }
 ]

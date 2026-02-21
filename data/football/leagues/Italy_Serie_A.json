@@ -799,5 +799,14 @@
     "team2": "Como",
     "title": "AC Milan VS Como",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737015/como-ac-milan"
+  },
+  {
+    "gameId": "737038",
+    "date": "Friday, February 20, 2026",
+    "team1": "Sassuolo",
+    "score": "3 - 0",
+    "team2": "Hellas Verona",
+    "title": "Sassuolo VS Hellas Verona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737038/hellas-verona-sassuolo"
   }
 ]

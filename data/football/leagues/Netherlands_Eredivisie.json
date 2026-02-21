@@ -493,5 +493,14 @@
     "team2": "NEC Nijmegen",
     "title": "Sparta Rotterdam VS NEC Nijmegen",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741177/nec-nijmegen-sparta-rotterdam"
+  },
+  {
+    "gameId": "741187",
+    "date": "Friday, February 20, 2026",
+    "team1": "Fortuna Sittard",
+    "score": "2 - 1",
+    "team2": "Excelsior",
+    "title": "Fortuna Sittard VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741187/excelsior-fortuna-sittard"
   }
 ]

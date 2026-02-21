@@ -547,5 +547,14 @@
     "team2": "Moreirense",
     "title": "Rio Ave VS Moreirense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750441/moreirense-rio-ave"
+  },
+  {
+    "gameId": "750448",
+    "date": "Friday, February 20, 2026",
+    "team1": "Estrela",
+    "score": "0 - 2",
+    "team2": "Tondela",
+    "title": "Estrela VS Tondela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750448/tondela-estrela"
   }
 ]

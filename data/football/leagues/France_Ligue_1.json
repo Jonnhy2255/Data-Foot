@@ -484,5 +484,14 @@
     "team2": "Nice",
     "title": "Lyon VS Nice",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746606/nice-lyon"
+  },
+  {
+    "gameId": "746613",
+    "date": "Friday, February 20, 2026",
+    "team1": "Brest",
+    "score": "2 - 0",
+    "team2": "Marseille",
+    "title": "Brest VS Marseille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746613/marseille-brest"
   }
 ]

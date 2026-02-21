@@ -214,5 +214,14 @@
     "team2": "Unión La Calera",
     "title": "Colo Colo VS Unión La Calera",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850445/union-la-calera-colo-colo"
+  },
+  {
+    "gameId": "401850476",
+    "date": "20260219",
+    "team1": "Unión La Calera",
+    "score": "0 - 1",
+    "team2": "Ñublense",
+    "title": "Unión La Calera VS Ñublense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850476/nublense-union-la-calera"
   }
 ]

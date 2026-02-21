@@ -277,5 +277,23 @@
     "team2": "Trinidense",
     "title": "Sportivo San Lorenzo VS Trinidense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848194/trinidense-sportivo-san-lorenzo"
+  },
+  {
+    "gameId": "401848192",
+    "date": "Thursday, February 19, 2026",
+    "team1": "Nacional",
+    "score": "1 - 1",
+    "team2": "Sportivo Ameliano",
+    "title": "Nacional VS Sportivo Ameliano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848192/sportivo-ameliano-nacional"
+  },
+  {
+    "gameId": "401848191",
+    "date": "20260219",
+    "team1": "Libertad",
+    "score": "0 - 1",
+    "team2": "Rubio Ñú",
+    "title": "Libertad VS Rubio Ñú",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848191/rubio-nu-libertad"
   }
 ]
