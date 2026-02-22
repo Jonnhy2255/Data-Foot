@@ -583,5 +583,41 @@
     "team2": "América de Cali",
     "title": "Atlético Junior VS América de Cali",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850777/america-de-cali-atletico-junior"
+  },
+  {
+    "gameId": "401850779",
+    "date": "Friday, February 20, 2026",
+    "team1": "Llaneros",
+    "score": "2 - 2",
+    "team2": "Independiente Medellín",
+    "title": "Llaneros VS Independiente Medellín",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850779/independiente-medellin-llaneros"
+  },
+  {
+    "gameId": "401850787",
+    "date": "Friday, February 20, 2026",
+    "team1": "Deportivo Pereira",
+    "score": "2 - 2",
+    "team2": "Deportivo Pasto",
+    "title": "Deportivo Pereira VS Deportivo Pasto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850787/deportivo-pasto-deportivo-pereira"
+  },
+  {
+    "gameId": "401850781",
+    "date": "20260220",
+    "team1": "Once Caldas",
+    "score": "4 - 2",
+    "team2": "Fortaleza CEIF",
+    "title": "Once Caldas VS Fortaleza CEIF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850781/fortaleza-ceif-once-caldas"
+  },
+  {
+    "gameId": "401850782",
+    "date": "20260220",
+    "team1": "Bucaramanga",
+    "score": "0 - 0",
+    "team2": "Deportivo Cali",
+    "title": "Bucaramanga VS Deportivo Cali",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850782/deportivo-cali-bucaramanga"
   }
 ]

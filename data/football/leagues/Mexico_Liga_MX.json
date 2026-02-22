@@ -484,5 +484,32 @@
     "team2": "Mazatlán FC",
     "title": "Santos VS Mazatlán FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840867/mazatlan-fc-santos"
+  },
+  {
+    "gameId": "401840869",
+    "date": "Friday, February 20, 2026",
+    "team1": "Tigres UANL",
+    "score": "1 - 2",
+    "team2": "Pachuca",
+    "title": "Tigres UANL VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840869/pachuca-tigres-uanl"
+  },
+  {
+    "gameId": "401840870",
+    "date": "Friday, February 20, 2026",
+    "team1": "Puebla",
+    "score": "0 - 4",
+    "team2": "América",
+    "title": "Puebla VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840870/america-puebla"
+  },
+  {
+    "gameId": "401840871",
+    "date": "20260220",
+    "team1": "Atlas",
+    "score": "3 - 2",
+    "team2": "Atlético de San Luis",
+    "title": "Atlas VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840871/atletico-de-san-luis-atlas"
   }
 ]

@@ -241,5 +241,32 @@
     "team2": "Deportivo Moquegua",
     "title": "Melgar VS Deportivo Moquegua",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857389/deportivo-moquegua-melgar"
+  },
+  {
+    "gameId": "401857398",
+    "date": "Friday, February 20, 2026",
+    "team1": "Alianza Lima",
+    "score": "1 - 0",
+    "team2": "Sport Boys",
+    "title": "Alianza Lima VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857398/sport-boys-alianza-lima"
+  },
+  {
+    "gameId": "401857404",
+    "date": "20260220",
+    "team1": "FC Cajamarca",
+    "score": "3 - 1",
+    "team2": "Melgar",
+    "title": "FC Cajamarca VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857404/melgar-fc-cajamarca"
+  },
+  {
+    "gameId": "401857399",
+    "date": "20260220",
+    "team1": "Sporting Cristal",
+    "score": "2 - 2",
+    "team2": "Universitario",
+    "title": "Sporting Cristal VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857399/universitario-sporting-cristal"
   }
 ]

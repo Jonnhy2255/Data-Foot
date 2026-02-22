@@ -223,5 +223,32 @@
     "team2": "Ñublense",
     "title": "Unión La Calera VS Ñublense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850476/nublense-union-la-calera"
+  },
+  {
+    "gameId": "401850473",
+    "date": "Friday, February 20, 2026",
+    "team1": "Deportes Concepcion",
+    "score": "1 - 1",
+    "team2": "Cobresal",
+    "title": "Deportes Concepcion VS Cobresal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850473/cobresal-deportes-concepcion"
+  },
+  {
+    "gameId": "401850471",
+    "date": "20260220",
+    "team1": "Huachipato",
+    "score": "2 - 1",
+    "team2": "Palestino",
+    "title": "Huachipato VS Palestino",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850471/palestino-huachipato"
+  },
+  {
+    "gameId": "401850467",
+    "date": "20260220",
+    "team1": "O'Higgins",
+    "score": "0 - 1",
+    "team2": "Colo Colo",
+    "title": "O'Higgins VS Colo Colo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850467/colo-colo-ohiggins"
   }
 ]

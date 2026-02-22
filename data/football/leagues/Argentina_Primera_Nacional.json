@@ -160,5 +160,68 @@
     "team2": "Midland",
     "title": "Gimnasia y Esgrima (Jujuy) VS Midland",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843623/midland-gimnasia-y-esgrima-jujuy"
+  },
+  {
+    "gameId": "401843640",
+    "date": "20260220",
+    "team1": "Acassuso",
+    "score": "3 - 0",
+    "team2": "Racing (Córdoba)",
+    "title": "Acassuso VS Racing (Córdoba)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843640/racing-cordoba-acassuso"
+  },
+  {
+    "gameId": "401843639",
+    "date": "20260220",
+    "team1": "Almagro",
+    "score": "0 - 1",
+    "team2": "San Martín (Tucumán)",
+    "title": "Almagro VS San Martín (Tucumán)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843639/san-martin-tucuman-almagro"
+  },
+  {
+    "gameId": "401843646",
+    "date": "20260220",
+    "team1": "Nueva Chicago",
+    "score": "0 - 0",
+    "team2": "Tristán Suárez",
+    "title": "Nueva Chicago VS Tristán Suárez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843646/tristan-suarez-nueva-chicago"
+  },
+  {
+    "gameId": "401843650",
+    "date": "20260220",
+    "team1": "Deportivo Madryn",
+    "score": "1 - 1",
+    "team2": "Deportivo Morón",
+    "title": "Deportivo Madryn VS Deportivo Morón",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843650/deportivo-moron-deportivo-madryn"
+  },
+  {
+    "gameId": "401843648",
+    "date": "20260220",
+    "team1": "Ferro Carril Oeste",
+    "score": "1 - 1",
+    "team2": "San Miguel",
+    "title": "Ferro Carril Oeste VS San Miguel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843648/san-miguel-ferro-carril-oeste"
+  },
+  {
+    "gameId": "401843644",
+    "date": "20260220",
+    "team1": "Quilmes",
+    "score": "0 - 0",
+    "team2": "Midland",
+    "title": "Quilmes VS Midland",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843644/midland-quilmes"
+  },
+  {
+    "gameId": "401843643",
+    "date": "20260220",
+    "team1": "San Martín (San Juan)",
+    "score": "2 - 1",
+    "team2": "Güemes",
+    "title": "San Martín (San Juan) VS Güemes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843643/guemes-san-martin-san-juan"
   }
 ]

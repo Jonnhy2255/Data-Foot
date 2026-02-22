@@ -556,5 +556,50 @@
     "team2": "Tondela",
     "title": "Estrela VS Tondela",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750448/tondela-estrela"
+  },
+  {
+    "gameId": "750444",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Alverca",
+    "score": "1 - 1",
+    "team2": "Santa Clara",
+    "title": "Alverca VS Santa Clara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750444/santa-clara-alverca"
+  },
+  {
+    "gameId": "750451",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Arouca",
+    "score": "3 - 0",
+    "team2": "C.D. Nacional",
+    "title": "Arouca VS C.D. Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750451/cd-nacional-arouca"
+  },
+  {
+    "gameId": "750450",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Benfica",
+    "score": "3 - 0",
+    "team2": "AVS",
+    "title": "Benfica VS AVS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750450/avs-benfica"
+  },
+  {
+    "gameId": "750445",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Moreirense",
+    "score": "0 - 3",
+    "team2": "Sporting CP",
+    "title": "Moreirense VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750445/sporting-cp-moreirense"
+  },
+  {
+    "gameId": "750452",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Braga",
+    "score": "3 - 2",
+    "team2": "Vitória de Guimaraes",
+    "title": "Braga VS Vitória de Guimaraes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750452/vitoria-de-guimaraes-braga"
   }
 ]
