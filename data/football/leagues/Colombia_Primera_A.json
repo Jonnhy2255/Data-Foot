@@ -619,5 +619,41 @@
     "team2": "Deportivo Cali",
     "title": "Bucaramanga VS Deportivo Cali",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850782/deportivo-cali-bucaramanga"
+  },
+  {
+    "gameId": "401850783",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Atlético Nacional",
+    "score": "3 - 0",
+    "team2": "Alianza FC",
+    "title": "Atlético Nacional VS Alianza FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850783/alianza-fc-atletico-nacional"
+  },
+  {
+    "gameId": "401850784",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Internacional de Bogotá",
+    "score": "3 - 2",
+    "team2": "Millonarios",
+    "title": "Internacional de Bogotá VS Millonarios",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850784/millonarios-internacional-de-bogota"
+  },
+  {
+    "gameId": "401850785",
+    "date": "20260221",
+    "team1": "Independiente Santa Fe",
+    "score": "2 - 1",
+    "team2": "Atlético Junior",
+    "title": "Independiente Santa Fe VS Atlético Junior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850785/atletico-junior-independiente-santa-fe"
+  },
+  {
+    "gameId": "401850786",
+    "date": "20260221",
+    "team1": "Boyacá Chicó",
+    "score": "0 - 1",
+    "team2": "Águilas Doradas",
+    "title": "Boyacá Chicó VS Águilas Doradas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850786/aguilas-doradas-boyaca-chico"
   }
 ]

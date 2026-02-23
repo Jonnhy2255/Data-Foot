@@ -223,5 +223,77 @@
     "team2": "Güemes",
     "title": "San Martín (San Juan) VS Güemes",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843643/guemes-san-martin-san-juan"
+  },
+  {
+    "gameId": "401843649",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Deportivo Maipú",
+    "score": "2 - 1",
+    "team2": "Atletico Rafaela",
+    "title": "Deportivo Maipú VS Atletico Rafaela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843649/atletico-rafaela-deportivo-maipu"
+  },
+  {
+    "gameId": "401843645",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Patronato",
+    "score": "1 - 2",
+    "team2": "Gimnasia y Tiro (Salta)",
+    "title": "Patronato VS Gimnasia y Tiro (Salta)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843645/gimnasia-y-tiro-salta-patronato"
+  },
+  {
+    "gameId": "401843635",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Chaco For Ever",
+    "score": "2 - 2",
+    "team2": "San Telmo",
+    "title": "Chaco For Ever VS San Telmo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843635/san-telmo-chaco-for-ever"
+  },
+  {
+    "gameId": "401843638",
+    "date": "20260221",
+    "team1": "Almirante Brown",
+    "score": "2 - 1",
+    "team2": "All Boys",
+    "title": "Almirante Brown VS All Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843638/all-boys-almirante-brown"
+  },
+  {
+    "gameId": "401843636",
+    "date": "20260221",
+    "team1": "Chacarita Juniors",
+    "score": "3 - 1",
+    "team2": "Gimnasia y Esgrima (Jujuy)",
+    "title": "Chacarita Juniors VS Gimnasia y Esgrima (Jujuy)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843636/gimnasia-y-esgrima-jujuy-chacarita-juniors"
+  },
+  {
+    "gameId": "401843634",
+    "date": "20260221",
+    "team1": "Ciudad de Bolívar",
+    "score": "1 - 1",
+    "team2": "Los Andes",
+    "title": "Ciudad de Bolívar VS Los Andes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843634/los-andes-ciudad-de-bolivar"
+  },
+  {
+    "gameId": "401843641",
+    "date": "20260221",
+    "team1": "Defensores de Belgrano",
+    "score": "1 - 1",
+    "team2": "Godoy Cruz Antonio Tomba",
+    "title": "Defensores de Belgrano VS Godoy Cruz Antonio Tomba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843641/godoy-cruz-antonio-tomba-defensores-de-belgrano"
+  },
+  {
+    "gameId": "401843637",
+    "date": "20260221",
+    "team1": "Central Norte",
+    "score": "0 - 0",
+    "team2": "Colón (Santa Fe)",
+    "title": "Central Norte VS Colón (Santa Fe)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843637/colon-santa-fe-central-norte"
   }
 ]

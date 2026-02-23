@@ -232,5 +232,41 @@
     "team2": "Kashiwa Reysol",
     "title": "Kashima Antlers VS Kashiwa Reysol",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859283/kashiwa-reysol-kashima-antlers"
+  },
+  {
+    "gameId": "401859284",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Fagiano Okayama",
+    "score": "1 - 2",
+    "team2": "Gamba Osaka",
+    "title": "Fagiano Okayama VS Gamba Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859284/gamba-osaka-fagiano-okayama"
+  },
+  {
+    "gameId": "401859285",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Kyoto Sanga",
+    "score": "2 - 0",
+    "team2": "Avispa Fukuoka",
+    "title": "Kyoto Sanga VS Avispa Fukuoka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859285/avispa-fukuoka-kyoto-sanga"
+  },
+  {
+    "gameId": "401859413",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Mito Hollyhock",
+    "score": "1 - 1",
+    "team2": "JEF United Ichihara-Chiba",
+    "title": "Mito Hollyhock VS JEF United Ichihara-Chiba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859413/jef-united-ichihara-chiba-mito-hollyhock"
+  },
+  {
+    "gameId": "401859286",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Cerezo Osaka",
+    "score": "1 - 2",
+    "team2": "Sanfrecce Hiroshima",
+    "title": "Cerezo Osaka VS Sanfrecce Hiroshima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859286/sanfrecce-hiroshima-cerezo-osaka"
   }
 ]

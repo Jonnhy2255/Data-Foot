@@ -268,5 +268,41 @@
     "team2": "Universitario",
     "title": "Sporting Cristal VS Universitario",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857399/universitario-sporting-cristal"
+  },
+  {
+    "gameId": "401857403",
+    "date": "Saturday, February 21, 2026",
+    "team1": "Cienciano del Cusco",
+    "score": "1 - 1",
+    "team2": "Alianza Atlético",
+    "title": "Cienciano del Cusco VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857403/alianza-atletico-cienciano-del-cusco"
+  },
+  {
+    "gameId": "401857397",
+    "date": "20260221",
+    "team1": "ADT",
+    "score": "2 - 2",
+    "team2": "UTC",
+    "title": "ADT VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857397/utc-adt"
+  },
+  {
+    "gameId": "401857400",
+    "date": "20260221",
+    "team1": "Los Chankas",
+    "score": "3 - 2",
+    "team2": "Sport Huancayo",
+    "title": "Los Chankas VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857400/sport-huancayo-los-chankas"
+  },
+  {
+    "gameId": "401857405",
+    "date": "20260221",
+    "team1": "Atlético Grau",
+    "score": "1 - 2",
+    "team2": "Juan Pablo II",
+    "title": "Atlético Grau VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857405/juan-pablo-ii-atletico-grau"
   }
 ]

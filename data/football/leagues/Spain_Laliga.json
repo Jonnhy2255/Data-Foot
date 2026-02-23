@@ -655,5 +655,41 @@
     "team2": "Espanyol",
     "title": "Atlético Madrid VS Espanyol",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748390/espanyol-atletico-madrid"
+  },
+  {
+    "gameId": "748384",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Getafe",
+    "score": "0 - 1",
+    "team2": "Sevilla",
+    "title": "Getafe VS Sevilla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748384/sevilla-getafe"
+  },
+  {
+    "gameId": "748391",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Barcelona",
+    "score": "3 - 0",
+    "team2": "Levante",
+    "title": "Barcelona VS Levante",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748391/levante-barcelona"
+  },
+  {
+    "gameId": "748392",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Celta Vigo",
+    "score": "2 - 0",
+    "team2": "Mallorca",
+    "title": "Celta Vigo VS Mallorca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748392/mallorca-celta-vigo"
+  },
+  {
+    "gameId": "748389",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Villarreal",
+    "score": "2 - 1",
+    "team2": "Valencia",
+    "title": "Villarreal VS Valencia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748389/valencia-villarreal"
   }
 ]

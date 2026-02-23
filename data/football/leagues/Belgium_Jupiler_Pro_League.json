@@ -394,5 +394,41 @@
     "team2": "Antwerp",
     "title": "Union St.-Gilloise VS Antwerp",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742740/antwerp-union-st-gilloise"
+  },
+  {
+    "gameId": "742734",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Racing Genk",
+    "score": "0 - 3",
+    "team2": "Standard Liege",
+    "title": "Racing Genk VS Standard Liege",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742734/standard-liege-racing-genk"
+  },
+  {
+    "gameId": "742741",
+    "date": "Sunday, February 22, 2026",
+    "team1": "RAAL La Louvière",
+    "score": "0 - 2",
+    "team2": "KV Mechelen",
+    "title": "RAAL La Louvière VS KV Mechelen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742741/kv-mechelen-raal-la-louviere"
+  },
+  {
+    "gameId": "742738",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Zulte-Waregem",
+    "score": "2 - 4",
+    "team2": "Anderlecht",
+    "title": "Zulte-Waregem VS Anderlecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742738/anderlecht-zulte-waregem"
+  },
+  {
+    "gameId": "742739",
+    "date": "Sunday, February 22, 2026",
+    "team1": "KVC Westerlo",
+    "score": "2 - 1",
+    "team2": "Royal Charleroi SC",
+    "title": "KVC Westerlo VS Royal Charleroi SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742739/royal-charleroi-sc-kvc-westerlo"
   }
 ]

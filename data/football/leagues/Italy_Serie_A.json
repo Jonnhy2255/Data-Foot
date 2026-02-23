@@ -835,5 +835,41 @@
     "team2": "Lazio",
     "title": "Cagliari VS Lazio",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737041/lazio-cagliari"
+  },
+  {
+    "gameId": "737039",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Genoa",
+    "score": "3 - 0",
+    "team2": "Torino",
+    "title": "Genoa VS Torino",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737039/torino-genoa"
+  },
+  {
+    "gameId": "737034",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Atalanta",
+    "score": "2 - 1",
+    "team2": "Napoli",
+    "title": "Atalanta VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737034/napoli-atalanta"
+  },
+  {
+    "gameId": "737036",
+    "date": "Sunday, February 22, 2026",
+    "team1": "AC Milan",
+    "score": "0 - 1",
+    "team2": "Parma",
+    "title": "AC Milan VS Parma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737036/parma-ac-milan"
+  },
+  {
+    "gameId": "737035",
+    "date": "Sunday, February 22, 2026",
+    "team1": "AS Roma",
+    "score": "3 - 0",
+    "team2": "Cremonese",
+    "title": "AS Roma VS Cremonese",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737035/cremonese-as-roma"
   }
 ]

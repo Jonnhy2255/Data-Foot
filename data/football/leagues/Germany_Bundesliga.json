@@ -610,5 +610,32 @@
     "team2": "Borussia Dortmund",
     "title": "RB Leipzig VS Borussia Dortmund",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746922/borussia-dortmund-rb-leipzig"
+  },
+  {
+    "gameId": "746923",
+    "date": "Sunday, February 22, 2026",
+    "team1": "SC Freiburg",
+    "score": "2 - 1",
+    "team2": "Borussia Mönchengladbach",
+    "title": "SC Freiburg VS Borussia Mönchengladbach",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746923/borussia-monchengladbach-sc-freiburg"
+  },
+  {
+    "gameId": "746921",
+    "date": "Sunday, February 22, 2026",
+    "team1": "St. Pauli",
+    "score": "2 - 1",
+    "team2": "Werder Bremen",
+    "title": "St. Pauli VS Werder Bremen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746921/werder-bremen-st-pauli"
+  },
+  {
+    "gameId": "746916",
+    "date": "Sunday, February 22, 2026",
+    "team1": "1. FC Heidenheim 1846",
+    "score": "3 - 3",
+    "team2": "VfB Stuttgart",
+    "title": "1. FC Heidenheim 1846 VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746916/vfb-stuttgart-1-fc-heidenheim-1846"
   }
 ]

@@ -520,5 +520,50 @@
     "team2": "Metz",
     "title": "Paris Saint-Germain VS Metz",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746617/metz-paris-saint-germain"
+  },
+  {
+    "gameId": "746612",
+    "date": "Sunday, February 22, 2026",
+    "team1": "AJ Auxerre",
+    "score": "0 - 3",
+    "team2": "Stade Rennais",
+    "title": "AJ Auxerre VS Stade Rennais",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746612/stade-rennais-aj-auxerre"
+  },
+  {
+    "gameId": "746611",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Angers",
+    "score": "0 - 1",
+    "team2": "Lille",
+    "title": "Angers VS Lille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746611/lille-angers"
+  },
+  {
+    "gameId": "746615",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Nantes",
+    "score": "2 - 0",
+    "team2": "Le Havre AC",
+    "title": "Nantes VS Le Havre AC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746615/le-havre-ac-nantes"
+  },
+  {
+    "gameId": "746616",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Nice",
+    "score": "3 - 3",
+    "team2": "Lorient",
+    "title": "Nice VS Lorient",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746616/lorient-nice"
+  },
+  {
+    "gameId": "746618",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Strasbourg",
+    "score": "3 - 1",
+    "team2": "Lyon",
+    "title": "Strasbourg VS Lyon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746618/lyon-strasbourg"
   }
 ]

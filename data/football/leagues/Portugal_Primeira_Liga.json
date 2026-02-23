@@ -601,5 +601,23 @@
     "team2": "Vitória de Guimaraes",
     "title": "Braga VS Vitória de Guimaraes",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750452/vitoria-de-guimaraes-braga"
+  },
+  {
+    "gameId": "750449",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Estoril",
+    "score": "3 - 1",
+    "team2": "Gil Vicente",
+    "title": "Estoril VS Gil Vicente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750449/gil-vicente-estoril"
+  },
+  {
+    "gameId": "750447",
+    "date": "Sunday, February 22, 2026",
+    "team1": "FC Porto",
+    "score": "1 - 0",
+    "team2": "Rio Ave",
+    "title": "FC Porto VS Rio Ave",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750447/rio-ave-fc-porto"
   }
 ]
