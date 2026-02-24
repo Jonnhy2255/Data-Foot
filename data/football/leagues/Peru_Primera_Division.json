@@ -304,5 +304,23 @@
     "team2": "Juan Pablo II",
     "title": "Atlético Grau VS Juan Pablo II",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857405/juan-pablo-ii-atletico-grau"
+  },
+  {
+    "gameId": "401857402",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Cusco FC",
+    "score": "3 - 1",
+    "team2": "Comerciantes Unidos",
+    "title": "Cusco FC VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857402/comerciantes-unidos-cusco-fc"
+  },
+  {
+    "gameId": "401857401",
+    "date": "Monday, February 23, 2026",
+    "team1": "Deportivo Moquegua",
+    "score": "1 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Deportivo Moquegua VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857401/deportivo-garcilaso-deportivo-moquegua"
   }
 ]

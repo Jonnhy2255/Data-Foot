@@ -295,5 +295,32 @@
     "team2": "Colón (Santa Fe)",
     "title": "Central Norte VS Colón (Santa Fe)",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843637/colon-santa-fe-central-norte"
+  },
+  {
+    "gameId": "401843633",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Colegiales",
+    "score": "1 - 0",
+    "team2": "Atlanta",
+    "title": "Colegiales VS Atlanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843633/atlanta-colegiales"
+  },
+  {
+    "gameId": "401843642",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Temperley",
+    "score": "1 - 0",
+    "team2": "Agropecuario",
+    "title": "Temperley VS Agropecuario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843642/agropecuario-temperley"
+  },
+  {
+    "gameId": "401843647",
+    "date": "Monday, February 23, 2026",
+    "team1": "Mitre (Santiago del Estero)",
+    "score": "1 - 0",
+    "team2": "Estudiantes (Buenos Aires)",
+    "title": "Mitre (Santiago del Estero) VS Estudiantes (Buenos Aires)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843647/estudiantes-buenos-aires-mitre-santiago-del-estero"
   }
 ]

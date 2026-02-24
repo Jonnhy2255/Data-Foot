@@ -655,5 +655,23 @@
     "team2": "Águilas Doradas",
     "title": "Boyacá Chicó VS Águilas Doradas",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850786/aguilas-doradas-boyaca-chico"
+  },
+  {
+    "gameId": "401850780",
+    "date": "Sunday, February 22, 2026",
+    "team1": "América de Cali",
+    "score": "3 - 0",
+    "team2": "Jaguares de Córdoba",
+    "title": "América de Cali VS Jaguares de Córdoba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850780/jaguares-de-cordoba-america-de-cali"
+  },
+  {
+    "gameId": "401850788",
+    "date": "Monday, February 23, 2026",
+    "team1": "Cúcuta Deportivo",
+    "score": "3 - 2",
+    "team2": "Deportes Tolima",
+    "title": "Cúcuta Deportivo VS Deportes Tolima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850788/deportes-tolima-cucuta-deportivo"
   }
 ]

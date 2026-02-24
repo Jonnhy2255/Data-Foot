@@ -691,5 +691,14 @@
     "team2": "Valencia",
     "title": "Villarreal VS Valencia",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748389/valencia-villarreal"
+  },
+  {
+    "gameId": "748393",
+    "date": "Monday, February 23, 2026",
+    "team1": "Alavés",
+    "score": "2 - 2",
+    "team2": "Girona",
+    "title": "Alavés VS Girona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748393/girona-alaves"
   }
 ]

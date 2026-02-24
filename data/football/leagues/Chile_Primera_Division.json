@@ -277,5 +277,14 @@
     "team2": "Everton CD",
     "title": "Audax Italiano VS Everton CD",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850461/everton-cd-audax-italiano"
+  },
+  {
+    "gameId": "401850463",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Universidad de Chile",
+    "score": "2 - 2",
+    "team2": "Deportes Limache",
+    "title": "Universidad de Chile VS Deportes Limache",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850463/deportes-limache-universidad-de-chile"
   }
 ]

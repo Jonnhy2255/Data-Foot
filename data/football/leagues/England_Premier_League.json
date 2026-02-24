@@ -826,5 +826,14 @@
     "team2": "Arsenal",
     "title": "Tottenham Hotspur VS Arsenal",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740865/arsenal-tottenham-hotspur"
+  },
+  {
+    "gameId": "740856",
+    "date": "Monday, February 23, 2026",
+    "team1": "Everton",
+    "score": "0 - 1",
+    "team2": "Manchester United",
+    "title": "Everton VS Manchester United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740856/manchester-united-everton"
   }
 ]

@@ -115,5 +115,23 @@
     "team2": "Sporting Kansas City",
     "title": "San Jose Earthquakes VS Sporting Kansas City",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761450/sporting-kansas-city-san-jose-earthquakes"
+  },
+  {
+    "gameId": "761452",
+    "date": "Sunday, February 22, 2026",
+    "team1": "LA Galaxy",
+    "score": "1 - 1",
+    "team2": "New York City FC",
+    "title": "LA Galaxy VS New York City FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761452/new-york-city-fc-la-galaxy"
+  },
+  {
+    "gameId": "761453",
+    "date": "Sunday, February 22, 2026",
+    "team1": "Seattle Sounders FC",
+    "score": "2 - 0",
+    "team2": "Colorado Rapids",
+    "title": "Seattle Sounders FC VS Colorado Rapids",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761453/colorado-rapids-seattle-sounders-fc"
   }
 ]

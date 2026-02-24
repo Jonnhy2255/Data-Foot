@@ -475,5 +475,14 @@
     "team2": "Samsunspor",
     "title": "Fatih Karagümrük VS Samsunspor",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750117/samsunspor-fatih-karagumruk"
+  },
+  {
+    "gameId": "750118",
+    "date": "Monday, February 23, 2026",
+    "team1": "Fenerbahce",
+    "score": "1 - 1",
+    "team2": "Kasimpasa",
+    "title": "Fenerbahce VS Kasimpasa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750118/kasimpasa-fenerbahce"
   }
 ]
