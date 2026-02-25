@@ -394,5 +394,41 @@
     "team2": "Bayer Leverkusen",
     "title": "Olympiacos VS Bayer Leverkusen",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401858737/bayer-leverkusen-olympiacos"
+  },
+  {
+    "gameId": "401858768",
+    "date": "Tuesday, February 24, 2026",
+    "team1": "Atlético Madrid",
+    "score": "4 - 1",
+    "team2": "Club Brugge",
+    "title": "Atlético Madrid VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858768/club-brugge-atletico-madrid"
+  },
+  {
+    "gameId": "401858767",
+    "date": "Tuesday, February 24, 2026",
+    "team1": "Bayer Leverkusen",
+    "score": "0 - 0",
+    "team2": "Olympiacos",
+    "title": "Bayer Leverkusen VS Olympiacos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858767/olympiacos-bayer-leverkusen"
+  },
+  {
+    "gameId": "401858766",
+    "date": "Tuesday, February 24, 2026",
+    "team1": "Internazionale",
+    "score": "1 - 2",
+    "team2": "Bodo/Glimt",
+    "title": "Internazionale VS Bodo/Glimt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858766/bodoglimt-internazionale"
+  },
+  {
+    "gameId": "401858764",
+    "date": "Tuesday, February 24, 2026",
+    "team1": "Newcastle United",
+    "score": "3 - 2",
+    "team2": "FK Qarabag",
+    "title": "Newcastle United VS FK Qarabag",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858764/fk-qarabag-newcastle-united"
   }
 ]

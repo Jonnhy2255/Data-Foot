@@ -1006,5 +1006,32 @@
     "team2": "Al Ahli",
     "title": "Damac VS Al Ahli",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/755992/al-ahli-damac"
+  },
+  {
+    "gameId": "755993",
+    "date": "Tuesday, February 24, 2026",
+    "team1": "Al Hazem",
+    "score": "1 - 1",
+    "team2": "Al Ittihad",
+    "title": "Al Hazem VS Al Ittihad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/755993/al-ittihad-al-hazem"
+  },
+  {
+    "gameId": "755990",
+    "date": "Tuesday, February 24, 2026",
+    "team1": "Al Khaleej",
+    "score": "2 - 3",
+    "team2": "Al Kholood",
+    "title": "Al Khaleej VS Al Kholood",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/755990/al-kholood-al-khaleej"
+  },
+  {
+    "gameId": "755985",
+    "date": "Tuesday, February 24, 2026",
+    "team1": "Al Taawoun",
+    "score": "1 - 1",
+    "team2": "Al Hilal",
+    "title": "Al Taawoun VS Al Hilal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/755985/al-hilal-al-taawoun"
   }
 ]
