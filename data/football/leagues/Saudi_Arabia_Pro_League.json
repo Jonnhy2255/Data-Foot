@@ -1033,5 +1033,23 @@
     "team2": "Al Hilal",
     "title": "Al Taawoun VS Al Hilal",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/755985/al-hilal-al-taawoun"
+  },
+  {
+    "gameId": "755988",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Al Fayha",
+    "score": "1 - 1",
+    "team2": "Neom SC",
+    "title": "Al Fayha VS Neom SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/755988/neom-sc-al-fayha"
+  },
+  {
+    "gameId": "755987",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Al Najma",
+    "score": "0 - 5",
+    "team2": "Al Nassr",
+    "title": "Al Najma VS Al Nassr",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/755987/al-nassr-al-najma"
   }
 ]

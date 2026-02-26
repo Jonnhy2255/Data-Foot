@@ -430,5 +430,41 @@
     "team2": "FK Qarabag",
     "title": "Newcastle United VS FK Qarabag",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401858764/fk-qarabag-newcastle-united"
+  },
+  {
+    "gameId": "401858762",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Atalanta",
+    "score": "4 - 1",
+    "team2": "Borussia Dortmund",
+    "title": "Atalanta VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858762/borussia-dortmund-atalanta"
+  },
+  {
+    "gameId": "401858765",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Juventus",
+    "score": "3 - 2",
+    "team2": "Galatasaray",
+    "title": "Juventus VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858765/galatasaray-juventus"
+  },
+  {
+    "gameId": "401858763",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Paris Saint-Germain",
+    "score": "2 - 2",
+    "team2": "AS Monaco",
+    "title": "Paris Saint-Germain VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858763/as-monaco-paris-saint-germain"
+  },
+  {
+    "gameId": "401858769",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Real Madrid",
+    "score": "2 - 1",
+    "team2": "Benfica",
+    "title": "Real Madrid VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858769/benfica-real-madrid"
   }
 ]

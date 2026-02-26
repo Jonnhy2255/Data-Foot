@@ -268,5 +268,32 @@
     "team2": "Corinthians",
     "title": "Athletico Paranaense VS Corinthians",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840981/corinthians-athletico-paranaense"
+  },
+  {
+    "gameId": "401841003",
+    "date": "20260224",
+    "team1": "Red Bull Bragantino",
+    "score": "1 - 1",
+    "team2": "Athletico Paranaense",
+    "title": "Red Bull Bragantino VS Athletico Paranaense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841003/athletico-paranaense-red-bull-bragantino"
+  },
+  {
+    "gameId": "401841007",
+    "date": "20260224",
+    "team1": "Remo",
+    "score": "1 - 1",
+    "team2": "Internacional",
+    "title": "Remo VS Internacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841007/internacional-remo"
+  },
+  {
+    "gameId": "401841000",
+    "date": "20260224",
+    "team1": "Coritiba",
+    "score": "0 - 1",
+    "team2": "São Paulo",
+    "title": "Coritiba VS São Paulo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841000/sao-paulo-coritiba"
   }
 ]

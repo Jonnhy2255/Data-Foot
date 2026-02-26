@@ -322,5 +322,14 @@
     "team2": "Guarani",
     "title": "Sportivo Luqueño VS Guarani",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848193/guarani-sportivo-luqueno"
+  },
+  {
+    "gameId": "401848197",
+    "date": "20260224",
+    "team1": "Sportivo Ameliano",
+    "score": "0 - 1",
+    "team2": "Cerro Porteño",
+    "title": "Sportivo Ameliano VS Cerro Porteño",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848197/cerro-porteno-sportivo-ameliano"
   }
 ]
