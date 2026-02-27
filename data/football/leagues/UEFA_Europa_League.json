@@ -394,5 +394,77 @@
     "team2": "Viktoria Plzen",
     "title": "Panathinaikos VS Viktoria Plzen",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401858772/viktoria-plzen-panathinaikos"
+  },
+  {
+    "gameId": "401858782",
+    "date": "Thursday, February 26, 2026",
+    "team1": "Ferencvaros",
+    "score": "2 - 0",
+    "team2": "Ludogorets Razgrad",
+    "title": "Ferencvaros VS Ludogorets Razgrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858782/ludogorets-razgrad-ferencvaros"
+  },
+  {
+    "gameId": "401858783",
+    "date": "Thursday, February 26, 2026",
+    "team1": "Red Star Belgrade",
+    "score": "0 - 2",
+    "team2": "Lille",
+    "title": "Red Star Belgrade VS Lille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858783/lille-red-star-belgrade"
+  },
+  {
+    "gameId": "401858779",
+    "date": "Thursday, February 26, 2026",
+    "team1": "VfB Stuttgart",
+    "score": "0 - 1",
+    "team2": "Celtic",
+    "title": "VfB Stuttgart VS Celtic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858779/celtic-vfb-stuttgart"
+  },
+  {
+    "gameId": "401858785",
+    "date": "Thursday, February 26, 2026",
+    "team1": "Viktoria Plzen",
+    "score": "1 - 1",
+    "team2": "Panathinaikos",
+    "title": "Viktoria Plzen VS Panathinaikos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858785/panathinaikos-viktoria-plzen"
+  },
+  {
+    "gameId": "401858778",
+    "date": "Thursday, February 26, 2026",
+    "team1": "Bologna",
+    "score": "1 - 0",
+    "team2": "SK Brann",
+    "title": "Bologna VS SK Brann",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858778/sk-brann-bologna"
+  },
+  {
+    "gameId": "401858784",
+    "date": "Thursday, February 26, 2026",
+    "team1": "Celta Vigo",
+    "score": "1 - 0",
+    "team2": "PAOK Salonika",
+    "title": "Celta Vigo VS PAOK Salonika",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858784/paok-salonika-celta-vigo"
+  },
+  {
+    "gameId": "401858780",
+    "date": "Thursday, February 26, 2026",
+    "team1": "Nottingham Forest",
+    "score": "1 - 2",
+    "team2": "Fenerbahce",
+    "title": "Nottingham Forest VS Fenerbahce",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858780/fenerbahce-nottingham-forest"
+  },
+  {
+    "gameId": "401858781",
+    "date": "Thursday, February 26, 2026",
+    "team1": "Racing Genk",
+    "score": "3 - 3",
+    "team2": "Dinamo Zagreb",
+    "title": "Racing Genk VS Dinamo Zagreb",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401858781/dinamo-zagreb-racing-genk"
   }
 ]

@@ -331,5 +331,23 @@
     "team2": "Cerro Porteño",
     "title": "Sportivo Ameliano VS Cerro Porteño",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848197/cerro-porteno-sportivo-ameliano"
+  },
+  {
+    "gameId": "401848196",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Club Olimpia",
+    "score": "1 - 0",
+    "team2": "Libertad",
+    "title": "Club Olimpia VS Libertad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848196/libertad-club-olimpia"
+  },
+  {
+    "gameId": "401848200",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Trinidense",
+    "score": "1 - 1",
+    "team2": "Sportivo Luqueño",
+    "title": "Trinidense VS Sportivo Luqueño",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848200/sportivo-luqueno-trinidense"
   }
 ]

@@ -295,5 +295,41 @@
     "team2": "São Paulo",
     "title": "Coritiba VS São Paulo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841000/sao-paulo-coritiba"
+  },
+  {
+    "gameId": "401841001",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Cruzeiro",
+    "score": "1 - 1",
+    "team2": "Corinthians",
+    "title": "Cruzeiro VS Corinthians",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841001/corinthians-cruzeiro"
+  },
+  {
+    "gameId": "401841005",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Grêmio",
+    "score": "2 - 1",
+    "team2": "Atlético-MG",
+    "title": "Grêmio VS Atlético-MG",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841005/atletico-mg-gremio"
+  },
+  {
+    "gameId": "401841004",
+    "date": "Wednesday, February 25, 2026",
+    "team1": "Palmeiras",
+    "score": "2 - 1",
+    "team2": "Fluminense",
+    "title": "Palmeiras VS Fluminense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841004/fluminense-palmeiras"
+  },
+  {
+    "gameId": "401841002",
+    "date": "Thursday, February 26, 2026",
+    "team1": "Santos",
+    "score": "2 - 1",
+    "team2": "Vasco da Gama",
+    "title": "Santos VS Vasco da Gama",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841002/vasco-da-gama-santos"
   }
 ]
