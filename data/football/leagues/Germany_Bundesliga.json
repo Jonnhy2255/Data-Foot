@@ -637,5 +637,14 @@
     "team2": "VfB Stuttgart",
     "title": "1. FC Heidenheim 1846 VS VfB Stuttgart",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746916/vfb-stuttgart-1-fc-heidenheim-1846"
+  },
+  {
+    "gameId": "746929",
+    "date": "Friday, February 27, 2026",
+    "team1": "FC Augsburg",
+    "score": "2 - 0",
+    "team2": "FC Cologne",
+    "title": "FC Augsburg VS FC Cologne",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746929/fc-cologne-fc-augsburg"
   }
 ]

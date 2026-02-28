@@ -322,5 +322,23 @@
     "team2": "Deportivo Garcilaso",
     "title": "Deportivo Moquegua VS Deportivo Garcilaso",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857401/deportivo-garcilaso-deportivo-moquegua"
+  },
+  {
+    "gameId": "401857406",
+    "date": "20260226",
+    "team1": "Alianza Atlético",
+    "score": "0 - 0",
+    "team2": "ADT",
+    "title": "Alianza Atlético VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857406/adt-alianza-atletico"
+  },
+  {
+    "gameId": "401857414",
+    "date": "20260226",
+    "team1": "Melgar",
+    "score": "1 - 2",
+    "team2": "Los Chankas",
+    "title": "Melgar VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857414/los-chankas-melgar"
   }
 ]

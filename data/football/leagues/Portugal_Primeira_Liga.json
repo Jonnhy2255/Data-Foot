@@ -628,5 +628,23 @@
     "team2": "Casa Pia",
     "title": "FC Famalicao VS Casa Pia",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750446/casa-pia-fc-famalicao"
+  },
+  {
+    "gameId": "750457",
+    "date": "Friday, February 27, 2026",
+    "team1": "FC Porto",
+    "score": "3 - 1",
+    "team2": "Arouca",
+    "title": "FC Porto VS Arouca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750457/arouca-fc-porto"
+  },
+  {
+    "gameId": "750459",
+    "date": "Friday, February 27, 2026",
+    "team1": "Sporting CP",
+    "score": "3 - 0",
+    "team2": "Estoril",
+    "title": "Sporting CP VS Estoril",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750459/estoril-sporting-cp"
   }
 ]

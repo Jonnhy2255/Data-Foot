@@ -268,5 +268,32 @@
     "team2": "Sanfrecce Hiroshima",
     "title": "Cerezo Osaka VS Sanfrecce Hiroshima",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859286/sanfrecce-hiroshima-cerezo-osaka"
+  },
+  {
+    "gameId": "401859414",
+    "date": "20260226",
+    "team1": "Machida Zelvia",
+    "score": "2 - 1",
+    "team2": "JEF United Ichihara-Chiba",
+    "title": "Machida Zelvia VS JEF United Ichihara-Chiba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859414/jef-united-ichihara-chiba-machida-zelvia"
+  },
+  {
+    "gameId": "401859288",
+    "date": "20260226",
+    "team1": "Sanfrecce Hiroshima",
+    "score": "1 - 2",
+    "team2": "Kyoto Sanga",
+    "title": "Sanfrecce Hiroshima VS Kyoto Sanga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859288/kyoto-sanga-sanfrecce-hiroshima"
+  },
+  {
+    "gameId": "401859287",
+    "date": "20260226",
+    "team1": "Vissel Kobe",
+    "score": "2 - 1",
+    "team2": "Avispa Fukuoka",
+    "title": "Vissel Kobe VS Avispa Fukuoka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859287/avispa-fukuoka-vissel-kobe"
   }
 ]

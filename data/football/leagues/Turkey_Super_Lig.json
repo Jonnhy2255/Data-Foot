@@ -484,5 +484,23 @@
     "team2": "Kasimpasa",
     "title": "Fenerbahce VS Kasimpasa",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750118/kasimpasa-fenerbahce"
+  },
+  {
+    "gameId": "750133",
+    "date": "Friday, February 27, 2026",
+    "team1": "Istanbul Basaksehir",
+    "score": "2 - 0",
+    "team2": "Konyaspor",
+    "title": "Istanbul Basaksehir VS Konyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750133/konyaspor-istanbul-basaksehir"
+  },
+  {
+    "gameId": "750128",
+    "date": "Friday, February 27, 2026",
+    "team1": "Trabzonspor",
+    "score": "3 - 1",
+    "team2": "Fatih Karagümrük",
+    "title": "Trabzonspor VS Fatih Karagümrük",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750128/fatih-karagumruk-trabzonspor"
   }
 ]

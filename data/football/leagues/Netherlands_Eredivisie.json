@@ -574,5 +574,14 @@
     "team2": "Telstar",
     "title": "Feyenoord Rotterdam VS Telstar",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741186/telstar-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741199",
+    "date": "Friday, February 27, 2026",
+    "team1": "Telstar",
+    "score": "3 - 0",
+    "team2": "NAC Breda",
+    "title": "Telstar VS NAC Breda",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741199/nac-breda-telstar"
   }
 ]

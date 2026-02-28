@@ -565,5 +565,14 @@
     "team2": "Lyon",
     "title": "Strasbourg VS Lyon",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746618/lyon-strasbourg"
+  },
+  {
+    "gameId": "746622",
+    "date": "Friday, February 27, 2026",
+    "team1": "Strasbourg",
+    "score": "1 - 1",
+    "team2": "Lens",
+    "title": "Strasbourg VS Lens",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746622/lens-strasbourg"
   }
 ]

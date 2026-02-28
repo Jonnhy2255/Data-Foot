@@ -286,5 +286,14 @@
     "team2": "Deportes Limache",
     "title": "Universidad de Chile VS Deportes Limache",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850463/deportes-limache-universidad-de-chile"
+  },
+  {
+    "gameId": "401850482",
+    "date": "20260226",
+    "team1": "Cobresal",
+    "score": "0 - 1",
+    "team2": "La Serena",
+    "title": "Cobresal VS La Serena",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850482/la-serena-cobresal"
   }
 ]

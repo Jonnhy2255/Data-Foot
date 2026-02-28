@@ -430,5 +430,14 @@
     "team2": "Royal Charleroi SC",
     "title": "KVC Westerlo VS Royal Charleroi SC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742739/royal-charleroi-sc-kvc-westerlo"
+  },
+  {
+    "gameId": "742748",
+    "date": "Friday, February 27, 2026",
+    "team1": "Standard Liege",
+    "score": "1 - 1",
+    "team2": "RAAL La Louvière",
+    "title": "Standard Liege VS RAAL La Louvière",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742748/raal-la-louviere-standard-liege"
   }
 ]

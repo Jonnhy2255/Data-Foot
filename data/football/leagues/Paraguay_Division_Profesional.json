@@ -349,5 +349,23 @@
     "team2": "Sportivo Luqueño",
     "title": "Trinidense VS Sportivo Luqueño",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848200/sportivo-luqueno-trinidense"
+  },
+  {
+    "gameId": "401848198",
+    "date": "Thursday, February 26, 2026",
+    "team1": "Rubio Ñú",
+    "score": "2 - 0",
+    "team2": "Sportivo San Lorenzo",
+    "title": "Rubio Ñú VS Sportivo San Lorenzo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848198/sportivo-san-lorenzo-rubio-nu"
+  },
+  {
+    "gameId": "401848199",
+    "date": "Thursday, February 26, 2026",
+    "team1": "Deportivo Recoleta",
+    "score": "2 - 2",
+    "team2": "Nacional",
+    "title": "Deportivo Recoleta VS Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848199/nacional-deportivo-recoleta"
   }
 ]
