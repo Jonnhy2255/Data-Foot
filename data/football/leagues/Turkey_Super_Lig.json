@@ -502,5 +502,41 @@
     "team2": "Fatih Karagümrük",
     "title": "Trabzonspor VS Fatih Karagümrük",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750128/fatih-karagumruk-trabzonspor"
+  },
+  {
+    "gameId": "750130",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Kasimpasa",
+    "score": "0 - 3",
+    "team2": "Caykur Rizespor",
+    "title": "Kasimpasa VS Caykur Rizespor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750130/caykur-rizespor-kasimpasa"
+  },
+  {
+    "gameId": "750131",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Kocaelispor",
+    "score": "0 - 1",
+    "team2": "Besiktas",
+    "title": "Kocaelispor VS Besiktas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750131/besiktas-kocaelispor"
+  },
+  {
+    "gameId": "750126",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Galatasaray",
+    "score": "3 - 1",
+    "team2": "Alanyaspor",
+    "title": "Galatasaray VS Alanyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750126/alanyaspor-galatasaray"
+  },
+  {
+    "gameId": "750129",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Goztepe",
+    "score": "0 - 0",
+    "team2": "Eyupspor",
+    "title": "Goztepe VS Eyupspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750129/eyupspor-goztepe"
   }
 ]

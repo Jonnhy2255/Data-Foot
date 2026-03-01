@@ -7,5 +7,41 @@
     "team2": "FC Baltika Kaliningrad",
     "title": "Zenit St Petersburg VS FC Baltika Kaliningrad",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743649/fc-baltika-kaliningrad-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743648",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Gazovik Orenburg",
+    "score": "2 - 0",
+    "team2": "Akron Tolyatti",
+    "title": "Gazovik Orenburg VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743648/akron-tolyatti-gazovik-orenburg"
+  },
+  {
+    "gameId": "743645",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Krasnodar",
+    "score": "2 - 1",
+    "team2": "Rostov",
+    "title": "Krasnodar VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743645/rostov-krasnodar"
+  },
+  {
+    "gameId": "743646",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Lokomotiv Moscow",
+    "score": "2 - 1",
+    "team2": "Nizhny Novgorod",
+    "title": "Lokomotiv Moscow VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743646/nizhny-novgorod-lokomotiv-moscow"
+  },
+  {
+    "gameId": "743644",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Dynamo Makhachkala",
+    "score": "2 - 1",
+    "team2": "Rubin Kazan",
+    "title": "Dynamo Makhachkala VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743644/rubin-kazan-dynamo-makhachkala"
   }
 ]

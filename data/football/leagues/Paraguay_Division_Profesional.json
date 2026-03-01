@@ -367,5 +367,14 @@
     "team2": "Nacional",
     "title": "Deportivo Recoleta VS Nacional",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848199/nacional-deportivo-recoleta"
+  },
+  {
+    "gameId": "401848202",
+    "date": "20260227",
+    "team1": "Sportivo Ameliano",
+    "score": "0 - 1",
+    "team2": "Club Olimpia",
+    "title": "Sportivo Ameliano VS Club Olimpia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848202/club-olimpia-sportivo-ameliano"
   }
 ]

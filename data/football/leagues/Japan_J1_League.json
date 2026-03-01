@@ -295,5 +295,50 @@
     "team2": "Avispa Fukuoka",
     "title": "Vissel Kobe VS Avispa Fukuoka",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859287/avispa-fukuoka-vissel-kobe"
+  },
+  {
+    "gameId": "401859289",
+    "date": "Friday, February 27, 2026",
+    "team1": "Yokohama F. Marinos",
+    "score": "3 - 2",
+    "team2": "Tokyo Verdy 1969",
+    "title": "Yokohama F. Marinos VS Tokyo Verdy 1969",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859289/tokyo-verdy-1969-yokohama-f-marinos"
+  },
+  {
+    "gameId": "401859290",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Urawa Red Diamonds",
+    "score": "2 - 3",
+    "team2": "Kashima Antlers",
+    "title": "Urawa Red Diamonds VS Kashima Antlers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859290/kashima-antlers-urawa-red-diamonds"
+  },
+  {
+    "gameId": "401859292",
+    "date": "Saturday, February 28, 2026",
+    "team1": "FC Tokyo",
+    "score": "0 - 2",
+    "team2": "Kashiwa Reysol",
+    "title": "FC Tokyo VS Kashiwa Reysol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859292/kashiwa-reysol-fc-tokyo"
+  },
+  {
+    "gameId": "401859291",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Gamba Osaka",
+    "score": "2 - 2",
+    "team2": "Shimizu S-Pulse",
+    "title": "Gamba Osaka VS Shimizu S-Pulse",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859291/shimizu-s-pulse-gamba-osaka"
+  },
+  {
+    "gameId": "401859293",
+    "date": "Saturday, February 28, 2026",
+    "team1": "V-Varen Nagasaki",
+    "score": "1 - 0",
+    "team2": "Cerezo Osaka",
+    "title": "V-Varen Nagasaki VS Cerezo Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859293/cerezo-osaka-v-varen-nagasaki"
   }
 ]

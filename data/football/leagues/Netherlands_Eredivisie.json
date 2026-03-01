@@ -583,5 +583,32 @@
     "team2": "NAC Breda",
     "title": "Telstar VS NAC Breda",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741199/nac-breda-telstar"
+  },
+  {
+    "gameId": "741196",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Heerenveen",
+    "score": "2 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "Heerenveen VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741196/sparta-rotterdam-heerenveen"
+  },
+  {
+    "gameId": "741200",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Heracles Almelo",
+    "score": "1 - 3",
+    "team2": "PSV Eindhoven",
+    "title": "Heracles Almelo VS PSV Eindhoven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741200/psv-eindhoven-heracles-almelo"
+  },
+  {
+    "gameId": "741197",
+    "date": "Saturday, February 28, 2026",
+    "team1": "NEC Nijmegen",
+    "score": "2 - 3",
+    "team2": "Fortuna Sittard",
+    "title": "NEC Nijmegen VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741197/fortuna-sittard-nec-nijmegen"
   }
 ]

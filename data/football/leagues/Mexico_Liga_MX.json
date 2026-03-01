@@ -556,5 +556,59 @@
     "team2": "Monterrey",
     "title": "Pumas UNAM VS Monterrey",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840875/monterrey-pumas-unam"
+  },
+  {
+    "gameId": "401840878",
+    "date": "Friday, February 27, 2026",
+    "team1": "Mazatlán FC",
+    "score": "1 - 0",
+    "team2": "Pachuca",
+    "title": "Mazatlán FC VS Pachuca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840878/pachuca-mazatlan-fc"
+  },
+  {
+    "gameId": "401840879",
+    "date": "Friday, February 27, 2026",
+    "team1": "Querétaro",
+    "score": "2 - 2",
+    "team2": "Santos",
+    "title": "Querétaro VS Santos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840879/santos-queretaro"
+  },
+  {
+    "gameId": "401840881",
+    "date": "Friday, February 27, 2026",
+    "team1": "FC Juarez",
+    "score": "3 - 1",
+    "team2": "Atlas",
+    "title": "FC Juarez VS Atlas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840881/atlas-fc-juarez"
+  },
+  {
+    "gameId": "401840880",
+    "date": "Friday, February 27, 2026",
+    "team1": "Tijuana",
+    "score": "1 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Tijuana VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840880/pumas-unam-tijuana"
+  },
+  {
+    "gameId": "401840882",
+    "date": "20260227",
+    "team1": "Atlético de San Luis",
+    "score": "0 - 1",
+    "team2": "Puebla",
+    "title": "Atlético de San Luis VS Puebla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840882/puebla-atletico-de-san-luis"
+  },
+  {
+    "gameId": "401840883",
+    "date": "20260227",
+    "team1": "Toluca",
+    "score": "2 - 0",
+    "team2": "Guadalajara",
+    "title": "Toluca VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840883/guadalajara-toluca"
   }
 ]

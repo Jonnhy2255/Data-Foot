@@ -646,5 +646,50 @@
     "team2": "FC Cologne",
     "title": "FC Augsburg VS FC Cologne",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746929/fc-cologne-fc-augsburg"
+  },
+  {
+    "gameId": "746925",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Bayer Leverkusen",
+    "score": "1 - 1",
+    "team2": "Mainz",
+    "title": "Bayer Leverkusen VS Mainz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746925/mainz-bayer-leverkusen"
+  },
+  {
+    "gameId": "746927",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Borussia Mönchengladbach",
+    "score": "1 - 0",
+    "team2": "1. FC Union Berlin",
+    "title": "Borussia Mönchengladbach VS 1. FC Union Berlin",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746927/1-fc-union-berlin-borussia-monchengladbach"
+  },
+  {
+    "gameId": "746932",
+    "date": "Saturday, February 28, 2026",
+    "team1": "TSG Hoffenheim",
+    "score": "0 - 1",
+    "team2": "St. Pauli",
+    "title": "TSG Hoffenheim VS St. Pauli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746932/st-pauli-tsg-hoffenheim"
+  },
+  {
+    "gameId": "746931",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Werder Bremen",
+    "score": "2 - 0",
+    "team2": "1. FC Heidenheim 1846",
+    "title": "Werder Bremen VS 1. FC Heidenheim 1846",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746931/1-fc-heidenheim-1846-werder-bremen"
+  },
+  {
+    "gameId": "746926",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Borussia Dortmund",
+    "score": "2 - 3",
+    "team2": "Bayern Munich",
+    "title": "Borussia Dortmund VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746926/bayern-munich-borussia-dortmund"
   }
 ]

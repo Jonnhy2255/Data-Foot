@@ -340,5 +340,32 @@
     "team2": "Los Chankas",
     "title": "Melgar VS Los Chankas",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857414/los-chankas-melgar"
+  },
+  {
+    "gameId": "401857412",
+    "date": "Friday, February 27, 2026",
+    "team1": "Deportivo Garcilaso",
+    "score": "2 - 3",
+    "team2": "Cienciano del Cusco",
+    "title": "Deportivo Garcilaso VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857412/cienciano-del-cusco-deportivo-garcilaso"
+  },
+  {
+    "gameId": "401857407",
+    "date": "20260227",
+    "team1": "Sport Huancayo",
+    "score": "2 - 1",
+    "team2": "Sporting Cristal",
+    "title": "Sport Huancayo VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857407/sporting-cristal-sport-huancayo"
+  },
+  {
+    "gameId": "401857408",
+    "date": "20260227",
+    "team1": "UTC",
+    "score": "0 - 1",
+    "team2": "Alianza Lima",
+    "title": "UTC VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857408/alianza-lima-utc"
   }
 ]

@@ -322,5 +322,32 @@
     "team2": "Estudiantes (Buenos Aires)",
     "title": "Mitre (Santiago del Estero) VS Estudiantes (Buenos Aires)",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843647/estudiantes-buenos-aires-mitre-santiago-del-estero"
+  },
+  {
+    "gameId": "401843666",
+    "date": "Friday, February 27, 2026",
+    "team1": "Gimnasia y Tiro (Salta)",
+    "score": "2 - 0",
+    "team2": "Almagro",
+    "title": "Gimnasia y Tiro (Salta) VS Almagro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843666/almagro-gimnasia-y-tiro-salta"
+  },
+  {
+    "gameId": "401843663",
+    "date": "20260227",
+    "team1": "Los Andes",
+    "score": "0 - 1",
+    "team2": "Defensores de Belgrano",
+    "title": "Los Andes VS Defensores de Belgrano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843663/defensores-de-belgrano-los-andes"
+  },
+  {
+    "gameId": "401843660",
+    "date": "20260227",
+    "team1": "San Miguel",
+    "score": "2 - 0",
+    "team2": "Chaco For Ever",
+    "title": "San Miguel VS Chaco For Ever",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843660/chaco-for-ever-san-miguel"
   }
 ]

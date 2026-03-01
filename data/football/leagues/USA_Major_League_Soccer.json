@@ -133,5 +133,41 @@
     "team2": "Colorado Rapids",
     "title": "Seattle Sounders FC VS Colorado Rapids",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761453/colorado-rapids-seattle-sounders-fc"
+  },
+  {
+    "gameId": "761454",
+    "date": "20260227",
+    "team1": "Chicago Fire FC",
+    "score": "3 - 0",
+    "team2": "CF Montréal",
+    "title": "Chicago Fire FC VS CF Montréal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761454/cf-montreal-chicago-fire-fc"
+  },
+  {
+    "gameId": "761455",
+    "date": "20260227",
+    "team1": "Red Bull New York",
+    "score": "1 - 0",
+    "team2": "New England Revolution",
+    "title": "Red Bull New York VS New England Revolution",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761455/new-england-revolution-red-bull-new-york"
+  },
+  {
+    "gameId": "761456",
+    "date": "20260227",
+    "team1": "Colorado Rapids",
+    "score": "2 - 0",
+    "team2": "Portland Timbers",
+    "title": "Colorado Rapids VS Portland Timbers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761456/portland-timbers-colorado-rapids"
+  },
+  {
+    "gameId": "761457",
+    "date": "20260227",
+    "team1": "Minnesota United FC",
+    "score": "1 - 0",
+    "team2": "FC Cincinnati",
+    "title": "Minnesota United FC VS FC Cincinnati",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761457/fc-cincinnati-minnesota-united-fc"
   }
 ]

@@ -439,5 +439,32 @@
     "team2": "RAAL La Louvière",
     "title": "Standard Liege VS RAAL La Louvière",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742748/raal-la-louviere-standard-liege"
+  },
+  {
+    "gameId": "742746",
+    "date": "Saturday, February 28, 2026",
+    "team1": "KV Mechelen",
+    "score": "2 - 1",
+    "team2": "Zulte-Waregem",
+    "title": "KV Mechelen VS Zulte-Waregem",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742746/zulte-waregem-kv-mechelen"
+  },
+  {
+    "gameId": "742743",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Antwerp",
+    "score": "1 - 0",
+    "team2": "Sint-Truidense",
+    "title": "Antwerp VS Sint-Truidense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742743/sint-truidense-antwerp"
+  },
+  {
+    "gameId": "742742",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Anderlecht",
+    "score": "5 - 1",
+    "team2": "Oud-Heverlee Leuven",
+    "title": "Anderlecht VS Oud-Heverlee Leuven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742742/oud-heverlee-leuven-anderlecht"
   }
 ]

@@ -430,5 +430,32 @@
     "team2": "Levadiakos",
     "title": "AEK Athens VS Levadiakos",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752426/levadiakos-aek-athens"
+  },
+  {
+    "gameId": "752431",
+    "date": "Saturday, February 28, 2026",
+    "team1": "OFI Crete",
+    "score": "3 - 0",
+    "team2": "Larissa FC",
+    "title": "OFI Crete VS Larissa FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752431/larissa-fc-ofi-crete"
+  },
+  {
+    "gameId": "752433",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Atromitos",
+    "score": "1 - 0",
+    "team2": "Panetolikos",
+    "title": "Atromitos VS Panetolikos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752433/panetolikos-atromitos"
+  },
+  {
+    "gameId": "752432",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Kifisia",
+    "score": "1 - 0",
+    "team2": "Levadiakos",
+    "title": "Kifisia VS Levadiakos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752432/levadiakos-kifisia"
   }
 ]

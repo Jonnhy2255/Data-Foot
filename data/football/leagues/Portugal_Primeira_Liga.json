@@ -646,5 +646,32 @@
     "team2": "Estoril",
     "title": "Sporting CP VS Estoril",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750459/estoril-sporting-cp"
+  },
+  {
+    "gameId": "750453",
+    "date": "Saturday, February 28, 2026",
+    "team1": "AVS",
+    "score": "0 - 0",
+    "team2": "Estrela",
+    "title": "AVS VS Estrela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750453/estrela-avs"
+  },
+  {
+    "gameId": "750454",
+    "date": "Saturday, February 28, 2026",
+    "team1": "C.D. Nacional",
+    "score": "1 - 2",
+    "team2": "Braga",
+    "title": "C.D. Nacional VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750454/braga-cd-nacional"
+  },
+  {
+    "gameId": "750456",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Vitória de Guimaraes",
+    "score": "1 - 1",
+    "team2": "Alverca",
+    "title": "Vitória de Guimaraes VS Alverca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750456/alverca-vitoria-de-guimaraes"
   }
 ]
