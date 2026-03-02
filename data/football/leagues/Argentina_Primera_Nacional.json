@@ -349,5 +349,104 @@
     "team2": "Chaco For Ever",
     "title": "San Miguel VS Chaco For Ever",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843660/chaco-for-ever-san-miguel"
+  },
+  {
+    "gameId": "401843651",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Agropecuario",
+    "score": "0 - 2",
+    "team2": "Nueva Chicago",
+    "title": "Agropecuario VS Nueva Chicago",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843651/nueva-chicago-agropecuario"
+  },
+  {
+    "gameId": "401843655",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Colón (Santa Fe)",
+    "score": "1 - 1",
+    "team2": "Ferro Carril Oeste",
+    "title": "Colón (Santa Fe) VS Ferro Carril Oeste",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843655/ferro-carril-oeste-colon-santa-fe"
+  },
+  {
+    "gameId": "401843668",
+    "date": "20260228",
+    "team1": "All Boys",
+    "score": "0 - 0",
+    "team2": "Ciudad de Bolívar",
+    "title": "All Boys VS Ciudad de Bolívar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843668/ciudad-de-bolivar-all-boys"
+  },
+  {
+    "gameId": "401843656",
+    "date": "20260228",
+    "team1": "Deportivo Morón",
+    "score": "2 - 0",
+    "team2": "Central Norte",
+    "title": "Deportivo Morón VS Central Norte",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843656/central-norte-deportivo-moron"
+  },
+  {
+    "gameId": "401843667",
+    "date": "20260228",
+    "team1": "Gimnasia y Esgrima (Jujuy)",
+    "score": "1 - 0",
+    "team2": "Quilmes",
+    "title": "Gimnasia y Esgrima (Jujuy) VS Quilmes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843667/quilmes-gimnasia-y-esgrima-jujuy"
+  },
+  {
+    "gameId": "401843665",
+    "date": "20260228",
+    "team1": "Godoy Cruz Antonio Tomba",
+    "score": "0 - 0",
+    "team2": "Deportivo Madryn",
+    "title": "Godoy Cruz Antonio Tomba VS Deportivo Madryn",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843665/deportivo-madryn-godoy-cruz-antonio-tomba"
+  },
+  {
+    "gameId": "401843664",
+    "date": "20260228",
+    "team1": "Güemes",
+    "score": "2 - 1",
+    "team2": "Chacarita Juniors",
+    "title": "Güemes VS Chacarita Juniors",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843664/chacarita-juniors-guemes"
+  },
+  {
+    "gameId": "401843658",
+    "date": "20260228",
+    "team1": "Midland",
+    "score": "2 - 0",
+    "team2": "Colegiales",
+    "title": "Midland VS Colegiales",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843658/colegiales-midland"
+  },
+  {
+    "gameId": "401843659",
+    "date": "20260228",
+    "team1": "San Telmo",
+    "score": "2 - 3",
+    "team2": "Acassuso",
+    "title": "San Telmo VS Acassuso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843659/acassuso-san-telmo"
+  },
+  {
+    "gameId": "401843661",
+    "date": "20260228",
+    "team1": "San Martín (Tucumán)",
+    "score": "2 - 2",
+    "team2": "Deportivo Maipú",
+    "title": "San Martín (Tucumán) VS Deportivo Maipú",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843661/deportivo-maipu-san-martin-tucuman"
+  },
+  {
+    "gameId": "401843662",
+    "date": "20260228",
+    "team1": "Racing (Córdoba)",
+    "score": "0 - 0",
+    "team2": "Mitre (Santiago del Estero)",
+    "title": "Racing (Córdoba) VS Mitre (Santiago del Estero)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843662/mitre-santiago-del-estero-racing-cordoba"
   }
 ]

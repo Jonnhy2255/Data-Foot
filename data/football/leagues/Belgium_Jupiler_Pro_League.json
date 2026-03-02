@@ -466,5 +466,41 @@
     "team2": "Oud-Heverlee Leuven",
     "title": "Anderlecht VS Oud-Heverlee Leuven",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742742/oud-heverlee-leuven-anderlecht"
+  },
+  {
+    "gameId": "742745",
+    "date": "Sunday, March 1, 2026",
+    "team1": "Racing Genk",
+    "score": "3 - 0",
+    "team2": "KAA Gent",
+    "title": "Racing Genk VS KAA Gent",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742745/kaa-gent-racing-genk"
+  },
+  {
+    "gameId": "742749",
+    "date": "Sunday, March 1, 2026",
+    "team1": "KVC Westerlo",
+    "score": "0 - 0",
+    "team2": "Union St.-Gilloise",
+    "title": "KVC Westerlo VS Union St.-Gilloise",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742749/union-st-gilloise-kvc-westerlo"
+  },
+  {
+    "gameId": "742747",
+    "date": "Sunday, March 1, 2026",
+    "team1": "Royal Charleroi SC",
+    "score": "1 - 2",
+    "team2": "Club Brugge",
+    "title": "Royal Charleroi SC VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742747/club-brugge-royal-charleroi-sc"
+  },
+  {
+    "gameId": "742744",
+    "date": "Sunday, March 1, 2026",
+    "team1": "Cercle Brugge KSV",
+    "score": "0 - 0",
+    "team2": "Dender",
+    "title": "Cercle Brugge KSV VS Dender",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742744/dender-cercle-brugge-ksv"
   }
 ]

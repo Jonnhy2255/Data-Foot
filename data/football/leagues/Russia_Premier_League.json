@@ -43,5 +43,23 @@
     "team2": "Rubin Kazan",
     "title": "Dynamo Makhachkala VS Rubin Kazan",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743644/rubin-kazan-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743643",
+    "date": "Sunday, March 1, 2026",
+    "team1": "Dinamo Moscow",
+    "score": "4 - 0",
+    "team2": "Krylia Sovetov",
+    "title": "Dinamo Moscow VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743643/krylia-sovetov-dinamo-moscow"
+  },
+  {
+    "gameId": "743642",
+    "date": "Sunday, March 1, 2026",
+    "team1": "Akhmat Grozny",
+    "score": "1 - 0",
+    "team2": "CSKA Moscow",
+    "title": "Akhmat Grozny VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743642/cska-moscow-akhmat-grozny"
   }
 ]

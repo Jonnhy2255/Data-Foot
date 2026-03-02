@@ -709,5 +709,41 @@
     "team2": "América de Cali",
     "title": "Alianza FC VS América de Cali",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850791/america-de-cali-alianza-fc"
+  },
+  {
+    "gameId": "401850789",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Jaguares de Córdoba",
+    "score": "0 - 2",
+    "team2": "Atlético Junior",
+    "title": "Jaguares de Córdoba VS Atlético Junior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850789/atletico-junior-jaguares-de-cordoba"
+  },
+  {
+    "gameId": "401850793",
+    "date": "Saturday, February 28, 2026",
+    "team1": "Independiente Medellín",
+    "score": "1 - 2",
+    "team2": "Bucaramanga",
+    "title": "Independiente Medellín VS Bucaramanga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850793/bucaramanga-independiente-medellin"
+  },
+  {
+    "gameId": "401850794",
+    "date": "20260228",
+    "team1": "Deportivo Pasto",
+    "score": "3 - 2",
+    "team2": "Cúcuta Deportivo",
+    "title": "Deportivo Pasto VS Cúcuta Deportivo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850794/cucuta-deportivo-deportivo-pasto"
+  },
+  {
+    "gameId": "401850795",
+    "date": "20260228",
+    "team1": "Águilas Doradas",
+    "score": "0 - 0",
+    "team2": "Internacional de Bogotá",
+    "title": "Águilas Doradas VS Internacional de Bogotá",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850795/internacional-de-bogota-aguilas-doradas"
   }
 ]
