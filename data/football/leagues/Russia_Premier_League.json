@@ -61,5 +61,14 @@
     "team2": "CSKA Moscow",
     "title": "Akhmat Grozny VS CSKA Moscow",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743642/cska-moscow-akhmat-grozny"
+  },
+  {
+    "gameId": "743647",
+    "date": "Monday, March 2, 2026",
+    "team1": "Sochi",
+    "score": "2 - 3",
+    "team2": "Spartak Moscow",
+    "title": "Sochi VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743647/spartak-moscow-sochi"
   }
 ]

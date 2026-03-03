@@ -349,5 +349,14 @@
     "team2": "Universidad de Chile",
     "title": "Colo Colo VS Universidad de Chile",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850480/universidad-de-chile-colo-colo"
+  },
+  {
+    "gameId": "401850492",
+    "date": "Sunday, March 1, 2026",
+    "team1": "Ñublense",
+    "score": "1 - 2",
+    "team2": "Universidad Católica",
+    "title": "Ñublense VS Universidad Católica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850492/universidad-catolica-nublense"
   }
 ]

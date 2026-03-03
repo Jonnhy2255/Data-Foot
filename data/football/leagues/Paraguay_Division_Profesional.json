@@ -394,5 +394,14 @@
     "team2": "Guarani",
     "title": "Nacional VS Guarani",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848203/guarani-nacional"
+  },
+  {
+    "gameId": "401848204",
+    "date": "Sunday, March 1, 2026",
+    "team1": "Cerro Porteño",
+    "score": "2 - 0",
+    "team2": "Deportivo Recoleta",
+    "title": "Cerro Porteño VS Deportivo Recoleta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848204/deportivo-recoleta-cerro-porteno"
   }
 ]

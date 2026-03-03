@@ -781,5 +781,14 @@
     "team2": "Celta Vigo",
     "title": "Girona VS Celta Vigo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748400/celta-vigo-girona"
+  },
+  {
+    "gameId": "748395",
+    "date": "Monday, March 2, 2026",
+    "team1": "Real Madrid",
+    "score": "0 - 1",
+    "team2": "Getafe",
+    "title": "Real Madrid VS Getafe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748395/getafe-real-madrid"
   }
 ]
