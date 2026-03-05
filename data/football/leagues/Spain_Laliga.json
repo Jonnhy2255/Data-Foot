@@ -790,5 +790,14 @@
     "team2": "Getafe",
     "title": "Real Madrid VS Getafe",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748395/getafe-real-madrid"
+  },
+  {
+    "gameId": "748372",
+    "date": "Wednesday, March 4, 2026",
+    "team1": "Rayo Vallecano",
+    "score": "3 - 0",
+    "team2": "Real Oviedo",
+    "title": "Rayo Vallecano VS Real Oviedo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748372/real-oviedo-rayo-vallecano"
   }
 ]

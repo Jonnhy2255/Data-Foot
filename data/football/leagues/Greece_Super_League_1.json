@@ -493,5 +493,23 @@
     "team2": "Aris",
     "title": "Panathinaikos VS Aris",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752429/aris-panathinaikos"
+  },
+  {
+    "gameId": "752279",
+    "date": "Wednesday, March 4, 2026",
+    "team1": "Panathinaikos",
+    "score": "4 - 1",
+    "team2": "OFI Crete",
+    "title": "Panathinaikos VS OFI Crete",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752279/ofi-crete-panathinaikos"
+  },
+  {
+    "gameId": "752396",
+    "date": "Wednesday, March 4, 2026",
+    "team1": "Kifisia",
+    "score": "1 - 4",
+    "team2": "PAOK Salonika",
+    "title": "Kifisia VS PAOK Salonika",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752396/paok-salonika-kifisia"
   }
 ]

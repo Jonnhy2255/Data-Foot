@@ -637,5 +637,41 @@
     "team2": "Tigres UANL",
     "title": "América VS Tigres UANL",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840886/tigres-uanl-america"
+  },
+  {
+    "gameId": "401840887",
+    "date": "Tuesday, March 3, 2026",
+    "team1": "Pachuca",
+    "score": "2 - 1",
+    "team2": "Necaxa",
+    "title": "Pachuca VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840887/necaxa-pachuca"
+  },
+  {
+    "gameId": "401840888",
+    "date": "Tuesday, March 3, 2026",
+    "team1": "Santos",
+    "score": "1 - 2",
+    "team2": "Cruz Azul",
+    "title": "Santos VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840888/cruz-azul-santos"
+  },
+  {
+    "gameId": "401840890",
+    "date": "Tuesday, March 3, 2026",
+    "team1": "Atlético de San Luis",
+    "score": "4 - 1",
+    "team2": "Mazatlán FC",
+    "title": "Atlético de San Luis VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840890/mazatlan-fc-atletico-de-san-luis"
+  },
+  {
+    "gameId": "401840889",
+    "date": "Tuesday, March 3, 2026",
+    "team1": "Pumas UNAM",
+    "score": "2 - 3",
+    "team2": "Toluca",
+    "title": "Pumas UNAM VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840889/toluca-pumas-unam"
   }
 ]
