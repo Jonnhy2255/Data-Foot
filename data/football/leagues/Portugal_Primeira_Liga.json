@@ -709,5 +709,14 @@
     "team2": "Benfica",
     "title": "Gil Vicente VS Benfica",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750461/benfica-gil-vicente"
+  },
+  {
+    "gameId": "750466",
+    "date": "Friday, March 6, 2026",
+    "team1": "FC Famalicao",
+    "score": "1 - 0",
+    "team2": "Arouca",
+    "title": "FC Famalicao VS Arouca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750466/arouca-fc-famalicao"
   }
 ]

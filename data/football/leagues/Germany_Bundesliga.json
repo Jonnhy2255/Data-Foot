@@ -727,5 +727,14 @@
     "team2": "Bayer Leverkusen",
     "title": "Hamburg SV VS Bayer Leverkusen",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746866/bayer-leverkusen-hamburg-sv"
+  },
+  {
+    "gameId": "746935",
+    "date": "Friday, March 6, 2026",
+    "team1": "Bayern Munich",
+    "score": "4 - 1",
+    "team2": "Borussia Mönchengladbach",
+    "title": "Bayern Munich VS Borussia Mönchengladbach",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746935/borussia-monchengladbach-bayern-munich"
   }
 ]

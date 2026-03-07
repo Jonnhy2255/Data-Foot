@@ -403,5 +403,14 @@
     "team2": "FC Cajamarca",
     "title": "Universitario VS FC Cajamarca",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857410/fc-cajamarca-universitario"
+  },
+  {
+    "gameId": "401857416",
+    "date": "Friday, March 6, 2026",
+    "team1": "Atlético Grau",
+    "score": "1 - 0",
+    "team2": "FC Cajamarca",
+    "title": "Atlético Grau VS FC Cajamarca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857416/fc-cajamarca-atletico-grau"
   }
 ]

@@ -358,5 +358,14 @@
     "team2": "Universidad Católica",
     "title": "Ñublense VS Universidad Católica",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850492/universidad-catolica-nublense"
+  },
+  {
+    "gameId": "401850510",
+    "date": "20260305",
+    "team1": "La Serena",
+    "score": "3 - 0",
+    "team2": "Unión La Calera",
+    "title": "La Serena VS Unión La Calera",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850510/union-la-calera-la-serena"
   }
 ]

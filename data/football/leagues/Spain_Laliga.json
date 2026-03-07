@@ -799,5 +799,14 @@
     "team2": "Real Oviedo",
     "title": "Rayo Vallecano VS Real Oviedo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748372/real-oviedo-rayo-vallecano"
+  },
+  {
+    "gameId": "748411",
+    "date": "Friday, March 6, 2026",
+    "team1": "Celta Vigo",
+    "score": "1 - 2",
+    "team2": "Real Madrid",
+    "title": "Celta Vigo VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748411/real-madrid-celta-vigo"
   }
 ]

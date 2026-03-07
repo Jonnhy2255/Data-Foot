@@ -502,5 +502,14 @@
     "team2": "Dender",
     "title": "Cercle Brugge KSV VS Dender",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742744/dender-cercle-brugge-ksv"
+  },
+  {
+    "gameId": "742754",
+    "date": "Friday, March 6, 2026",
+    "team1": "RAAL La Louvière",
+    "score": "0 - 0",
+    "team2": "Antwerp",
+    "title": "RAAL La Louvière VS Antwerp",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742754/antwerp-raal-la-louviere"
   }
 ]

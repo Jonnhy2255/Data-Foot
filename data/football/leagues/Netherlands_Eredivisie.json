@@ -655,5 +655,14 @@
     "team2": "Go Ahead Eagles",
     "title": "Excelsior VS Go Ahead Eagles",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741192/go-ahead-eagles-excelsior"
+  },
+  {
+    "gameId": "741209",
+    "date": "Friday, March 6, 2026",
+    "team1": "Heracles Almelo",
+    "score": "0 - 0",
+    "team2": "FC Utrecht",
+    "title": "Heracles Almelo VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741209/fc-utrecht-heracles-almelo"
   }
 ]
