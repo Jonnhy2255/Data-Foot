@@ -70,5 +70,23 @@
     "team2": "Spartak Moscow",
     "title": "Sochi VS Spartak Moscow",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743647/spartak-moscow-sochi"
+  },
+  {
+    "gameId": "743654",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Rostov",
+    "score": "1 - 1",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "Rostov VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743654/fc-baltika-kaliningrad-rostov"
+  },
+  {
+    "gameId": "743653",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Nizhny Novgorod",
+    "score": "2 - 1",
+    "team2": "Sochi",
+    "title": "Nizhny Novgorod VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743653/sochi-nizhny-novgorod"
   }
 ]

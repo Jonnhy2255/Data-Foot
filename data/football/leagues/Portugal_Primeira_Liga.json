@@ -718,5 +718,41 @@
     "team2": "Arouca",
     "title": "FC Famalicao VS Arouca",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750466/arouca-fc-famalicao"
+  },
+  {
+    "gameId": "750462",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Alverca",
+    "score": "0 - 0",
+    "team2": "AVS",
+    "title": "Alverca VS AVS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750462/avs-alverca"
+  },
+  {
+    "gameId": "750467",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Moreirense",
+    "score": "1 - 1",
+    "team2": "C.D. Nacional",
+    "title": "Moreirense VS C.D. Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750467/cd-nacional-moreirense"
+  },
+  {
+    "gameId": "750469",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Braga",
+    "score": "2 - 2",
+    "team2": "Sporting CP",
+    "title": "Braga VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750469/sporting-cp-braga"
+  },
+  {
+    "gameId": "750464",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Estoril",
+    "score": "0 - 0",
+    "team2": "Casa Pia",
+    "title": "Estoril VS Casa Pia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750464/casa-pia-estoril"
   }
 ]

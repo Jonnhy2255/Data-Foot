@@ -367,5 +367,41 @@
     "team2": "Unión La Calera",
     "title": "La Serena VS Unión La Calera",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850510/union-la-calera-la-serena"
+  },
+  {
+    "gameId": "401850496",
+    "date": "Friday, March 6, 2026",
+    "team1": "Deportes Concepcion",
+    "score": "0 - 2",
+    "team2": "Ñublense",
+    "title": "Deportes Concepcion VS Ñublense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850496/nublense-deportes-concepcion"
+  },
+  {
+    "gameId": "401850495",
+    "date": "20260306",
+    "team1": "Everton CD",
+    "score": "1 - 0",
+    "team2": "Deportes Limache",
+    "title": "Everton CD VS Deportes Limache",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850495/deportes-limache-everton-cd"
+  },
+  {
+    "gameId": "401850501",
+    "date": "20260306",
+    "team1": "Huachipato",
+    "score": "1 - 3",
+    "team2": "Coquimbo Unido",
+    "title": "Huachipato VS Coquimbo Unido",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850501/coquimbo-unido-huachipato"
+  },
+  {
+    "gameId": "401850499",
+    "date": "20260306",
+    "team1": "Audax Italiano",
+    "score": "0 - 1",
+    "team2": "Colo Colo",
+    "title": "Audax Italiano VS Colo Colo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850499/colo-colo-audax-italiano"
   }
 ]

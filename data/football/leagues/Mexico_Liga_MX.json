@@ -709,5 +709,41 @@
     "team2": "Tijuana",
     "title": "Atlas VS Tijuana",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840893/tijuana-atlas"
+  },
+  {
+    "gameId": "401840895",
+    "date": "Friday, March 6, 2026",
+    "team1": "Mazatlán FC",
+    "score": "4 - 2",
+    "team2": "León",
+    "title": "Mazatlán FC VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840895/leon-mazatlan-fc"
+  },
+  {
+    "gameId": "401840896",
+    "date": "Friday, March 6, 2026",
+    "team1": "Necaxa",
+    "score": "0 - 1",
+    "team2": "Pumas UNAM",
+    "title": "Necaxa VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840896/pumas-unam-necaxa"
+  },
+  {
+    "gameId": "401840897",
+    "date": "20260306",
+    "team1": "Cruz Azul",
+    "score": "3 - 0",
+    "team2": "Atlético de San Luis",
+    "title": "Cruz Azul VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840897/atletico-de-san-luis-cruz-azul"
+  },
+  {
+    "gameId": "401840901",
+    "date": "20260306",
+    "team1": "Querétaro",
+    "score": "1 - 2",
+    "team2": "América",
+    "title": "Querétaro VS América",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840901/america-queretaro"
   }
 ]

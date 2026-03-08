@@ -412,5 +412,32 @@
     "team2": "FC Cajamarca",
     "title": "Atlético Grau VS FC Cajamarca",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857416/fc-cajamarca-atletico-grau"
+  },
+  {
+    "gameId": "401857421",
+    "date": "20260306",
+    "team1": "Deportivo Moquegua",
+    "score": "2 - 1",
+    "team2": "Sport Huancayo",
+    "title": "Deportivo Moquegua VS Sport Huancayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857421/sport-huancayo-deportivo-moquegua"
+  },
+  {
+    "gameId": "401857423",
+    "date": "20260306",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 2",
+    "team2": "UTC",
+    "title": "Comerciantes Unidos VS UTC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857423/utc-comerciantes-unidos"
+  },
+  {
+    "gameId": "401857419",
+    "date": "20260306",
+    "team1": "Sporting Cristal",
+    "score": "3 - 1",
+    "team2": "Alianza Atlético",
+    "title": "Sporting Cristal VS Alianza Atlético",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857419/alianza-atletico-sporting-cristal"
   }
 ]

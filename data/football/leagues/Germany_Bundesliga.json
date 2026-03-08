@@ -736,5 +736,59 @@
     "team2": "Borussia Mönchengladbach",
     "title": "Bayern Munich VS Borussia Mönchengladbach",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746935/borussia-monchengladbach-bayern-munich"
+  },
+  {
+    "gameId": "746939",
+    "date": "Saturday, March 7, 2026",
+    "team1": "1. FC Heidenheim 1846",
+    "score": "2 - 4",
+    "team2": "TSG Hoffenheim",
+    "title": "1. FC Heidenheim 1846 VS TSG Hoffenheim",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746939/tsg-hoffenheim-1-fc-heidenheim-1846"
+  },
+  {
+    "gameId": "746936",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Mainz",
+    "score": "2 - 2",
+    "team2": "VfB Stuttgart",
+    "title": "Mainz VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746936/vfb-stuttgart-mainz"
+  },
+  {
+    "gameId": "746942",
+    "date": "Saturday, March 7, 2026",
+    "team1": "RB Leipzig",
+    "score": "2 - 1",
+    "team2": "FC Augsburg",
+    "title": "RB Leipzig VS FC Augsburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746942/fc-augsburg-rb-leipzig"
+  },
+  {
+    "gameId": "746934",
+    "date": "Saturday, March 7, 2026",
+    "team1": "SC Freiburg",
+    "score": "3 - 3",
+    "team2": "Bayer Leverkusen",
+    "title": "SC Freiburg VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746934/bayer-leverkusen-sc-freiburg"
+  },
+  {
+    "gameId": "746940",
+    "date": "Saturday, March 7, 2026",
+    "team1": "VfL Wolfsburg",
+    "score": "1 - 2",
+    "team2": "Hamburg SV",
+    "title": "VfL Wolfsburg VS Hamburg SV",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746940/hamburg-sv-vfl-wolfsburg"
+  },
+  {
+    "gameId": "746938",
+    "date": "Saturday, March 7, 2026",
+    "team1": "FC Cologne",
+    "score": "1 - 2",
+    "team2": "Borussia Dortmund",
+    "title": "FC Cologne VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746938/borussia-dortmund-fc-cologne"
   }
 ]

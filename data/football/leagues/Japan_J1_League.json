@@ -358,5 +358,59 @@
     "team2": "Mito Hollyhock",
     "title": "Kawasaki Frontale VS Mito Hollyhock",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859415/mito-hollyhock-kawasaki-frontale"
+  },
+  {
+    "gameId": "401859416",
+    "date": "Friday, March 6, 2026",
+    "team1": "JEF United Ichihara-Chiba",
+    "score": "2 - 1",
+    "team2": "Kashiwa Reysol",
+    "title": "JEF United Ichihara-Chiba VS Kashiwa Reysol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859416/kashiwa-reysol-jef-united-ichihara-chiba"
+  },
+  {
+    "gameId": "401859295",
+    "date": "20260306",
+    "team1": "FC Tokyo",
+    "score": "3 - 0",
+    "team2": "Yokohama F. Marinos",
+    "title": "FC Tokyo VS Yokohama F. Marinos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859295/yokohama-f-marinos-fc-tokyo"
+  },
+  {
+    "gameId": "401859297",
+    "date": "20260306",
+    "team1": "Cerezo Osaka",
+    "score": "0 - 0",
+    "team2": "Shimizu S-Pulse",
+    "title": "Cerezo Osaka VS Shimizu S-Pulse",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859297/shimizu-s-pulse-cerezo-osaka"
+  },
+  {
+    "gameId": "401859417",
+    "date": "20260306",
+    "team1": "Urawa Red Diamonds",
+    "score": "2 - 0",
+    "team2": "Mito Hollyhock",
+    "title": "Urawa Red Diamonds VS Mito Hollyhock",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859417/mito-hollyhock-urawa-red-diamonds"
+  },
+  {
+    "gameId": "401859298",
+    "date": "20260306",
+    "team1": "Avispa Fukuoka",
+    "score": "1 - 5",
+    "team2": "Nagoya Grampus",
+    "title": "Avispa Fukuoka VS Nagoya Grampus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859298/nagoya-grampus-avispa-fukuoka"
+  },
+  {
+    "gameId": "401859299",
+    "date": "20260306",
+    "team1": "Kashima Antlers",
+    "score": "2 - 0",
+    "team2": "Tokyo Verdy 1969",
+    "title": "Kashima Antlers VS Tokyo Verdy 1969",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859299/tokyo-verdy-1969-kashima-antlers"
   }
 ]
