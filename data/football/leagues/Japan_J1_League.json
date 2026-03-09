@@ -412,5 +412,23 @@
     "team2": "Tokyo Verdy 1969",
     "title": "Kashima Antlers VS Tokyo Verdy 1969",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859299/tokyo-verdy-1969-kashima-antlers"
+  },
+  {
+    "gameId": "401859300",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Fagiano Okayama",
+    "score": "1 - 0",
+    "team2": "Kyoto Sanga",
+    "title": "Fagiano Okayama VS Kyoto Sanga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859300/kyoto-sanga-fagiano-okayama"
+  },
+  {
+    "gameId": "401859301",
+    "date": "Sunday, March 8, 2026",
+    "team1": "Gamba Osaka",
+    "score": "3 - 2",
+    "team2": "V-Varen Nagasaki",
+    "title": "Gamba Osaka VS V-Varen Nagasaki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859301/v-varen-nagasaki-gamba-osaka"
   }
 ]

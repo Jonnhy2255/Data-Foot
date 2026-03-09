@@ -538,5 +538,41 @@
     "team2": "Racing Genk",
     "title": "Union St.-Gilloise VS Racing Genk",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742756/racing-genk-union-st-gilloise"
+  },
+  {
+    "gameId": "742750",
+    "date": "Sunday, March 8, 2026",
+    "team1": "Club Brugge",
+    "score": "2 - 2",
+    "team2": "Anderlecht",
+    "title": "Club Brugge VS Anderlecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742750/anderlecht-club-brugge"
+  },
+  {
+    "gameId": "742752",
+    "date": "Sunday, March 8, 2026",
+    "team1": "KAA Gent",
+    "score": "3 - 1",
+    "team2": "KV Mechelen",
+    "title": "KAA Gent VS KV Mechelen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742752/kv-mechelen-kaa-gent"
+  },
+  {
+    "gameId": "742757",
+    "date": "Sunday, March 8, 2026",
+    "team1": "Zulte-Waregem",
+    "score": "0 - 1",
+    "team2": "Standard Liege",
+    "title": "Zulte-Waregem VS Standard Liege",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742757/standard-liege-zulte-waregem"
+  },
+  {
+    "gameId": "742755",
+    "date": "Sunday, March 8, 2026",
+    "team1": "Sint-Truidense",
+    "score": "2 - 1",
+    "team2": "Cercle Brugge KSV",
+    "title": "Sint-Truidense VS Cercle Brugge KSV",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742755/cercle-brugge-ksv-sint-truidense"
   }
 ]

@@ -439,5 +439,32 @@
     "team2": "Alianza Atlético",
     "title": "Sporting Cristal VS Alianza Atlético",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857419/alianza-atletico-sporting-cristal"
+  },
+  {
+    "gameId": "401857420",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Cusco FC",
+    "score": "1 - 0",
+    "team2": "Deportivo Garcilaso",
+    "title": "Cusco FC VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857420/deportivo-garcilaso-cusco-fc"
+  },
+  {
+    "gameId": "401857418",
+    "date": "Sunday, March 8, 2026",
+    "team1": "ADT",
+    "score": "2 - 3",
+    "team2": "Juan Pablo II",
+    "title": "ADT VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857418/juan-pablo-ii-adt"
+  },
+  {
+    "gameId": "401857422",
+    "date": "Sunday, March 8, 2026",
+    "team1": "Los Chankas",
+    "score": "3 - 1",
+    "team2": "Universitario",
+    "title": "Los Chankas VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857422/universitario-los-chankas"
   }
 ]

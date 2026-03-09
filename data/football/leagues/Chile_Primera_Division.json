@@ -403,5 +403,14 @@
     "team2": "Colo Colo",
     "title": "Audax Italiano VS Colo Colo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850499/colo-colo-audax-italiano"
+  },
+  {
+    "gameId": "401850508",
+    "date": "Saturday, March 7, 2026",
+    "team1": "O'Higgins",
+    "score": "1 - 0",
+    "team2": "Universidad Católica",
+    "title": "O'Higgins VS Universidad Católica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850508/universidad-catolica-ohiggins"
   }
 ]

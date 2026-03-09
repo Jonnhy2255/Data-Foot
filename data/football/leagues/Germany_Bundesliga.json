@@ -790,5 +790,23 @@
     "team2": "Borussia Dortmund",
     "title": "FC Cologne VS Borussia Dortmund",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746938/borussia-dortmund-fc-cologne"
+  },
+  {
+    "gameId": "746941",
+    "date": "Sunday, March 8, 2026",
+    "team1": "St. Pauli",
+    "score": "0 - 0",
+    "team2": "Eintracht Frankfurt",
+    "title": "St. Pauli VS Eintracht Frankfurt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746941/eintracht-frankfurt-st-pauli"
+  },
+  {
+    "gameId": "746937",
+    "date": "Sunday, March 8, 2026",
+    "team1": "1. FC Union Berlin",
+    "score": "1 - 4",
+    "team2": "Werder Bremen",
+    "title": "1. FC Union Berlin VS Werder Bremen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746937/werder-bremen-1-fc-union-berlin"
   }
 ]

@@ -286,5 +286,104 @@
     "team2": "Inter Miami CF",
     "title": "D.C. United VS Inter Miami CF",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761471/inter-miami-cf-dc-united"
+  },
+  {
+    "gameId": "761474",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Atlanta United FC",
+    "score": "2 - 3",
+    "team2": "Real Salt Lake",
+    "title": "Atlanta United FC VS Real Salt Lake",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761474/real-salt-lake-atlanta-united-fc"
+  },
+  {
+    "gameId": "761475",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Charlotte FC",
+    "score": "3 - 1",
+    "team2": "Austin FC",
+    "title": "Charlotte FC VS Austin FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761475/austin-fc-charlotte-fc"
+  },
+  {
+    "gameId": "761472",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Columbus Crew",
+    "score": "0 - 0",
+    "team2": "Chicago Fire FC",
+    "title": "Columbus Crew VS Chicago Fire FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761472/chicago-fire-fc-columbus-crew"
+  },
+  {
+    "gameId": "761473",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Philadelphia Union",
+    "score": "0 - 1",
+    "team2": "San Jose Earthquakes",
+    "title": "Philadelphia Union VS San Jose Earthquakes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761473/san-jose-earthquakes-philadelphia-union"
+  },
+  {
+    "gameId": "761478",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Nashville SC",
+    "score": "3 - 1",
+    "team2": "Minnesota United FC",
+    "title": "Nashville SC VS Minnesota United FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761478/minnesota-united-fc-nashville-sc"
+  },
+  {
+    "gameId": "761476",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Sporting Kansas City",
+    "score": "0 - 1",
+    "team2": "San Diego FC",
+    "title": "Sporting Kansas City VS San Diego FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761476/san-diego-fc-sporting-kansas-city"
+  },
+  {
+    "gameId": "761477",
+    "date": "Saturday, March 7, 2026",
+    "team1": "St. Louis CITY SC",
+    "score": "0 - 1",
+    "team2": "Seattle Sounders FC",
+    "title": "St. Louis CITY SC VS Seattle Sounders FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761477/seattle-sounders-fc-st-louis-city-sc"
+  },
+  {
+    "gameId": "761479",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Colorado Rapids",
+    "score": "4 - 1",
+    "team2": "LA Galaxy",
+    "title": "Colorado Rapids VS LA Galaxy",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761479/la-galaxy-colorado-rapids"
+  },
+  {
+    "gameId": "761480",
+    "date": "Saturday, March 7, 2026",
+    "team1": "LAFC",
+    "score": "1 - 0",
+    "team2": "FC Dallas",
+    "title": "LAFC VS FC Dallas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761480/fc-dallas-lafc"
+  },
+  {
+    "gameId": "761481",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Portland Timbers",
+    "score": "1 - 4",
+    "team2": "Vancouver Whitecaps",
+    "title": "Portland Timbers VS Vancouver Whitecaps",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761481/vancouver-whitecaps-portland-timbers"
+  },
+  {
+    "gameId": "761482",
+    "date": "20260307",
+    "team1": "Red Bull New York",
+    "score": "0 - 3",
+    "team2": "CF Montréal",
+    "title": "Red Bull New York VS CF Montréal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761482/cf-montreal-red-bull-new-york"
   }
 ]

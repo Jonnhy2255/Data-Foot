@@ -340,5 +340,32 @@
     "team2": "Deportivo Táchira",
     "title": "Caracas FC VS Deportivo Táchira",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850433/deportivo-tachira-caracas-fc"
+  },
+  {
+    "gameId": "401850431",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Academia Anzoátegui",
+    "score": "0 - 1",
+    "team2": "Academia Puerto Cabello",
+    "title": "Academia Anzoátegui VS Academia Puerto Cabello",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850431/academia-puerto-cabello-academia-anzoategui"
+  },
+  {
+    "gameId": "401850436",
+    "date": "20260307",
+    "team1": "Deportivo Rayo Zuliano",
+    "score": "1 - 5",
+    "team2": "Universidad Central",
+    "title": "Deportivo Rayo Zuliano VS Universidad Central",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850436/universidad-central-deportivo-rayo-zuliano"
+  },
+  {
+    "gameId": "401850440",
+    "date": "20260307",
+    "team1": "Metropolitanos FC",
+    "score": "3 - 2",
+    "team2": "Portuguesa",
+    "title": "Metropolitanos FC VS Portuguesa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850440/portuguesa-metropolitanos-fc"
   }
 ]

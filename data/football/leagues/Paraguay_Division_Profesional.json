@@ -430,5 +430,23 @@
     "team2": "Cerro Porteño",
     "title": "Guarani VS Cerro Porteño",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848211/cerro-porteno-guarani"
+  },
+  {
+    "gameId": "401848210",
+    "date": "Saturday, March 7, 2026",
+    "team1": "Libertad",
+    "score": "1 - 0",
+    "team2": "Sportivo Luqueño",
+    "title": "Libertad VS Sportivo Luqueño",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848210/sportivo-luqueno-libertad"
+  },
+  {
+    "gameId": "401848209",
+    "date": "20260307",
+    "team1": "Club Olimpia",
+    "score": "1 - 1",
+    "team2": "Sportivo San Lorenzo",
+    "title": "Club Olimpia VS Sportivo San Lorenzo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848209/sportivo-san-lorenzo-club-olimpia"
   }
 ]
