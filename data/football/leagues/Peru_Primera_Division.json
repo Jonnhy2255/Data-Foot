@@ -466,5 +466,14 @@
     "team2": "Universitario",
     "title": "Los Chankas VS Universitario",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857422/universitario-los-chankas"
+  },
+  {
+    "gameId": "401857415",
+    "date": "20260308",
+    "team1": "Cienciano del Cusco",
+    "score": "3 - 1",
+    "team2": "Sport Boys",
+    "title": "Cienciano del Cusco VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857415/sport-boys-cienciano-del-cusco"
   }
 ]

@@ -367,5 +367,14 @@
     "team2": "Portuguesa",
     "title": "Metropolitanos FC VS Portuguesa",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850440/portuguesa-metropolitanos-fc"
+  },
+  {
+    "gameId": "401850438",
+    "date": "Sunday, March 8, 2026",
+    "team1": "Monagas SC",
+    "score": "3 - 1",
+    "team2": "Trujillanos",
+    "title": "Monagas SC VS Trujillanos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850438/trujillanos-monagas-sc"
   }
 ]

@@ -1060,5 +1060,14 @@
     "team2": "Internazionale",
     "title": "AC Milan VS Internazionale",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737054/internazionale-ac-milan"
+  },
+  {
+    "gameId": "737056",
+    "date": "Monday, March 9, 2026",
+    "team1": "Lazio",
+    "score": "2 - 1",
+    "team2": "Sassuolo",
+    "title": "Lazio VS Sassuolo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737056/sassuolo-lazio"
   }
 ]

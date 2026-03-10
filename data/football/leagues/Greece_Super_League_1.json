@@ -565,5 +565,14 @@
     "team2": "PAOK Salonika",
     "title": "Olympiacos VS PAOK Salonika",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752439/paok-salonika-olympiacos"
+  },
+  {
+    "gameId": "752438",
+    "date": "Monday, March 9, 2026",
+    "team1": "Panetolikos",
+    "score": "2 - 1",
+    "team2": "Kifisia",
+    "title": "Panetolikos VS Kifisia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752438/kifisia-panetolikos"
   }
 ]

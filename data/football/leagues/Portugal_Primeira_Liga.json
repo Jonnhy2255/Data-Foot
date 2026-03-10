@@ -781,5 +781,14 @@
     "team2": "Vitória de Guimaraes",
     "title": "Santa Clara VS Vitória de Guimaraes",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750468/vitoria-de-guimaraes-santa-clara"
+  },
+  {
+    "gameId": "750470",
+    "date": "Monday, March 9, 2026",
+    "team1": "Tondela",
+    "score": "0 - 1",
+    "team2": "Rio Ave",
+    "title": "Tondela VS Rio Ave",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750470/rio-ave-tondela"
   }
 ]

@@ -412,5 +412,14 @@
     "team2": "Universidad Católica",
     "title": "O'Higgins VS Universidad Católica",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850508/universidad-catolica-ohiggins"
+  },
+  {
+    "gameId": "401850505",
+    "date": "Sunday, March 8, 2026",
+    "team1": "Palestino",
+    "score": "4 - 2",
+    "team2": "Cobresal",
+    "title": "Palestino VS Cobresal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850505/cobresal-palestino"
   }
 ]
