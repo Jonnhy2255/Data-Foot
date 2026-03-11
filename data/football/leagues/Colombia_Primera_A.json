@@ -817,5 +817,23 @@
     "team2": "Jaguares de Córdoba",
     "title": "Llaneros VS Jaguares de Córdoba",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850860/jaguares-de-cordoba-llaneros"
+  },
+  {
+    "gameId": "401850806",
+    "date": "Monday, March 9, 2026",
+    "team1": "Millonarios",
+    "score": "2 - 0",
+    "team2": "Cúcuta Deportivo",
+    "title": "Millonarios VS Cúcuta Deportivo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850806/cucuta-deportivo-millonarios"
+  },
+  {
+    "gameId": "401850801",
+    "date": "Monday, March 9, 2026",
+    "team1": "Deportivo Pasto",
+    "score": "2 - 0",
+    "team2": "América de Cali",
+    "title": "Deportivo Pasto VS América de Cali",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850801/america-de-cali-deportivo-pasto"
   }
 ]
