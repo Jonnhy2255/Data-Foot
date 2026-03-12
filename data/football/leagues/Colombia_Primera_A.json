@@ -835,5 +835,23 @@
     "team2": "América de Cali",
     "title": "Deportivo Pasto VS América de Cali",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850801/america-de-cali-deportivo-pasto"
+  },
+  {
+    "gameId": "401850798",
+    "date": "Tuesday, March 10, 2026",
+    "team1": "Bucaramanga",
+    "score": "3 - 0",
+    "team2": "Deportivo Pereira",
+    "title": "Bucaramanga VS Deportivo Pereira",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850798/deportivo-pereira-bucaramanga"
+  },
+  {
+    "gameId": "401850737",
+    "date": "Tuesday, March 10, 2026",
+    "team1": "Atlético Junior",
+    "score": "0 - 4",
+    "team2": "Atlético Nacional",
+    "title": "Atlético Junior VS Atlético Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850737/atletico-nacional-atletico-junior"
   }
 ]
