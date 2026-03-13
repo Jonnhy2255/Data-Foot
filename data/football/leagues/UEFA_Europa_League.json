@@ -466,5 +466,77 @@
     "team2": "Dinamo Zagreb",
     "title": "Racing Genk VS Dinamo Zagreb",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401858781/dinamo-zagreb-racing-genk"
+  },
+  {
+    "gameId": "401862871",
+    "date": "Thursday, March 12, 2026",
+    "team1": "Bologna",
+    "score": "1 - 1",
+    "team2": "AS Roma",
+    "title": "Bologna VS AS Roma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862871/as-roma-bologna"
+  },
+  {
+    "gameId": "401862754",
+    "date": "Thursday, March 12, 2026",
+    "team1": "Lille",
+    "score": "0 - 1",
+    "team2": "Aston Villa",
+    "title": "Lille VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862754/aston-villa-lille"
+  },
+  {
+    "gameId": "401862753",
+    "date": "Thursday, March 12, 2026",
+    "team1": "Panathinaikos",
+    "score": "1 - 0",
+    "team2": "Real Betis",
+    "title": "Panathinaikos VS Real Betis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862753/real-betis-panathinaikos"
+  },
+  {
+    "gameId": "401862752",
+    "date": "Thursday, March 12, 2026",
+    "team1": "VfB Stuttgart",
+    "score": "1 - 2",
+    "team2": "FC Porto",
+    "title": "VfB Stuttgart VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862752/fc-porto-vfb-stuttgart"
+  },
+  {
+    "gameId": "401862872",
+    "date": "Thursday, March 12, 2026",
+    "team1": "Celta Vigo",
+    "score": "1 - 1",
+    "team2": "Lyon",
+    "title": "Celta Vigo VS Lyon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862872/lyon-celta-vigo"
+  },
+  {
+    "gameId": "401862755",
+    "date": "Thursday, March 12, 2026",
+    "team1": "Ferencvaros",
+    "score": "2 - 0",
+    "team2": "Braga",
+    "title": "Ferencvaros VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862755/braga-ferencvaros"
+  },
+  {
+    "gameId": "401862770",
+    "date": "Thursday, March 12, 2026",
+    "team1": "Nottingham Forest",
+    "score": "0 - 1",
+    "team2": "FC Midtjylland",
+    "title": "Nottingham Forest VS FC Midtjylland",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862770/fc-midtjylland-nottingham-forest"
+  },
+  {
+    "gameId": "401862769",
+    "date": "Thursday, March 12, 2026",
+    "team1": "Racing Genk",
+    "score": "1 - 0",
+    "team2": "SC Freiburg",
+    "title": "Racing Genk VS SC Freiburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862769/sc-freiburg-racing-genk"
   }
 ]

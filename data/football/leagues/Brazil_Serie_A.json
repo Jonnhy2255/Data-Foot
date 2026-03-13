@@ -349,5 +349,50 @@
     "team2": "Internacional",
     "title": "Atlético-MG VS Internacional",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841015/internacional-atletico-mg"
+  },
+  {
+    "gameId": "401841014",
+    "date": "Wednesday, March 11, 2026",
+    "team1": "Bahia",
+    "score": "1 - 1",
+    "team2": "Vitória",
+    "title": "Bahia VS Vitória",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841014/vitoria-bahia"
+  },
+  {
+    "gameId": "401841013",
+    "date": "Wednesday, March 11, 2026",
+    "team1": "Corinthians",
+    "score": "0 - 2",
+    "team2": "Coritiba",
+    "title": "Corinthians VS Coritiba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841013/coritiba-corinthians"
+  },
+  {
+    "gameId": "401841017",
+    "date": "Wednesday, March 11, 2026",
+    "team1": "Flamengo",
+    "score": "2 - 0",
+    "team2": "Cruzeiro",
+    "title": "Flamengo VS Cruzeiro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841017/cruzeiro-flamengo"
+  },
+  {
+    "gameId": "401841009",
+    "date": "20260311",
+    "team1": "Remo",
+    "score": "0 - 2",
+    "team2": "Fluminense",
+    "title": "Remo VS Fluminense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841009/fluminense-remo"
+  },
+  {
+    "gameId": "401841012",
+    "date": "20260311",
+    "team1": "Vasco da Gama",
+    "score": "2 - 1",
+    "team2": "Palmeiras",
+    "title": "Vasco da Gama VS Palmeiras",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841012/palmeiras-vasco-da-gama"
   }
 ]
