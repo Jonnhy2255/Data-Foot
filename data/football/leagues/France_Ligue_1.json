@@ -727,5 +727,14 @@
     "team2": "Paris FC",
     "title": "Lyon VS Paris FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746632/paris-fc-lyon"
+  },
+  {
+    "gameId": "746640",
+    "date": "Friday, March 13, 2026",
+    "team1": "Marseille",
+    "score": "1 - 0",
+    "team2": "AJ Auxerre",
+    "title": "Marseille VS AJ Auxerre",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746640/aj-auxerre-marseille"
   }
 ]

@@ -70,5 +70,14 @@
     "team2": "Beijing Guoan",
     "title": "Wuhan Three Towns VS Beijing Guoan",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861318/beijing-guoan-wuhan-three-towns"
+  },
+  {
+    "gameId": "401861319",
+    "date": "Friday, March 13, 2026",
+    "team1": "Wuhan Three Towns",
+    "score": "4 - 1",
+    "team2": "Dalian Yingbo",
+    "title": "Wuhan Three Towns VS Dalian Yingbo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861319/dalian-yingbo-wuhan-three-towns"
   }
 ]

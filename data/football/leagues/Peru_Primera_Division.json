@@ -484,5 +484,14 @@
     "team2": "Melgar",
     "title": "Alianza Lima VS Melgar",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857417/melgar-alianza-lima"
+  },
+  {
+    "gameId": "401857426",
+    "date": "Friday, March 13, 2026",
+    "team1": "FC Cajamarca",
+    "score": "3 - 4",
+    "team2": "Comerciantes Unidos",
+    "title": "FC Cajamarca VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857426/comerciantes-unidos-fc-cajamarca"
   }
 ]

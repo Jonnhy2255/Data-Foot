@@ -268,5 +268,14 @@
     "team2": "Grazer AK",
     "title": "WSG Swarovski Tirol VS Grazer AK",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/747461/grazer-ak-wsg-swarovski-tirol"
+  },
+  {
+    "gameId": "401863955",
+    "date": "Friday, March 13, 2026",
+    "team1": "LASK Linz",
+    "score": "0 - 0",
+    "team2": "TSV Hartberg",
+    "title": "LASK Linz VS TSV Hartberg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401863955/tsv-hartberg-lask-linz"
   }
 ]

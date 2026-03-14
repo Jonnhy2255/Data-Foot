@@ -646,5 +646,23 @@
     "team2": "Trabzonspor",
     "title": "Kayserispor VS Trabzonspor",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750141/trabzonspor-kayserispor"
+  },
+  {
+    "gameId": "750143",
+    "date": "Friday, March 13, 2026",
+    "team1": "Antalyaspor",
+    "score": "1 - 4",
+    "team2": "Gaziantep FK",
+    "title": "Antalyaspor VS Gaziantep FK",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750143/gaziantep-fk-antalyaspor"
+  },
+  {
+    "gameId": "750144",
+    "date": "Friday, March 13, 2026",
+    "team1": "Fatih Karagümrük",
+    "score": "2 - 0",
+    "team2": "Fenerbahce",
+    "title": "Fatih Karagümrük VS Fenerbahce",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750144/fenerbahce-fatih-karagumruk"
   }
 ]
