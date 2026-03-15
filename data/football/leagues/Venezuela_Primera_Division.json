@@ -376,5 +376,41 @@
     "team2": "Trujillanos",
     "title": "Monagas SC VS Trujillanos",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850438/trujillanos-monagas-sc"
+  },
+  {
+    "gameId": "401850446",
+    "date": "Friday, March 13, 2026",
+    "team1": "Deportivo La Guaira",
+    "score": "0 - 0",
+    "team2": "Academia Puerto Cabello",
+    "title": "Deportivo La Guaira VS Academia Puerto Cabello",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850446/academia-puerto-cabello-deportivo-la-guaira"
+  },
+  {
+    "gameId": "401850453",
+    "date": "20260313",
+    "team1": "Trujillanos",
+    "score": "0 - 1",
+    "team2": "Metropolitanos FC",
+    "title": "Trujillanos VS Metropolitanos FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850453/metropolitanos-fc-trujillanos"
+  },
+  {
+    "gameId": "401850454",
+    "date": "20260313",
+    "team1": "Universidad Central",
+    "score": "1 - 1",
+    "team2": "Estudiantes de Mérida",
+    "title": "Universidad Central VS Estudiantes de Mérida",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850454/estudiantes-de-merida-universidad-central"
+  },
+  {
+    "gameId": "401850451",
+    "date": "20260313",
+    "team1": "Portuguesa",
+    "score": "1 - 1",
+    "team2": "Caracas FC",
+    "title": "Portuguesa VS Caracas FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850451/caracas-fc-portuguesa"
   }
 ]

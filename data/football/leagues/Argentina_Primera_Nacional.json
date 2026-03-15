@@ -484,5 +484,86 @@
     "team2": "Patronato",
     "title": "Atlanta VS Patronato",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843653/patronato-atlanta"
+  },
+  {
+    "gameId": "401843691",
+    "date": "Friday, March 13, 2026",
+    "team1": "Atletico Rafaela",
+    "score": "1 - 0",
+    "team2": "San Martín (San Juan)",
+    "title": "Atletico Rafaela VS San Martín (San Juan)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843691/san-martin-san-juan-atletico-rafaela"
+  },
+  {
+    "gameId": "401843701",
+    "date": "Friday, March 13, 2026",
+    "team1": "Racing (Córdoba)",
+    "score": "2 - 1",
+    "team2": "Almirante Brown",
+    "title": "Racing (Córdoba) VS Almirante Brown",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843701/almirante-brown-racing-cordoba"
+  },
+  {
+    "gameId": "401843698",
+    "date": "20260313",
+    "team1": "Los Andes",
+    "score": "0 - 0",
+    "team2": "Central Norte",
+    "title": "Los Andes VS Central Norte",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843698/central-norte-los-andes"
+  },
+  {
+    "gameId": "401843693",
+    "date": "20260313",
+    "team1": "All Boys",
+    "score": "1 - 0",
+    "team2": "Deportivo Madryn",
+    "title": "All Boys VS Deportivo Madryn",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843693/deportivo-madryn-all-boys"
+  },
+  {
+    "gameId": "401843689",
+    "date": "20260313",
+    "team1": "Deportivo Morón",
+    "score": "3 - 2",
+    "team2": "Chaco For Ever",
+    "title": "Deportivo Morón VS Chaco For Ever",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843689/chaco-for-ever-deportivo-moron"
+  },
+  {
+    "gameId": "401843704",
+    "date": "20260313",
+    "team1": "Estudiantes (Buenos Aires)",
+    "score": "0 - 2",
+    "team2": "Defensores de Belgrano",
+    "title": "Estudiantes (Buenos Aires) VS Defensores de Belgrano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843704/defensores-de-belgrano-estudiantes-buenos-aires"
+  },
+  {
+    "gameId": "401843703",
+    "date": "20260313",
+    "team1": "San Miguel",
+    "score": "1 - 1",
+    "team2": "San Telmo",
+    "title": "San Miguel VS San Telmo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843703/san-telmo-san-miguel"
+  },
+  {
+    "gameId": "401843697",
+    "date": "20260313",
+    "team1": "Godoy Cruz Antonio Tomba",
+    "score": "2 - 1",
+    "team2": "Ferro Carril Oeste",
+    "title": "Godoy Cruz Antonio Tomba VS Ferro Carril Oeste",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843697/ferro-carril-oeste-godoy-cruz-antonio-tomba"
+  },
+  {
+    "gameId": "401843688",
+    "date": "20260313",
+    "team1": "Tristán Suárez",
+    "score": "1 - 1",
+    "team2": "Güemes",
+    "title": "Tristán Suárez VS Güemes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843688/guemes-tristan-suarez"
   }
 ]

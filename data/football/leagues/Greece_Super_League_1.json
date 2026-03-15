@@ -574,5 +574,32 @@
     "team2": "Kifisia",
     "title": "Panetolikos VS Kifisia",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752438/kifisia-panetolikos"
+  },
+  {
+    "gameId": "752442",
+    "date": "Saturday, March 14, 2026",
+    "team1": "OFI Crete",
+    "score": "0 - 3",
+    "team2": "Olympiacos",
+    "title": "OFI Crete VS Olympiacos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752442/olympiacos-ofi-crete"
+  },
+  {
+    "gameId": "752447",
+    "date": "Saturday, March 14, 2026",
+    "team1": "Panserraikos FC",
+    "score": "0 - 0",
+    "team2": "Aris",
+    "title": "Panserraikos FC VS Aris",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752447/aris-panserraikos-fc"
+  },
+  {
+    "gameId": "752443",
+    "date": "Saturday, March 14, 2026",
+    "team1": "Larissa FC",
+    "score": "1 - 1",
+    "team2": "Asteras Tripoli",
+    "title": "Larissa FC VS Asteras Tripoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752443/asteras-tripoli-larissa-fc"
   }
 ]

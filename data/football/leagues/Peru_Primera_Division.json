@@ -493,5 +493,32 @@
     "team2": "Comerciantes Unidos",
     "title": "FC Cajamarca VS Comerciantes Unidos",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857426/comerciantes-unidos-fc-cajamarca"
+  },
+  {
+    "gameId": "401857431",
+    "date": "20260313",
+    "team1": "Sport Huancayo",
+    "score": "0 - 1",
+    "team2": "ADT",
+    "title": "Sport Huancayo VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857431/adt-sport-huancayo"
+  },
+  {
+    "gameId": "401857428",
+    "date": "20260313",
+    "team1": "Juan Pablo II",
+    "score": "2 - 3",
+    "team2": "Los Chankas",
+    "title": "Juan Pablo II VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857428/los-chankas-juan-pablo-ii"
+  },
+  {
+    "gameId": "401857424",
+    "date": "20260313",
+    "team1": "Deportivo Garcilaso",
+    "score": "1 - 1",
+    "team2": "Alianza Lima",
+    "title": "Deportivo Garcilaso VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857424/alianza-lima-deportivo-garcilaso"
   }
 ]

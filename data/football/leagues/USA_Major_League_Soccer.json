@@ -394,5 +394,32 @@
     "team2": "Toronto FC",
     "title": "FC Cincinnati VS Toronto FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761483/toronto-fc-fc-cincinnati"
+  },
+  {
+    "gameId": "761484",
+    "date": "20260313",
+    "team1": "Toronto FC",
+    "score": "1 - 1",
+    "team2": "Red Bull New York",
+    "title": "Toronto FC VS Red Bull New York",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761484/red-bull-new-york-toronto-fc"
+  },
+  {
+    "gameId": "761485",
+    "date": "20260313",
+    "team1": "Atlanta United FC",
+    "score": "3 - 1",
+    "team2": "Philadelphia Union",
+    "title": "Atlanta United FC VS Philadelphia Union",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761485/philadelphia-union-atlanta-united-fc"
+  },
+  {
+    "gameId": "761486",
+    "date": "20260313",
+    "team1": "Columbus Crew",
+    "score": "0 - 1",
+    "team2": "Nashville SC",
+    "title": "Columbus Crew VS Nashville SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761486/nashville-sc-columbus-crew"
   }
 ]

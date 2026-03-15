@@ -664,5 +664,41 @@
     "team2": "Fenerbahce",
     "title": "Fatih Karagümrük VS Fenerbahce",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750144/fenerbahce-fatih-karagumruk"
+  },
+  {
+    "gameId": "750149",
+    "date": "Saturday, March 14, 2026",
+    "team1": "Kocaelispor",
+    "score": "1 - 2",
+    "team2": "Konyaspor",
+    "title": "Kocaelispor VS Konyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750149/konyaspor-kocaelispor"
+  },
+  {
+    "gameId": "750145",
+    "date": "Saturday, March 14, 2026",
+    "team1": "Galatasaray",
+    "score": "3 - 0",
+    "team2": "Istanbul Basaksehir",
+    "title": "Galatasaray VS Istanbul Basaksehir",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750145/istanbul-basaksehir-galatasaray"
+  },
+  {
+    "gameId": "750147",
+    "date": "Saturday, March 14, 2026",
+    "team1": "Goztepe",
+    "score": "2 - 2",
+    "team2": "Alanyaspor",
+    "title": "Goztepe VS Alanyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750147/alanyaspor-goztepe"
+  },
+  {
+    "gameId": "750151",
+    "date": "Saturday, March 14, 2026",
+    "team1": "Trabzonspor",
+    "score": "1 - 0",
+    "team2": "Caykur Rizespor",
+    "title": "Trabzonspor VS Caykur Rizespor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750151/caykur-rizespor-trabzonspor"
   }
 ]

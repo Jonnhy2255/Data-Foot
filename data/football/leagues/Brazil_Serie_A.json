@@ -412,5 +412,14 @@
     "team2": "Red Bull Bragantino",
     "title": "Grêmio VS Red Bull Bragantino",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841011/red-bull-bragantino-gremio"
+  },
+  {
+    "gameId": "401841027",
+    "date": "20260313",
+    "team1": "Vitória",
+    "score": "2 - 0",
+    "team2": "Atlético-MG",
+    "title": "Vitória VS Atlético-MG",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841027/atletico-mg-vitoria"
   }
 ]
