@@ -502,5 +502,23 @@
     "team2": "Club Olimpia",
     "title": "Deportivo Recoleta VS Club Olimpia",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848216/club-olimpia-deportivo-recoleta"
+  },
+  {
+    "gameId": "401848214",
+    "date": "Saturday, March 14, 2026",
+    "team1": "Cerro Porteño",
+    "score": "2 - 1",
+    "team2": "Trinidense",
+    "title": "Cerro Porteño VS Trinidense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848214/trinidense-cerro-porteno"
+  },
+  {
+    "gameId": "401848215",
+    "date": "20260314",
+    "team1": "Nacional",
+    "score": "1 - 0",
+    "team2": "Rubio Ñú",
+    "title": "Nacional VS Rubio Ñú",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848215/rubio-nu-nacional"
   }
 ]

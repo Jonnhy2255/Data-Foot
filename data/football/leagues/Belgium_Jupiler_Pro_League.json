@@ -610,5 +610,41 @@
     "team2": "Club Brugge",
     "title": "KVC Westerlo VS Club Brugge",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742760/club-brugge-kvc-westerlo"
+  },
+  {
+    "gameId": "742765",
+    "date": "Sunday, March 15, 2026",
+    "team1": "Racing Genk",
+    "score": "1 - 0",
+    "team2": "Sint-Truidense",
+    "title": "Racing Genk VS Sint-Truidense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742765/sint-truidense-racing-genk"
+  },
+  {
+    "gameId": "742758",
+    "date": "Sunday, March 15, 2026",
+    "team1": "Antwerp",
+    "score": "1 - 1",
+    "team2": "Standard Liege",
+    "title": "Antwerp VS Standard Liege",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742758/standard-liege-antwerp"
+  },
+  {
+    "gameId": "742763",
+    "date": "Sunday, March 15, 2026",
+    "team1": "KV Mechelen",
+    "score": "1 - 0",
+    "team2": "Anderlecht",
+    "title": "KV Mechelen VS Anderlecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742763/anderlecht-kv-mechelen"
+  },
+  {
+    "gameId": "742759",
+    "date": "Sunday, March 15, 2026",
+    "team1": "Cercle Brugge KSV",
+    "score": "1 - 3",
+    "team2": "RAAL La Louvière",
+    "title": "Cercle Brugge KSV VS RAAL La Louvière",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742759/raal-la-louviere-cercle-brugge-ksv"
   }
 ]

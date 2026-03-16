@@ -601,5 +601,41 @@
     "team2": "Asteras Tripoli",
     "title": "Larissa FC VS Asteras Tripoli",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752443/asteras-tripoli-larissa-fc"
+  },
+  {
+    "gameId": "752444",
+    "date": "Sunday, March 15, 2026",
+    "team1": "Kifisia",
+    "score": "2 - 0",
+    "team2": "Volos NFC",
+    "title": "Kifisia VS Volos NFC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752444/volos-nfc-kifisia"
+  },
+  {
+    "gameId": "752445",
+    "date": "Sunday, March 15, 2026",
+    "team1": "PAOK Salonika",
+    "score": "3 - 0",
+    "team2": "Levadiakos",
+    "title": "PAOK Salonika VS Levadiakos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752445/levadiakos-paok-salonika"
+  },
+  {
+    "gameId": "752446",
+    "date": "Sunday, March 15, 2026",
+    "team1": "Atromitos",
+    "score": "2 - 2",
+    "team2": "AEK Athens",
+    "title": "Atromitos VS AEK Athens",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752446/aek-athens-atromitos"
+  },
+  {
+    "gameId": "752448",
+    "date": "Sunday, March 15, 2026",
+    "team1": "Panathinaikos",
+    "score": "0 - 0",
+    "team2": "Panetolikos",
+    "title": "Panathinaikos VS Panetolikos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752448/panetolikos-panathinaikos"
   }
 ]
