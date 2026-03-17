@@ -475,5 +475,23 @@
     "team2": "Deportes Limache",
     "title": "Cobresal VS Deportes Limache",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850514/deportes-limache-cobresal"
+  },
+  {
+    "gameId": "401850527",
+    "date": "Sunday, March 15, 2026",
+    "team1": "Ñublense",
+    "score": "2 - 2",
+    "team2": "La Serena",
+    "title": "Ñublense VS La Serena",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850527/la-serena-nublense"
+  },
+  {
+    "gameId": "401850518",
+    "date": "20260315",
+    "team1": "Unión La Calera",
+    "score": "3 - 3",
+    "team2": "O'Higgins",
+    "title": "Unión La Calera VS O'Higgins",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850518/ohiggins-union-la-calera"
   }
 ]

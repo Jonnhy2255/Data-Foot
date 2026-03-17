@@ -520,5 +520,14 @@
     "team2": "Rubio Ñú",
     "title": "Nacional VS Rubio Ñú",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848215/rubio-nu-nacional"
+  },
+  {
+    "gameId": "401848217",
+    "date": "Sunday, March 15, 2026",
+    "team1": "Sportivo Ameliano",
+    "score": "0 - 0",
+    "team2": "Guarani",
+    "title": "Sportivo Ameliano VS Guarani",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848217/guarani-sportivo-ameliano"
   }
 ]

@@ -475,5 +475,32 @@
     "team2": "Mirassol",
     "title": "Palmeiras VS Mirassol",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841020/mirassol-palmeiras"
+  },
+  {
+    "gameId": "401841023",
+    "date": "Sunday, March 15, 2026",
+    "team1": "Cruzeiro",
+    "score": "3 - 3",
+    "team2": "Vasco da Gama",
+    "title": "Cruzeiro VS Vasco da Gama",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841023/vasco-da-gama-cruzeiro"
+  },
+  {
+    "gameId": "401841019",
+    "date": "Sunday, March 15, 2026",
+    "team1": "Red Bull Bragantino",
+    "score": "1 - 2",
+    "team2": "São Paulo",
+    "title": "Red Bull Bragantino VS São Paulo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841019/sao-paulo-red-bull-bragantino"
+  },
+  {
+    "gameId": "401841025",
+    "date": "Monday, March 16, 2026",
+    "team1": "Chapecoense",
+    "score": "1 - 1",
+    "team2": "Grêmio",
+    "title": "Chapecoense VS Grêmio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841025/gremio-chapecoense"
   }
 ]

@@ -862,5 +862,14 @@
     "team2": "Querétaro",
     "title": "Tigres UANL VS Querétaro",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840904/queretaro-tigres-uanl"
+  },
+  {
+    "gameId": "401840912",
+    "date": "Sunday, March 15, 2026",
+    "team1": "América",
+    "score": "2 - 0",
+    "team2": "Mazatlán FC",
+    "title": "América VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840912/mazatlan-fc-america"
   }
 ]
