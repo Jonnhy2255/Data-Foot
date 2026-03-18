@@ -538,5 +538,41 @@
     "team2": "Manchester City",
     "title": "Real Madrid VS Manchester City",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401862645/manchester-city-real-madrid"
+  },
+  {
+    "gameId": "401862584",
+    "date": "Tuesday, March 17, 2026",
+    "team1": "Sporting CP",
+    "score": "5 - 0",
+    "team2": "Bodo/Glimt",
+    "title": "Sporting CP VS Bodo/Glimt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862584/bodoglimt-sporting-cp"
+  },
+  {
+    "gameId": "401862581",
+    "date": "Tuesday, March 17, 2026",
+    "team1": "Arsenal",
+    "score": "2 - 0",
+    "team2": "Bayer Leverkusen",
+    "title": "Arsenal VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862581/bayer-leverkusen-arsenal"
+  },
+  {
+    "gameId": "401862648",
+    "date": "Tuesday, March 17, 2026",
+    "team1": "Chelsea",
+    "score": "0 - 3",
+    "team2": "Paris Saint-Germain",
+    "title": "Chelsea VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862648/paris-saint-germain-chelsea"
+  },
+  {
+    "gameId": "401862647",
+    "date": "Tuesday, March 17, 2026",
+    "team1": "Manchester City",
+    "score": "1 - 2",
+    "team2": "Real Madrid",
+    "title": "Manchester City VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862647/real-madrid-manchester-city"
   }
 ]

@@ -943,5 +943,14 @@
     "team2": "Fortaleza CEIF",
     "title": "Atlético Junior VS Fortaleza CEIF",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850817/fortaleza-ceif-atletico-junior"
+  },
+  {
+    "gameId": "401850818",
+    "date": "20260316",
+    "team1": "Llaneros",
+    "score": "2 - 2",
+    "team2": "Cúcuta Deportivo",
+    "title": "Llaneros VS Cúcuta Deportivo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850818/cucuta-deportivo-llaneros"
   }
 ]
