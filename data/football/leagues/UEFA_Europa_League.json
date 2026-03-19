@@ -538,5 +538,14 @@
     "team2": "SC Freiburg",
     "title": "Racing Genk VS SC Freiburg",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401862769/sc-freiburg-racing-genk"
+  },
+  {
+    "gameId": "401862758",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Braga",
+    "score": "4 - 0",
+    "team2": "Ferencvaros",
+    "title": "Braga VS Ferencvaros",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862758/ferencvaros-braga"
   }
 ]

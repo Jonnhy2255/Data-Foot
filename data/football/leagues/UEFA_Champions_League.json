@@ -574,5 +574,41 @@
     "team2": "Real Madrid",
     "title": "Manchester City VS Real Madrid",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401862647/real-madrid-manchester-city"
+  },
+  {
+    "gameId": "401862582",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Barcelona",
+    "score": "7 - 2",
+    "team2": "Newcastle United",
+    "title": "Barcelona VS Newcastle United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862582/newcastle-united-barcelona"
+  },
+  {
+    "gameId": "401862642",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Bayern Munich",
+    "score": "4 - 1",
+    "team2": "Atalanta",
+    "title": "Bayern Munich VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862642/atalanta-bayern-munich"
+  },
+  {
+    "gameId": "401862668",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Liverpool",
+    "score": "4 - 0",
+    "team2": "Galatasaray",
+    "title": "Liverpool VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862668/galatasaray-liverpool"
+  },
+  {
+    "gameId": "401862580",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Tottenham Hotspur",
+    "score": "3 - 2",
+    "team2": "Atlético Madrid",
+    "title": "Tottenham Hotspur VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862580/atletico-madrid-tottenham-hotspur"
   }
 ]

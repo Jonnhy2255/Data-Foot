@@ -502,5 +502,50 @@
     "team2": "Grêmio",
     "title": "Chapecoense VS Grêmio",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841025/gremio-chapecoense"
+  },
+  {
+    "gameId": "401841037",
+    "date": "20260317",
+    "team1": "Bahia",
+    "score": "2 - 0",
+    "team2": "Red Bull Bragantino",
+    "title": "Bahia VS Red Bull Bragantino",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841037/red-bull-bragantino-bahia"
+  },
+  {
+    "gameId": "401841032",
+    "date": "20260317",
+    "team1": "Palmeiras",
+    "score": "2 - 1",
+    "team2": "Botafogo",
+    "title": "Palmeiras VS Botafogo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841032/botafogo-palmeiras"
+  },
+  {
+    "gameId": "401841028",
+    "date": "20260317",
+    "team1": "Athletico Paranaense",
+    "score": "2 - 1",
+    "team2": "Cruzeiro",
+    "title": "Athletico Paranaense VS Cruzeiro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841028/cruzeiro-athletico-paranaense"
+  },
+  {
+    "gameId": "401841029",
+    "date": "20260317",
+    "team1": "Atlético-MG",
+    "score": "1 - 0",
+    "team2": "São Paulo",
+    "title": "Atlético-MG VS São Paulo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841029/sao-paulo-atletico-mg"
+  },
+  {
+    "gameId": "401841033",
+    "date": "20260317",
+    "team1": "Mirassol",
+    "score": "0 - 1",
+    "team2": "Coritiba",
+    "title": "Mirassol VS Coritiba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841033/coritiba-mirassol"
   }
 ]
