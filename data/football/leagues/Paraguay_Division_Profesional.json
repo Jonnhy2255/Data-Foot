@@ -547,5 +547,41 @@
     "team2": "Sportivo Luqueño",
     "title": "Club Olimpia VS Sportivo Luqueño",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848221/sportivo-luqueno-club-olimpia"
+  },
+  {
+    "gameId": "401848222",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Rubio Ñú",
+    "score": "2 - 0",
+    "team2": "Cerro Porteño",
+    "title": "Rubio Ñú VS Cerro Porteño",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848222/cerro-porteno-rubio-nu"
+  },
+  {
+    "gameId": "401848219",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Guarani",
+    "score": "3 - 1",
+    "team2": "Deportivo Recoleta",
+    "title": "Guarani VS Deportivo Recoleta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848219/deportivo-recoleta-guarani"
+  },
+  {
+    "gameId": "401848220",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Libertad",
+    "score": "2 - 1",
+    "team2": "Nacional",
+    "title": "Libertad VS Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848220/nacional-libertad"
+  },
+  {
+    "gameId": "401848224",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Trinidense",
+    "score": "1 - 1",
+    "team2": "Sportivo Ameliano",
+    "title": "Trinidense VS Sportivo Ameliano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848224/sportivo-ameliano-trinidense"
   }
 ]

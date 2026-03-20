@@ -763,5 +763,32 @@
     "team2": "Antalyaspor",
     "title": "Istanbul Basaksehir VS Antalyaspor",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750158/antalyaspor-istanbul-basaksehir"
+  },
+  {
+    "gameId": "750159",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Kayserispor",
+    "score": "1 - 0",
+    "team2": "Fatih Karagümrük",
+    "title": "Kayserispor VS Fatih Karagümrük",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750159/fatih-karagumruk-kayserispor"
+  },
+  {
+    "gameId": "750153",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Besiktas",
+    "score": "2 - 1",
+    "team2": "Kasimpasa",
+    "title": "Besiktas VS Kasimpasa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750153/kasimpasa-besiktas"
+  },
+  {
+    "gameId": "750160",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Konyaspor",
+    "score": "1 - 0",
+    "team2": "Genclerbirligi",
+    "title": "Konyaspor VS Genclerbirligi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750160/genclerbirligi-konyaspor"
   }
 ]

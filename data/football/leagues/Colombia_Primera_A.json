@@ -970,5 +970,41 @@
     "team2": "Boyacá Chicó",
     "title": "Deportivo Pasto VS Boyacá Chicó",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850821/boyaca-chico-deportivo-pasto"
+  },
+  {
+    "gameId": "401850822",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Internacional de Bogotá",
+    "score": "2 - 2",
+    "team2": "Deportivo Pereira",
+    "title": "Internacional de Bogotá VS Deportivo Pereira",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850822/deportivo-pereira-internacional-de-bogota"
+  },
+  {
+    "gameId": "401850819",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Bucaramanga",
+    "score": "1 - 1",
+    "team2": "Once Caldas",
+    "title": "Bucaramanga VS Once Caldas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850819/once-caldas-bucaramanga"
+  },
+  {
+    "gameId": "401850823",
+    "date": "Wednesday, March 18, 2026",
+    "team1": "Deportivo Cali",
+    "score": "1 - 1",
+    "team2": "Independiente Santa Fe",
+    "title": "Deportivo Cali VS Independiente Santa Fe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850823/independiente-santa-fe-deportivo-cali"
+  },
+  {
+    "gameId": "401850824",
+    "date": "20260318",
+    "team1": "Alianza FC",
+    "score": "1 - 0",
+    "team2": "Jaguares de Córdoba",
+    "title": "Alianza FC VS Jaguares de Córdoba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850824/jaguares-de-cordoba-alianza-fc"
   }
 ]

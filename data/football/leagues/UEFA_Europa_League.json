@@ -547,5 +547,68 @@
     "team2": "Ferencvaros",
     "title": "Braga VS Ferencvaros",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401862758/ferencvaros-braga"
+  },
+  {
+    "gameId": "401862875",
+    "date": "Thursday, March 19, 2026",
+    "team1": "FC Midtjylland",
+    "score": "1 - 2",
+    "team2": "Nottingham Forest",
+    "title": "FC Midtjylland VS Nottingham Forest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862875/nottingham-forest-fc-midtjylland"
+  },
+  {
+    "gameId": "401862876",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Lyon",
+    "score": "0 - 2",
+    "team2": "Celta Vigo",
+    "title": "Lyon VS Celta Vigo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862876/celta-vigo-lyon"
+  },
+  {
+    "gameId": "401862873",
+    "date": "Thursday, March 19, 2026",
+    "team1": "SC Freiburg",
+    "score": "5 - 1",
+    "team2": "Racing Genk",
+    "title": "SC Freiburg VS Racing Genk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862873/racing-genk-sc-freiburg"
+  },
+  {
+    "gameId": "401862874",
+    "date": "Thursday, March 19, 2026",
+    "team1": "AS Roma",
+    "score": "3 - 4",
+    "team2": "Bologna",
+    "title": "AS Roma VS Bologna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862874/bologna-as-roma"
+  },
+  {
+    "gameId": "401862759",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Aston Villa",
+    "score": "2 - 0",
+    "team2": "Lille",
+    "title": "Aston Villa VS Lille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862759/lille-aston-villa"
+  },
+  {
+    "gameId": "401862756",
+    "date": "Thursday, March 19, 2026",
+    "team1": "FC Porto",
+    "score": "2 - 0",
+    "team2": "VfB Stuttgart",
+    "title": "FC Porto VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862756/vfb-stuttgart-fc-porto"
+  },
+  {
+    "gameId": "401862757",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Real Betis",
+    "score": "4 - 0",
+    "team2": "Panathinaikos",
+    "title": "Real Betis VS Panathinaikos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862757/panathinaikos-real-betis"
   }
 ]
