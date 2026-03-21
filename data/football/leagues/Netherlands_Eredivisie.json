@@ -817,5 +817,14 @@
     "team2": "NAC Breda",
     "title": "Go Ahead Eagles VS NAC Breda",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741218/nac-breda-go-ahead-eagles"
+  },
+  {
+    "gameId": "741226",
+    "date": "Friday, March 20, 2026",
+    "team1": "Heracles Almelo",
+    "score": "1 - 1",
+    "team2": "Excelsior",
+    "title": "Heracles Almelo VS Excelsior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741226/excelsior-heracles-almelo"
   }
 ]

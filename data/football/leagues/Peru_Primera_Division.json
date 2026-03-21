@@ -565,5 +565,14 @@
     "team2": "Cienciano del Cusco",
     "title": "Cusco FC VS Cienciano del Cusco",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857425/cienciano-del-cusco-cusco-fc"
+  },
+  {
+    "gameId": "401857433",
+    "date": "20260319",
+    "team1": "ADT",
+    "score": "1 - 1",
+    "team2": "Melgar",
+    "title": "ADT VS Melgar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857433/melgar-adt"
   }
 ]

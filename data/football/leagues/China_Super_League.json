@@ -142,5 +142,23 @@
     "team2": "Qingdao Hainiu",
     "title": "Chengdu Rongcheng VS Qingdao Hainiu",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861325/qingdao-hainiu-chengdu-rongcheng"
+  },
+  {
+    "gameId": "401861326",
+    "date": "Friday, March 20, 2026",
+    "team1": "Dalian Yingbo",
+    "score": "1 - 0",
+    "team2": "Shanghai Port",
+    "title": "Dalian Yingbo VS Shanghai Port",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861326/shanghai-port-dalian-yingbo"
+  },
+  {
+    "gameId": "401861327",
+    "date": "Friday, March 20, 2026",
+    "team1": "Qingdao Hainiu",
+    "score": "1 - 4",
+    "team2": "Zhejiang Professional FC",
+    "title": "Qingdao Hainiu VS Zhejiang Professional FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861327/zhejiang-professional-fc-qingdao-hainiu"
   }
 ]

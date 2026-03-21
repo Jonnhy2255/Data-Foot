@@ -1006,5 +1006,32 @@
     "team2": "Jaguares de Córdoba",
     "title": "Alianza FC VS Jaguares de Córdoba",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850824/jaguares-de-cordoba-alianza-fc"
+  },
+  {
+    "gameId": "401850825",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Deportes Tolima",
+    "score": "2 - 0",
+    "team2": "Fortaleza CEIF",
+    "title": "Deportes Tolima VS Fortaleza CEIF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850825/fortaleza-ceif-deportes-tolima"
+  },
+  {
+    "gameId": "401850826",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Independiente Medellín",
+    "score": "2 - 0",
+    "team2": "Atlético Junior",
+    "title": "Independiente Medellín VS Atlético Junior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850826/atletico-junior-independiente-medellin"
+  },
+  {
+    "gameId": "401850827",
+    "date": "Friday, March 20, 2026",
+    "team1": "Águilas Doradas",
+    "score": "0 - 1",
+    "team2": "América de Cali",
+    "title": "Águilas Doradas VS América de Cali",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850827/america-de-cali-aguilas-doradas"
   }
 ]

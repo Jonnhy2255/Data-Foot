@@ -574,5 +574,23 @@
     "team2": "Vitória",
     "title": "Grêmio VS Vitória",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841034/vitoria-gremio"
+  },
+  {
+    "gameId": "401841035",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Flamengo",
+    "score": "3 - 0",
+    "team2": "Remo",
+    "title": "Flamengo VS Remo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841035/remo-flamengo"
+  },
+  {
+    "gameId": "401841036",
+    "date": "Thursday, March 19, 2026",
+    "team1": "Chapecoense",
+    "score": "0 - 0",
+    "team2": "Corinthians",
+    "title": "Chapecoense VS Corinthians",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841036/corinthians-chapecoense"
   }
 ]

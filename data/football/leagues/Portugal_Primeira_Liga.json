@@ -853,5 +853,14 @@
     "team2": "Moreirense",
     "title": "FC Porto VS Moreirense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750475/moreirense-fc-porto"
+  },
+  {
+    "gameId": "750483",
+    "date": "Friday, March 20, 2026",
+    "team1": "Estrela",
+    "score": "4 - 0",
+    "team2": "Casa Pia",
+    "title": "Estrela VS Casa Pia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750483/casa-pia-estrela"
   }
 ]
