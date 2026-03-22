@@ -988,5 +988,50 @@
     "team2": "Real Sociedad",
     "title": "Villarreal VS Real Sociedad",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748429/real-sociedad-villarreal"
+  },
+  {
+    "gameId": "748430",
+    "date": "Saturday, March 21, 2026",
+    "team1": "Elche",
+    "score": "2 - 1",
+    "team2": "Mallorca",
+    "title": "Elche VS Mallorca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748430/mallorca-elche"
+  },
+  {
+    "gameId": "748425",
+    "date": "Saturday, March 21, 2026",
+    "team1": "Espanyol",
+    "score": "1 - 2",
+    "team2": "Getafe",
+    "title": "Espanyol VS Getafe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748425/getafe-espanyol"
+  },
+  {
+    "gameId": "748426",
+    "date": "Saturday, March 21, 2026",
+    "team1": "Levante",
+    "score": "4 - 2",
+    "team2": "Real Oviedo",
+    "title": "Levante VS Real Oviedo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748426/real-oviedo-levante"
+  },
+  {
+    "gameId": "748427",
+    "date": "Saturday, March 21, 2026",
+    "team1": "Osasuna",
+    "score": "1 - 0",
+    "team2": "Girona",
+    "title": "Osasuna VS Girona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748427/girona-osasuna"
+  },
+  {
+    "gameId": "748428",
+    "date": "Saturday, March 21, 2026",
+    "team1": "Sevilla",
+    "score": "0 - 2",
+    "team2": "Valencia",
+    "title": "Sevilla VS Valencia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748428/valencia-sevilla"
   }
 ]

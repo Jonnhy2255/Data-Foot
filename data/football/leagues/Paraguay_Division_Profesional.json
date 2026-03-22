@@ -583,5 +583,14 @@
     "team2": "Sportivo Ameliano",
     "title": "Trinidense VS Sportivo Ameliano",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848224/sportivo-ameliano-trinidense"
+  },
+  {
+    "gameId": "401848225",
+    "date": "20260320",
+    "team1": "Guarani",
+    "score": "0 - 2",
+    "team2": "Club Olimpia",
+    "title": "Guarani VS Club Olimpia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848225/club-olimpia-guarani"
   }
 ]

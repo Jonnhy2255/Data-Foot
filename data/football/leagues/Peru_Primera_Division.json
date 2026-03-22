@@ -574,5 +574,41 @@
     "team2": "Melgar",
     "title": "ADT VS Melgar",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857433/melgar-adt"
+  },
+  {
+    "gameId": "401857436",
+    "date": "Friday, March 20, 2026",
+    "team1": "Cienciano del Cusco",
+    "score": "3 - 0",
+    "team2": "FC Cajamarca",
+    "title": "Cienciano del Cusco VS FC Cajamarca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857436/fc-cajamarca-cienciano-del-cusco"
+  },
+  {
+    "gameId": "401857439",
+    "date": "20260320",
+    "team1": "Deportivo Moquegua",
+    "score": "1 - 2",
+    "team2": "Cusco FC",
+    "title": "Deportivo Moquegua VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857439/cusco-fc-deportivo-moquegua"
+  },
+  {
+    "gameId": "401857440",
+    "date": "20260320",
+    "team1": "Comerciantes Unidos",
+    "score": "0 - 0",
+    "team2": "Universitario",
+    "title": "Comerciantes Unidos VS Universitario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857440/universitario-comerciantes-unidos"
+  },
+  {
+    "gameId": "401857438",
+    "date": "20260320",
+    "team1": "Los Chankas",
+    "score": "3 - 2",
+    "team2": "Sporting Cristal",
+    "title": "Los Chankas VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857438/sporting-cristal-los-chankas"
   }
 ]

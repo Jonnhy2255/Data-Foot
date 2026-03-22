@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "gameId": "401860064",
+    "date": "20260320",
+    "team1": "Vila Nova",
+    "score": "2 - 2",
+    "team2": "CRB",
+    "title": "Vila Nova VS CRB",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860064/crb-vila-nova"
+  },
+  {
+    "gameId": "401860070",
+    "date": "20260320",
+    "team1": "Ceará",
+    "score": "1 - 1",
+    "team2": "São Bernardo",
+    "title": "Ceará VS São Bernardo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860070/sao-bernardo-ceara"
+  },
+  {
+    "gameId": "401860065",
+    "date": "20260320",
+    "team1": "Operário PR",
+    "score": "1 - 0",
+    "team2": "Atlético Goianiense",
+    "title": "Operário PR VS Atlético Goianiense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860065/atletico-goianiense-operario-pr"
+  },
+  {
+    "gameId": "401860071",
+    "date": "20260320",
+    "team1": "Botafogo-SP",
+    "score": "4 - 0",
+    "team2": "Fortaleza",
+    "title": "Botafogo-SP VS Fortaleza",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860071/fortaleza-botafogo-sp"
+  }
+]

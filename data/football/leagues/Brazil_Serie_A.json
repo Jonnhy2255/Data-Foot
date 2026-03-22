@@ -592,5 +592,23 @@
     "team2": "Corinthians",
     "title": "Chapecoense VS Corinthians",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841036/corinthians-chapecoense"
+  },
+  {
+    "gameId": "401841047",
+    "date": "20260320",
+    "team1": "Red Bull Bragantino",
+    "score": "1 - 2",
+    "team2": "Botafogo",
+    "title": "Red Bull Bragantino VS Botafogo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841047/botafogo-red-bull-bragantino"
+  },
+  {
+    "gameId": "401841044",
+    "date": "20260320",
+    "team1": "Fluminense",
+    "score": "1 - 0",
+    "team2": "Atlético-MG",
+    "title": "Fluminense VS Atlético-MG",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841044/atletico-mg-fluminense"
   }
 ]

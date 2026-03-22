@@ -502,5 +502,14 @@
     "team2": "Monagas SC",
     "title": "Metropolitanos FC VS Monagas SC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850458/monagas-sc-metropolitanos-fc"
+  },
+  {
+    "gameId": "401850481",
+    "date": "Saturday, March 21, 2026",
+    "team1": "Universidad Central",
+    "score": "0 - 1",
+    "team2": "Deportivo La Guaira",
+    "title": "Universidad Central VS Deportivo La Guaira",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850481/deportivo-la-guaira-universidad-central"
   }
 ]

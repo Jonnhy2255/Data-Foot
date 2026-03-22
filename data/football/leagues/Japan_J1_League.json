@@ -610,5 +610,23 @@
     "team2": "Kashiwa Reysol",
     "title": "Urawa Red Diamonds VS Kashiwa Reysol",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859316/kashiwa-reysol-urawa-red-diamonds"
+  },
+  {
+    "gameId": "401859318",
+    "date": "Saturday, March 21, 2026",
+    "team1": "Fagiano Okayama",
+    "score": "0 - 1",
+    "team2": "V-Varen Nagasaki",
+    "title": "Fagiano Okayama VS V-Varen Nagasaki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859318/v-varen-nagasaki-fagiano-okayama"
+  },
+  {
+    "gameId": "401859319",
+    "date": "Saturday, March 21, 2026",
+    "team1": "Avispa Fukuoka",
+    "score": "2 - 2",
+    "team2": "Gamba Osaka",
+    "title": "Avispa Fukuoka VS Gamba Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859319/gamba-osaka-avispa-fukuoka"
   }
 ]
