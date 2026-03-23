@@ -511,5 +511,32 @@
     "team2": "Deportivo La Guaira",
     "title": "Universidad Central VS Deportivo La Guaira",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850481/deportivo-la-guaira-universidad-central"
+  },
+  {
+    "gameId": "401850479",
+    "date": "20260321",
+    "team1": "Trujillanos",
+    "score": "0 - 3",
+    "team2": "Zamora",
+    "title": "Trujillanos VS Zamora",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850479/zamora-trujillanos"
+  },
+  {
+    "gameId": "401850472",
+    "date": "20260321",
+    "team1": "Deportivo Táchira",
+    "score": "1 - 0",
+    "team2": "Estudiantes de Mérida",
+    "title": "Deportivo Táchira VS Estudiantes de Mérida",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850472/estudiantes-de-merida-deportivo-tachira"
+  },
+  {
+    "gameId": "401850478",
+    "date": "20260321",
+    "team1": "Portuguesa",
+    "score": "1 - 1",
+    "team2": "Deportivo Rayo Zuliano",
+    "title": "Portuguesa VS Deportivo Rayo Zuliano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850478/deportivo-rayo-zuliano-portuguesa"
   }
 ]

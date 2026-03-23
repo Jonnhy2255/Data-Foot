@@ -1033,5 +1033,41 @@
     "team2": "Valencia",
     "title": "Sevilla VS Valencia",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748428/valencia-sevilla"
+  },
+  {
+    "gameId": "748432",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Barcelona",
+    "score": "1 - 0",
+    "team2": "Rayo Vallecano",
+    "title": "Barcelona VS Rayo Vallecano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748432/rayo-vallecano-barcelona"
+  },
+  {
+    "gameId": "748431",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Celta Vigo",
+    "score": "3 - 4",
+    "team2": "Alavés",
+    "title": "Celta Vigo VS Alavés",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748431/alaves-celta-vigo"
+  },
+  {
+    "gameId": "748424",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Athletic Club",
+    "score": "2 - 1",
+    "team2": "Real Betis",
+    "title": "Athletic Club VS Real Betis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748424/real-betis-athletic-club"
+  },
+  {
+    "gameId": "748433",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Real Madrid",
+    "score": "3 - 2",
+    "team2": "Atlético Madrid",
+    "title": "Real Madrid VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748433/atletico-madrid-real-madrid"
   }
 ]

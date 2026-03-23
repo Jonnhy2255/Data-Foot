@@ -250,5 +250,41 @@
     "team2": "Sochi",
     "title": "FC Baltika Kaliningrad VS Sochi",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743667/sochi-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743673",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Gazovik Orenburg",
+    "score": "0 - 2",
+    "team2": "Spartak Moscow",
+    "title": "Gazovik Orenburg VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743673/spartak-moscow-gazovik-orenburg"
+  },
+  {
+    "gameId": "743669",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Dinamo Moscow",
+    "score": "1 - 3",
+    "team2": "Zenit St Petersburg",
+    "title": "Dinamo Moscow VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743669/zenit-st-petersburg-dinamo-moscow"
+  },
+  {
+    "gameId": "743671",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Krylia Sovetov",
+    "score": "0 - 0",
+    "team2": "Rubin Kazan",
+    "title": "Krylia Sovetov VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743671/rubin-kazan-krylia-sovetov"
+  },
+  {
+    "gameId": "743672",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Lokomotiv Moscow",
+    "score": "5 - 1",
+    "team2": "Akron Tolyatti",
+    "title": "Lokomotiv Moscow VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743672/akron-tolyatti-lokomotiv-moscow"
   }
 ]

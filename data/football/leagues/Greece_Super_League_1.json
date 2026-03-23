@@ -637,5 +637,68 @@
     "team2": "Panetolikos",
     "title": "Panathinaikos VS Panetolikos",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/752448/panetolikos-panathinaikos"
+  },
+  {
+    "gameId": "752449",
+    "date": "Sunday, March 22, 2026",
+    "team1": "AEK Athens",
+    "score": "3 - 0",
+    "team2": "Kifisia",
+    "title": "AEK Athens VS Kifisia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752449/kifisia-aek-athens"
+  },
+  {
+    "gameId": "752450",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Aris",
+    "score": "0 - 2",
+    "team2": "OFI Crete",
+    "title": "Aris VS OFI Crete",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752450/ofi-crete-aris"
+  },
+  {
+    "gameId": "752451",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Asteras Tripoli",
+    "score": "1 - 2",
+    "team2": "Panathinaikos",
+    "title": "Asteras Tripoli VS Panathinaikos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752451/panathinaikos-asteras-tripoli"
+  },
+  {
+    "gameId": "752455",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Levadiakos",
+    "score": "1 - 0",
+    "team2": "Atromitos",
+    "title": "Levadiakos VS Atromitos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752455/atromitos-levadiakos"
+  },
+  {
+    "gameId": "752453",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Olympiacos",
+    "score": "0 - 0",
+    "team2": "Larissa FC",
+    "title": "Olympiacos VS Larissa FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752453/larissa-fc-olympiacos"
+  },
+  {
+    "gameId": "752452",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Panetolikos",
+    "score": "0 - 0",
+    "team2": "Panserraikos FC",
+    "title": "Panetolikos VS Panserraikos FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752452/panserraikos-fc-panetolikos"
+  },
+  {
+    "gameId": "752454",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Volos NFC",
+    "score": "2 - 1",
+    "team2": "PAOK Salonika",
+    "title": "Volos NFC VS PAOK Salonika",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/752454/paok-salonika-volos-nfc"
   }
 ]

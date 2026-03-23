@@ -943,5 +943,32 @@
     "team2": "Hamburg SV",
     "title": "Borussia Dortmund VS Hamburg SV",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746957/hamburg-sv-borussia-dortmund"
+  },
+  {
+    "gameId": "746958",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Mainz",
+    "score": "2 - 1",
+    "team2": "Eintracht Frankfurt",
+    "title": "Mainz VS Eintracht Frankfurt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746958/eintracht-frankfurt-mainz"
+  },
+  {
+    "gameId": "746955",
+    "date": "Sunday, March 22, 2026",
+    "team1": "St. Pauli",
+    "score": "1 - 2",
+    "team2": "SC Freiburg",
+    "title": "St. Pauli VS SC Freiburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746955/sc-freiburg-st-pauli"
+  },
+  {
+    "gameId": "746953",
+    "date": "Sunday, March 22, 2026",
+    "team1": "FC Augsburg",
+    "score": "2 - 5",
+    "team2": "VfB Stuttgart",
+    "title": "FC Augsburg VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746953/vfb-stuttgart-fc-augsburg"
   }
 ]

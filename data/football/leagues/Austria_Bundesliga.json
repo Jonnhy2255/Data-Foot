@@ -358,5 +358,23 @@
     "team2": "Grazer AK",
     "title": "WSG Swarovski Tirol VS Grazer AK",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401863964/grazer-ak-wsg-swarovski-tirol"
+  },
+  {
+    "gameId": "401863965",
+    "date": "Sunday, March 22, 2026",
+    "team1": "TSV Hartberg",
+    "score": "0 - 1",
+    "team2": "Austria Vienna",
+    "title": "TSV Hartberg VS Austria Vienna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401863965/austria-vienna-tsv-hartberg"
+  },
+  {
+    "gameId": "401863966",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Rapid Vienna",
+    "score": "4 - 2",
+    "team2": "LASK Linz",
+    "title": "Rapid Vienna VS LASK Linz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401863966/lask-linz-rapid-vienna"
   }
 ]

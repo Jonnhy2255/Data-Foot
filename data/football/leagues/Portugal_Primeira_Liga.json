@@ -907,5 +907,32 @@
     "team2": "AVS",
     "title": "Tondela VS AVS",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750488/avs-tondela"
+  },
+  {
+    "gameId": "750482",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Estoril",
+    "score": "1 - 2",
+    "team2": "Rio Ave",
+    "title": "Estoril VS Rio Ave",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750482/rio-ave-estoril"
+  },
+  {
+    "gameId": "750480",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Alverca",
+    "score": "1 - 4",
+    "team2": "Sporting CP",
+    "title": "Alverca VS Sporting CP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750480/sporting-cp-alverca"
+  },
+  {
+    "gameId": "750487",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Braga",
+    "score": "1 - 2",
+    "team2": "FC Porto",
+    "title": "Braga VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750487/fc-porto-braga"
   }
 ]

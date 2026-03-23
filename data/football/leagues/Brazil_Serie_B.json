@@ -34,5 +34,59 @@
     "team2": "Fortaleza",
     "title": "Botafogo-SP VS Fortaleza",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860071/fortaleza-botafogo-sp"
+  },
+  {
+    "gameId": "401860069",
+    "date": "Saturday, March 21, 2026",
+    "team1": "Cuiabá",
+    "score": "0 - 0",
+    "team2": "Sport",
+    "title": "Cuiabá VS Sport",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860069/sport-cuiaba"
+  },
+  {
+    "gameId": "401860063",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Avaí",
+    "score": "2 - 0",
+    "team2": "Juventude",
+    "title": "Avaí VS Juventude",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860063/juventude-avai"
+  },
+  {
+    "gameId": "401860066",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Náutico",
+    "score": "0 - 1",
+    "team2": "Criciúma",
+    "title": "Náutico VS Criciúma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860066/criciuma-nautico"
+  },
+  {
+    "gameId": "401860062",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Athletic",
+    "score": "2 - 1",
+    "team2": "Ponte Preta",
+    "title": "Athletic VS Ponte Preta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860062/ponte-preta-athletic"
+  },
+  {
+    "gameId": "401860068",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Goiás",
+    "score": "3 - 1",
+    "team2": "América Mineiro",
+    "title": "Goiás VS América Mineiro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860068/america-mineiro-goias"
+  },
+  {
+    "gameId": "401860067",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Novorizontino",
+    "score": "1 - 3",
+    "team2": "Londrina",
+    "title": "Novorizontino VS Londrina",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860067/londrina-novorizontino"
   }
 ]

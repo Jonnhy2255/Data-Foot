@@ -646,5 +646,77 @@
     "team2": "RAAL La Louvière",
     "title": "Cercle Brugge KSV VS RAAL La Louvière",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742759/raal-la-louviere-cercle-brugge-ksv"
+  },
+  {
+    "gameId": "742766",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Anderlecht",
+    "score": "2 - 3",
+    "team2": "Cercle Brugge KSV",
+    "title": "Anderlecht VS Cercle Brugge KSV",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742766/cercle-brugge-ksv-anderlecht"
+  },
+  {
+    "gameId": "742772",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Club Brugge",
+    "score": "4 - 1",
+    "team2": "KV Mechelen",
+    "title": "Club Brugge VS KV Mechelen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742772/kv-mechelen-club-brugge"
+  },
+  {
+    "gameId": "742771",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Dender",
+    "score": "1 - 3",
+    "team2": "KAA Gent",
+    "title": "Dender VS KAA Gent",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742771/kaa-gent-dender"
+  },
+  {
+    "gameId": "742770",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Oud-Heverlee Leuven",
+    "score": "1 - 0",
+    "team2": "Antwerp",
+    "title": "Oud-Heverlee Leuven VS Antwerp",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742770/antwerp-oud-heverlee-leuven"
+  },
+  {
+    "gameId": "742769",
+    "date": "Sunday, March 22, 2026",
+    "team1": "RAAL La Louvière",
+    "score": "5 - 5",
+    "team2": "Racing Genk",
+    "title": "RAAL La Louvière VS Racing Genk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742769/racing-genk-raal-la-louviere"
+  },
+  {
+    "gameId": "742768",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Sint-Truidense",
+    "score": "1 - 3",
+    "team2": "Union St.-Gilloise",
+    "title": "Sint-Truidense VS Union St.-Gilloise",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742768/union-st-gilloise-sint-truidense"
+  },
+  {
+    "gameId": "742767",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Standard Liege",
+    "score": "0 - 0",
+    "team2": "KVC Westerlo",
+    "title": "Standard Liege VS KVC Westerlo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742767/kvc-westerlo-standard-liege"
+  },
+  {
+    "gameId": "742773",
+    "date": "Sunday, March 22, 2026",
+    "team1": "Zulte-Waregem",
+    "score": "1 - 0",
+    "team2": "Royal Charleroi SC",
+    "title": "Zulte-Waregem VS Royal Charleroi SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/742773/royal-charleroi-sc-zulte-waregem"
   }
 ]
