@@ -1060,5 +1060,23 @@
     "team2": "Deportivo Cali",
     "title": "Alianza FC VS Deportivo Cali",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850829/deportivo-cali-alianza-fc"
+  },
+  {
+    "gameId": "401850832",
+    "date": "20260322",
+    "team1": "Boyacá Chicó",
+    "score": "1 - 1",
+    "team2": "Deportes Tolima",
+    "title": "Boyacá Chicó VS Deportes Tolima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850832/deportes-tolima-boyaca-chico"
+  },
+  {
+    "gameId": "401850833",
+    "date": "20260322",
+    "team1": "Independiente Santa Fe",
+    "score": "2 - 1",
+    "team2": "Independiente Medellín",
+    "title": "Independiente Santa Fe VS Independiente Medellín",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850833/independiente-medellin-independiente-santa-fe"
   }
 ]
