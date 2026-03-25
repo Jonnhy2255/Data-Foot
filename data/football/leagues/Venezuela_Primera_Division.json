@@ -547,5 +547,23 @@
     "team2": "Caracas FC",
     "title": "Monagas SC VS Caracas FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850475/caracas-fc-monagas-sc"
+  },
+  {
+    "gameId": "401850470",
+    "date": "Monday, March 23, 2026",
+    "team1": "Carabobo",
+    "score": "1 - 1",
+    "team2": "Academia Puerto Cabello",
+    "title": "Carabobo VS Academia Puerto Cabello",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850470/academia-puerto-cabello-carabobo"
+  },
+  {
+    "gameId": "401850474",
+    "date": "Monday, March 23, 2026",
+    "team1": "Metropolitanos FC",
+    "score": "2 - 0",
+    "team2": "Academia Anzoátegui",
+    "title": "Metropolitanos FC VS Academia Anzoátegui",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850474/academia-anzoategui-metropolitanos-fc"
   }
 ]
