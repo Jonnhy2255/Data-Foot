@@ -1105,5 +1105,14 @@
     "team2": "Bucaramanga",
     "title": "Atlético Junior VS Bucaramanga",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850835/bucaramanga-atletico-junior"
+  },
+  {
+    "gameId": "401850836",
+    "date": "Tuesday, March 24, 2026",
+    "team1": "Fortaleza CEIF",
+    "score": "1 - 2",
+    "team2": "Deportivo Pasto",
+    "title": "Fortaleza CEIF VS Deportivo Pasto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850836/deportivo-pasto-fortaleza-ceif"
   }
 ]
