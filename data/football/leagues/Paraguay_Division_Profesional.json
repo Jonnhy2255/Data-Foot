@@ -646,5 +646,23 @@
     "team2": "2 de Mayo",
     "title": "Guarani VS 2 de Mayo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848195/2-de-mayo-guarani"
+  },
+  {
+    "gameId": "401848235",
+    "date": "Thursday, March 26, 2026",
+    "team1": "Deportivo Recoleta",
+    "score": "1 - 0",
+    "team2": "Rubio Ñú",
+    "title": "Deportivo Recoleta VS Rubio Ñú",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848235/rubio-nu-deportivo-recoleta"
+  },
+  {
+    "gameId": "401848233",
+    "date": "20260326",
+    "team1": "Nacional",
+    "score": "3 - 2",
+    "team2": "Sportivo Luqueño",
+    "title": "Nacional VS Sportivo Luqueño",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848233/sportivo-luqueno-nacional"
   }
 ]
