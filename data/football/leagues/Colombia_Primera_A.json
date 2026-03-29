@@ -1132,5 +1132,32 @@
     "team2": "Alianza FC",
     "title": "Águilas Doradas VS Alianza FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850838/alianza-fc-aguilas-doradas"
+  },
+  {
+    "gameId": "401850839",
+    "date": "Friday, March 27, 2026",
+    "team1": "Bucaramanga",
+    "score": "1 - 2",
+    "team2": "Independiente Santa Fe",
+    "title": "Bucaramanga VS Independiente Santa Fe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850839/independiente-santa-fe-bucaramanga"
+  },
+  {
+    "gameId": "401850840",
+    "date": "20260327",
+    "team1": "Cúcuta Deportivo",
+    "score": "1 - 0",
+    "team2": "Boyacá Chicó",
+    "title": "Cúcuta Deportivo VS Boyacá Chicó",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850840/boyaca-chico-cucuta-deportivo"
+  },
+  {
+    "gameId": "401850841",
+    "date": "20260327",
+    "team1": "Deportes Tolima",
+    "score": "3 - 1",
+    "team2": "Jaguares de Córdoba",
+    "title": "Deportes Tolima VS Jaguares de Córdoba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850841/jaguares-de-cordoba-deportes-tolima"
   }
 ]

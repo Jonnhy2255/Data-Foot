@@ -709,5 +709,14 @@
     "team2": "Sanfrecce Hiroshima",
     "title": "Vissel Kobe VS Sanfrecce Hiroshima",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859326/sanfrecce-hiroshima-vissel-kobe"
+  },
+  {
+    "gameId": "401859296",
+    "date": "Saturday, March 28, 2026",
+    "team1": "Machida Zelvia",
+    "score": "1 - 1",
+    "team2": "Kawasaki Frontale",
+    "title": "Machida Zelvia VS Kawasaki Frontale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859296/kawasaki-frontale-machida-zelvia"
   }
 ]

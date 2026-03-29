@@ -664,5 +664,23 @@
     "team2": "Sportivo Luqueño",
     "title": "Nacional VS Sportivo Luqueño",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848233/sportivo-luqueno-nacional"
+  },
+  {
+    "gameId": "401848236",
+    "date": "Friday, March 27, 2026",
+    "team1": "Sportivo Ameliano",
+    "score": "2 - 0",
+    "team2": "Libertad",
+    "title": "Sportivo Ameliano VS Libertad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848236/libertad-sportivo-ameliano"
+  },
+  {
+    "gameId": "401848234",
+    "date": "20260327",
+    "team1": "Club Olimpia",
+    "score": "4 - 1",
+    "team2": "2 de Mayo",
+    "title": "Club Olimpia VS 2 de Mayo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848234/2-de-mayo-club-olimpia"
   }
 ]

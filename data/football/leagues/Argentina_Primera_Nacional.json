@@ -808,5 +808,59 @@
     "team2": "Gimnasia y Tiro (Salta)",
     "title": "Nueva Chicago VS Gimnasia y Tiro (Salta)",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843720/gimnasia-y-tiro-salta-nueva-chicago"
+  },
+  {
+    "gameId": "401843728",
+    "date": "Friday, March 27, 2026",
+    "team1": "Ciudad de Bolívar",
+    "score": "0 - 0",
+    "team2": "Agropecuario",
+    "title": "Ciudad de Bolívar VS Agropecuario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843728/agropecuario-ciudad-de-bolivar"
+  },
+  {
+    "gameId": "401843727",
+    "date": "Friday, March 27, 2026",
+    "team1": "Chaco For Ever",
+    "score": "1 - 2",
+    "team2": "Gimnasia y Esgrima (Jujuy)",
+    "title": "Chaco For Ever VS Gimnasia y Esgrima (Jujuy)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843727/gimnasia-y-esgrima-jujuy-chaco-for-ever"
+  },
+  {
+    "gameId": "401843731",
+    "date": "Friday, March 27, 2026",
+    "team1": "San Martín (San Juan)",
+    "score": "0 - 0",
+    "team2": "Racing (Córdoba)",
+    "title": "San Martín (San Juan) VS Racing (Córdoba)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843731/racing-cordoba-san-martin-san-juan"
+  },
+  {
+    "gameId": "401843725",
+    "date": "20260327",
+    "team1": "Atlanta",
+    "score": "0 - 1",
+    "team2": "Ferro Carril Oeste",
+    "title": "Atlanta VS Ferro Carril Oeste",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843725/ferro-carril-oeste-atlanta"
+  },
+  {
+    "gameId": "401843723",
+    "date": "20260327",
+    "team1": "Almagro",
+    "score": "2 - 0",
+    "team2": "Deportivo Morón",
+    "title": "Almagro VS Deportivo Morón",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843723/deportivo-moron-almagro"
+  },
+  {
+    "gameId": "401843740",
+    "date": "20260327",
+    "team1": "Almirante Brown",
+    "score": "0 - 1",
+    "team2": "Tristán Suárez",
+    "title": "Almirante Brown VS Tristán Suárez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843740/tristan-suarez-almirante-brown"
   }
 ]
