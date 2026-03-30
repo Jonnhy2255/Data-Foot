@@ -1159,5 +1159,32 @@
     "team2": "Jaguares de Córdoba",
     "title": "Deportes Tolima VS Jaguares de Córdoba",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850841/jaguares-de-cordoba-deportes-tolima"
+  },
+  {
+    "gameId": "401850842",
+    "date": "Saturday, March 28, 2026",
+    "team1": "Deportivo Cali",
+    "score": "1 - 0",
+    "team2": "Deportivo Pereira",
+    "title": "Deportivo Cali VS Deportivo Pereira",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850842/deportivo-pereira-deportivo-cali"
+  },
+  {
+    "gameId": "401850843",
+    "date": "20260328",
+    "team1": "Internacional de Bogotá",
+    "score": "0 - 1",
+    "team2": "Atlético Junior",
+    "title": "Internacional de Bogotá VS Atlético Junior",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850843/atletico-junior-internacional-de-bogota"
+  },
+  {
+    "gameId": "401850844",
+    "date": "20260328",
+    "team1": "Deportivo Pasto",
+    "score": "1 - 2",
+    "team2": "Atlético Nacional",
+    "title": "Deportivo Pasto VS Atlético Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850844/atletico-nacional-deportivo-pasto"
   }
 ]

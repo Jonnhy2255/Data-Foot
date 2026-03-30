@@ -862,5 +862,95 @@
     "team2": "Tristán Suárez",
     "title": "Almirante Brown VS Tristán Suárez",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843740/tristan-suarez-almirante-brown"
+  },
+  {
+    "gameId": "401843729",
+    "date": "Saturday, March 28, 2026",
+    "team1": "Colegiales",
+    "score": "0 - 0",
+    "team2": "San Miguel",
+    "title": "Colegiales VS San Miguel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843729/san-miguel-colegiales"
+  },
+  {
+    "gameId": "401843734",
+    "date": "Sunday, March 29, 2026",
+    "team1": "Los Andes",
+    "score": "0 - 1",
+    "team2": "Temperley",
+    "title": "Los Andes VS Temperley",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843734/temperley-los-andes"
+  },
+  {
+    "gameId": "401843733",
+    "date": "Sunday, March 29, 2026",
+    "team1": "Nueva Chicago",
+    "score": "0 - 0",
+    "team2": "All Boys",
+    "title": "Nueva Chicago VS All Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843733/all-boys-nueva-chicago"
+  },
+  {
+    "gameId": "401843726",
+    "date": "Sunday, March 29, 2026",
+    "team1": "Chacarita Juniors",
+    "score": "0 - 3",
+    "team2": "Estudiantes (Buenos Aires)",
+    "title": "Chacarita Juniors VS Estudiantes (Buenos Aires)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843726/estudiantes-buenos-aires-chacarita-juniors"
+  },
+  {
+    "gameId": "401843739",
+    "date": "Sunday, March 29, 2026",
+    "team1": "Deportivo Madryn",
+    "score": "1 - 1",
+    "team2": "San Martín (Tucumán)",
+    "title": "Deportivo Madryn VS San Martín (Tucumán)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843739/san-martin-tucuman-deportivo-madryn"
+  },
+  {
+    "gameId": "401843732",
+    "date": "Sunday, March 29, 2026",
+    "team1": "Patronato",
+    "score": "0 - 2",
+    "team2": "Colón (Santa Fe)",
+    "title": "Patronato VS Colón (Santa Fe)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843732/colon-santa-fe-patronato"
+  },
+  {
+    "gameId": "401843724",
+    "date": "Sunday, March 29, 2026",
+    "team1": "San Telmo",
+    "score": "0 - 3",
+    "team2": "Quilmes",
+    "title": "San Telmo VS Quilmes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843724/quilmes-san-telmo"
+  },
+  {
+    "gameId": "401843738",
+    "date": "Sunday, March 29, 2026",
+    "team1": "Deportivo Maipú",
+    "score": "0 - 1",
+    "team2": "Godoy Cruz Antonio Tomba",
+    "title": "Deportivo Maipú VS Godoy Cruz Antonio Tomba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843738/godoy-cruz-antonio-tomba-deportivo-maipu"
+  },
+  {
+    "gameId": "401843735",
+    "date": "Sunday, March 29, 2026",
+    "team1": "Güemes",
+    "score": "2 - 2",
+    "team2": "Mitre (Santiago del Estero)",
+    "title": "Güemes VS Mitre (Santiago del Estero)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843735/mitre-santiago-del-estero-guemes"
+  },
+  {
+    "gameId": "401843736",
+    "date": "Sunday, March 29, 2026",
+    "team1": "Gimnasia y Tiro (Salta)",
+    "score": "0 - 1",
+    "team2": "Central Norte",
+    "title": "Gimnasia y Tiro (Salta) VS Central Norte",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843736/central-norte-gimnasia-y-tiro-salta"
   }
 ]
