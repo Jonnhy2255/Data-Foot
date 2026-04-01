@@ -88,5 +88,23 @@
     "team2": "Londrina",
     "title": "Novorizontino VS Londrina",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860067/londrina-novorizontino"
+  },
+  {
+    "gameId": "401860081",
+    "date": "Tuesday, March 31, 2026",
+    "team1": "Juventude",
+    "score": "0 - 0",
+    "team2": "Novorizontino",
+    "title": "Juventude VS Novorizontino",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860081/novorizontino-juventude"
+  },
+  {
+    "gameId": "401860077",
+    "date": "Tuesday, March 31, 2026",
+    "team1": "Fortaleza",
+    "score": "0 - 0",
+    "team2": "Cuiabá",
+    "title": "Fortaleza VS Cuiabá",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860077/cuiaba-fortaleza"
   }
 ]
