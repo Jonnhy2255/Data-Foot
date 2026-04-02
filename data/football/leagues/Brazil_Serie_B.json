@@ -106,5 +106,41 @@
     "team2": "Cuiabá",
     "title": "Fortaleza VS Cuiabá",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860077/cuiaba-fortaleza"
+  },
+  {
+    "gameId": "401860072",
+    "date": "20260331",
+    "team1": "América Mineiro",
+    "score": "1 - 2",
+    "team2": "Botafogo-SP",
+    "title": "América Mineiro VS Botafogo-SP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860072/botafogo-sp-america-mineiro"
+  },
+  {
+    "gameId": "401860080",
+    "date": "20260331",
+    "team1": "Atlético Goianiense",
+    "score": "1 - 2",
+    "team2": "Náutico",
+    "title": "Atlético Goianiense VS Náutico",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860080/nautico-atletico-goianiense"
+  },
+  {
+    "gameId": "401860075",
+    "date": "20260331",
+    "team1": "Londrina",
+    "score": "2 - 2",
+    "team2": "Goiás",
+    "title": "Londrina VS Goiás",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860075/goias-londrina"
+  },
+  {
+    "gameId": "401860073",
+    "date": "20260331",
+    "team1": "Sport",
+    "score": "1 - 1",
+    "team2": "Vila Nova",
+    "title": "Sport VS Vila Nova",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860073/vila-nova-sport"
   }
 ]

@@ -718,5 +718,23 @@
     "team2": "Kawasaki Frontale",
     "title": "Machida Zelvia VS Kawasaki Frontale",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859296/kawasaki-frontale-machida-zelvia"
+  },
+  {
+    "gameId": "401859347",
+    "date": "Wednesday, April 1, 2026",
+    "team1": "Machida Zelvia",
+    "score": "0 - 3",
+    "team2": "FC Tokyo",
+    "title": "Machida Zelvia VS FC Tokyo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859347/fc-tokyo-machida-zelvia"
+  },
+  {
+    "gameId": "401859349",
+    "date": "Wednesday, April 1, 2026",
+    "team1": "Vissel Kobe",
+    "score": "2 - 0",
+    "team2": "Shimizu S-Pulse",
+    "title": "Vissel Kobe VS Shimizu S-Pulse",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859349/shimizu-s-pulse-vissel-kobe"
   }
 ]
