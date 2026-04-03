@@ -142,5 +142,41 @@
     "team2": "Vila Nova",
     "title": "Sport VS Vila Nova",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860073/vila-nova-sport"
+  },
+  {
+    "gameId": "401860074",
+    "date": "Wednesday, April 1, 2026",
+    "team1": "Ponte Preta",
+    "score": "1 - 1",
+    "team2": "Ceará",
+    "title": "Ponte Preta VS Ceará",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860074/ceara-ponte-preta"
+  },
+  {
+    "gameId": "401860079",
+    "date": "Wednesday, April 1, 2026",
+    "team1": "CRB",
+    "score": "0 - 1",
+    "team2": "Avaí",
+    "title": "CRB VS Avaí",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860079/avai-crb"
+  },
+  {
+    "gameId": "401860078",
+    "date": "Wednesday, April 1, 2026",
+    "team1": "Criciúma",
+    "score": "1 - 1",
+    "team2": "Athletic",
+    "title": "Criciúma VS Athletic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860078/athletic-criciuma"
+  },
+  {
+    "gameId": "401860076",
+    "date": "Thursday, April 2, 2026",
+    "team1": "São Bernardo",
+    "score": "1 - 2",
+    "team2": "Operário PR",
+    "title": "São Bernardo VS Operário PR",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860076/operario-pr-sao-bernardo"
   }
 ]

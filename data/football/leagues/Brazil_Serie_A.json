@@ -727,5 +727,41 @@
     "team2": "Vitória",
     "title": "Cruzeiro VS Vitória",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841055/vitoria-cruzeiro"
+  },
+  {
+    "gameId": "401841048",
+    "date": "Wednesday, April 1, 2026",
+    "team1": "Coritiba",
+    "score": "1 - 1",
+    "team2": "Vasco da Gama",
+    "title": "Coritiba VS Vasco da Gama",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841048/vasco-da-gama-coritiba"
+  },
+  {
+    "gameId": "401841054",
+    "date": "Wednesday, April 1, 2026",
+    "team1": "Fluminense",
+    "score": "3 - 1",
+    "team2": "Corinthians",
+    "title": "Fluminense VS Corinthians",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841054/corinthians-fluminense"
+  },
+  {
+    "gameId": "401841049",
+    "date": "20260401",
+    "team1": "Chapecoense",
+    "score": "0 - 4",
+    "team2": "Atlético-MG",
+    "title": "Chapecoense VS Atlético-MG",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841049/atletico-mg-chapecoense"
+  },
+  {
+    "gameId": "401841050",
+    "date": "20260401",
+    "team1": "Santos",
+    "score": "2 - 0",
+    "team2": "Remo",
+    "title": "Santos VS Remo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841050/remo-santos"
   }
 ]
