@@ -763,5 +763,23 @@
     "team2": "Remo",
     "title": "Santos VS Remo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841050/remo-santos"
+  },
+  {
+    "gameId": "401841052",
+    "date": "Thursday, April 2, 2026",
+    "team1": "Palmeiras",
+    "score": "2 - 1",
+    "team2": "Grêmio",
+    "title": "Palmeiras VS Grêmio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841052/gremio-palmeiras"
+  },
+  {
+    "gameId": "401841051",
+    "date": "Thursday, April 2, 2026",
+    "team1": "Red Bull Bragantino",
+    "score": "3 - 0",
+    "team2": "Flamengo",
+    "title": "Red Bull Bragantino VS Flamengo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841051/flamengo-red-bull-bragantino"
   }
 ]

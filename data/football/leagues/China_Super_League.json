@@ -214,5 +214,14 @@
     "team2": "Shandong Taishan",
     "title": "Yunnan Yukun VS Shandong Taishan",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861331/shandong-taishan-yunnan-yukun"
+  },
+  {
+    "gameId": "401861332",
+    "date": "Friday, April 3, 2026",
+    "team1": "Chengdu Rongcheng",
+    "score": "5 - 1",
+    "team2": "Qingdao West Coast",
+    "title": "Chengdu Rongcheng VS Qingdao West Coast",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861332/qingdao-west-coast-chengdu-rongcheng"
   }
 ]

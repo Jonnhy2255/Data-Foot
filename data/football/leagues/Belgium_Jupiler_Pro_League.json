@@ -718,5 +718,14 @@
     "team2": "Royal Charleroi SC",
     "title": "Zulte-Waregem VS Royal Charleroi SC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/742773/royal-charleroi-sc-zulte-waregem"
+  },
+  {
+    "gameId": "401866261",
+    "date": "Friday, April 3, 2026",
+    "team1": "Antwerp",
+    "score": "1 - 2",
+    "team2": "Racing Genk",
+    "title": "Antwerp VS Racing Genk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866261/racing-genk-antwerp"
   }
 ]

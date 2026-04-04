@@ -646,5 +646,23 @@
     "team2": "Sport Huancayo",
     "title": "Sport Boys VS Sport Huancayo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857441/sport-huancayo-sport-boys"
+  },
+  {
+    "gameId": "401857449",
+    "date": "20260402",
+    "team1": "Sporting Cristal",
+    "score": "1 - 2",
+    "team2": "Deportivo Moquegua",
+    "title": "Sporting Cristal VS Deportivo Moquegua",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857449/deportivo-moquegua-sporting-cristal"
+  },
+  {
+    "gameId": "401857442",
+    "date": "20260402",
+    "team1": "Alianza Atlético",
+    "score": "2 - 2",
+    "team2": "Atlético Grau",
+    "title": "Alianza Atlético VS Atlético Grau",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857442/atletico-grau-alianza-atletico"
   }
 ]

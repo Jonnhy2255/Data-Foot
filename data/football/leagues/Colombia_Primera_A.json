@@ -1267,5 +1267,23 @@
     "team2": "Bucaramanga",
     "title": "América de Cali VS Bucaramanga",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850853/bucaramanga-america-de-cali"
+  },
+  {
+    "gameId": "401850854",
+    "date": "Thursday, April 2, 2026",
+    "team1": "Jaguares de Córdoba",
+    "score": "1 - 0",
+    "team2": "Millonarios",
+    "title": "Jaguares de Córdoba VS Millonarios",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850854/millonarios-jaguares-de-cordoba"
+  },
+  {
+    "gameId": "401850855",
+    "date": "Thursday, April 2, 2026",
+    "team1": "Once Caldas",
+    "score": "1 - 1",
+    "team2": "Independiente Medellín",
+    "title": "Once Caldas VS Independiente Medellín",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850855/independiente-medellin-once-caldas"
   }
 ]

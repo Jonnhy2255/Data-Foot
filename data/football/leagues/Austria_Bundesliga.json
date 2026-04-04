@@ -376,5 +376,14 @@
     "team2": "LASK Linz",
     "title": "Rapid Vienna VS LASK Linz",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401863966/lask-linz-rapid-vienna"
+  },
+  {
+    "gameId": "401863967",
+    "date": "Friday, April 3, 2026",
+    "team1": "SV Josko Ried",
+    "score": "3 - 2",
+    "team2": "SC Rheindorf Altach",
+    "title": "SV Josko Ried VS SC Rheindorf Altach",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401863967/sc-rheindorf-altach-sv-josko-ried"
   }
 ]

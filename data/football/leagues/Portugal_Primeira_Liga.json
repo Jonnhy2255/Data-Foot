@@ -934,5 +934,32 @@
     "team2": "FC Porto",
     "title": "Braga VS FC Porto",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750487/fc-porto-braga"
+  },
+  {
+    "gameId": "750494",
+    "date": "Friday, April 3, 2026",
+    "team1": "Gil Vicente",
+    "score": "3 - 0",
+    "team2": "AVS",
+    "title": "Gil Vicente VS AVS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750494/avs-gil-vicente"
+  },
+  {
+    "gameId": "750497",
+    "date": "Friday, April 3, 2026",
+    "team1": "Vitória de Guimaraes",
+    "score": "5 - 0",
+    "team2": "Tondela",
+    "title": "Vitória de Guimaraes VS Tondela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750497/tondela-vitoria-de-guimaraes"
+  },
+  {
+    "gameId": "750495",
+    "date": "Friday, April 3, 2026",
+    "team1": "Sporting CP",
+    "score": "4 - 2",
+    "team2": "Santa Clara",
+    "title": "Sporting CP VS Santa Clara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750495/santa-clara-sporting-cp"
   }
 ]

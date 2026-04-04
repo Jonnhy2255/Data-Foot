@@ -1294,5 +1294,32 @@
     "team2": "Al Okhdood",
     "title": "Al Shabab VS Al Okhdood",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756130/al-okhdood-al-shabab"
+  },
+  {
+    "gameId": "756143",
+    "date": "Friday, April 3, 2026",
+    "team1": "Al Kholood",
+    "score": "2 - 2",
+    "team2": "Al Khaleej",
+    "title": "Al Kholood VS Al Khaleej",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756143/al-khaleej-al-kholood"
+  },
+  {
+    "gameId": "756141",
+    "date": "Friday, April 3, 2026",
+    "team1": "Al Ittihad",
+    "score": "1 - 0",
+    "team2": "Al Hazem",
+    "title": "Al Ittihad VS Al Hazem",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756141/al-hazem-al-ittihad"
+  },
+  {
+    "gameId": "756138",
+    "date": "Friday, April 3, 2026",
+    "team1": "Al Nassr",
+    "score": "5 - 2",
+    "team2": "Al Najma",
+    "title": "Al Nassr VS Al Najma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756138/al-najma-al-nassr"
   }
 ]

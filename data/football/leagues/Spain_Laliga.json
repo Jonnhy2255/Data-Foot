@@ -1069,5 +1069,14 @@
     "team2": "Atlético Madrid",
     "title": "Real Madrid VS Atlético Madrid",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748433/atletico-madrid-real-madrid"
+  },
+  {
+    "gameId": "748443",
+    "date": "Friday, April 3, 2026",
+    "team1": "Rayo Vallecano",
+    "score": "1 - 0",
+    "team2": "Elche",
+    "title": "Rayo Vallecano VS Elche",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748443/elche-rayo-vallecano"
   }
 ]
