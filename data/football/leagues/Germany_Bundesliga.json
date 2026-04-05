@@ -970,5 +970,68 @@
     "team2": "VfB Stuttgart",
     "title": "FC Augsburg VS VfB Stuttgart",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746953/vfb-stuttgart-fc-augsburg"
+  },
+  {
+    "gameId": "746962",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Bayer Leverkusen",
+    "score": "6 - 3",
+    "team2": "VfL Wolfsburg",
+    "title": "Bayer Leverkusen VS VfL Wolfsburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746962/vfl-wolfsburg-bayer-leverkusen"
+  },
+  {
+    "gameId": "746963",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Borussia Mönchengladbach",
+    "score": "2 - 2",
+    "team2": "1. FC Heidenheim 1846",
+    "title": "Borussia Mönchengladbach VS 1. FC Heidenheim 1846",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746963/1-fc-heidenheim-1846-borussia-monchengladbach"
+  },
+  {
+    "gameId": "746969",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Hamburg SV",
+    "score": "1 - 1",
+    "team2": "FC Augsburg",
+    "title": "Hamburg SV VS FC Augsburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746969/fc-augsburg-hamburg-sv"
+  },
+  {
+    "gameId": "746966",
+    "date": "Saturday, April 4, 2026",
+    "team1": "SC Freiburg",
+    "score": "2 - 3",
+    "team2": "Bayern Munich",
+    "title": "SC Freiburg VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746966/bayern-munich-sc-freiburg"
+  },
+  {
+    "gameId": "746968",
+    "date": "Saturday, April 4, 2026",
+    "team1": "TSG Hoffenheim",
+    "score": "1 - 2",
+    "team2": "Mainz",
+    "title": "TSG Hoffenheim VS Mainz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746968/mainz-tsg-hoffenheim"
+  },
+  {
+    "gameId": "746967",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Werder Bremen",
+    "score": "1 - 2",
+    "team2": "RB Leipzig",
+    "title": "Werder Bremen VS RB Leipzig",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746967/rb-leipzig-werder-bremen"
+  },
+  {
+    "gameId": "746964",
+    "date": "Saturday, April 4, 2026",
+    "team1": "VfB Stuttgart",
+    "score": "0 - 2",
+    "team2": "Borussia Dortmund",
+    "title": "VfB Stuttgart VS Borussia Dortmund",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746964/borussia-dortmund-vfb-stuttgart"
   }
 ]

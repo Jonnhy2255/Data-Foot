@@ -898,5 +898,50 @@
     "team2": "PSV Eindhoven",
     "title": "Telstar VS PSV Eindhoven",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741223/psv-eindhoven-telstar"
+  },
+  {
+    "gameId": "741234",
+    "date": "Saturday, April 4, 2026",
+    "team1": "PSV Eindhoven",
+    "score": "4 - 3",
+    "team2": "FC Utrecht",
+    "title": "PSV Eindhoven VS FC Utrecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741234/fc-utrecht-psv-eindhoven"
+  },
+  {
+    "gameId": "741235",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Telstar",
+    "score": "0 - 2",
+    "team2": "FC Groningen",
+    "title": "Telstar VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741235/fc-groningen-telstar"
+  },
+  {
+    "gameId": "741231",
+    "date": "Saturday, April 4, 2026",
+    "team1": "AZ Alkmaar",
+    "score": "2 - 0",
+    "team2": "Fortuna Sittard",
+    "title": "AZ Alkmaar VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741231/fortuna-sittard-az-alkmaar"
+  },
+  {
+    "gameId": "741230",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Ajax Amsterdam",
+    "score": "1 - 2",
+    "team2": "FC Twente",
+    "title": "Ajax Amsterdam VS FC Twente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741230/fc-twente-ajax-amsterdam"
+  },
+  {
+    "gameId": "741229",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Excelsior",
+    "score": "0 - 2",
+    "team2": "NEC Nijmegen",
+    "title": "Excelsior VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741229/nec-nijmegen-excelsior"
   }
 ]

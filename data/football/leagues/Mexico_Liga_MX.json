@@ -961,5 +961,50 @@
     "team2": "Tigres UANL",
     "title": "FC Juarez VS Tigres UANL",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840922/tigres-uanl-fc-juarez"
+  },
+  {
+    "gameId": "401840923",
+    "date": "Friday, April 3, 2026",
+    "team1": "Puebla",
+    "score": "1 - 1",
+    "team2": "FC Juarez",
+    "title": "Puebla VS FC Juarez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840923/fc-juarez-puebla"
+  },
+  {
+    "gameId": "401840924",
+    "date": "Friday, April 3, 2026",
+    "team1": "Necaxa",
+    "score": "2 - 1",
+    "team2": "Mazatlán FC",
+    "title": "Necaxa VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840924/mazatlan-fc-necaxa"
+  },
+  {
+    "gameId": "401840925",
+    "date": "Friday, April 3, 2026",
+    "team1": "Tijuana",
+    "score": "1 - 0",
+    "team2": "Tigres UANL",
+    "title": "Tijuana VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840925/tigres-uanl-tijuana"
+  },
+  {
+    "gameId": "401840926",
+    "date": "20260403",
+    "team1": "Monterrey",
+    "score": "1 - 2",
+    "team2": "Atlético de San Luis",
+    "title": "Monterrey VS Atlético de San Luis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840926/atletico-de-san-luis-monterrey"
+  },
+  {
+    "gameId": "401840930",
+    "date": "20260403",
+    "team1": "Querétaro",
+    "score": "1 - 0",
+    "team2": "Toluca",
+    "title": "Querétaro VS Toluca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840930/toluca-queretaro"
   }
 ]

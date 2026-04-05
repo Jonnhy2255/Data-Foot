@@ -664,5 +664,32 @@
     "team2": "Real Salt Lake",
     "title": "San Diego FC VS Real Salt Lake",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761513/real-salt-lake-san-diego-fc"
+  },
+  {
+    "gameId": "761514",
+    "date": "20260403",
+    "team1": "Toronto FC",
+    "score": "3 - 2",
+    "team2": "Colorado Rapids",
+    "title": "Toronto FC VS Colorado Rapids",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761514/colorado-rapids-toronto-fc"
+  },
+  {
+    "gameId": "761516",
+    "date": "20260403",
+    "team1": "New England Revolution",
+    "score": "3 - 0",
+    "team2": "CF Montréal",
+    "title": "New England Revolution VS CF Montréal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761516/cf-montreal-new-england-revolution"
+  },
+  {
+    "gameId": "761515",
+    "date": "20260403",
+    "team1": "Real Salt Lake",
+    "score": "3 - 1",
+    "team2": "Sporting Kansas City",
+    "title": "Real Salt Lake VS Sporting Kansas City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761515/sporting-kansas-city-real-salt-lake"
   }
 ]

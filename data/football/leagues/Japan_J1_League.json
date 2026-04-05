@@ -736,5 +736,41 @@
     "team2": "Shimizu S-Pulse",
     "title": "Vissel Kobe VS Shimizu S-Pulse",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859349/shimizu-s-pulse-vissel-kobe"
+  },
+  {
+    "gameId": "401859424",
+    "date": "Saturday, April 4, 2026",
+    "team1": "JEF United Ichihara-Chiba",
+    "score": "3 - 2",
+    "team2": "Tokyo Verdy 1969",
+    "title": "JEF United Ichihara-Chiba VS Tokyo Verdy 1969",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859424/tokyo-verdy-1969-jef-united-ichihara-chiba"
+  },
+  {
+    "gameId": "401859425",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Mito Hollyhock",
+    "score": "1 - 1",
+    "team2": "Kashima Antlers",
+    "title": "Mito Hollyhock VS Kashima Antlers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859425/kashima-antlers-mito-hollyhock"
+  },
+  {
+    "gameId": "401859327",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Nagoya Grampus",
+    "score": "3 - 0",
+    "team2": "Cerezo Osaka",
+    "title": "Nagoya Grampus VS Cerezo Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859327/cerezo-osaka-nagoya-grampus"
+  },
+  {
+    "gameId": "401859328",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Gamba Osaka",
+    "score": "2 - 0",
+    "team2": "Kyoto Sanga",
+    "title": "Gamba Osaka VS Kyoto Sanga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859328/kyoto-sanga-gamba-osaka"
   }
 ]

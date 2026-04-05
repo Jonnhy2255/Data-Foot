@@ -178,5 +178,41 @@
     "team2": "Operário PR",
     "title": "São Bernardo VS Operário PR",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860076/operario-pr-sao-bernardo"
+  },
+  {
+    "gameId": "401860091",
+    "date": "20260403",
+    "team1": "Fortaleza",
+    "score": "2 - 1",
+    "team2": "Juventude",
+    "title": "Fortaleza VS Juventude",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860091/juventude-fortaleza"
+  },
+  {
+    "gameId": "401860087",
+    "date": "20260403",
+    "team1": "Cuiabá",
+    "score": "0 - 2",
+    "team2": "Ceará",
+    "title": "Cuiabá VS Ceará",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860087/ceara-cuiaba"
+  },
+  {
+    "gameId": "401860082",
+    "date": "20260403",
+    "team1": "Náutico",
+    "score": "1 - 0",
+    "team2": "Ponte Preta",
+    "title": "Náutico VS Ponte Preta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860082/ponte-preta-nautico"
+  },
+  {
+    "gameId": "401860086",
+    "date": "20260403",
+    "team1": "Vila Nova",
+    "score": "2 - 1",
+    "team2": "Atlético Goianiense",
+    "title": "Vila Nova VS Atlético Goianiense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860086/atletico-goianiense-vila-nova"
   }
 ]

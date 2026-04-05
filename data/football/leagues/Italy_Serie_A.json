@@ -1249,5 +1249,32 @@
     "team2": "Internazionale",
     "title": "Fiorentina VS Internazionale",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737079/internazionale-fiorentina"
+  },
+  {
+    "gameId": "737084",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Sassuolo",
+    "score": "2 - 1",
+    "team2": "Cagliari",
+    "title": "Sassuolo VS Cagliari",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737084/cagliari-sassuolo"
+  },
+  {
+    "gameId": "737091",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Hellas Verona",
+    "score": "0 - 1",
+    "team2": "Fiorentina",
+    "title": "Hellas Verona VS Fiorentina",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737091/fiorentina-hellas-verona"
+  },
+  {
+    "gameId": "737093",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Lazio",
+    "score": "1 - 1",
+    "team2": "Parma",
+    "title": "Lazio VS Parma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737093/parma-lazio"
   }
 ]

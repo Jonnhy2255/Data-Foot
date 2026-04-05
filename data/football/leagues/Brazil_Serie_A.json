@@ -781,5 +781,14 @@
     "team2": "Flamengo",
     "title": "Red Bull Bragantino VS Flamengo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841051/flamengo-red-bull-bragantino"
+  },
+  {
+    "gameId": "401841059",
+    "date": "20260403",
+    "team1": "São Paulo",
+    "score": "4 - 1",
+    "team2": "Cruzeiro",
+    "title": "São Paulo VS Cruzeiro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841059/cruzeiro-sao-paulo"
   }
 ]

@@ -1078,5 +1078,41 @@
     "team2": "Elche",
     "title": "Rayo Vallecano VS Elche",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748443/elche-rayo-vallecano"
+  },
+  {
+    "gameId": "748442",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Real Sociedad",
+    "score": "2 - 0",
+    "team2": "Levante",
+    "title": "Real Sociedad VS Levante",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748442/levante-real-sociedad"
+  },
+  {
+    "gameId": "748437",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Mallorca",
+    "score": "2 - 1",
+    "team2": "Real Madrid",
+    "title": "Mallorca VS Real Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748437/real-madrid-mallorca"
+  },
+  {
+    "gameId": "748439",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Real Betis",
+    "score": "0 - 0",
+    "team2": "Espanyol",
+    "title": "Real Betis VS Espanyol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748439/espanyol-real-betis"
+  },
+  {
+    "gameId": "748434",
+    "date": "Saturday, April 4, 2026",
+    "team1": "Atlético Madrid",
+    "score": "1 - 2",
+    "team2": "Barcelona",
+    "title": "Atlético Madrid VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748434/barcelona-atletico-madrid"
   }
 ]

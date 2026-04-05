@@ -664,5 +664,32 @@
     "team2": "Atlético Grau",
     "title": "Alianza Atlético VS Atlético Grau",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857442/atletico-grau-alianza-atletico"
+  },
+  {
+    "gameId": "401857444",
+    "date": "Friday, April 3, 2026",
+    "team1": "Cienciano del Cusco",
+    "score": "3 - 2",
+    "team2": "ADT",
+    "title": "Cienciano del Cusco VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857444/adt-cienciano-del-cusco"
+  },
+  {
+    "gameId": "401857445",
+    "date": "20260403",
+    "team1": "Deportivo Garcilaso",
+    "score": "3 - 2",
+    "team2": "Sport Boys",
+    "title": "Deportivo Garcilaso VS Sport Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857445/sport-boys-deportivo-garcilaso"
+  },
+  {
+    "gameId": "401857447",
+    "date": "20260403",
+    "team1": "Melgar",
+    "score": "1 - 3",
+    "team2": "Cusco FC",
+    "title": "Melgar VS Cusco FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857447/cusco-fc-melgar"
   }
 ]

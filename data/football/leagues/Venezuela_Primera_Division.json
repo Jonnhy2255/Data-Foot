@@ -583,5 +583,32 @@
     "team2": "Universidad Central",
     "title": "Academia Anzoátegui VS Universidad Central",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850491/universidad-central-academia-anzoategui"
+  },
+  {
+    "gameId": "401850489",
+    "date": "Friday, April 3, 2026",
+    "team1": "Caracas FC",
+    "score": "1 - 0",
+    "team2": "Metropolitanos FC",
+    "title": "Caracas FC VS Metropolitanos FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850489/metropolitanos-fc-caracas-fc"
+  },
+  {
+    "gameId": "401850483",
+    "date": "20260403",
+    "team1": "Deportivo Rayo Zuliano",
+    "score": "3 - 1",
+    "team2": "Trujillanos",
+    "title": "Deportivo Rayo Zuliano VS Trujillanos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850483/trujillanos-deportivo-rayo-zuliano"
+  },
+  {
+    "gameId": "401850494",
+    "date": "20260403",
+    "team1": "Zamora",
+    "score": "2 - 1",
+    "team2": "Monagas SC",
+    "title": "Zamora VS Monagas SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850494/monagas-sc-zamora"
   }
 ]
