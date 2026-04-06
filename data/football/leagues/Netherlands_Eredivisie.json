@@ -943,5 +943,41 @@
     "team2": "NEC Nijmegen",
     "title": "Excelsior VS NEC Nijmegen",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741229/nec-nijmegen-excelsior"
+  },
+  {
+    "gameId": "741236",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Go Ahead Eagles",
+    "score": "5 - 0",
+    "team2": "PEC Zwolle",
+    "title": "Go Ahead Eagles VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741236/pec-zwolle-go-ahead-eagles"
+  },
+  {
+    "gameId": "741228",
+    "date": "Sunday, April 5, 2026",
+    "team1": "FC Volendam",
+    "score": "0 - 0",
+    "team2": "Feyenoord Rotterdam",
+    "title": "FC Volendam VS Feyenoord Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741228/feyenoord-rotterdam-fc-volendam"
+  },
+  {
+    "gameId": "741232",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Heerenveen",
+    "score": "4 - 1",
+    "team2": "Heracles Almelo",
+    "title": "Heerenveen VS Heracles Almelo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741232/heracles-almelo-heerenveen"
+  },
+  {
+    "gameId": "741233",
+    "date": "Sunday, April 5, 2026",
+    "team1": "NAC Breda",
+    "score": "0 - 0",
+    "team2": "Sparta Rotterdam",
+    "title": "NAC Breda VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741233/sparta-rotterdam-nac-breda"
   }
 ]

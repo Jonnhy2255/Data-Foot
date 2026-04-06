@@ -1114,5 +1114,41 @@
     "team2": "Barcelona",
     "title": "Atlético Madrid VS Barcelona",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748434/barcelona-atletico-madrid"
+  },
+  {
+    "gameId": "748435",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Getafe",
+    "score": "2 - 0",
+    "team2": "Athletic Club",
+    "title": "Getafe VS Athletic Club",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748435/athletic-club-getafe"
+  },
+  {
+    "gameId": "748440",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Valencia",
+    "score": "2 - 3",
+    "team2": "Celta Vigo",
+    "title": "Valencia VS Celta Vigo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748440/celta-vigo-valencia"
+  },
+  {
+    "gameId": "748441",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Real Oviedo",
+    "score": "1 - 0",
+    "team2": "Sevilla",
+    "title": "Real Oviedo VS Sevilla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748441/sevilla-real-oviedo"
+  },
+  {
+    "gameId": "748438",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Alavés",
+    "score": "2 - 2",
+    "team2": "Osasuna",
+    "title": "Alavés VS Osasuna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748438/osasuna-alaves"
   }
 ]

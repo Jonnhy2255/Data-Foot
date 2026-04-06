@@ -754,5 +754,14 @@
     "team2": "Sint-Truidense",
     "title": "Union St.-Gilloise VS Sint-Truidense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866264/sint-truidense-union-st-gilloise"
+  },
+  {
+    "gameId": "401866265",
+    "date": "Sunday, April 5, 2026",
+    "team1": "KVC Westerlo",
+    "score": "2 - 0",
+    "team2": "Royal Charleroi SC",
+    "title": "KVC Westerlo VS Royal Charleroi SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866265/royal-charleroi-sc-kvc-westerlo"
   }
 ]

@@ -547,5 +547,23 @@
     "team2": "Ñublense",
     "title": "Everton CD VS Ñublense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850535/nublense-everton-cd"
+  },
+  {
+    "gameId": "401850537",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Deportes Concepcion",
+    "score": "0 - 1",
+    "team2": "Colo Colo",
+    "title": "Deportes Concepcion VS Colo Colo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850537/colo-colo-deportes-concepcion"
+  },
+  {
+    "gameId": "401850539",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Universidad de Chile",
+    "score": "4 - 0",
+    "team2": "La Serena",
+    "title": "Universidad de Chile VS La Serena",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850539/la-serena-universidad-de-chile"
   }
 ]

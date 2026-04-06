@@ -826,5 +826,41 @@
     "team2": "Galatasaray",
     "title": "Trabzonspor VS Galatasaray",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750164/galatasaray-trabzonspor"
+  },
+  {
+    "gameId": "750162",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Fatih Karagümrük",
+    "score": "2 - 1",
+    "team2": "Caykur Rizespor",
+    "title": "Fatih Karagümrük VS Caykur Rizespor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750162/caykur-rizespor-fatih-karagumruk"
+  },
+  {
+    "gameId": "750168",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Samsunspor",
+    "score": "2 - 2",
+    "team2": "Konyaspor",
+    "title": "Samsunspor VS Konyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750168/konyaspor-samsunspor"
+  },
+  {
+    "gameId": "750161",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Antalyaspor",
+    "score": "3 - 0",
+    "team2": "Eyupspor",
+    "title": "Antalyaspor VS Eyupspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750161/eyupspor-antalyaspor"
+  },
+  {
+    "gameId": "750163",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Fenerbahce",
+    "score": "1 - 0",
+    "team2": "Besiktas",
+    "title": "Fenerbahce VS Besiktas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750163/besiktas-fenerbahce"
   }
 ]

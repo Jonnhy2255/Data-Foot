@@ -1033,5 +1033,23 @@
     "team2": "Borussia Dortmund",
     "title": "VfB Stuttgart VS Borussia Dortmund",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746964/borussia-dortmund-vfb-stuttgart"
+  },
+  {
+    "gameId": "746961",
+    "date": "Sunday, April 5, 2026",
+    "team1": "1. FC Union Berlin",
+    "score": "1 - 1",
+    "team2": "St. Pauli",
+    "title": "1. FC Union Berlin VS St. Pauli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746961/st-pauli-1-fc-union-berlin"
+  },
+  {
+    "gameId": "746965",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Eintracht Frankfurt",
+    "score": "2 - 2",
+    "team2": "FC Cologne",
+    "title": "Eintracht Frankfurt VS FC Cologne",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746965/fc-cologne-eintracht-frankfurt"
   }
 ]
