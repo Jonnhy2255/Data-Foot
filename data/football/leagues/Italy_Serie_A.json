@@ -1303,5 +1303,41 @@
     "team2": "AS Roma",
     "title": "Internazionale VS AS Roma",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737090/as-roma-internazionale"
+  },
+  {
+    "gameId": "737088",
+    "date": "Monday, April 6, 2026",
+    "team1": "Udinese",
+    "score": "0 - 0",
+    "team2": "Como",
+    "title": "Udinese VS Como",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737088/como-udinese"
+  },
+  {
+    "gameId": "737087",
+    "date": "Monday, April 6, 2026",
+    "team1": "Lecce",
+    "score": "0 - 3",
+    "team2": "Atalanta",
+    "title": "Lecce VS Atalanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737087/atalanta-lecce"
+  },
+  {
+    "gameId": "737089",
+    "date": "Monday, April 6, 2026",
+    "team1": "Juventus",
+    "score": "2 - 0",
+    "team2": "Genoa",
+    "title": "Juventus VS Genoa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737089/genoa-juventus"
+  },
+  {
+    "gameId": "737086",
+    "date": "Monday, April 6, 2026",
+    "team1": "Napoli",
+    "score": "1 - 0",
+    "team2": "AC Milan",
+    "title": "Napoli VS AC Milan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737086/ac-milan-napoli"
   }
 ]

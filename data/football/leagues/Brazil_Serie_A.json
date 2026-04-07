@@ -862,5 +862,14 @@
     "team2": "Red Bull Bragantino",
     "title": "Mirassol VS Red Bull Bragantino",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841060/red-bull-bragantino-mirassol"
+  },
+  {
+    "gameId": "401841061",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Grêmio",
+    "score": "0 - 0",
+    "team2": "Remo",
+    "title": "Grêmio VS Remo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841061/remo-gremio"
   }
 ]

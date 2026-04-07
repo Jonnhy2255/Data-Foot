@@ -250,5 +250,14 @@
     "team2": "América Mineiro",
     "title": "Athletic VS América Mineiro",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860090/america-mineiro-athletic"
+  },
+  {
+    "gameId": "401860088",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Botafogo-SP",
+    "score": "1 - 2",
+    "team2": "São Bernardo",
+    "title": "Botafogo-SP VS São Bernardo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860088/sao-bernardo-botafogo-sp"
   }
 ]

@@ -349,5 +349,14 @@
     "team2": "Lokomotiv Moscow",
     "title": "Spartak Moscow VS Lokomotiv Moscow",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743680/lokomotiv-moscow-spartak-moscow"
+  },
+  {
+    "gameId": "743679",
+    "date": "Monday, April 6, 2026",
+    "team1": "Sochi",
+    "score": "0 - 1",
+    "team2": "Rubin Kazan",
+    "title": "Sochi VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743679/rubin-kazan-sochi"
   }
 ]

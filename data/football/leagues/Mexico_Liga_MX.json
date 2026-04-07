@@ -1033,5 +1033,14 @@
     "team2": "América",
     "title": "Santos VS América",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840929/america-santos"
+  },
+  {
+    "gameId": "401840931",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Guadalajara",
+    "score": "2 - 2",
+    "team2": "Pumas UNAM",
+    "title": "Guadalajara VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840931/pumas-unam-guadalajara"
   }
 ]

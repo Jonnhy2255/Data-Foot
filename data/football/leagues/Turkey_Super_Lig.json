@@ -862,5 +862,14 @@
     "team2": "Besiktas",
     "title": "Fenerbahce VS Besiktas",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750163/besiktas-fenerbahce"
+  },
+  {
+    "gameId": "750167",
+    "date": "Monday, April 6, 2026",
+    "team1": "Kocaelispor",
+    "score": "0 - 0",
+    "team2": "Istanbul Basaksehir",
+    "title": "Kocaelispor VS Istanbul Basaksehir",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750167/istanbul-basaksehir-kocaelispor"
   }
 ]

@@ -763,5 +763,32 @@
     "team2": "Royal Charleroi SC",
     "title": "KVC Westerlo VS Royal Charleroi SC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866265/royal-charleroi-sc-kvc-westerlo"
+  },
+  {
+    "gameId": "401866266",
+    "date": "Monday, April 6, 2026",
+    "team1": "Club Brugge",
+    "score": "4 - 2",
+    "team2": "Anderlecht",
+    "title": "Club Brugge VS Anderlecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866266/anderlecht-club-brugge"
+  },
+  {
+    "gameId": "401866267",
+    "date": "Monday, April 6, 2026",
+    "team1": "RAAL La Louvière",
+    "score": "0 - 1",
+    "team2": "Dender",
+    "title": "RAAL La Louvière VS Dender",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866267/dender-raal-la-louviere"
+  },
+  {
+    "gameId": "401866268",
+    "date": "Monday, April 6, 2026",
+    "team1": "KAA Gent",
+    "score": "1 - 1",
+    "team2": "KV Mechelen",
+    "title": "KAA Gent VS KV Mechelen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866268/kv-mechelen-kaa-gent"
   }
 ]

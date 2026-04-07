@@ -1069,5 +1069,50 @@
     "team2": "San Telmo",
     "title": "Deportivo Morón VS San Telmo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843756/san-telmo-deportivo-moron"
+  },
+  {
+    "gameId": "401843741",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Gimnasia y Esgrima (Jujuy)",
+    "score": "2 - 0",
+    "team2": "Patronato",
+    "title": "Gimnasia y Esgrima (Jujuy) VS Patronato",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843741/patronato-gimnasia-y-esgrima-jujuy"
+  },
+  {
+    "gameId": "401843746",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Quilmes",
+    "score": "2 - 1",
+    "team2": "Deportivo Maipú",
+    "title": "Quilmes VS Deportivo Maipú",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843746/deportivo-maipu-quilmes"
+  },
+  {
+    "gameId": "401843747",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Racing (Córdoba)",
+    "score": "0 - 2",
+    "team2": "Ciudad de Bolívar",
+    "title": "Racing (Córdoba) VS Ciudad de Bolívar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843747/ciudad-de-bolivar-racing-cordoba"
+  },
+  {
+    "gameId": "401843745",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Mitre (Santiago del Estero)",
+    "score": "1 - 3",
+    "team2": "Deportivo Madryn",
+    "title": "Mitre (Santiago del Estero) VS Deportivo Madryn",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843745/deportivo-madryn-mitre-santiago-del-estero"
+  },
+  {
+    "gameId": "401843753",
+    "date": "Sunday, April 5, 2026",
+    "team1": "Atletico Rafaela",
+    "score": "1 - 2",
+    "team2": "Güemes",
+    "title": "Atletico Rafaela VS Güemes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843753/guemes-atletico-rafaela"
   }
 ]

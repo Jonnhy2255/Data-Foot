@@ -718,5 +718,14 @@
     "team2": "UTC",
     "title": "Juan Pablo II VS UTC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857446/utc-juan-pablo-ii"
+  },
+  {
+    "gameId": "401857443",
+    "date": "Monday, April 6, 2026",
+    "team1": "FC Cajamarca",
+    "score": "0 - 1",
+    "team2": "Los Chankas",
+    "title": "FC Cajamarca VS Los Chankas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857443/los-chankas-fc-cajamarca"
   }
 ]

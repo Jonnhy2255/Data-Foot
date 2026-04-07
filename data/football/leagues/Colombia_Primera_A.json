@@ -1321,5 +1321,14 @@
     "team2": "América de Cali",
     "title": "Cúcuta Deportivo VS América de Cali",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850858/america-de-cali-cucuta-deportivo"
+  },
+  {
+    "gameId": "401850764",
+    "date": "20260405",
+    "team1": "Deportivo Pereira",
+    "score": "2 - 3",
+    "team2": "Alianza FC",
+    "title": "Deportivo Pereira VS Alianza FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850764/alianza-fc-deportivo-pereira"
   }
 ]
