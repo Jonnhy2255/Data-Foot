@@ -565,5 +565,14 @@
     "team2": "La Serena",
     "title": "Universidad de Chile VS La Serena",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850539/la-serena-universidad-de-chile"
+  },
+  {
+    "gameId": "401850533",
+    "date": "Monday, April 6, 2026",
+    "team1": "Huachipato",
+    "score": "5 - 1",
+    "team2": "Universidad de Concepción",
+    "title": "Huachipato VS Universidad de Concepción",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850533/universidad-de-concepcion-huachipato"
   }
 ]

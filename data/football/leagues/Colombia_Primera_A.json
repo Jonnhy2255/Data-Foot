@@ -1330,5 +1330,23 @@
     "team2": "Alianza FC",
     "title": "Deportivo Pereira VS Alianza FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850764/alianza-fc-deportivo-pereira"
+  },
+  {
+    "gameId": "401850727",
+    "date": "Monday, April 6, 2026",
+    "team1": "Atlético Nacional",
+    "score": "2 - 1",
+    "team2": "Jaguares de Córdoba",
+    "title": "Atlético Nacional VS Jaguares de Córdoba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850727/jaguares-de-cordoba-atletico-nacional"
+  },
+  {
+    "gameId": "401850772",
+    "date": "Tuesday, April 7, 2026",
+    "team1": "Águilas Doradas",
+    "score": "2 - 1",
+    "team2": "Bucaramanga",
+    "title": "Águilas Doradas VS Bucaramanga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850772/bucaramanga-aguilas-doradas"
   }
 ]

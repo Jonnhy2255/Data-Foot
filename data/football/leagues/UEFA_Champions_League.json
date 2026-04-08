@@ -610,5 +610,23 @@
     "team2": "Atlético Madrid",
     "title": "Tottenham Hotspur VS Atlético Madrid",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401862580/atletico-madrid-tottenham-hotspur"
+  },
+  {
+    "gameId": "401862886",
+    "date": "Tuesday, April 7, 2026",
+    "team1": "Real Madrid",
+    "score": "1 - 2",
+    "team2": "Bayern Munich",
+    "title": "Real Madrid VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862886/bayern-munich-real-madrid"
+  },
+  {
+    "gameId": "401862888",
+    "date": "Tuesday, April 7, 2026",
+    "team1": "Sporting CP",
+    "score": "0 - 1",
+    "team2": "Arsenal",
+    "title": "Sporting CP VS Arsenal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862888/arsenal-sporting-cp"
   }
 ]
