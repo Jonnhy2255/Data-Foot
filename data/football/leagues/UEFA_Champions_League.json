@@ -628,5 +628,23 @@
     "team2": "Arsenal",
     "title": "Sporting CP VS Arsenal",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401862888/arsenal-sporting-cp"
+  },
+  {
+    "gameId": "401862887",
+    "date": "Wednesday, April 8, 2026",
+    "team1": "Barcelona",
+    "score": "0 - 2",
+    "team2": "Atlético Madrid",
+    "title": "Barcelona VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862887/atletico-madrid-barcelona"
+  },
+  {
+    "gameId": "401862885",
+    "date": "Wednesday, April 8, 2026",
+    "team1": "Paris Saint-Germain",
+    "score": "2 - 0",
+    "team2": "Liverpool",
+    "title": "Paris Saint-Germain VS Liverpool",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862885/liverpool-paris-saint-germain"
   }
 ]

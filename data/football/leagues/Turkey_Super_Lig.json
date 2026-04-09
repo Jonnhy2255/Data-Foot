@@ -871,5 +871,14 @@
     "team2": "Istanbul Basaksehir",
     "title": "Kocaelispor VS Istanbul Basaksehir",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750167/istanbul-basaksehir-kocaelispor"
+  },
+  {
+    "gameId": "750157",
+    "date": "Wednesday, April 8, 2026",
+    "team1": "Goztepe",
+    "score": "1 - 3",
+    "team2": "Galatasaray",
+    "title": "Goztepe VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750157/galatasaray-goztepe"
   }
 ]

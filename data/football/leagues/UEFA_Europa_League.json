@@ -610,5 +610,14 @@
     "team2": "Panathinaikos",
     "title": "Real Betis VS Panathinaikos",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401862757/panathinaikos-real-betis"
+  },
+  {
+    "gameId": "401862899",
+    "date": "Wednesday, April 8, 2026",
+    "team1": "Braga",
+    "score": "1 - 1",
+    "team2": "Real Betis",
+    "title": "Braga VS Real Betis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862899/real-betis-braga"
   }
 ]

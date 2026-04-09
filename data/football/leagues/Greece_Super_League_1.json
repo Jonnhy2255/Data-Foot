@@ -763,5 +763,32 @@
     "team2": "AEK Athens",
     "title": "Olympiacos VS AEK Athens",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866537/aek-athens-olympiacos"
+  },
+  {
+    "gameId": "401866540",
+    "date": "Wednesday, April 8, 2026",
+    "team1": "Larissa FC",
+    "score": "1 - 2",
+    "team2": "Panetolikos",
+    "title": "Larissa FC VS Panetolikos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866540/panetolikos-larissa-fc"
+  },
+  {
+    "gameId": "401866542",
+    "date": "Wednesday, April 8, 2026",
+    "team1": "Panserraikos FC",
+    "score": "0 - 0",
+    "team2": "Asteras Tripoli",
+    "title": "Panserraikos FC VS Asteras Tripoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866542/asteras-tripoli-panserraikos-fc"
+  },
+  {
+    "gameId": "401866541",
+    "date": "Wednesday, April 8, 2026",
+    "team1": "Atromitos",
+    "score": "0 - 0",
+    "team2": "Kifisia",
+    "title": "Atromitos VS Kifisia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866541/kifisia-atromitos"
   }
 ]
