@@ -1051,5 +1051,14 @@
     "team2": "FC Cologne",
     "title": "Eintracht Frankfurt VS FC Cologne",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746965/fc-cologne-eintracht-frankfurt"
+  },
+  {
+    "gameId": "746974",
+    "date": "Friday, April 10, 2026",
+    "team1": "FC Augsburg",
+    "score": "2 - 2",
+    "team2": "TSG Hoffenheim",
+    "title": "FC Augsburg VS TSG Hoffenheim",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746974/tsg-hoffenheim-fc-augsburg"
   }
 ]

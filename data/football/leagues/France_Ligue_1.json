@@ -961,5 +961,23 @@
     "team2": "Marseille",
     "title": "AS Monaco VS Marseille",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746661/marseille-as-monaco"
+  },
+  {
+    "gameId": "746670",
+    "date": "Friday, April 10, 2026",
+    "team1": "Paris FC",
+    "score": "4 - 1",
+    "team2": "AS Monaco",
+    "title": "Paris FC VS AS Monaco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746670/as-monaco-paris-fc"
+  },
+  {
+    "gameId": "746668",
+    "date": "Friday, April 10, 2026",
+    "team1": "Marseille",
+    "score": "3 - 1",
+    "team2": "Metz",
+    "title": "Marseille VS Metz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746668/metz-marseille"
   }
 ]

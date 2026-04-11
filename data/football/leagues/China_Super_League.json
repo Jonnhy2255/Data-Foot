@@ -286,5 +286,14 @@
     "team2": "Shanghai Shenhua",
     "title": "Tianjin Jinmen Tiger VS Shanghai Shenhua",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861337/shanghai-shenhua-tianjin-jinmen-tiger"
+  },
+  {
+    "gameId": "401861338",
+    "date": "Friday, April 10, 2026",
+    "team1": "Dalian Yingbo",
+    "score": "3 - 0",
+    "team2": "Zhejiang Professional FC",
+    "title": "Dalian Yingbo VS Zhejiang Professional FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861338/zhejiang-professional-fc-dalian-yingbo"
   }
 ]

@@ -430,5 +430,14 @@
     "team2": "SK Sturm Graz",
     "title": "Rapid Vienna VS SK Sturm Graz",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401864012/sk-sturm-graz-rapid-vienna"
+  },
+  {
+    "gameId": "401864013",
+    "date": "Friday, April 10, 2026",
+    "team1": "RB Salzburg",
+    "score": "2 - 3",
+    "team2": "LASK Linz",
+    "title": "RB Salzburg VS LASK Linz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864013/lask-linz-rb-salzburg"
   }
 ]
