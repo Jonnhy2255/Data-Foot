@@ -574,5 +574,32 @@
     "team2": "Universidad de Concepción",
     "title": "Huachipato VS Universidad de Concepción",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850533/universidad-de-concepcion-huachipato"
+  },
+  {
+    "gameId": "401850543",
+    "date": "Friday, April 10, 2026",
+    "team1": "O'Higgins",
+    "score": "0 - 2",
+    "team2": "Huachipato",
+    "title": "O'Higgins VS Huachipato",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850543/huachipato-ohiggins"
+  },
+  {
+    "gameId": "401850544",
+    "date": "20260410",
+    "team1": "La Serena",
+    "score": "1 - 0",
+    "team2": "Everton CD",
+    "title": "La Serena VS Everton CD",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850544/everton-cd-la-serena"
+  },
+  {
+    "gameId": "401850546",
+    "date": "20260410",
+    "team1": "Audax Italiano",
+    "score": "3 - 4",
+    "team2": "Universidad Católica",
+    "title": "Audax Italiano VS Universidad Católica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850546/universidad-catolica-audax-italiano"
   }
 ]

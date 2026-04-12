@@ -295,5 +295,41 @@
     "team2": "Zhejiang Professional FC",
     "title": "Dalian Yingbo VS Zhejiang Professional FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861338/zhejiang-professional-fc-dalian-yingbo"
+  },
+  {
+    "gameId": "401861523",
+    "date": "Saturday, April 11, 2026",
+    "team1": "Chongqing Tonglianglong",
+    "score": "2 - 1",
+    "team2": "Wuhan Three Towns",
+    "title": "Chongqing Tonglianglong VS Wuhan Three Towns",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861523/wuhan-three-towns-chongqing-tonglianglong"
+  },
+  {
+    "gameId": "401861524",
+    "date": "Saturday, April 11, 2026",
+    "team1": "Qingdao West Coast",
+    "score": "1 - 1",
+    "team2": "Liaoning Tieren",
+    "title": "Qingdao West Coast VS Liaoning Tieren",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861524/liaoning-tieren-qingdao-west-coast"
+  },
+  {
+    "gameId": "401861340",
+    "date": "Saturday, April 11, 2026",
+    "team1": "Henan Songshan Longmen",
+    "score": "0 - 1",
+    "team2": "Shandong Taishan",
+    "title": "Henan Songshan Longmen VS Shandong Taishan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861340/shandong-taishan-henan-songshan-longmen"
+  },
+  {
+    "gameId": "401861339",
+    "date": "Saturday, April 11, 2026",
+    "team1": "Shanghai Shenhua",
+    "score": "1 - 0",
+    "team2": "Shanghai Port",
+    "title": "Shanghai Shenhua VS Shanghai Port",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861339/shanghai-port-shanghai-shenhua"
   }
 ]

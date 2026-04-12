@@ -268,5 +268,41 @@
     "team2": "Criciúma",
     "title": "Goiás VS Criciúma",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860085/criciuma-goias"
+  },
+  {
+    "gameId": "401860096",
+    "date": "Friday, April 10, 2026",
+    "team1": "Criciúma",
+    "score": "1 - 0",
+    "team2": "Botafogo-SP",
+    "title": "Criciúma VS Botafogo-SP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860096/botafogo-sp-criciuma"
+  },
+  {
+    "gameId": "401860095",
+    "date": "20260410",
+    "team1": "Juventude",
+    "score": "2 - 0",
+    "team2": "Goiás",
+    "title": "Juventude VS Goiás",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860095/goias-juventude"
+  },
+  {
+    "gameId": "401860093",
+    "date": "20260410",
+    "team1": "Ponte Preta",
+    "score": "0 - 1",
+    "team2": "Vila Nova",
+    "title": "Ponte Preta VS Vila Nova",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860093/vila-nova-ponte-preta"
+  },
+  {
+    "gameId": "401860092",
+    "date": "20260410",
+    "team1": "Sport",
+    "score": "2 - 2",
+    "team2": "Avaí",
+    "title": "Sport VS Avaí",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860092/avai-sport"
   }
 ]

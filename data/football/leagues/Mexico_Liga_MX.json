@@ -1051,5 +1051,41 @@
     "team2": "FC Juarez",
     "title": "Querétaro VS FC Juarez",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840876/fc-juarez-queretaro"
+  },
+  {
+    "gameId": "401840932",
+    "date": "Friday, April 10, 2026",
+    "team1": "Puebla",
+    "score": "0 - 1",
+    "team2": "León",
+    "title": "Puebla VS León",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840932/leon-puebla"
+  },
+  {
+    "gameId": "401840933",
+    "date": "Friday, April 10, 2026",
+    "team1": "FC Juarez",
+    "score": "1 - 2",
+    "team2": "Tijuana",
+    "title": "FC Juarez VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840933/tijuana-fc-juarez"
+  },
+  {
+    "gameId": "401840934",
+    "date": "20260410",
+    "team1": "Querétaro",
+    "score": "3 - 1",
+    "team2": "Necaxa",
+    "title": "Querétaro VS Necaxa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840934/necaxa-queretaro"
+  },
+  {
+    "gameId": "401840935",
+    "date": "20260410",
+    "team1": "Tigres UANL",
+    "score": "4 - 1",
+    "team2": "Guadalajara",
+    "title": "Tigres UANL VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840935/guadalajara-tigres-uanl"
   }
 ]

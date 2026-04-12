@@ -1168,5 +1168,41 @@
     "team2": "Girona",
     "title": "Real Madrid VS Girona",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748453/girona-real-madrid"
+  },
+  {
+    "gameId": "748452",
+    "date": "Saturday, April 11, 2026",
+    "team1": "Real Sociedad",
+    "score": "3 - 3",
+    "team2": "Alavés",
+    "title": "Real Sociedad VS Alavés",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748452/alaves-real-sociedad"
+  },
+  {
+    "gameId": "748447",
+    "date": "Saturday, April 11, 2026",
+    "team1": "Elche",
+    "score": "1 - 0",
+    "team2": "Valencia",
+    "title": "Elche VS Valencia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748447/valencia-elche"
+  },
+  {
+    "gameId": "748449",
+    "date": "Saturday, April 11, 2026",
+    "team1": "Barcelona",
+    "score": "4 - 1",
+    "team2": "Espanyol",
+    "title": "Barcelona VS Espanyol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748449/espanyol-barcelona"
+  },
+  {
+    "gameId": "748450",
+    "date": "Saturday, April 11, 2026",
+    "team1": "Sevilla",
+    "score": "2 - 1",
+    "team2": "Atlético Madrid",
+    "title": "Sevilla VS Atlético Madrid",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748450/atletico-madrid-sevilla"
   }
 ]

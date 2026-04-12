@@ -637,5 +637,23 @@
     "team2": "Deportivo La Guaira",
     "title": "Deportivo Táchira VS Deportivo La Guaira",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850497/deportivo-la-guaira-deportivo-tachira"
+  },
+  {
+    "gameId": "401850506",
+    "date": "20260410",
+    "team1": "Portuguesa",
+    "score": "3 - 0",
+    "team2": "Academia Puerto Cabello",
+    "title": "Portuguesa VS Academia Puerto Cabello",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850506/academia-puerto-cabello-portuguesa"
+  },
+  {
+    "gameId": "401850504",
+    "date": "20260410",
+    "team1": "Monagas SC",
+    "score": "3 - 0",
+    "team2": "Deportivo Rayo Zuliano",
+    "title": "Monagas SC VS Deportivo Rayo Zuliano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850504/deportivo-rayo-zuliano-monagas-sc"
   }
 ]

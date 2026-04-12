@@ -799,5 +799,41 @@
     "team2": "Portland Timbers",
     "title": "Vancouver Whitecaps VS Portland Timbers",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761528/portland-timbers-vancouver-whitecaps"
+  },
+  {
+    "gameId": "761529",
+    "date": "20260410",
+    "team1": "Toronto FC",
+    "score": "1 - 1",
+    "team2": "FC Cincinnati",
+    "title": "Toronto FC VS FC Cincinnati",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761529/fc-cincinnati-toronto-fc"
+  },
+  {
+    "gameId": "761530",
+    "date": "20260410",
+    "team1": "Austin FC",
+    "score": "1 - 2",
+    "team2": "LA Galaxy",
+    "title": "Austin FC VS LA Galaxy",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761530/la-galaxy-austin-fc"
+  },
+  {
+    "gameId": "761541",
+    "date": "20260410",
+    "team1": "CF Montréal",
+    "score": "1 - 2",
+    "team2": "Philadelphia Union",
+    "title": "CF Montréal VS Philadelphia Union",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761541/philadelphia-union-cf-montreal"
+  },
+  {
+    "gameId": "761531",
+    "date": "20260410",
+    "team1": "Portland Timbers",
+    "score": "2 - 1",
+    "team2": "LAFC",
+    "title": "Portland Timbers VS LAFC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761531/lafc-portland-timbers"
   }
 ]

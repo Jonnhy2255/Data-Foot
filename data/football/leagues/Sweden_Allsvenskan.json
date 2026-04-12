@@ -70,5 +70,32 @@
     "team2": "Djurgården",
     "title": "GAIS VS Djurgården",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401842661/djurgarden-gais"
+  },
+  {
+    "gameId": "401842667",
+    "date": "Saturday, April 11, 2026",
+    "team1": "IFK Göteborg",
+    "score": "0 - 2",
+    "team2": "BK Häcken",
+    "title": "IFK Göteborg VS BK Häcken",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842667/bk-hacken-ifk-goteborg"
+  },
+  {
+    "gameId": "401842669",
+    "date": "Saturday, April 11, 2026",
+    "team1": "Mjällby AIF",
+    "score": "0 - 2",
+    "team2": "Örgryte IS",
+    "title": "Mjällby AIF VS Örgryte IS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842669/orgryte-is-mjallby-aif"
+  },
+  {
+    "gameId": "401842671",
+    "date": "Saturday, April 11, 2026",
+    "team1": "Västerås SK",
+    "score": "2 - 2",
+    "team2": "IF Elfsborg",
+    "title": "Västerås SK VS IF Elfsborg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842671/if-elfsborg-vasteras-sk"
   }
 ]
