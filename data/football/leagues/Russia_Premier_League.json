@@ -385,5 +385,41 @@
     "team2": "Nizhny Novgorod",
     "title": "FC Baltika Kaliningrad VS Nizhny Novgorod",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743683/nizhny-novgorod-fc-baltika-kaliningrad"
+  },
+  {
+    "gameId": "743684",
+    "date": "Sunday, April 12, 2026",
+    "team1": "CSKA Moscow",
+    "score": "0 - 1",
+    "team2": "Sochi",
+    "title": "CSKA Moscow VS Sochi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743684/sochi-cska-moscow"
+  },
+  {
+    "gameId": "743686",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 1",
+    "team2": "Dynamo Makhachkala",
+    "title": "Lokomotiv Moscow VS Dynamo Makhachkala",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743686/dynamo-makhachkala-lokomotiv-moscow"
+  },
+  {
+    "gameId": "743687",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Rostov",
+    "score": "1 - 1",
+    "team2": "Spartak Moscow",
+    "title": "Rostov VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743687/spartak-moscow-rostov"
+  },
+  {
+    "gameId": "743689",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Zenit St Petersburg",
+    "score": "1 - 1",
+    "team2": "Krasnodar",
+    "title": "Zenit St Petersburg VS Krasnodar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743689/krasnodar-zenit-st-petersburg"
   }
 ]

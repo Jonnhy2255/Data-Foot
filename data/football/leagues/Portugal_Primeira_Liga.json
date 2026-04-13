@@ -1051,5 +1051,41 @@
     "team2": "Sporting CP",
     "title": "Estrela VS Sporting CP",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750498/sporting-cp-estrela"
+  },
+  {
+    "gameId": "750503",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Alverca",
+    "score": "3 - 1",
+    "team2": "Casa Pia",
+    "title": "Alverca VS Casa Pia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750503/casa-pia-alverca"
+  },
+  {
+    "gameId": "750500",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Benfica",
+    "score": "2 - 0",
+    "team2": "C.D. Nacional",
+    "title": "Benfica VS C.D. Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750500/cd-nacional-benfica"
+  },
+  {
+    "gameId": "750504",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Braga",
+    "score": "1 - 0",
+    "team2": "Arouca",
+    "title": "Braga VS Arouca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750504/arouca-braga"
+  },
+  {
+    "gameId": "750499",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Estoril",
+    "score": "1 - 3",
+    "team2": "FC Porto",
+    "title": "Estoril VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750499/fc-porto-estoril"
   }
 ]

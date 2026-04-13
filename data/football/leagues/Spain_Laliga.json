@@ -1204,5 +1204,41 @@
     "team2": "Atlético Madrid",
     "title": "Sevilla VS Atlético Madrid",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748450/atletico-madrid-sevilla"
+  },
+  {
+    "gameId": "748444",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Osasuna",
+    "score": "1 - 1",
+    "team2": "Real Betis",
+    "title": "Osasuna VS Real Betis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748444/real-betis-osasuna"
+  },
+  {
+    "gameId": "748445",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Mallorca",
+    "score": "3 - 0",
+    "team2": "Rayo Vallecano",
+    "title": "Mallorca VS Rayo Vallecano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748445/rayo-vallecano-mallorca"
+  },
+  {
+    "gameId": "748448",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Celta Vigo",
+    "score": "0 - 3",
+    "team2": "Real Oviedo",
+    "title": "Celta Vigo VS Real Oviedo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748448/real-oviedo-celta-vigo"
+  },
+  {
+    "gameId": "748451",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Athletic Club",
+    "score": "1 - 2",
+    "team2": "Villarreal",
+    "title": "Athletic Club VS Villarreal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748451/villarreal-athletic-club"
   }
 ]

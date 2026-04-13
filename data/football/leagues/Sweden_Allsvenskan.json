@@ -97,5 +97,32 @@
     "team2": "IF Elfsborg",
     "title": "Västerås SK VS IF Elfsborg",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401842671/if-elfsborg-vasteras-sk"
+  },
+  {
+    "gameId": "401842670",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Djurgården",
+    "score": "3 - 2",
+    "team2": "Kalmar FF",
+    "title": "Djurgården VS Kalmar FF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842670/kalmar-ff-djurgarden"
+  },
+  {
+    "gameId": "401842666",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Halmstads BK",
+    "score": "0 - 3",
+    "team2": "Degerfors IF",
+    "title": "Halmstads BK VS Degerfors IF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842666/degerfors-if-halmstads-bk"
+  },
+  {
+    "gameId": "401842668",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Malmö FF",
+    "score": "3 - 1",
+    "team2": "GAIS",
+    "title": "Malmö FF VS GAIS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842668/gais-malmo-ff"
   }
 ]

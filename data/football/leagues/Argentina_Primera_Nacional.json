@@ -1159,5 +1159,104 @@
     "team2": "Godoy Cruz Antonio Tomba",
     "title": "San Telmo VS Godoy Cruz Antonio Tomba",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843774/godoy-cruz-antonio-tomba-san-telmo"
+  },
+  {
+    "gameId": "401843766",
+    "date": "20260411",
+    "team1": "Acassuso",
+    "score": "0 - 1",
+    "team2": "Los Andes",
+    "title": "Acassuso VS Los Andes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843766/los-andes-acassuso"
+  },
+  {
+    "gameId": "401843762",
+    "date": "20260411",
+    "team1": "Chacarita Juniors",
+    "score": "2 - 0",
+    "team2": "Gimnasia y Tiro (Salta)",
+    "title": "Chacarita Juniors VS Gimnasia y Tiro (Salta)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843762/gimnasia-y-tiro-salta-chacarita-juniors"
+  },
+  {
+    "gameId": "401843759",
+    "date": "20260411",
+    "team1": "Defensores de Belgrano",
+    "score": "0 - 0",
+    "team2": "Ciudad de Bolívar",
+    "title": "Defensores de Belgrano VS Ciudad de Bolívar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843759/ciudad-de-bolivar-defensores-de-belgrano"
+  },
+  {
+    "gameId": "401843769",
+    "date": "20260411",
+    "team1": "Ferro Carril Oeste",
+    "score": "0 - 1",
+    "team2": "Estudiantes (Buenos Aires)",
+    "title": "Ferro Carril Oeste VS Estudiantes (Buenos Aires)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843769/estudiantes-buenos-aires-ferro-carril-oeste"
+  },
+  {
+    "gameId": "401843775",
+    "date": "20260411",
+    "team1": "Temperley",
+    "score": "3 - 3",
+    "team2": "Quilmes",
+    "title": "Temperley VS Quilmes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843775/quilmes-temperley"
+  },
+  {
+    "gameId": "401843765",
+    "date": "20260411",
+    "team1": "Agropecuario",
+    "score": "1 - 2",
+    "team2": "Gimnasia y Esgrima (Jujuy)",
+    "title": "Agropecuario VS Gimnasia y Esgrima (Jujuy)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843765/gimnasia-y-esgrima-jujuy-agropecuario"
+  },
+  {
+    "gameId": "401843767",
+    "date": "20260411",
+    "team1": "Deportivo Madryn",
+    "score": "2 - 1",
+    "team2": "Almirante Brown",
+    "title": "Deportivo Madryn VS Almirante Brown",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843767/almirante-brown-deportivo-madryn"
+  },
+  {
+    "gameId": "401843763",
+    "date": "20260411",
+    "team1": "Central Norte",
+    "score": "1 - 1",
+    "team2": "Mitre (Santiago del Estero)",
+    "title": "Central Norte VS Mitre (Santiago del Estero)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843763/mitre-santiago-del-estero-central-norte"
+  },
+  {
+    "gameId": "401843761",
+    "date": "20260411",
+    "team1": "Chaco For Ever",
+    "score": "2 - 0",
+    "team2": "All Boys",
+    "title": "Chaco For Ever VS All Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843761/all-boys-chaco-for-ever"
+  },
+  {
+    "gameId": "401843770",
+    "date": "20260411",
+    "team1": "Güemes",
+    "score": "0 - 2",
+    "team2": "San Martín (Tucumán)",
+    "title": "Güemes VS San Martín (Tucumán)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843770/san-martin-tucuman-guemes"
+  },
+  {
+    "gameId": "401843768",
+    "date": "20260411",
+    "team1": "Deportivo Maipú",
+    "score": "3 - 1",
+    "team2": "Colegiales",
+    "title": "Deportivo Maipú VS Colegiales",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843768/colegiales-deportivo-maipu"
   }
 ]

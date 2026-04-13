@@ -331,5 +331,32 @@
     "team2": "Shanghai Port",
     "title": "Shanghai Shenhua VS Shanghai Port",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861339/shanghai-port-shanghai-shenhua"
+  },
+  {
+    "gameId": "401861341",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Tianjin Jinmen Tiger",
+    "score": "1 - 1",
+    "team2": "Qingdao Hainiu",
+    "title": "Tianjin Jinmen Tiger VS Qingdao Hainiu",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861341/qingdao-hainiu-tianjin-jinmen-tiger"
+  },
+  {
+    "gameId": "401861342",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Beijing Guoan",
+    "score": "1 - 2",
+    "team2": "Chengdu Rongcheng",
+    "title": "Beijing Guoan VS Chengdu Rongcheng",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861342/chengdu-rongcheng-beijing-guoan"
+  },
+  {
+    "gameId": "401861343",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Shenzhen Xinpengcheng",
+    "score": "3 - 4",
+    "team2": "Yunnan Yukun",
+    "title": "Shenzhen Xinpengcheng VS Yunnan Yukun",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861343/yunnan-yukun-shenzhen-xinpengcheng"
   }
 ]

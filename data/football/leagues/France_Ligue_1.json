@@ -997,5 +997,32 @@
     "team2": "Angers",
     "title": "Stade Rennais VS Angers",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746671/angers-stade-rennais"
+  },
+  {
+    "gameId": "746669",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Nice",
+    "score": "1 - 1",
+    "team2": "Le Havre AC",
+    "title": "Nice VS Le Havre AC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746669/le-havre-ac-nice"
+  },
+  {
+    "gameId": "746672",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Toulouse",
+    "score": "0 - 4",
+    "team2": "Lille",
+    "title": "Toulouse VS Lille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746672/lille-toulouse"
+  },
+  {
+    "gameId": "746667",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Lyon",
+    "score": "2 - 0",
+    "team2": "Lorient",
+    "title": "Lyon VS Lorient",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746667/lorient-lyon"
   }
 ]

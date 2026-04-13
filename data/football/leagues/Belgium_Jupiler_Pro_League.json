@@ -826,5 +826,41 @@
     "team2": "Club Brugge",
     "title": "Sint-Truidense VS Club Brugge",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866272/club-brugge-sint-truidense"
+  },
+  {
+    "gameId": "401866273",
+    "date": "Sunday, April 12, 2026",
+    "team1": "KV Mechelen",
+    "score": "0 - 1",
+    "team2": "Union St.-Gilloise",
+    "title": "KV Mechelen VS Union St.-Gilloise",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866273/union-st-gilloise-kv-mechelen"
+  },
+  {
+    "gameId": "401866274",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Racing Genk",
+    "score": "0 - 0",
+    "team2": "Oud-Heverlee Leuven",
+    "title": "Racing Genk VS Oud-Heverlee Leuven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866274/oud-heverlee-leuven-racing-genk"
+  },
+  {
+    "gameId": "401866275",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Anderlecht",
+    "score": "3 - 1",
+    "team2": "KAA Gent",
+    "title": "Anderlecht VS KAA Gent",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866275/kaa-gent-anderlecht"
+  },
+  {
+    "gameId": "401866276",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Dender",
+    "score": "1 - 2",
+    "team2": "Zulte-Waregem",
+    "title": "Dender VS Zulte-Waregem",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866276/zulte-waregem-dender"
   }
 ]

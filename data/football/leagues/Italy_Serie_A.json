@@ -1384,5 +1384,41 @@
     "team2": "Juventus",
     "title": "Atalanta VS Juventus",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737102/juventus-atalanta"
+  },
+  {
+    "gameId": "737097",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Genoa",
+    "score": "2 - 1",
+    "team2": "Sassuolo",
+    "title": "Genoa VS Sassuolo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737097/sassuolo-genoa"
+  },
+  {
+    "gameId": "737095",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Parma",
+    "score": "1 - 1",
+    "team2": "Napoli",
+    "title": "Parma VS Napoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737095/napoli-parma"
+  },
+  {
+    "gameId": "737101",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Bologna",
+    "score": "2 - 0",
+    "team2": "Lecce",
+    "title": "Bologna VS Lecce",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737101/lecce-bologna"
+  },
+  {
+    "gameId": "737099",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Como",
+    "score": "3 - 4",
+    "team2": "Internazionale",
+    "title": "Como VS Internazionale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737099/internazionale-como"
   }
 ]

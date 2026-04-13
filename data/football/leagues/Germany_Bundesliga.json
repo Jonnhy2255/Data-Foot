@@ -1105,5 +1105,32 @@
     "team2": "Bayern Munich",
     "title": "St. Pauli VS Bayern Munich",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746975/bayern-munich-st-pauli"
+  },
+  {
+    "gameId": "746971",
+    "date": "Sunday, April 12, 2026",
+    "team1": "FC Cologne",
+    "score": "3 - 1",
+    "team2": "Werder Bremen",
+    "title": "FC Cologne VS Werder Bremen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746971/werder-bremen-fc-cologne"
+  },
+  {
+    "gameId": "746977",
+    "date": "Sunday, April 12, 2026",
+    "team1": "VfB Stuttgart",
+    "score": "4 - 0",
+    "team2": "Hamburg SV",
+    "title": "VfB Stuttgart VS Hamburg SV",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746977/hamburg-sv-vfb-stuttgart"
+  },
+  {
+    "gameId": "746972",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Mainz",
+    "score": "0 - 1",
+    "team2": "SC Freiburg",
+    "title": "Mainz VS SC Freiburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746972/sc-freiburg-mainz"
   }
 ]
