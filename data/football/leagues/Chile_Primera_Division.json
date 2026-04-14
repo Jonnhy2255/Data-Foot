@@ -619,5 +619,14 @@
     "team2": "Universidad de Chile",
     "title": "Ñublense VS Universidad de Chile",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850547/universidad-de-chile-nublense"
+  },
+  {
+    "gameId": "401850541",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Universidad de Concepción",
+    "score": "1 - 0",
+    "team2": "Cobresal",
+    "title": "Universidad de Concepción VS Cobresal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850541/cobresal-universidad-de-concepcion"
   }
 ]

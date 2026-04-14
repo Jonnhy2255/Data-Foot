@@ -1258,5 +1258,14 @@
     "team2": "Colegiales",
     "title": "Deportivo Maipú VS Colegiales",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843768/colegiales-deportivo-maipu"
+  },
+  {
+    "gameId": "401843776",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Colón (Santa Fe)",
+    "score": "1 - 0",
+    "team2": "Racing (Córdoba)",
+    "title": "Colón (Santa Fe) VS Racing (Córdoba)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843776/racing-cordoba-colon-santa-fe"
   }
 ]

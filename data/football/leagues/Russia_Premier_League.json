@@ -421,5 +421,14 @@
     "team2": "Krasnodar",
     "title": "Zenit St Petersburg VS Krasnodar",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743689/krasnodar-zenit-st-petersburg"
+  },
+  {
+    "gameId": "743682",
+    "date": "Monday, April 13, 2026",
+    "team1": "Akron Tolyatti",
+    "score": "2 - 3",
+    "team2": "Dinamo Moscow",
+    "title": "Akron Tolyatti VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743682/dinamo-moscow-akron-tolyatti"
   }
 ]

@@ -1411,5 +1411,14 @@
     "team2": "Boyacá Chicó",
     "title": "Bucaramanga VS Boyacá Chicó",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850867/boyaca-chico-bucaramanga"
+  },
+  {
+    "gameId": "401850868",
+    "date": "Sunday, April 12, 2026",
+    "team1": "Internacional de Bogotá",
+    "score": "2 - 1",
+    "team2": "Alianza FC",
+    "title": "Internacional de Bogotá VS Alianza FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850868/alianza-fc-internacional-de-bogota"
   }
 ]

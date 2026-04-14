@@ -124,5 +124,23 @@
     "team2": "GAIS",
     "title": "Malmö FF VS GAIS",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401842668/gais-malmo-ff"
+  },
+  {
+    "gameId": "401842673",
+    "date": "Monday, April 13, 2026",
+    "team1": "IF Brommapojkarna",
+    "score": "2 - 2",
+    "team2": "AIK",
+    "title": "IF Brommapojkarna VS AIK",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842673/aik-if-brommapojkarna"
+  },
+  {
+    "gameId": "401842672",
+    "date": "Monday, April 13, 2026",
+    "team1": "IK Sirius",
+    "score": "2 - 0",
+    "team2": "Hammarby IF",
+    "title": "IK Sirius VS Hammarby IF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842672/hammarby-if-ik-sirius"
   }
 ]
