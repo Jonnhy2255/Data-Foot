@@ -1267,5 +1267,32 @@
     "team2": "Racing (Córdoba)",
     "title": "Colón (Santa Fe) VS Racing (Córdoba)",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843776/racing-cordoba-colon-santa-fe"
+  },
+  {
+    "gameId": "401843771",
+    "date": "Monday, April 13, 2026",
+    "team1": "Nueva Chicago",
+    "score": "2 - 2",
+    "team2": "Midland",
+    "title": "Nueva Chicago VS Midland",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843771/midland-nueva-chicago"
+  },
+  {
+    "gameId": "401843760",
+    "date": "Monday, April 13, 2026",
+    "team1": "Tristán Suárez",
+    "score": "0 - 0",
+    "team2": "Atletico Rafaela",
+    "title": "Tristán Suárez VS Atletico Rafaela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843760/atletico-rafaela-tristan-suarez"
+  },
+  {
+    "gameId": "401843772",
+    "date": "Monday, April 13, 2026",
+    "team1": "San Martín (San Juan)",
+    "score": "1 - 2",
+    "team2": "Atlanta",
+    "title": "San Martín (San Juan) VS Atlanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843772/atlanta-san-martin-san-juan"
   }
 ]

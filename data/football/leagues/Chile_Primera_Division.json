@@ -628,5 +628,14 @@
     "team2": "Cobresal",
     "title": "Universidad de Concepción VS Cobresal",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850541/cobresal-universidad-de-concepcion"
+  },
+  {
+    "gameId": "401850540",
+    "date": "Monday, April 13, 2026",
+    "team1": "Unión La Calera",
+    "score": "1 - 0",
+    "team2": "Deportes Concepcion",
+    "title": "Unión La Calera VS Deportes Concepcion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850540/deportes-concepcion-union-la-calera"
   }
 ]

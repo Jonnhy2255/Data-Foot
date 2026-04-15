@@ -646,5 +646,23 @@
     "team2": "Liverpool",
     "title": "Paris Saint-Germain VS Liverpool",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401862885/liverpool-paris-saint-germain"
+  },
+  {
+    "gameId": "401862892",
+    "date": "Tuesday, April 14, 2026",
+    "team1": "Atlético Madrid",
+    "score": "1 - 2",
+    "team2": "Barcelona",
+    "title": "Atlético Madrid VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862892/barcelona-atletico-madrid"
+  },
+  {
+    "gameId": "401862889",
+    "date": "Tuesday, April 14, 2026",
+    "team1": "Liverpool",
+    "score": "0 - 2",
+    "team2": "Paris Saint-Germain",
+    "title": "Liverpool VS Paris Saint-Germain",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862889/paris-saint-germain-liverpool"
   }
 ]

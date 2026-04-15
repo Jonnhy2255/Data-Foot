@@ -727,5 +727,23 @@
     "team2": "Los Chankas",
     "title": "FC Cajamarca VS Los Chankas",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857443/los-chankas-fc-cajamarca"
+  },
+  {
+    "gameId": "401857459",
+    "date": "20260413",
+    "team1": "Deportivo Moquegua",
+    "score": "3 - 0",
+    "team2": "Juan Pablo II",
+    "title": "Deportivo Moquegua VS Juan Pablo II",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857459/juan-pablo-ii-deportivo-moquegua"
+  },
+  {
+    "gameId": "401857454",
+    "date": "20260413",
+    "team1": "ADT",
+    "score": "0 - 1",
+    "team2": "Alianza Lima",
+    "title": "ADT VS Alianza Lima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857454/alianza-lima-adt"
   }
 ]
