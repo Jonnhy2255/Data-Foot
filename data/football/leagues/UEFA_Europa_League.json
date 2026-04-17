@@ -646,5 +646,41 @@
     "team2": "Celta Vigo",
     "title": "SC Freiburg VS Celta Vigo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401862900/celta-vigo-sc-freiburg"
+  },
+  {
+    "gameId": "401862904",
+    "date": "Thursday, April 16, 2026",
+    "team1": "Celta Vigo",
+    "score": "1 - 3",
+    "team2": "SC Freiburg",
+    "title": "Celta Vigo VS SC Freiburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862904/sc-freiburg-celta-vigo"
+  },
+  {
+    "gameId": "401862906",
+    "date": "Thursday, April 16, 2026",
+    "team1": "Aston Villa",
+    "score": "4 - 0",
+    "team2": "Bologna",
+    "title": "Aston Villa VS Bologna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862906/bologna-aston-villa"
+  },
+  {
+    "gameId": "401862905",
+    "date": "Thursday, April 16, 2026",
+    "team1": "Nottingham Forest",
+    "score": "1 - 0",
+    "team2": "FC Porto",
+    "title": "Nottingham Forest VS FC Porto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862905/fc-porto-nottingham-forest"
+  },
+  {
+    "gameId": "401862903",
+    "date": "Thursday, April 16, 2026",
+    "team1": "Real Betis",
+    "score": "2 - 4",
+    "team2": "Braga",
+    "title": "Real Betis VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862903/braga-real-betis"
   }
 ]
