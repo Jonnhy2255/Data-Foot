@@ -1429,5 +1429,23 @@
     "team2": "Lazio",
     "title": "Fiorentina VS Lazio",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/737098/lazio-fiorentina"
+  },
+  {
+    "gameId": "737107",
+    "date": "Friday, April 17, 2026",
+    "team1": "Sassuolo",
+    "score": "2 - 1",
+    "team2": "Como",
+    "title": "Sassuolo VS Como",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737107/como-sassuolo"
+  },
+  {
+    "gameId": "737113",
+    "date": "Friday, April 17, 2026",
+    "team1": "Internazionale",
+    "score": "3 - 0",
+    "team2": "Cagliari",
+    "title": "Internazionale VS Cagliari",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/737113/cagliari-internazionale"
   }
 ]

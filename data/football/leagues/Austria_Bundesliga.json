@@ -484,5 +484,14 @@
     "team2": "Rapid Vienna",
     "title": "Austria Vienna VS Rapid Vienna",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401864018/rapid-vienna-austria-vienna"
+  },
+  {
+    "gameId": "401864019",
+    "date": "Friday, April 17, 2026",
+    "team1": "Grazer AK",
+    "score": "1 - 1",
+    "team2": "SV Josko Ried",
+    "title": "Grazer AK VS SV Josko Ried",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864019/sv-josko-ried-grazer-ak"
   }
 ]

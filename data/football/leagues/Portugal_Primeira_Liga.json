@@ -1096,5 +1096,14 @@
     "team2": "Gil Vicente",
     "title": "Tondela VS Gil Vicente",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750501/gil-vicente-tondela"
+  },
+  {
+    "gameId": "750514",
+    "date": "Friday, April 17, 2026",
+    "team1": "Rio Ave",
+    "score": "2 - 2",
+    "team2": "AVS",
+    "title": "Rio Ave VS AVS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750514/avs-rio-ave"
   }
 ]

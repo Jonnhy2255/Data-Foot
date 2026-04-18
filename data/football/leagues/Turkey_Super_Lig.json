@@ -970,5 +970,23 @@
     "team2": "Samsunspor",
     "title": "Eyupspor VS Samsunspor",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750173/samsunspor-eyupspor"
+  },
+  {
+    "gameId": "750179",
+    "date": "Friday, April 17, 2026",
+    "team1": "Antalyaspor",
+    "score": "0 - 2",
+    "team2": "Konyaspor",
+    "title": "Antalyaspor VS Konyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750179/konyaspor-antalyaspor"
+  },
+  {
+    "gameId": "750181",
+    "date": "Friday, April 17, 2026",
+    "team1": "Fenerbahce",
+    "score": "2 - 2",
+    "team2": "Caykur Rizespor",
+    "title": "Fenerbahce VS Caykur Rizespor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750181/caykur-rizespor-fenerbahce"
   }
 ]

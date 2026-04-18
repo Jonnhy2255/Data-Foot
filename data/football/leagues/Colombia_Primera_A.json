@@ -1420,5 +1420,23 @@
     "team2": "Alianza FC",
     "title": "Internacional de Bogotá VS Alianza FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850868/alianza-fc-internacional-de-bogota"
+  },
+  {
+    "gameId": "401850870",
+    "date": "Friday, April 17, 2026",
+    "team1": "Boyacá Chicó",
+    "score": "1 - 0",
+    "team2": "Deportivo Cali",
+    "title": "Boyacá Chicó VS Deportivo Cali",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850870/deportivo-cali-boyaca-chico"
+  },
+  {
+    "gameId": "401850869",
+    "date": "Friday, April 17, 2026",
+    "team1": "Jaguares de Córdoba",
+    "score": "2 - 3",
+    "team2": "Deportivo Pasto",
+    "title": "Jaguares de Córdoba VS Deportivo Pasto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850869/deportivo-pasto-jaguares-de-cordoba"
   }
 ]

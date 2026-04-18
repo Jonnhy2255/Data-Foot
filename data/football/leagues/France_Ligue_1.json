@@ -1024,5 +1024,14 @@
     "team2": "Lorient",
     "title": "Lyon VS Lorient",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746667/lorient-lyon"
+  },
+  {
+    "gameId": "746674",
+    "date": "Friday, April 17, 2026",
+    "team1": "Lens",
+    "score": "3 - 2",
+    "team2": "Toulouse",
+    "title": "Lens VS Toulouse",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746674/toulouse-lens"
   }
 ]
