@@ -961,5 +961,32 @@
     "team2": "Red Bull Bragantino",
     "title": "Cruzeiro VS Red Bull Bragantino",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841068/red-bull-bragantino-cruzeiro"
+  },
+  {
+    "gameId": "401841078",
+    "date": "20260417",
+    "team1": "Chapecoense",
+    "score": "1 - 4",
+    "team2": "Botafogo",
+    "title": "Chapecoense VS Botafogo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841078/botafogo-chapecoense"
+  },
+  {
+    "gameId": "401841081",
+    "date": "20260417",
+    "team1": "Vasco da Gama",
+    "score": "2 - 1",
+    "team2": "São Paulo",
+    "title": "Vasco da Gama VS São Paulo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841081/sao-paulo-vasco-da-gama"
+  },
+  {
+    "gameId": "401841080",
+    "date": "20260417",
+    "team1": "Vitória",
+    "score": "0 - 0",
+    "team2": "Corinthians",
+    "title": "Vitória VS Corinthians",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841080/corinthians-vitoria"
   }
 ]

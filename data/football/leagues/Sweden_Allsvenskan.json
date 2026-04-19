@@ -160,5 +160,41 @@
     "team2": "Malmö FF",
     "title": "Djurgården VS Malmö FF",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401842674/malmo-ff-djurgarden"
+  },
+  {
+    "gameId": "401842675",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Halmstads BK",
+    "score": "1 - 1",
+    "team2": "IFK Göteborg",
+    "title": "Halmstads BK VS IFK Göteborg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842675/ifk-goteborg-halmstads-bk"
+  },
+  {
+    "gameId": "401842676",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Hammarby IF",
+    "score": "8 - 1",
+    "team2": "Örgryte IS",
+    "title": "Hammarby IF VS Örgryte IS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842676/orgryte-is-hammarby-if"
+  },
+  {
+    "gameId": "401842679",
+    "date": "Saturday, April 18, 2026",
+    "team1": "IK Sirius",
+    "score": "4 - 1",
+    "team2": "Västerås SK",
+    "title": "IK Sirius VS Västerås SK",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842679/vasteras-sk-ik-sirius"
+  },
+  {
+    "gameId": "401842678",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Mjällby AIF",
+    "score": "3 - 0",
+    "team2": "IF Brommapojkarna",
+    "title": "Mjällby AIF VS IF Brommapojkarna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842678/if-brommapojkarna-mjallby-aif"
   }
 ]

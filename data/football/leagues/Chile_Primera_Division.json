@@ -637,5 +637,23 @@
     "team2": "Deportes Concepcion",
     "title": "Unión La Calera VS Deportes Concepcion",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850540/deportes-concepcion-union-la-calera"
+  },
+  {
+    "gameId": "401850553",
+    "date": "Friday, April 17, 2026",
+    "team1": "Deportes Limache",
+    "score": "3 - 0",
+    "team2": "Universidad de Concepción",
+    "title": "Deportes Limache VS Universidad de Concepción",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850553/universidad-de-concepcion-deportes-limache"
+  },
+  {
+    "gameId": "401850552",
+    "date": "20260417",
+    "team1": "Everton CD",
+    "score": "0 - 0",
+    "team2": "Universidad de Chile",
+    "title": "Everton CD VS Universidad de Chile",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850552/universidad-de-chile-everton-cd"
   }
 ]

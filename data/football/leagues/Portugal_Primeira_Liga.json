@@ -1105,5 +1105,32 @@
     "team2": "AVS",
     "title": "Rio Ave VS AVS",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750514/avs-rio-ave"
+  },
+  {
+    "gameId": "750509",
+    "date": "Saturday, April 18, 2026",
+    "team1": "C.D. Nacional",
+    "score": "1 - 0",
+    "team2": "Alverca",
+    "title": "C.D. Nacional VS Alverca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750509/alverca-cd-nacional"
+  },
+  {
+    "gameId": "750515",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Casa Pia",
+    "score": "0 - 0",
+    "team2": "Santa Clara",
+    "title": "Casa Pia VS Santa Clara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750515/santa-clara-casa-pia"
+  },
+  {
+    "gameId": "750507",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Gil Vicente",
+    "score": "0 - 1",
+    "team2": "Vitória de Guimaraes",
+    "title": "Gil Vicente VS Vitória de Guimaraes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750507/vitoria-de-guimaraes-gil-vicente"
   }
 ]

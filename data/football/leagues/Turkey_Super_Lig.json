@@ -988,5 +988,32 @@
     "team2": "Caykur Rizespor",
     "title": "Fenerbahce VS Caykur Rizespor",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750181/caykur-rizespor-fenerbahce"
+  },
+  {
+    "gameId": "750180",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Fatih Karagümrük",
+    "score": "1 - 2",
+    "team2": "Eyupspor",
+    "title": "Fatih Karagümrük VS Eyupspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750180/eyupspor-fatih-karagumruk"
+  },
+  {
+    "gameId": "750185",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Kocaelispor",
+    "score": "1 - 1",
+    "team2": "Goztepe",
+    "title": "Kocaelispor VS Goztepe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750185/goztepe-kocaelispor"
+  },
+  {
+    "gameId": "750183",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Genclerbirligi",
+    "score": "1 - 2",
+    "team2": "Galatasaray",
+    "title": "Genclerbirligi VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750183/galatasaray-genclerbirligi"
   }
 ]

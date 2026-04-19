@@ -358,5 +358,32 @@
     "team2": "Londrina",
     "title": "Atlético Goianiense VS Londrina",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860099/londrina-atletico-goianiense"
+  },
+  {
+    "gameId": "401860102",
+    "date": "20260417",
+    "team1": "América Mineiro",
+    "score": "0 - 0",
+    "team2": "Sport",
+    "title": "América Mineiro VS Sport",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860102/sport-america-mineiro"
+  },
+  {
+    "gameId": "401860105",
+    "date": "20260417",
+    "team1": "Náutico",
+    "score": "0 - 3",
+    "team2": "São Bernardo",
+    "title": "Náutico VS São Bernardo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860105/sao-bernardo-nautico"
+  },
+  {
+    "gameId": "401860104",
+    "date": "20260417",
+    "team1": "Vila Nova",
+    "score": "2 - 1",
+    "team2": "Operário PR",
+    "title": "Vila Nova VS Operário PR",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860104/operario-pr-vila-nova"
   }
 ]

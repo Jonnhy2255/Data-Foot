@@ -925,5 +925,41 @@
     "team2": "Orlando City SC",
     "title": "Columbus Crew VS Orlando City SC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761542/orlando-city-sc-columbus-crew"
+  },
+  {
+    "gameId": "761544",
+    "date": "Friday, April 17, 2026",
+    "team1": "Vancouver Whitecaps",
+    "score": "3 - 0",
+    "team2": "Sporting Kansas City",
+    "title": "Vancouver Whitecaps VS Sporting Kansas City",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761544/sporting-kansas-city-vancouver-whitecaps"
+  },
+  {
+    "gameId": "761545",
+    "date": "20260417",
+    "team1": "Toronto FC",
+    "score": "3 - 3",
+    "team2": "Austin FC",
+    "title": "Toronto FC VS Austin FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761545/austin-fc-toronto-fc"
+  },
+  {
+    "gameId": "761557",
+    "date": "20260417",
+    "team1": "CF Montréal",
+    "score": "4 - 1",
+    "team2": "Red Bull New York",
+    "title": "CF Montréal VS Red Bull New York",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761557/red-bull-new-york-cf-montreal"
+  },
+  {
+    "gameId": "761546",
+    "date": "20260417",
+    "team1": "Colorado Rapids",
+    "score": "2 - 3",
+    "team2": "Inter Miami CF",
+    "title": "Colorado Rapids VS Inter Miami CF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761546/inter-miami-cf-colorado-rapids"
   }
 ]

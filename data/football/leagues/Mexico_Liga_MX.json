@@ -1132,5 +1132,41 @@
     "team2": "Atlético de San Luis",
     "title": "Toluca VS Atlético de San Luis",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840940/atletico-de-san-luis-toluca"
+  },
+  {
+    "gameId": "401840942",
+    "date": "Friday, April 17, 2026",
+    "team1": "Atlético de San Luis",
+    "score": "0 - 2",
+    "team2": "Pumas UNAM",
+    "title": "Atlético de San Luis VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840942/pumas-unam-atletico-de-san-luis"
+  },
+  {
+    "gameId": "401840941",
+    "date": "Friday, April 17, 2026",
+    "team1": "Mazatlán FC",
+    "score": "1 - 1",
+    "team2": "Querétaro",
+    "title": "Mazatlán FC VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840941/queretaro-mazatlan-fc"
+  },
+  {
+    "gameId": "401840944",
+    "date": "20260417",
+    "team1": "Cruz Azul",
+    "score": "1 - 1",
+    "team2": "Tijuana",
+    "title": "Cruz Azul VS Tijuana",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840944/tijuana-cruz-azul"
+  },
+  {
+    "gameId": "401840943",
+    "date": "20260417",
+    "team1": "Necaxa",
+    "score": "1 - 1",
+    "team2": "Tigres UANL",
+    "title": "Necaxa VS Tigres UANL",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840943/tigres-uanl-necaxa"
   }
 ]

@@ -862,5 +862,41 @@
     "team2": "Zulte-Waregem",
     "title": "Dender VS Zulte-Waregem",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866276/zulte-waregem-dender"
+  },
+  {
+    "gameId": "401866277",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Antwerp",
+    "score": "2 - 0",
+    "team2": "Oud-Heverlee Leuven",
+    "title": "Antwerp VS Oud-Heverlee Leuven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866277/oud-heverlee-leuven-antwerp"
+  },
+  {
+    "gameId": "401866279",
+    "date": "Saturday, April 18, 2026",
+    "team1": "KVC Westerlo",
+    "score": "1 - 2",
+    "team2": "Racing Genk",
+    "title": "KVC Westerlo VS Racing Genk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866279/racing-genk-kvc-westerlo"
+  },
+  {
+    "gameId": "401866278",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Royal Charleroi SC",
+    "score": "1 - 2",
+    "team2": "Standard Liege",
+    "title": "Royal Charleroi SC VS Standard Liege",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866278/standard-liege-royal-charleroi-sc"
+  },
+  {
+    "gameId": "401866280",
+    "date": "Saturday, April 18, 2026",
+    "team1": "KV Mechelen",
+    "score": "1 - 2",
+    "team2": "Anderlecht",
+    "title": "KV Mechelen VS Anderlecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866280/anderlecht-kv-mechelen"
   }
 ]

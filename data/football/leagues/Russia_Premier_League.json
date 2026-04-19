@@ -439,5 +439,41 @@
     "team2": "Sochi",
     "title": "Rostov VS Sochi",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743694/sochi-rostov"
+  },
+  {
+    "gameId": "743697",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Gazovik Orenburg",
+    "score": "0 - 1",
+    "team2": "Lokomotiv Moscow",
+    "title": "Gazovik Orenburg VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743697/lokomotiv-moscow-gazovik-orenburg"
+  },
+  {
+    "gameId": "743692",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Krylia Sovetov",
+    "score": "1 - 1",
+    "team2": "CSKA Moscow",
+    "title": "Krylia Sovetov VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743692/cska-moscow-krylia-sovetov"
+  },
+  {
+    "gameId": "743695",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Rubin Kazan",
+    "score": "1 - 1",
+    "team2": "Akron Tolyatti",
+    "title": "Rubin Kazan VS Akron Tolyatti",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743695/akron-tolyatti-rubin-kazan"
+  },
+  {
+    "gameId": "743693",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Nizhny Novgorod",
+    "score": "1 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Nizhny Novgorod VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743693/dinamo-moscow-nizhny-novgorod"
   }
 ]

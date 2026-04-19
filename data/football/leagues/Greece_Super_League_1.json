@@ -790,5 +790,50 @@
     "team2": "Kifisia",
     "title": "Atromitos VS Kifisia",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866541/kifisia-atromitos"
+  },
+  {
+    "gameId": "401866548",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Kifisia",
+    "score": "0 - 0",
+    "team2": "Asteras Tripoli",
+    "title": "Kifisia VS Asteras Tripoli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866548/asteras-tripoli-kifisia"
+  },
+  {
+    "gameId": "401866549",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Atromitos",
+    "score": "3 - 2",
+    "team2": "Larissa FC",
+    "title": "Atromitos VS Larissa FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866549/larissa-fc-atromitos"
+  },
+  {
+    "gameId": "401866547",
+    "date": "Saturday, April 18, 2026",
+    "team1": "OFI Crete",
+    "score": "2 - 0",
+    "team2": "Levadiakos",
+    "title": "OFI Crete VS Levadiakos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866547/levadiakos-ofi-crete"
+  },
+  {
+    "gameId": "401866544",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Aris",
+    "score": "3 - 2",
+    "team2": "Volos NFC",
+    "title": "Aris VS Volos NFC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866544/volos-nfc-aris"
+  },
+  {
+    "gameId": "401866546",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Panetolikos",
+    "score": "2 - 3",
+    "team2": "Panserraikos FC",
+    "title": "Panetolikos VS Panserraikos FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866546/panserraikos-fc-panetolikos"
   }
 ]

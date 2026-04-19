@@ -1438,5 +1438,14 @@
     "team2": "Deportivo Pasto",
     "title": "Jaguares de Córdoba VS Deportivo Pasto",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850869/deportivo-pasto-jaguares-de-cordoba"
+  },
+  {
+    "gameId": "401850871",
+    "date": "20260417",
+    "team1": "Deportes Tolima",
+    "score": "2 - 0",
+    "team2": "Deportivo Pereira",
+    "title": "Deportes Tolima VS Deportivo Pereira",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850871/deportivo-pereira-deportes-tolima"
   }
 ]

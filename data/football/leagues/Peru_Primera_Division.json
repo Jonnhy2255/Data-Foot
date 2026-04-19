@@ -772,5 +772,32 @@
     "team2": "Atlético Grau",
     "title": "Los Chankas VS Atlético Grau",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857468/atletico-grau-los-chankas"
+  },
+  {
+    "gameId": "401857461",
+    "date": "20260417",
+    "team1": "FC Cajamarca",
+    "score": "2 - 2",
+    "team2": "ADT",
+    "title": "FC Cajamarca VS ADT",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857461/adt-fc-cajamarca"
+  },
+  {
+    "gameId": "401857464",
+    "date": "20260417",
+    "team1": "Juan Pablo II",
+    "score": "2 - 2",
+    "team2": "Comerciantes Unidos",
+    "title": "Juan Pablo II VS Comerciantes Unidos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857464/comerciantes-unidos-juan-pablo-ii"
+  },
+  {
+    "gameId": "401857466",
+    "date": "20260417",
+    "team1": "Sport Huancayo",
+    "score": "2 - 1",
+    "team2": "Deportivo Garcilaso",
+    "title": "Sport Huancayo VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857466/deportivo-garcilaso-sport-huancayo"
   }
 ]

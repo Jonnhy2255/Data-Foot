@@ -1033,5 +1033,32 @@
     "team2": "Toulouse",
     "title": "Lens VS Toulouse",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746674/toulouse-lens"
+  },
+  {
+    "gameId": "746676",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Lorient",
+    "score": "2 - 0",
+    "team2": "Marseille",
+    "title": "Lorient VS Marseille",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746676/marseille-lorient"
+  },
+  {
+    "gameId": "746673",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Angers",
+    "score": "1 - 1",
+    "team2": "Le Havre AC",
+    "title": "Angers VS Le Havre AC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746673/le-havre-ac-angers"
+  },
+  {
+    "gameId": "746675",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Lille",
+    "score": "0 - 0",
+    "team2": "Nice",
+    "title": "Lille VS Nice",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746675/nice-lille"
   }
 ]

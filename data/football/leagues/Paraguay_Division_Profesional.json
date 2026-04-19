@@ -871,5 +871,14 @@
     "team2": "Sportivo San Lorenzo",
     "title": "Trinidense VS Sportivo San Lorenzo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848260/sportivo-san-lorenzo-trinidense"
+  },
+  {
+    "gameId": "401848259",
+    "date": "20260417",
+    "team1": "Guarani",
+    "score": "2 - 1",
+    "team2": "Sportivo Luqueño",
+    "title": "Guarani VS Sportivo Luqueño",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848259/sportivo-luqueno-guarani"
   }
 ]

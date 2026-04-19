@@ -412,5 +412,23 @@
     "team2": "Beijing Guoan",
     "title": "Zhejiang Professional FC VS Beijing Guoan",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861347/beijing-guoan-zhejiang-professional-fc"
+  },
+  {
+    "gameId": "401861349",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Dalian Yingbo",
+    "score": "2 - 1",
+    "team2": "Henan Songshan Longmen",
+    "title": "Dalian Yingbo VS Henan Songshan Longmen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861349/henan-songshan-longmen-dalian-yingbo"
+  },
+  {
+    "gameId": "401861526",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Shanghai Shenhua",
+    "score": "3 - 1",
+    "team2": "Liaoning Tieren",
+    "title": "Shanghai Shenhua VS Liaoning Tieren",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861526/liaoning-tieren-shanghai-shenhua"
   }
 ]

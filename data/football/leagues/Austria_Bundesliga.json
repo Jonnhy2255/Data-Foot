@@ -493,5 +493,23 @@
     "team2": "SV Josko Ried",
     "title": "Grazer AK VS SV Josko Ried",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401864019/sv-josko-ried-grazer-ak"
+  },
+  {
+    "gameId": "401864020",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Wolfsberger",
+    "score": "0 - 0",
+    "team2": "FC Blau-Weiß Linz",
+    "title": "Wolfsberger VS FC Blau-Weiß Linz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864020/fc-blau-weiß-linz-wolfsberger"
+  },
+  {
+    "gameId": "401864021",
+    "date": "Saturday, April 18, 2026",
+    "team1": "WSG Swarovski Tirol",
+    "score": "2 - 2",
+    "team2": "SC Rheindorf Altach",
+    "title": "WSG Swarovski Tirol VS SC Rheindorf Altach",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864021/sc-rheindorf-altach-wsg-swarovski-tirol"
   }
 ]
