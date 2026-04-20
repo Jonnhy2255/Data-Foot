@@ -1132,5 +1132,41 @@
     "team2": "Vitória de Guimaraes",
     "title": "Gil Vicente VS Vitória de Guimaraes",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750507/vitoria-de-guimaraes-gil-vicente"
+  },
+  {
+    "gameId": "750508",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Arouca",
+    "score": "1 - 0",
+    "team2": "Estrela",
+    "title": "Arouca VS Estrela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750508/estrela-arouca"
+  },
+  {
+    "gameId": "750512",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Sporting CP",
+    "score": "1 - 2",
+    "team2": "Benfica",
+    "title": "Sporting CP VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750512/benfica-sporting-cp"
+  },
+  {
+    "gameId": "750513",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Braga",
+    "score": "2 - 2",
+    "team2": "FC Famalicao",
+    "title": "Braga VS FC Famalicao",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750513/fc-famalicao-braga"
+  },
+  {
+    "gameId": "750510",
+    "date": "Sunday, April 19, 2026",
+    "team1": "FC Porto",
+    "score": "2 - 0",
+    "team2": "Tondela",
+    "title": "FC Porto VS Tondela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750510/tondela-fc-porto"
   }
 ]

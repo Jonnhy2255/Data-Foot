@@ -1366,5 +1366,77 @@
     "team2": "Deportivo Maipú",
     "title": "Patronato VS Deportivo Maipú",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843789/deportivo-maipu-patronato"
+  },
+  {
+    "gameId": "401843779",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Colegiales",
+    "score": "1 - 1",
+    "team2": "Temperley",
+    "title": "Colegiales VS Temperley",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843779/temperley-colegiales"
+  },
+  {
+    "gameId": "401843783",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Almirante Brown",
+    "score": "1 - 0",
+    "team2": "Central Norte",
+    "title": "Almirante Brown VS Central Norte",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843783/central-norte-almirante-brown"
+  },
+  {
+    "gameId": "401843777",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Estudiantes (Buenos Aires)",
+    "score": "0 - 0",
+    "team2": "Chaco For Ever",
+    "title": "Estudiantes (Buenos Aires) VS Chaco For Ever",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843777/chaco-for-ever-estudiantes-buenos-aires"
+  },
+  {
+    "gameId": "401843790",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Mitre (Santiago del Estero)",
+    "score": "0 - 1",
+    "team2": "Ferro Carril Oeste",
+    "title": "Mitre (Santiago del Estero) VS Ferro Carril Oeste",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843790/ferro-carril-oeste-mitre-santiago-del-estero"
+  },
+  {
+    "gameId": "401843794",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Gimnasia y Esgrima (Jujuy)",
+    "score": "6 - 1",
+    "team2": "Almagro",
+    "title": "Gimnasia y Esgrima (Jujuy) VS Almagro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843794/almagro-gimnasia-y-esgrima-jujuy"
+  },
+  {
+    "gameId": "401843786",
+    "date": "Sunday, April 19, 2026",
+    "team1": "San Martín (Tucumán)",
+    "score": "0 - 0",
+    "team2": "Tristán Suárez",
+    "title": "San Martín (Tucumán) VS Tristán Suárez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843786/tristan-suarez-san-martin-tucuman"
+  },
+  {
+    "gameId": "401843793",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Gimnasia y Tiro (Salta)",
+    "score": "1 - 1",
+    "team2": "Güemes",
+    "title": "Gimnasia y Tiro (Salta) VS Güemes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843793/guemes-gimnasia-y-tiro-salta"
+  },
+  {
+    "gameId": "401843787",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Racing (Córdoba)",
+    "score": "3 - 0",
+    "team2": "Defensores de Belgrano",
+    "title": "Racing (Córdoba) VS Defensores de Belgrano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843787/defensores-de-belgrano-racing-cordoba"
   }
 ]

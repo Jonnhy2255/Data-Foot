@@ -700,5 +700,14 @@
     "team2": "Metropolitanos FC",
     "title": "Deportivo Rayo Zuliano VS Metropolitanos FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850520/metropolitanos-fc-deportivo-rayo-zuliano"
+  },
+  {
+    "gameId": "401850515",
+    "date": "20260418",
+    "team1": "Estudiantes de Mérida",
+    "score": "3 - 2",
+    "team2": "Monagas SC",
+    "title": "Estudiantes de Mérida VS Monagas SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850515/monagas-sc-estudiantes-de-merida"
   }
 ]

@@ -988,5 +988,68 @@
     "team2": "Corinthians",
     "title": "Vitória VS Corinthians",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841080/corinthians-vitoria"
+  },
+  {
+    "gameId": "401841087",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Cruzeiro",
+    "score": "2 - 0",
+    "team2": "Grêmio",
+    "title": "Cruzeiro VS Grêmio",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841087/gremio-cruzeiro"
+  },
+  {
+    "gameId": "401841085",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Internacional",
+    "score": "1 - 2",
+    "team2": "Mirassol",
+    "title": "Internacional VS Mirassol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841085/mirassol-internacional"
+  },
+  {
+    "gameId": "401841079",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Coritiba",
+    "score": "2 - 0",
+    "team2": "Atlético-MG",
+    "title": "Coritiba VS Atlético-MG",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841079/atletico-mg-coritiba"
+  },
+  {
+    "gameId": "401841082",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Santos",
+    "score": "2 - 3",
+    "team2": "Fluminense",
+    "title": "Santos VS Fluminense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841082/fluminense-santos"
+  },
+  {
+    "gameId": "401841084",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Palmeiras",
+    "score": "1 - 0",
+    "team2": "Athletico Paranaense",
+    "title": "Palmeiras VS Athletico Paranaense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841084/athletico-paranaense-palmeiras"
+  },
+  {
+    "gameId": "401841083",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Red Bull Bragantino",
+    "score": "4 - 2",
+    "team2": "Remo",
+    "title": "Red Bull Bragantino VS Remo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841083/remo-red-bull-bragantino"
+  },
+  {
+    "gameId": "401841086",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Flamengo",
+    "score": "2 - 0",
+    "team2": "Bahia",
+    "title": "Flamengo VS Bahia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841086/bahia-flamengo"
   }
 ]

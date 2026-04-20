@@ -1186,5 +1186,32 @@
     "team2": "RB Leipzig",
     "title": "Eintracht Frankfurt VS RB Leipzig",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746982/rb-leipzig-eintracht-frankfurt"
+  },
+  {
+    "gameId": "746985",
+    "date": "Sunday, April 19, 2026",
+    "team1": "SC Freiburg",
+    "score": "2 - 1",
+    "team2": "1. FC Heidenheim 1846",
+    "title": "SC Freiburg VS 1. FC Heidenheim 1846",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746985/1-fc-heidenheim-1846-sc-freiburg"
+  },
+  {
+    "gameId": "746983",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Bayern Munich",
+    "score": "4 - 2",
+    "team2": "VfB Stuttgart",
+    "title": "Bayern Munich VS VfB Stuttgart",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746983/vfb-stuttgart-bayern-munich"
+  },
+  {
+    "gameId": "746981",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Borussia Mönchengladbach",
+    "score": "1 - 1",
+    "team2": "Mainz",
+    "title": "Borussia Mönchengladbach VS Mainz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746981/mainz-borussia-monchengladbach"
   }
 ]

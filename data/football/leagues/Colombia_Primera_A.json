@@ -1447,5 +1447,41 @@
     "team2": "Deportivo Pereira",
     "title": "Deportes Tolima VS Deportivo Pereira",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850871/deportivo-pereira-deportes-tolima"
+  },
+  {
+    "gameId": "401850872",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Fortaleza CEIF",
+    "score": "2 - 0",
+    "team2": "Águilas Doradas",
+    "title": "Fortaleza CEIF VS Águilas Doradas",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850872/aguilas-doradas-fortaleza-ceif"
+  },
+  {
+    "gameId": "401850873",
+    "date": "20260418",
+    "team1": "Independiente Santa Fe",
+    "score": "5 - 0",
+    "team2": "Cúcuta Deportivo",
+    "title": "Independiente Santa Fe VS Cúcuta Deportivo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850873/cucuta-deportivo-independiente-santa-fe"
+  },
+  {
+    "gameId": "401850876",
+    "date": "20260418",
+    "team1": "Alianza FC",
+    "score": "0 - 1",
+    "team2": "Independiente Medellín",
+    "title": "Alianza FC VS Independiente Medellín",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850876/independiente-medellin-alianza-fc"
+  },
+  {
+    "gameId": "401850875",
+    "date": "20260418",
+    "team1": "Atlético Junior",
+    "score": "2 - 0",
+    "team2": "Llaneros",
+    "title": "Atlético Junior VS Llaneros",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850875/llaneros-atletico-junior"
   }
 ]

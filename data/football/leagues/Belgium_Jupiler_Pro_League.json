@@ -898,5 +898,41 @@
     "team2": "Anderlecht",
     "title": "KV Mechelen VS Anderlecht",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866280/anderlecht-kv-mechelen"
+  },
+  {
+    "gameId": "401866281",
+    "date": "Sunday, April 19, 2026",
+    "team1": "KAA Gent",
+    "score": "0 - 0",
+    "team2": "Sint-Truidense",
+    "title": "KAA Gent VS Sint-Truidense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866281/sint-truidense-kaa-gent"
+  },
+  {
+    "gameId": "401866282",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Dender",
+    "score": "1 - 4",
+    "team2": "Cercle Brugge KSV",
+    "title": "Dender VS Cercle Brugge KSV",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866282/cercle-brugge-ksv-dender"
+  },
+  {
+    "gameId": "401866283",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Union St.-Gilloise",
+    "score": "2 - 1",
+    "team2": "Club Brugge",
+    "title": "Union St.-Gilloise VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866283/club-brugge-union-st-gilloise"
+  },
+  {
+    "gameId": "401866284",
+    "date": "Sunday, April 19, 2026",
+    "team1": "RAAL La Louvière",
+    "score": "0 - 2",
+    "team2": "Zulte-Waregem",
+    "title": "RAAL La Louvière VS Zulte-Waregem",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866284/zulte-waregem-raal-la-louviere"
   }
 ]

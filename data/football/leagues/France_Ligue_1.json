@@ -1060,5 +1060,50 @@
     "team2": "Nice",
     "title": "Lille VS Nice",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746675/nice-lille"
+  },
+  {
+    "gameId": "746678",
+    "date": "Sunday, April 19, 2026",
+    "team1": "AS Monaco",
+    "score": "2 - 2",
+    "team2": "AJ Auxerre",
+    "title": "AS Monaco VS AJ Auxerre",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746678/aj-auxerre-as-monaco"
+  },
+  {
+    "gameId": "746677",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Metz",
+    "score": "1 - 3",
+    "team2": "Paris FC",
+    "title": "Metz VS Paris FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746677/paris-fc-metz"
+  },
+  {
+    "gameId": "746679",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Nantes",
+    "score": "1 - 1",
+    "team2": "Brest",
+    "title": "Nantes VS Brest",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746679/brest-nantes"
+  },
+  {
+    "gameId": "746681",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Strasbourg",
+    "score": "0 - 3",
+    "team2": "Stade Rennais",
+    "title": "Strasbourg VS Stade Rennais",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746681/stade-rennais-strasbourg"
+  },
+  {
+    "gameId": "746680",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Paris Saint-Germain",
+    "score": "1 - 2",
+    "team2": "Lyon",
+    "title": "Paris Saint-Germain VS Lyon",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746680/lyon-paris-saint-germain"
   }
 ]

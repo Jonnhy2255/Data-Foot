@@ -475,5 +475,32 @@
     "team2": "Dinamo Moscow",
     "title": "Nizhny Novgorod VS Dinamo Moscow",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743693/dinamo-moscow-nizhny-novgorod"
+  },
+  {
+    "gameId": "743690",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Dynamo Makhachkala",
+    "score": "0 - 1",
+    "team2": "Zenit St Petersburg",
+    "title": "Dynamo Makhachkala VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743690/zenit-st-petersburg-dynamo-makhachkala"
+  },
+  {
+    "gameId": "743696",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Spartak Moscow",
+    "score": "3 - 1",
+    "team2": "Akhmat Grozny",
+    "title": "Spartak Moscow VS Akhmat Grozny",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743696/akhmat-grozny-spartak-moscow"
+  },
+  {
+    "gameId": "743691",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Krasnodar",
+    "score": "2 - 2",
+    "team2": "FC Baltika Kaliningrad",
+    "title": "Krasnodar VS FC Baltika Kaliningrad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743691/fc-baltika-kaliningrad-krasnodar"
   }
 ]

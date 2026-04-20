@@ -196,5 +196,23 @@
     "team2": "IF Brommapojkarna",
     "title": "Mjällby AIF VS IF Brommapojkarna",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401842678/if-brommapojkarna-mjallby-aif"
+  },
+  {
+    "gameId": "401842681",
+    "date": "Sunday, April 19, 2026",
+    "team1": "AIK",
+    "score": "1 - 0",
+    "team2": "Kalmar FF",
+    "title": "AIK VS Kalmar FF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842681/kalmar-ff-aik"
+  },
+  {
+    "gameId": "401842677",
+    "date": "Sunday, April 19, 2026",
+    "team1": "BK Häcken",
+    "score": "2 - 1",
+    "team2": "GAIS",
+    "title": "BK Häcken VS GAIS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842677/gais-bk-hacken"
   }
 ]

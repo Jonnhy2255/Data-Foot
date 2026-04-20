@@ -961,5 +961,104 @@
     "team2": "Inter Miami CF",
     "title": "Colorado Rapids VS Inter Miami CF",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761546/inter-miami-cf-colorado-rapids"
+  },
+  {
+    "gameId": "761547",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Atlanta United FC",
+    "score": "0 - 2",
+    "team2": "Nashville SC",
+    "title": "Atlanta United FC VS Nashville SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761547/nashville-sc-atlanta-united-fc"
+  },
+  {
+    "gameId": "761550",
+    "date": "Saturday, April 18, 2026",
+    "team1": "FC Cincinnati",
+    "score": "3 - 3",
+    "team2": "Chicago Fire FC",
+    "title": "FC Cincinnati VS Chicago Fire FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761550/chicago-fire-fc-fc-cincinnati"
+  },
+  {
+    "gameId": "761552",
+    "date": "Saturday, April 18, 2026",
+    "team1": "New England Revolution",
+    "score": "2 - 1",
+    "team2": "Columbus Crew",
+    "title": "New England Revolution VS Columbus Crew",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761552/columbus-crew-new-england-revolution"
+  },
+  {
+    "gameId": "761551",
+    "date": "Saturday, April 18, 2026",
+    "team1": "New York City FC",
+    "score": "1 - 2",
+    "team2": "Charlotte FC",
+    "title": "New York City FC VS Charlotte FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761551/charlotte-fc-new-york-city-fc"
+  },
+  {
+    "gameId": "761549",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Orlando City SC",
+    "score": "0 - 1",
+    "team2": "Houston Dynamo FC",
+    "title": "Orlando City SC VS Houston Dynamo FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761549/houston-dynamo-fc-orlando-city-sc"
+  },
+  {
+    "gameId": "761548",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Philadelphia Union",
+    "score": "0 - 0",
+    "team2": "D.C. United",
+    "title": "Philadelphia Union VS D.C. United",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761548/dc-united-philadelphia-union"
+  },
+  {
+    "gameId": "761554",
+    "date": "Saturday, April 18, 2026",
+    "team1": "FC Dallas",
+    "score": "2 - 2",
+    "team2": "LA Galaxy",
+    "title": "FC Dallas VS LA Galaxy",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761554/la-galaxy-fc-dallas"
+  },
+  {
+    "gameId": "761553",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Minnesota United FC",
+    "score": "2 - 0",
+    "team2": "Portland Timbers",
+    "title": "Minnesota United FC VS Portland Timbers",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761553/portland-timbers-minnesota-united-fc"
+  },
+  {
+    "gameId": "761556",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Real Salt Lake",
+    "score": "4 - 2",
+    "team2": "San Diego FC",
+    "title": "Real Salt Lake VS San Diego FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761556/san-diego-fc-real-salt-lake"
+  },
+  {
+    "gameId": "761555",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Seattle Sounders FC",
+    "score": "4 - 1",
+    "team2": "St. Louis CITY SC",
+    "title": "Seattle Sounders FC VS St. Louis CITY SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761555/st-louis-city-sc-seattle-sounders-fc"
+  },
+  {
+    "gameId": "761558",
+    "date": "Sunday, April 19, 2026",
+    "team1": "LAFC",
+    "score": "1 - 4",
+    "team2": "San Jose Earthquakes",
+    "title": "LAFC VS San Jose Earthquakes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761558/san-jose-earthquakes-lafc"
   }
 ]

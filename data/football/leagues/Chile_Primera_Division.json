@@ -655,5 +655,41 @@
     "team2": "Universidad de Chile",
     "title": "Everton CD VS Universidad de Chile",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850552/universidad-de-chile-everton-cd"
+  },
+  {
+    "gameId": "401850554",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Deportes Concepcion",
+    "score": "3 - 3",
+    "team2": "La Serena",
+    "title": "Deportes Concepcion VS La Serena",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850554/la-serena-deportes-concepcion"
+  },
+  {
+    "gameId": "401850555",
+    "date": "20260418",
+    "team1": "Coquimbo Unido",
+    "score": "1 - 1",
+    "team2": "Ñublense",
+    "title": "Coquimbo Unido VS Ñublense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850555/nublense-coquimbo-unido"
+  },
+  {
+    "gameId": "401850548",
+    "date": "20260418",
+    "team1": "Cobresal",
+    "score": "2 - 3",
+    "team2": "O'Higgins",
+    "title": "Cobresal VS O'Higgins",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850548/ohiggins-cobresal"
+  },
+  {
+    "gameId": "401850549",
+    "date": "20260418",
+    "team1": "Colo Colo",
+    "score": "0 - 1",
+    "team2": "Palestino",
+    "title": "Colo Colo VS Palestino",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850549/palestino-colo-colo"
   }
 ]

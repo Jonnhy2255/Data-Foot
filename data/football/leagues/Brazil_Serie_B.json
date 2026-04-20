@@ -385,5 +385,68 @@
     "team2": "Operário PR",
     "title": "Vila Nova VS Operário PR",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860104/operario-pr-vila-nova"
+  },
+  {
+    "gameId": "401860103",
+    "date": "Saturday, April 18, 2026",
+    "team1": "Avaí",
+    "score": "1 - 2",
+    "team2": "Ponte Preta",
+    "title": "Avaí VS Ponte Preta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860103/ponte-preta-avai"
+  },
+  {
+    "gameId": "401860110",
+    "date": "Saturday, April 18, 2026",
+    "team1": "CRB",
+    "score": "0 - 1",
+    "team2": "Juventude",
+    "title": "CRB VS Juventude",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860110/juventude-crb"
+  },
+  {
+    "gameId": "401860111",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Botafogo-SP",
+    "score": "1 - 1",
+    "team2": "Atlético Goianiense",
+    "title": "Botafogo-SP VS Atlético Goianiense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860111/atletico-goianiense-botafogo-sp"
+  },
+  {
+    "gameId": "401860107",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Londrina",
+    "score": "0 - 0",
+    "team2": "Ceará",
+    "title": "Londrina VS Ceará",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860107/ceara-londrina"
+  },
+  {
+    "gameId": "401860108",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Goiás",
+    "score": "0 - 2",
+    "team2": "Cuiabá",
+    "title": "Goiás VS Cuiabá",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860108/cuiaba-goias"
+  },
+  {
+    "gameId": "401860109",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Fortaleza",
+    "score": "3 - 2",
+    "team2": "Criciúma",
+    "title": "Fortaleza VS Criciúma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860109/criciuma-fortaleza"
+  },
+  {
+    "gameId": "401860106",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Novorizontino",
+    "score": "2 - 1",
+    "team2": "Athletic",
+    "title": "Novorizontino VS Athletic",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860106/athletic-novorizontino"
   }
 ]
