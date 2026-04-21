@@ -1042,5 +1042,14 @@
     "team2": "Istanbul Basaksehir",
     "title": "Trabzonspor VS Istanbul Basaksehir",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750187/istanbul-basaksehir-trabzonspor"
+  },
+  {
+    "gameId": "750182",
+    "date": "Monday, April 20, 2026",
+    "team1": "Gaziantep FK",
+    "score": "3 - 0",
+    "team2": "Kayserispor",
+    "title": "Gaziantep FK VS Kayserispor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750182/kayserispor-gaziantep-fk"
   }
 ]

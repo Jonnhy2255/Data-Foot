@@ -835,5 +835,14 @@
     "team2": "Universitario",
     "title": "Melgar VS Universitario",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857467/universitario-melgar"
+  },
+  {
+    "gameId": "401857460",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Cienciano del Cusco",
+    "score": "2 - 1",
+    "team2": "Deportivo Moquegua",
+    "title": "Cienciano del Cusco VS Deportivo Moquegua",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857460/deportivo-moquegua-cienciano-del-cusco"
   }
 ]

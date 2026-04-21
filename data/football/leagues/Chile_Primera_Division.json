@@ -691,5 +691,14 @@
     "team2": "Palestino",
     "title": "Colo Colo VS Palestino",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850549/palestino-colo-colo"
+  },
+  {
+    "gameId": "401850551",
+    "date": "Sunday, April 19, 2026",
+    "team1": "Huachipato",
+    "score": "3 - 2",
+    "team2": "Audax Italiano",
+    "title": "Huachipato VS Audax Italiano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850551/audax-italiano-huachipato"
   }
 ]
