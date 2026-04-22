@@ -502,5 +502,23 @@
     "team2": "FC Baltika Kaliningrad",
     "title": "Krasnodar VS FC Baltika Kaliningrad",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743691/fc-baltika-kaliningrad-krasnodar"
+  },
+  {
+    "gameId": "743703",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "Sochi",
+    "score": "2 - 1",
+    "team2": "Krylia Sovetov",
+    "title": "Sochi VS Krylia Sovetov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743703/krylia-sovetov-sochi"
+  },
+  {
+    "gameId": "743700",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "CSKA Moscow",
+    "score": "1 - 1",
+    "team2": "Rostov",
+    "title": "CSKA Moscow VS Rostov",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743700/rostov-cska-moscow"
   }
 ]

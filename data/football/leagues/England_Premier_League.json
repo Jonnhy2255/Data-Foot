@@ -1357,5 +1357,14 @@
     "team2": "West Ham United",
     "title": "Crystal Palace VS West Ham United",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/740923/west-ham-united-crystal-palace"
+  },
+  {
+    "gameId": "740928",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "Brighton & Hove Albion",
+    "score": "3 - 0",
+    "team2": "Chelsea",
+    "title": "Brighton & Hove Albion VS Chelsea",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/740928/chelsea-brighton-hove-albion"
   }
 ]

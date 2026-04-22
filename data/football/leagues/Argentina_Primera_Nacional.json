@@ -1438,5 +1438,23 @@
     "team2": "Defensores de Belgrano",
     "title": "Racing (Córdoba) VS Defensores de Belgrano",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843787/defensores-de-belgrano-racing-cordoba"
+  },
+  {
+    "gameId": "401843781",
+    "date": "Monday, April 20, 2026",
+    "team1": "Atletico Rafaela",
+    "score": "4 - 1",
+    "team2": "Agropecuario",
+    "title": "Atletico Rafaela VS Agropecuario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843781/agropecuario-atletico-rafaela"
+  },
+  {
+    "gameId": "401843782",
+    "date": "Monday, April 20, 2026",
+    "team1": "Atlanta",
+    "score": "1 - 0",
+    "team2": "Chacarita Juniors",
+    "title": "Atlanta VS Chacarita Juniors",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843782/chacarita-juniors-atlanta"
   }
 ]

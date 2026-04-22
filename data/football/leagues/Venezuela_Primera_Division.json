@@ -718,5 +718,41 @@
     "team2": "Deportivo Táchira",
     "title": "Universidad Central VS Deportivo Táchira",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850519/deportivo-tachira-universidad-central"
+  },
+  {
+    "gameId": "401850517",
+    "date": "Monday, April 20, 2026",
+    "team1": "Zamora",
+    "score": "1 - 1",
+    "team2": "Caracas FC",
+    "title": "Zamora VS Caracas FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850517/caracas-fc-zamora"
+  },
+  {
+    "gameId": "401850511",
+    "date": "Monday, April 20, 2026",
+    "team1": "Carabobo",
+    "score": "6 - 3",
+    "team2": "Academia Anzoátegui",
+    "title": "Carabobo VS Academia Anzoátegui",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850511/academia-anzoategui-carabobo"
+  },
+  {
+    "gameId": "401850509",
+    "date": "Monday, April 20, 2026",
+    "team1": "Deportivo La Guaira",
+    "score": "0 - 0",
+    "team2": "Portuguesa",
+    "title": "Deportivo La Guaira VS Portuguesa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850509/portuguesa-deportivo-la-guaira"
+  },
+  {
+    "gameId": "401850513",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "Academia Puerto Cabello",
+    "score": "3 - 1",
+    "team2": "Trujillanos",
+    "title": "Academia Puerto Cabello VS Trujillanos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850513/trujillanos-academia-puerto-cabello"
   }
 ]

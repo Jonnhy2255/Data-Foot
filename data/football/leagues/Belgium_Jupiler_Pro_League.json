@@ -934,5 +934,32 @@
     "team2": "Zulte-Waregem",
     "title": "RAAL La Louvière VS Zulte-Waregem",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866284/zulte-waregem-raal-la-louviere"
+  },
+  {
+    "gameId": "401866286",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "Oud-Heverlee Leuven",
+    "score": "0 - 2",
+    "team2": "KVC Westerlo",
+    "title": "Oud-Heverlee Leuven VS KVC Westerlo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866286/kvc-westerlo-oud-heverlee-leuven"
+  },
+  {
+    "gameId": "401866285",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "Racing Genk",
+    "score": "1 - 1",
+    "team2": "Royal Charleroi SC",
+    "title": "Racing Genk VS Royal Charleroi SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866285/royal-charleroi-sc-racing-genk"
+  },
+  {
+    "gameId": "401866287",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "Standard Liege",
+    "score": "1 - 2",
+    "team2": "Antwerp",
+    "title": "Standard Liege VS Antwerp",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866287/antwerp-standard-liege"
   }
 ]

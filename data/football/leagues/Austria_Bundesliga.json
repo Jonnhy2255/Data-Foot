@@ -538,5 +538,32 @@
     "team2": "SK Sturm Graz",
     "title": "LASK Linz VS SK Sturm Graz",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401864024/sk-sturm-graz-lask-linz"
+  },
+  {
+    "gameId": "401864026",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "FC Blau-Weiß Linz",
+    "score": "3 - 0",
+    "team2": "Wolfsberger",
+    "title": "FC Blau-Weiß Linz VS Wolfsberger",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864026/wolfsberger-fc-blau-weiß-linz"
+  },
+  {
+    "gameId": "401864025",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "SC Rheindorf Altach",
+    "score": "0 - 0",
+    "team2": "WSG Swarovski Tirol",
+    "title": "SC Rheindorf Altach VS WSG Swarovski Tirol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864025/wsg-swarovski-tirol-sc-rheindorf-altach"
+  },
+  {
+    "gameId": "401864027",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "SV Josko Ried",
+    "score": "2 - 1",
+    "team2": "Grazer AK",
+    "title": "SV Josko Ried VS Grazer AK",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864027/grazer-ak-sv-josko-ried"
   }
 ]

@@ -1249,5 +1249,41 @@
     "team2": "Getafe",
     "title": "Levante VS Getafe",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748446/getafe-levante"
+  },
+  {
+    "gameId": "748469",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "Athletic Club",
+    "score": "1 - 0",
+    "team2": "Osasuna",
+    "title": "Athletic Club VS Osasuna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748469/osasuna-athletic-club"
+  },
+  {
+    "gameId": "748468",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "Mallorca",
+    "score": "1 - 1",
+    "team2": "Valencia",
+    "title": "Mallorca VS Valencia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748468/valencia-mallorca"
+  },
+  {
+    "gameId": "748467",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "Girona",
+    "score": "2 - 3",
+    "team2": "Real Betis",
+    "title": "Girona VS Real Betis",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748467/real-betis-girona"
+  },
+  {
+    "gameId": "748471",
+    "date": "Tuesday, April 21, 2026",
+    "team1": "Real Madrid",
+    "score": "2 - 1",
+    "team2": "Alavés",
+    "title": "Real Madrid VS Alavés",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748471/alaves-real-madrid"
   }
 ]
