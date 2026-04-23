@@ -214,5 +214,41 @@
     "team2": "GAIS",
     "title": "BK Häcken VS GAIS",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401842677/gais-bk-hacken"
+  },
+  {
+    "gameId": "401842688",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Hammarby IF",
+    "score": "1 - 1",
+    "team2": "Halmstads BK",
+    "title": "Hammarby IF VS Halmstads BK",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842688/halmstads-bk-hammarby-if"
+  },
+  {
+    "gameId": "401842686",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "IF Elfsborg",
+    "score": "2 - 1",
+    "team2": "Djurgården",
+    "title": "IF Elfsborg VS Djurgården",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842686/djurgarden-if-elfsborg"
+  },
+  {
+    "gameId": "401842682",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Örgryte IS",
+    "score": "1 - 2",
+    "team2": "IF Brommapojkarna",
+    "title": "Örgryte IS VS IF Brommapojkarna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842682/if-brommapojkarna-orgryte-is"
+  },
+  {
+    "gameId": "401842683",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Västerås SK",
+    "score": "3 - 3",
+    "team2": "BK Häcken",
+    "title": "Västerås SK VS BK Häcken",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842683/bk-hacken-vasteras-sk"
   }
 ]

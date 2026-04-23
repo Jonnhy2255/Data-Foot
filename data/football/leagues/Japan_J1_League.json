@@ -988,5 +988,14 @@
     "team2": "Avispa Fukuoka",
     "title": "Nagoya Grampus VS Avispa Fukuoka",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859351/avispa-fukuoka-nagoya-grampus"
+  },
+  {
+    "gameId": "401859398",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Gamba Osaka",
+    "score": "1 - 2",
+    "team2": "Avispa Fukuoka",
+    "title": "Gamba Osaka VS Avispa Fukuoka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859398/avispa-fukuoka-gamba-osaka"
   }
 ]

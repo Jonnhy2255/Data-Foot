@@ -520,5 +520,32 @@
     "team2": "Rostov",
     "title": "CSKA Moscow VS Rostov",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743700/rostov-cska-moscow"
+  },
+  {
+    "gameId": "743705",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Gazovik Orenburg",
+    "score": "2 - 1",
+    "team2": "Nizhny Novgorod",
+    "title": "Gazovik Orenburg VS Nizhny Novgorod",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743705/nizhny-novgorod-gazovik-orenburg"
+  },
+  {
+    "gameId": "743701",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Dinamo Moscow",
+    "score": "0 - 1",
+    "team2": "Rubin Kazan",
+    "title": "Dinamo Moscow VS Rubin Kazan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743701/rubin-kazan-dinamo-moscow"
+  },
+  {
+    "gameId": "743702",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Lokomotiv Moscow",
+    "score": "0 - 0",
+    "team2": "Zenit St Petersburg",
+    "title": "Lokomotiv Moscow VS Zenit St Petersburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743702/zenit-st-petersburg-lokomotiv-moscow"
   }
 ]

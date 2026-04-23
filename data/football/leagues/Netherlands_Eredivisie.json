@@ -1060,5 +1060,14 @@
     "team2": "Heerenveen",
     "title": "AZ Alkmaar VS Heerenveen",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741240/heerenveen-az-alkmaar"
+  },
+  {
+    "gameId": "741254",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Telstar",
+    "score": "4 - 1",
+    "team2": "Sparta Rotterdam",
+    "title": "Telstar VS Sparta Rotterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741254/sparta-rotterdam-telstar"
   }
 ]

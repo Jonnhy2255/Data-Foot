@@ -1510,5 +1510,14 @@
     "team2": "Bucaramanga",
     "title": "Atlético Nacional VS Bucaramanga",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850878/bucaramanga-atletico-nacional"
+  },
+  {
+    "gameId": "401850803",
+    "date": "20260421",
+    "team1": "Independiente Medellín",
+    "score": "2 - 0",
+    "team2": "Boyacá Chicó",
+    "title": "Independiente Medellín VS Boyacá Chicó",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850803/boyaca-chico-independiente-medellin"
   }
 ]

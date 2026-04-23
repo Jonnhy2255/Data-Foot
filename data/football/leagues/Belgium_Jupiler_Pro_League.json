@@ -961,5 +961,23 @@
     "team2": "Antwerp",
     "title": "Standard Liege VS Antwerp",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866287/antwerp-standard-liege"
+  },
+  {
+    "gameId": "401866288",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Club Brugge",
+    "score": "6 - 1",
+    "team2": "KV Mechelen",
+    "title": "Club Brugge VS KV Mechelen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866288/kv-mechelen-club-brugge"
+  },
+  {
+    "gameId": "401866289",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Union St.-Gilloise",
+    "score": "0 - 0",
+    "team2": "KAA Gent",
+    "title": "Union St.-Gilloise VS KAA Gent",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866289/kaa-gent-union-st-gilloise"
   }
 ]

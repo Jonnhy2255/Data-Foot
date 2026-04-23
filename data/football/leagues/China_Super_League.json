@@ -475,5 +475,32 @@
     "team2": "Shandong Taishan",
     "title": "Tianjin Jinmen Tiger VS Shandong Taishan",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861353/shandong-taishan-tianjin-jinmen-tiger"
+  },
+  {
+    "gameId": "401861528",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Liaoning Tieren",
+    "score": "0 - 1",
+    "team2": "Dalian Yingbo",
+    "title": "Liaoning Tieren VS Dalian Yingbo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861528/dalian-yingbo-liaoning-tieren"
+  },
+  {
+    "gameId": "401861354",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Qingdao West Coast",
+    "score": "0 - 0",
+    "team2": "Henan Songshan Longmen",
+    "title": "Qingdao West Coast VS Henan Songshan Longmen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861354/henan-songshan-longmen-qingdao-west-coast"
+  },
+  {
+    "gameId": "401861355",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Shanghai Shenhua",
+    "score": "2 - 0",
+    "team2": "Qingdao Hainiu",
+    "title": "Shanghai Shenhua VS Qingdao Hainiu",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861355/qingdao-hainiu-shanghai-shenhua"
   }
 ]

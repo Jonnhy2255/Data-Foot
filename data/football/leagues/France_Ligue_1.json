@@ -1105,5 +1105,14 @@
     "team2": "Lyon",
     "title": "Paris Saint-Germain VS Lyon",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746680/lyon-paris-saint-germain"
+  },
+  {
+    "gameId": "746643",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Paris Saint-Germain",
+    "score": "3 - 0",
+    "team2": "Nantes",
+    "title": "Paris Saint-Germain VS Nantes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746643/nantes-paris-saint-germain"
   }
 ]
