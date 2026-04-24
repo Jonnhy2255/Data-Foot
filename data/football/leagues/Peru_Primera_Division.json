@@ -871,5 +871,23 @@
     "team2": "FC Cajamarca",
     "title": "Cusco FC VS FC Cajamarca",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857451/fc-cajamarca-cusco-fc"
+  },
+  {
+    "gameId": "401857455",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Universitario",
+    "score": "4 - 1",
+    "team2": "Deportivo Garcilaso",
+    "title": "Universitario VS Deportivo Garcilaso",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857455/deportivo-garcilaso-universitario"
+  },
+  {
+    "gameId": "401857456",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Los Chankas",
+    "score": "1 - 0",
+    "team2": "Cienciano del Cusco",
+    "title": "Los Chankas VS Cienciano del Cusco",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857456/cienciano-del-cusco-los-chankas"
   }
 ]

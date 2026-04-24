@@ -979,5 +979,14 @@
     "team2": "KAA Gent",
     "title": "Union St.-Gilloise VS KAA Gent",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866289/kaa-gent-union-st-gilloise"
+  },
+  {
+    "gameId": "401866290",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Sint-Truidense",
+    "score": "2 - 0",
+    "team2": "Anderlecht",
+    "title": "Sint-Truidense VS Anderlecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866290/anderlecht-sint-truidense"
   }
 ]

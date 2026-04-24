@@ -1519,5 +1519,23 @@
     "team2": "Boyacá Chicó",
     "title": "Independiente Medellín VS Boyacá Chicó",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850803/boyaca-chico-independiente-medellin"
+  },
+  {
+    "gameId": "401850755",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Fortaleza CEIF",
+    "score": "1 - 2",
+    "team2": "América de Cali",
+    "title": "Fortaleza CEIF VS América de Cali",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850755/america-de-cali-fortaleza-ceif"
+  },
+  {
+    "gameId": "401850880",
+    "date": "20260422",
+    "team1": "Deportivo Pasto",
+    "score": "1 - 2",
+    "team2": "Independiente Santa Fe",
+    "title": "Deportivo Pasto VS Independiente Santa Fe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850880/independiente-santa-fe-deportivo-pasto"
   }
 ]

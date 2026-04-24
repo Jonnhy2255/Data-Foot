@@ -250,5 +250,41 @@
     "team2": "BK Häcken",
     "title": "Västerås SK VS BK Häcken",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401842683/bk-hacken-vasteras-sk"
+  },
+  {
+    "gameId": "401842689",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Degerfors IF",
+    "score": "2 - 1",
+    "team2": "AIK",
+    "title": "Degerfors IF VS AIK",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842689/aik-degerfors-if"
+  },
+  {
+    "gameId": "401842687",
+    "date": "Thursday, April 23, 2026",
+    "team1": "GAIS",
+    "score": "0 - 0",
+    "team2": "Mjällby AIF",
+    "title": "GAIS VS Mjällby AIF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842687/mjallby-aif-gais"
+  },
+  {
+    "gameId": "401842685",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Kalmar FF",
+    "score": "1 - 1",
+    "team2": "IFK Göteborg",
+    "title": "Kalmar FF VS IFK Göteborg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842685/ifk-goteborg-kalmar-ff"
+  },
+  {
+    "gameId": "401842684",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Malmö FF",
+    "score": "2 - 3",
+    "team2": "IK Sirius",
+    "title": "Malmö FF VS IK Sirius",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842684/ik-sirius-malmo-ff"
   }
 ]

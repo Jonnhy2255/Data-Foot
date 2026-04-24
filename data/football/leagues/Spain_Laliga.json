@@ -1312,5 +1312,32 @@
     "team2": "Celta Vigo",
     "title": "Barcelona VS Celta Vigo",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748465/celta-vigo-barcelona"
+  },
+  {
+    "gameId": "748473",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Levante",
+    "score": "2 - 0",
+    "team2": "Sevilla",
+    "title": "Levante VS Sevilla",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748473/sevilla-levante"
+  },
+  {
+    "gameId": "748470",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Rayo Vallecano",
+    "score": "1 - 0",
+    "team2": "Espanyol",
+    "title": "Rayo Vallecano VS Espanyol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748470/espanyol-rayo-vallecano"
+  },
+  {
+    "gameId": "748464",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Real Oviedo",
+    "score": "1 - 1",
+    "team2": "Villarreal",
+    "title": "Real Oviedo VS Villarreal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748464/villarreal-real-oviedo"
   }
 ]

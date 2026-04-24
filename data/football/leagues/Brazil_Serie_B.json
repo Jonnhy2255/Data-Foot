@@ -448,5 +448,14 @@
     "team2": "Athletic",
     "title": "Novorizontino VS Athletic",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860106/athletic-novorizontino"
+  },
+  {
+    "gameId": "401860117",
+    "date": "Wednesday, April 22, 2026",
+    "team1": "Cuiabá",
+    "score": "1 - 1",
+    "team2": "Botafogo-SP",
+    "title": "Cuiabá VS Botafogo-SP",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860117/botafogo-sp-cuiaba"
   }
 ]

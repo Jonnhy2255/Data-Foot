@@ -1177,5 +1177,14 @@
     "team2": "Estoril",
     "title": "Moreirense VS Estoril",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750511/estoril-moreirense"
+  },
+  {
+    "gameId": "750474",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Casa Pia",
+    "score": "0 - 1",
+    "team2": "Braga",
+    "title": "Casa Pia VS Braga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750474/braga-casa-pia"
   }
 ]

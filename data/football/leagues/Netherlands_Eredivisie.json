@@ -1069,5 +1069,23 @@
     "team2": "Sparta Rotterdam",
     "title": "Telstar VS Sparta Rotterdam",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741254/sparta-rotterdam-telstar"
+  },
+  {
+    "gameId": "741249",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Go Ahead Eagles",
+    "score": "0 - 0",
+    "team2": "AZ Alkmaar",
+    "title": "Go Ahead Eagles VS AZ Alkmaar",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741249/az-alkmaar-go-ahead-eagles"
+  },
+  {
+    "gameId": "741251",
+    "date": "Thursday, April 23, 2026",
+    "team1": "PSV Eindhoven",
+    "score": "6 - 1",
+    "team2": "PEC Zwolle",
+    "title": "PSV Eindhoven VS PEC Zwolle",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741251/pec-zwolle-psv-eindhoven"
   }
 ]
