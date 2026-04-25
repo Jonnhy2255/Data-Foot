@@ -1213,5 +1213,14 @@
     "team2": "Mainz",
     "title": "Borussia Mönchengladbach VS Mainz",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746981/mainz-borussia-monchengladbach"
+  },
+  {
+    "gameId": "746994",
+    "date": "Friday, April 24, 2026",
+    "team1": "RB Leipzig",
+    "score": "3 - 1",
+    "team2": "1. FC Union Berlin",
+    "title": "RB Leipzig VS 1. FC Union Berlin",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746994/1-fc-union-berlin-rb-leipzig"
   }
 ]

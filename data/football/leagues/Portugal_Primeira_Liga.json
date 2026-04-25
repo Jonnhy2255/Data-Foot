@@ -1186,5 +1186,14 @@
     "team2": "Braga",
     "title": "Casa Pia VS Braga",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750474/braga-casa-pia"
+  },
+  {
+    "gameId": "750520",
+    "date": "Friday, April 24, 2026",
+    "team1": "Alverca",
+    "score": "2 - 1",
+    "team2": "Arouca",
+    "title": "Alverca VS Arouca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750520/arouca-alverca"
   }
 ]

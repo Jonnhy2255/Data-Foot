@@ -1114,5 +1114,14 @@
     "team2": "Nantes",
     "title": "Paris Saint-Germain VS Nantes",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746643/nantes-paris-saint-germain"
+  },
+  {
+    "gameId": "746683",
+    "date": "Friday, April 24, 2026",
+    "team1": "Brest",
+    "score": "3 - 3",
+    "team2": "Lens",
+    "title": "Brest VS Lens",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746683/lens-brest"
   }
 ]

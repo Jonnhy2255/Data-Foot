@@ -709,5 +709,23 @@
     "team2": "Unión La Calera",
     "title": "Universidad Católica VS Unión La Calera",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850550/union-la-calera-universidad-catolica"
+  },
+  {
+    "gameId": "401850560",
+    "date": "Thursday, April 23, 2026",
+    "team1": "Palestino",
+    "score": "0 - 1",
+    "team2": "Deportes Concepcion",
+    "title": "Palestino VS Deportes Concepcion",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850560/deportes-concepcion-palestino"
+  },
+  {
+    "gameId": "401850557",
+    "date": "20260423",
+    "team1": "Unión La Calera",
+    "score": "1 - 2",
+    "team2": "Coquimbo Unido",
+    "title": "Unión La Calera VS Coquimbo Unido",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850557/coquimbo-unido-union-la-calera"
   }
 ]
