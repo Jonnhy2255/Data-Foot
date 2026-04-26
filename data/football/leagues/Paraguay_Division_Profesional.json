@@ -925,5 +925,14 @@
     "team2": "Deportivo Recoleta",
     "title": "Nacional VS Deportivo Recoleta",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848264/deportivo-recoleta-nacional"
+  },
+  {
+    "gameId": "401848261",
+    "date": "Friday, April 24, 2026",
+    "team1": "Cerro Porteño",
+    "score": "1 - 1",
+    "team2": "Sportivo Ameliano",
+    "title": "Cerro Porteño VS Sportivo Ameliano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848261/sportivo-ameliano-cerro-porteno"
   }
 ]

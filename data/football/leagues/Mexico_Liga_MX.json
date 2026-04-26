@@ -1294,5 +1294,32 @@
     "team2": "Guadalajara",
     "title": "Necaxa VS Guadalajara",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840958/guadalajara-necaxa"
+  },
+  {
+    "gameId": "401840959",
+    "date": "Friday, April 24, 2026",
+    "team1": "Puebla",
+    "score": "1 - 2",
+    "team2": "Querétaro",
+    "title": "Puebla VS Querétaro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840959/queretaro-puebla"
+  },
+  {
+    "gameId": "401840960",
+    "date": "20260424",
+    "team1": "Pachuca",
+    "score": "0 - 2",
+    "team2": "Pumas UNAM",
+    "title": "Pachuca VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840960/pumas-unam-pachuca"
+  },
+  {
+    "gameId": "401840961",
+    "date": "20260424",
+    "team1": "Tigres UANL",
+    "score": "5 - 1",
+    "team2": "Mazatlán FC",
+    "title": "Tigres UANL VS Mazatlán FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401840961/mazatlan-fc-tigres-uanl"
   }
 ]

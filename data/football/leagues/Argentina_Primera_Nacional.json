@@ -1456,5 +1456,50 @@
     "team2": "Chacarita Juniors",
     "title": "Atlanta VS Chacarita Juniors",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843782/chacarita-juniors-atlanta"
+  },
+  {
+    "gameId": "401843805",
+    "date": "Saturday, April 25, 2026",
+    "team1": "San Miguel",
+    "score": "0 - 2",
+    "team2": "Los Andes",
+    "title": "San Miguel VS Los Andes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843805/los-andes-san-miguel"
+  },
+  {
+    "gameId": "401843804",
+    "date": "Saturday, April 25, 2026",
+    "team1": "San Telmo",
+    "score": "1 - 0",
+    "team2": "All Boys",
+    "title": "San Telmo VS All Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843804/all-boys-san-telmo"
+  },
+  {
+    "gameId": "401843803",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Temperley",
+    "score": "0 - 0",
+    "team2": "Patronato",
+    "title": "Temperley VS Patronato",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843803/patronato-temperley"
+  },
+  {
+    "gameId": "401843806",
+    "date": "Saturday, April 25, 2026",
+    "team1": "San Martín (San Juan)",
+    "score": "1 - 0",
+    "team2": "Quilmes",
+    "title": "San Martín (San Juan) VS Quilmes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843806/quilmes-san-martin-san-juan"
+  },
+  {
+    "gameId": "401843797",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Atletico Rafaela",
+    "score": "0 - 0",
+    "team2": "Gimnasia y Esgrima (Jujuy)",
+    "title": "Atletico Rafaela VS Gimnasia y Esgrima (Jujuy)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843797/gimnasia-y-esgrima-jujuy-atletico-rafaela"
   }
 ]

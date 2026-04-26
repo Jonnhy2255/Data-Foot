@@ -889,5 +889,23 @@
     "team2": "Cienciano del Cusco",
     "title": "Los Chankas VS Cienciano del Cusco",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401857456/cienciano-del-cusco-los-chankas"
+  },
+  {
+    "gameId": "401857475",
+    "date": "20260424",
+    "team1": "Deportivo Moquegua",
+    "score": "2 - 1",
+    "team2": "FC Cajamarca",
+    "title": "Deportivo Moquegua VS FC Cajamarca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857475/fc-cajamarca-deportivo-moquegua"
+  },
+  {
+    "gameId": "401857471",
+    "date": "20260424",
+    "team1": "Comerciantes Unidos",
+    "score": "1 - 0",
+    "team2": "Sporting Cristal",
+    "title": "Comerciantes Unidos VS Sporting Cristal",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401857471/sporting-cristal-comerciantes-unidos"
   }
 ]

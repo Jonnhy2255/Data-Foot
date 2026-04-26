@@ -1087,5 +1087,41 @@
     "team2": "PEC Zwolle",
     "title": "PSV Eindhoven VS PEC Zwolle",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/741251/pec-zwolle-psv-eindhoven"
+  },
+  {
+    "gameId": "741248",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Feyenoord Rotterdam",
+    "score": "3 - 1",
+    "team2": "FC Groningen",
+    "title": "Feyenoord Rotterdam VS FC Groningen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741248/fc-groningen-feyenoord-rotterdam"
+  },
+  {
+    "gameId": "741250",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Heerenveen",
+    "score": "2 - 1",
+    "team2": "Fortuna Sittard",
+    "title": "Heerenveen VS Fortuna Sittard",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741250/fortuna-sittard-heerenveen"
+  },
+  {
+    "gameId": "741252",
+    "date": "Saturday, April 25, 2026",
+    "team1": "NAC Breda",
+    "score": "0 - 2",
+    "team2": "Ajax Amsterdam",
+    "title": "NAC Breda VS Ajax Amsterdam",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741252/ajax-amsterdam-nac-breda"
+  },
+  {
+    "gameId": "741247",
+    "date": "Saturday, April 25, 2026",
+    "team1": "FC Twente",
+    "score": "1 - 1",
+    "team2": "NEC Nijmegen",
+    "title": "FC Twente VS NEC Nijmegen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/741247/nec-nijmegen-fc-twente"
   }
 ]

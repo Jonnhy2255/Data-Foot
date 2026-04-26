@@ -754,5 +754,59 @@
     "team2": "Trujillanos",
     "title": "Academia Puerto Cabello VS Trujillanos",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850513/trujillanos-academia-puerto-cabello"
+  },
+  {
+    "gameId": "401850522",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Academia Anzoátegui",
+    "score": "1 - 1",
+    "team2": "Zamora",
+    "title": "Academia Anzoátegui VS Zamora",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850522/zamora-academia-anzoategui"
+  },
+  {
+    "gameId": "401850524",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Caracas FC",
+    "score": "2 - 1",
+    "team2": "Deportivo Rayo Zuliano",
+    "title": "Caracas FC VS Deportivo Rayo Zuliano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850524/deportivo-rayo-zuliano-caracas-fc"
+  },
+  {
+    "gameId": "401850526",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Deportivo Táchira",
+    "score": "2 - 1",
+    "team2": "Carabobo",
+    "title": "Deportivo Táchira VS Carabobo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850526/carabobo-deportivo-tachira"
+  },
+  {
+    "gameId": "401850530",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Monagas SC",
+    "score": "1 - 1",
+    "team2": "Academia Puerto Cabello",
+    "title": "Monagas SC VS Academia Puerto Cabello",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850530/academia-puerto-cabello-monagas-sc"
+  },
+  {
+    "gameId": "401850528",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Portuguesa",
+    "score": "3 - 0",
+    "team2": "Universidad Central",
+    "title": "Portuguesa VS Universidad Central",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850528/universidad-central-portuguesa"
+  },
+  {
+    "gameId": "401850534",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Trujillanos",
+    "score": "0 - 1",
+    "team2": "Deportivo La Guaira",
+    "title": "Trujillanos VS Deportivo La Guaira",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850534/deportivo-la-guaira-trujillanos"
   }
 ]

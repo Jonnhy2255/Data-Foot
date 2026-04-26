@@ -1348,5 +1348,41 @@
     "team2": "Real Madrid",
     "title": "Real Betis VS Real Madrid",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748457/real-madrid-real-betis"
+  },
+  {
+    "gameId": "748455",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Alavés",
+    "score": "2 - 1",
+    "team2": "Mallorca",
+    "title": "Alavés VS Mallorca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748455/mallorca-alaves"
+  },
+  {
+    "gameId": "748460",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Getafe",
+    "score": "0 - 2",
+    "team2": "Barcelona",
+    "title": "Getafe VS Barcelona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748460/barcelona-getafe"
+  },
+  {
+    "gameId": "748454",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Valencia",
+    "score": "2 - 1",
+    "team2": "Girona",
+    "title": "Valencia VS Girona",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748454/girona-valencia"
+  },
+  {
+    "gameId": "748462",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Atlético Madrid",
+    "score": "3 - 2",
+    "team2": "Athletic Club",
+    "title": "Atlético Madrid VS Athletic Club",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748462/athletic-club-atletico-madrid"
   }
 ]

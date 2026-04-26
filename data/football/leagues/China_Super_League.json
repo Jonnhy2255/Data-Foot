@@ -502,5 +502,32 @@
     "team2": "Qingdao Hainiu",
     "title": "Shanghai Shenhua VS Qingdao Hainiu",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861355/qingdao-hainiu-shanghai-shenhua"
+  },
+  {
+    "gameId": "401861356",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Chengdu Rongcheng",
+    "score": "4 - 0",
+    "team2": "Zhejiang Professional FC",
+    "title": "Chengdu Rongcheng VS Zhejiang Professional FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861356/zhejiang-professional-fc-chengdu-rongcheng"
+  },
+  {
+    "gameId": "401861357",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Beijing Guoan",
+    "score": "2 - 4",
+    "team2": "Tianjin Jinmen Tiger",
+    "title": "Beijing Guoan VS Tianjin Jinmen Tiger",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861357/tianjin-jinmen-tiger-beijing-guoan"
+  },
+  {
+    "gameId": "401861358",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Shanghai Port",
+    "score": "4 - 0",
+    "team2": "Wuhan Three Towns",
+    "title": "Shanghai Port VS Wuhan Three Towns",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861358/wuhan-three-towns-shanghai-port"
   }
 ]

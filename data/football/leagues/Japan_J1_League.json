@@ -1015,5 +1015,59 @@
     "team2": "Kashima Antlers",
     "title": "Kashiwa Reysol VS Kashima Antlers",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859352/kashima-antlers-kashiwa-reysol"
+  },
+  {
+    "gameId": "401859354",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Fagiano Okayama",
+    "score": "2 - 0",
+    "team2": "Avispa Fukuoka",
+    "title": "Fagiano Okayama VS Avispa Fukuoka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859354/avispa-fukuoka-fagiano-okayama"
+  },
+  {
+    "gameId": "401859353",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Shimizu S-Pulse",
+    "score": "0 - 2",
+    "team2": "Nagoya Grampus",
+    "title": "Shimizu S-Pulse VS Nagoya Grampus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859353/nagoya-grampus-shimizu-s-pulse"
+  },
+  {
+    "gameId": "401859355",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Urawa Red Diamonds",
+    "score": "2 - 3",
+    "team2": "Yokohama F. Marinos",
+    "title": "Urawa Red Diamonds VS Yokohama F. Marinos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859355/yokohama-f-marinos-urawa-red-diamonds"
+  },
+  {
+    "gameId": "401859430",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Kawasaki Frontale",
+    "score": "2 - 1",
+    "team2": "JEF United Ichihara-Chiba",
+    "title": "Kawasaki Frontale VS JEF United Ichihara-Chiba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859430/jef-united-ichihara-chiba-kawasaki-frontale"
+  },
+  {
+    "gameId": "401859357",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Sanfrecce Hiroshima",
+    "score": "2 - 1",
+    "team2": "Cerezo Osaka",
+    "title": "Sanfrecce Hiroshima VS Cerezo Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859357/cerezo-osaka-sanfrecce-hiroshima"
+  },
+  {
+    "gameId": "401859358",
+    "date": "Saturday, April 25, 2026",
+    "team1": "V-Varen Nagasaki",
+    "score": "1 - 1",
+    "team2": "Gamba Osaka",
+    "title": "V-Varen Nagasaki VS Gamba Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859358/gamba-osaka-v-varen-nagasaki"
   }
 ]

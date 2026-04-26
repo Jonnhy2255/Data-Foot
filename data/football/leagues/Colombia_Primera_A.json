@@ -1555,5 +1555,32 @@
     "team2": "Atlético Junior",
     "title": "Cúcuta Deportivo VS Atlético Junior",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850879/atletico-junior-cucuta-deportivo"
+  },
+  {
+    "gameId": "401850881",
+    "date": "20260424",
+    "team1": "Bucaramanga",
+    "score": "2 - 2",
+    "team2": "Jaguares de Córdoba",
+    "title": "Bucaramanga VS Jaguares de Córdoba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850881/jaguares-de-cordoba-bucaramanga"
+  },
+  {
+    "gameId": "401850884",
+    "date": "20260424",
+    "team1": "Deportivo Pereira",
+    "score": "1 - 0",
+    "team2": "Atlético Nacional",
+    "title": "Deportivo Pereira VS Atlético Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850884/atletico-nacional-deportivo-pereira"
+  },
+  {
+    "gameId": "401850883",
+    "date": "20260424",
+    "team1": "Deportivo Cali",
+    "score": "1 - 0",
+    "team2": "América de Cali",
+    "title": "Deportivo Cali VS América de Cali",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850883/america-de-cali-deportivo-cali"
   }
 ]

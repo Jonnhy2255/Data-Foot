@@ -1195,5 +1195,32 @@
     "team2": "Arouca",
     "title": "Alverca VS Arouca",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750520/arouca-alverca"
+  },
+  {
+    "gameId": "750516",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Tondela",
+    "score": "0 - 2",
+    "team2": "C.D. Nacional",
+    "title": "Tondela VS C.D. Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750516/cd-nacional-tondela"
+  },
+  {
+    "gameId": "750521",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Benfica",
+    "score": "4 - 1",
+    "team2": "Moreirense",
+    "title": "Benfica VS Moreirense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750521/moreirense-benfica"
+  },
+  {
+    "gameId": "750523",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Vitória de Guimaraes",
+    "score": "2 - 0",
+    "team2": "Rio Ave",
+    "title": "Vitória de Guimaraes VS Rio Ave",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750523/rio-ave-vitoria-de-guimaraes"
   }
 ]

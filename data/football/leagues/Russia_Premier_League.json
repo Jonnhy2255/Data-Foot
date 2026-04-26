@@ -574,5 +574,32 @@
     "team2": "Krasnodar",
     "title": "Spartak Moscow VS Krasnodar",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743704/krasnodar-spartak-moscow"
+  },
+  {
+    "gameId": "743711",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Rostov",
+    "score": "0 - 1",
+    "team2": "Gazovik Orenburg",
+    "title": "Rostov VS Gazovik Orenburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743711/gazovik-orenburg-rostov"
+  },
+  {
+    "gameId": "743709",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Krylia Sovetov",
+    "score": "2 - 0",
+    "team2": "Lokomotiv Moscow",
+    "title": "Krylia Sovetov VS Lokomotiv Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743709/lokomotiv-moscow-krylia-sovetov"
+  },
+  {
+    "gameId": "743712",
+    "date": "Saturday, April 25, 2026",
+    "team1": "Rubin Kazan",
+    "score": "0 - 0",
+    "team2": "CSKA Moscow",
+    "title": "Rubin Kazan VS CSKA Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743712/cska-moscow-rubin-kazan"
   }
 ]

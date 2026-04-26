@@ -1159,5 +1159,50 @@
     "team2": "Austin FC",
     "title": "San Jose Earthquakes VS Austin FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761568/austin-fc-san-jose-earthquakes"
+  },
+  {
+    "gameId": "761570",
+    "date": "20260424",
+    "team1": "Toronto FC",
+    "score": "1 - 2",
+    "team2": "Atlanta United FC",
+    "title": "Toronto FC VS Atlanta United FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761570/atlanta-united-fc-toronto-fc"
+  },
+  {
+    "gameId": "761583",
+    "date": "20260424",
+    "team1": "CF Montréal",
+    "score": "1 - 0",
+    "team2": "New York City FC",
+    "title": "CF Montréal VS New York City FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761583/new-york-city-fc-cf-montreal"
+  },
+  {
+    "gameId": "761571",
+    "date": "20260424",
+    "team1": "Minnesota United FC",
+    "score": "0 - 1",
+    "team2": "LAFC",
+    "title": "Minnesota United FC VS LAFC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761571/lafc-minnesota-united-fc"
+  },
+  {
+    "gameId": "761575",
+    "date": "20260424",
+    "team1": "FC Cincinnati",
+    "score": "2 - 0",
+    "team2": "Red Bull New York",
+    "title": "FC Cincinnati VS Red Bull New York",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761575/red-bull-new-york-fc-cincinnati"
+  },
+  {
+    "gameId": "761574",
+    "date": "20260424",
+    "team1": "Inter Miami CF",
+    "score": "1 - 1",
+    "team2": "New England Revolution",
+    "title": "Inter Miami CF VS New England Revolution",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761574/new-england-revolution-inter-miami-cf"
   }
 ]
