@@ -601,5 +601,23 @@
     "team2": "CSKA Moscow",
     "title": "Rubin Kazan VS CSKA Moscow",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/743712/cska-moscow-rubin-kazan"
+  },
+  {
+    "gameId": "743719",
+    "date": "Friday, May 1, 2026",
+    "team1": "Krylia Sovetov",
+    "score": "2 - 1",
+    "team2": "Spartak Moscow",
+    "title": "Krylia Sovetov VS Spartak Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743719/spartak-moscow-krylia-sovetov"
+  },
+  {
+    "gameId": "743720",
+    "date": "Friday, May 1, 2026",
+    "team1": "Lokomotiv Moscow",
+    "score": "1 - 1",
+    "team2": "Dinamo Moscow",
+    "title": "Lokomotiv Moscow VS Dinamo Moscow",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/743720/dinamo-moscow-lokomotiv-moscow"
   }
 ]

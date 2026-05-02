@@ -682,5 +682,23 @@
     "team2": "Braga",
     "title": "Real Betis VS Braga",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401862903/braga-real-betis"
+  },
+  {
+    "gameId": "401862907",
+    "date": "Thursday, April 30, 2026",
+    "team1": "Braga",
+    "score": "2 - 1",
+    "team2": "SC Freiburg",
+    "title": "Braga VS SC Freiburg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862907/sc-freiburg-braga"
+  },
+  {
+    "gameId": "401862908",
+    "date": "Thursday, April 30, 2026",
+    "team1": "Nottingham Forest",
+    "score": "1 - 0",
+    "team2": "Aston Villa",
+    "title": "Nottingham Forest VS Aston Villa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401862908/aston-villa-nottingham-forest"
   }
 ]

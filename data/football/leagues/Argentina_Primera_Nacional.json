@@ -1501,5 +1501,14 @@
     "team2": "Gimnasia y Esgrima (Jujuy)",
     "title": "Atletico Rafaela VS Gimnasia y Esgrima (Jujuy)",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843797/gimnasia-y-esgrima-jujuy-atletico-rafaela"
+  },
+  {
+    "gameId": "401843821",
+    "date": "Thursday, April 30, 2026",
+    "team1": "All Boys",
+    "score": "1 - 1",
+    "team2": "San Miguel",
+    "title": "All Boys VS San Miguel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843821/san-miguel-all-boys"
   }
 ]

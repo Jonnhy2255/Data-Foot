@@ -529,5 +529,50 @@
     "team2": "Wuhan Three Towns",
     "title": "Shanghai Port VS Wuhan Three Towns",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861358/wuhan-three-towns-shanghai-port"
+  },
+  {
+    "gameId": "401861531",
+    "date": "Friday, May 1, 2026",
+    "team1": "Dalian Yingbo",
+    "score": "1 - 0",
+    "team2": "Chongqing Tonglianglong",
+    "title": "Dalian Yingbo VS Chongqing Tonglianglong",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861531/chongqing-tonglianglong-dalian-yingbo"
+  },
+  {
+    "gameId": "401861532",
+    "date": "Friday, May 1, 2026",
+    "team1": "Henan Songshan Longmen",
+    "score": "4 - 0",
+    "team2": "Liaoning Tieren",
+    "title": "Henan Songshan Longmen VS Liaoning Tieren",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861532/liaoning-tieren-henan-songshan-longmen"
+  },
+  {
+    "gameId": "401861362",
+    "date": "Friday, May 1, 2026",
+    "team1": "Shandong Taishan",
+    "score": "1 - 1",
+    "team2": "Qingdao West Coast",
+    "title": "Shandong Taishan VS Qingdao West Coast",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861362/qingdao-west-coast-shandong-taishan"
+  },
+  {
+    "gameId": "401861363",
+    "date": "Friday, May 1, 2026",
+    "team1": "Tianjin Jinmen Tiger",
+    "score": "2 - 2",
+    "team2": "Wuhan Three Towns",
+    "title": "Tianjin Jinmen Tiger VS Wuhan Three Towns",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861363/wuhan-three-towns-tianjin-jinmen-tiger"
+  },
+  {
+    "gameId": "401861364",
+    "date": "Friday, May 1, 2026",
+    "team1": "Shanghai Shenhua",
+    "score": "2 - 3",
+    "team2": "Chengdu Rongcheng",
+    "title": "Shanghai Shenhua VS Chengdu Rongcheng",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861364/chengdu-rongcheng-shanghai-shenhua"
   }
 ]

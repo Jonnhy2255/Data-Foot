@@ -1384,5 +1384,14 @@
     "team2": "Athletic Club",
     "title": "Atlético Madrid VS Athletic Club",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/748462/athletic-club-atletico-madrid"
+  },
+  {
+    "gameId": "748476",
+    "date": "Friday, May 1, 2026",
+    "team1": "Girona",
+    "score": "0 - 1",
+    "team2": "Mallorca",
+    "title": "Girona VS Mallorca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/748476/mallorca-girona"
   }
 ]

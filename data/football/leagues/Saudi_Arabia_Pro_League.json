@@ -1510,5 +1510,23 @@
     "team2": "Al Riyadh",
     "title": "Al Hazem VS Al Riyadh",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756157/al-riyadh-al-hazem"
+  },
+  {
+    "gameId": "756165",
+    "date": "Thursday, April 30, 2026",
+    "team1": "Al Okhdood",
+    "score": "1 - 3",
+    "team2": "Al Ettifaq",
+    "title": "Al Okhdood VS Al Ettifaq",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756165/al-ettifaq-al-okhdood"
+  },
+  {
+    "gameId": "756167",
+    "date": "Thursday, April 30, 2026",
+    "team1": "Al Kholood",
+    "score": "1 - 1",
+    "team2": "Al Fayha",
+    "title": "Al Kholood VS Al Fayha",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756167/al-fayha-al-kholood"
   }
 ]
