@@ -619,5 +619,41 @@
     "team2": "SV Josko Ried",
     "title": "WSG Swarovski Tirol VS SV Josko Ried",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401864033/sv-josko-ried-wsg-swarovski-tirol"
+  },
+  {
+    "gameId": "401864037",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Grazer AK",
+    "score": "4 - 0",
+    "team2": "WSG Swarovski Tirol",
+    "title": "Grazer AK VS WSG Swarovski Tirol",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864037/wsg-swarovski-tirol-grazer-ak"
+  },
+  {
+    "gameId": "401864038",
+    "date": "Saturday, May 2, 2026",
+    "team1": "SV Josko Ried",
+    "score": "2 - 0",
+    "team2": "FC Blau-Weiß Linz",
+    "title": "SV Josko Ried VS FC Blau-Weiß Linz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864038/fc-blau-weiß-linz-sv-josko-ried"
+  },
+  {
+    "gameId": "401864039",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Austria Vienna",
+    "score": "1 - 0",
+    "team2": "TSV Hartberg",
+    "title": "Austria Vienna VS TSV Hartberg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864039/tsv-hartberg-austria-vienna"
+  },
+  {
+    "gameId": "401864041",
+    "date": "Sunday, May 3, 2026",
+    "team1": "RB Salzburg",
+    "score": "1 - 1",
+    "team2": "SK Sturm Graz",
+    "title": "RB Salzburg VS SK Sturm Graz",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401864041/sk-sturm-graz-rb-salzburg"
   }
 ]

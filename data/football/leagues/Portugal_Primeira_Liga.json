@@ -1222,5 +1222,77 @@
     "team2": "Rio Ave",
     "title": "Vitória de Guimaraes VS Rio Ave",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750523/rio-ave-vitoria-de-guimaraes"
+  },
+  {
+    "gameId": "750525",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Arouca",
+    "score": "2 - 2",
+    "team2": "Santa Clara",
+    "title": "Arouca VS Santa Clara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750525/santa-clara-arouca"
+  },
+  {
+    "gameId": "750526",
+    "date": "Saturday, May 2, 2026",
+    "team1": "C.D. Nacional",
+    "score": "1 - 2",
+    "team2": "AVS",
+    "title": "C.D. Nacional VS AVS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750526/avs-cd-nacional"
+  },
+  {
+    "gameId": "750529",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Moreirense",
+    "score": "3 - 2",
+    "team2": "Estrela",
+    "title": "Moreirense VS Estrela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750529/estrela-moreirense"
+  },
+  {
+    "gameId": "750533",
+    "date": "Saturday, May 2, 2026",
+    "team1": "FC Famalicao",
+    "score": "2 - 2",
+    "team2": "Benfica",
+    "title": "FC Famalicao VS Benfica",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750533/benfica-fc-famalicao"
+  },
+  {
+    "gameId": "750528",
+    "date": "Saturday, May 2, 2026",
+    "team1": "FC Porto",
+    "score": "1 - 0",
+    "team2": "Alverca",
+    "title": "FC Porto VS Alverca",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750528/alverca-fc-porto"
+  },
+  {
+    "gameId": "750527",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Casa Pia",
+    "score": "0 - 1",
+    "team2": "Tondela",
+    "title": "Casa Pia VS Tondela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750527/tondela-casa-pia"
+  },
+  {
+    "gameId": "750531",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Braga",
+    "score": "1 - 1",
+    "team2": "Estoril",
+    "title": "Braga VS Estoril",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750531/estoril-braga"
+  },
+  {
+    "gameId": "750532",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Rio Ave",
+    "score": "0 - 0",
+    "team2": "Gil Vicente",
+    "title": "Rio Ave VS Gil Vicente",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750532/gil-vicente-rio-ave"
   }
 ]

@@ -754,5 +754,14 @@
     "team2": "Universidad Católica",
     "title": "Universidad de Chile VS Universidad Católica",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850559/universidad-catolica-universidad-de-chile"
+  },
+  {
+    "gameId": "401850545",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Colo Colo",
+    "score": "3 - 1",
+    "team2": "Coquimbo Unido",
+    "title": "Colo Colo VS Coquimbo Unido",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850545/coquimbo-unido-colo-colo"
   }
 ]

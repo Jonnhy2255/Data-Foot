@@ -1321,5 +1321,32 @@
     "team2": "Mazatlán FC",
     "title": "Tigres UANL VS Mazatlán FC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401840961/mazatlan-fc-tigres-uanl"
+  },
+  {
+    "gameId": "401870486",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Tigres UANL",
+    "score": "3 - 1",
+    "team2": "Guadalajara",
+    "title": "Tigres UANL VS Guadalajara",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401870486/guadalajara-tigres-uanl"
+  },
+  {
+    "gameId": "401870484",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Atlas",
+    "score": "2 - 3",
+    "team2": "Cruz Azul",
+    "title": "Atlas VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401870484/cruz-azul-atlas"
+  },
+  {
+    "gameId": "401870485",
+    "date": "20260502",
+    "team1": "América",
+    "score": "3 - 3",
+    "team2": "Pumas UNAM",
+    "title": "América VS Pumas UNAM",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401870485/pumas-unam-america"
   }
 ]

@@ -934,5 +934,41 @@
     "team2": "Sportivo Ameliano",
     "title": "Cerro Porteño VS Sportivo Ameliano",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848261/sportivo-ameliano-cerro-porteno"
+  },
+  {
+    "gameId": "401848271",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Rubio Ñú",
+    "score": "0 - 0",
+    "team2": "Sportivo Luqueño",
+    "title": "Rubio Ñú VS Sportivo Luqueño",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848271/sportivo-luqueno-rubio-nu"
+  },
+  {
+    "gameId": "401848269",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Club Olimpia",
+    "score": "1 - 1",
+    "team2": "Sportivo Ameliano",
+    "title": "Club Olimpia VS Sportivo Ameliano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848269/sportivo-ameliano-club-olimpia"
+  },
+  {
+    "gameId": "401848270",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Deportivo Recoleta",
+    "score": "2 - 1",
+    "team2": "Cerro Porteño",
+    "title": "Deportivo Recoleta VS Cerro Porteño",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848270/cerro-porteno-deportivo-recoleta"
+  },
+  {
+    "gameId": "401848267",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Guarani",
+    "score": "0 - 1",
+    "team2": "Nacional",
+    "title": "Guarani VS Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848267/nacional-guarani"
   }
 ]

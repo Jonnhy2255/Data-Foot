@@ -1105,5 +1105,68 @@
     "team2": "Besiktas",
     "title": "Gaziantep FK VS Besiktas",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/750201/besiktas-gaziantep-fk"
+  },
+  {
+    "gameId": "750200",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Fenerbahce",
+    "score": "3 - 1",
+    "team2": "Istanbul Basaksehir",
+    "title": "Fenerbahce VS Istanbul Basaksehir",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750200/istanbul-basaksehir-fenerbahce"
+  },
+  {
+    "gameId": "750204",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Samsunspor",
+    "score": "4 - 1",
+    "team2": "Galatasaray",
+    "title": "Samsunspor VS Galatasaray",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750204/galatasaray-samsunspor"
+  },
+  {
+    "gameId": "750205",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Trabzonspor",
+    "score": "1 - 1",
+    "team2": "Goztepe",
+    "title": "Trabzonspor VS Goztepe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750205/goztepe-trabzonspor"
+  },
+  {
+    "gameId": "750197",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Antalyaspor",
+    "score": "0 - 0",
+    "team2": "Alanyaspor",
+    "title": "Antalyaspor VS Alanyaspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750197/alanyaspor-antalyaspor"
+  },
+  {
+    "gameId": "750199",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Fatih Karagümrük",
+    "score": "1 - 0",
+    "team2": "Genclerbirligi",
+    "title": "Fatih Karagümrük VS Genclerbirligi",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750199/genclerbirligi-fatih-karagumruk"
+  },
+  {
+    "gameId": "750202",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Kasimpasa",
+    "score": "1 - 1",
+    "team2": "Kocaelispor",
+    "title": "Kasimpasa VS Kocaelispor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750202/kocaelispor-kasimpasa"
+  },
+  {
+    "gameId": "750203",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Kayserispor",
+    "score": "1 - 1",
+    "team2": "Eyupspor",
+    "title": "Kayserispor VS Eyupspor",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/750203/eyupspor-kayserispor"
   }
 ]

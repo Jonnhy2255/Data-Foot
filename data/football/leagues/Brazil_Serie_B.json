@@ -466,5 +466,77 @@
     "team2": "América Mineiro",
     "title": "Ponte Preta VS América Mineiro",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860114/america-mineiro-ponte-preta"
+  },
+  {
+    "gameId": "401860130",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Botafogo-SP",
+    "score": "1 - 1",
+    "team2": "Náutico",
+    "title": "Botafogo-SP VS Náutico",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860130/nautico-botafogo-sp"
+  },
+  {
+    "gameId": "401860131",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Cuiabá",
+    "score": "1 - 1",
+    "team2": "Criciúma",
+    "title": "Cuiabá VS Criciúma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860131/criciuma-cuiaba"
+  },
+  {
+    "gameId": "401860123",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Fortaleza",
+    "score": "4 - 1",
+    "team2": "Goiás",
+    "title": "Fortaleza VS Goiás",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860123/goias-fortaleza"
+  },
+  {
+    "gameId": "401860122",
+    "date": "20260502",
+    "team1": "Operário PR",
+    "score": "3 - 0",
+    "team2": "Londrina",
+    "title": "Operário PR VS Londrina",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860122/londrina-operario-pr"
+  },
+  {
+    "gameId": "401860125",
+    "date": "20260502",
+    "team1": "São Bernardo",
+    "score": "3 - 0",
+    "team2": "Ponte Preta",
+    "title": "São Bernardo VS Ponte Preta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860125/ponte-preta-sao-bernardo"
+  },
+  {
+    "gameId": "401860126",
+    "date": "20260502",
+    "team1": "Sport",
+    "score": "2 - 0",
+    "team2": "Ceará",
+    "title": "Sport VS Ceará",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860126/ceara-sport"
+  },
+  {
+    "gameId": "401860128",
+    "date": "20260502",
+    "team1": "Atlético Goianiense",
+    "score": "0 - 0",
+    "team2": "Juventude",
+    "title": "Atlético Goianiense VS Juventude",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860128/juventude-atletico-goianiense"
+  },
+  {
+    "gameId": "401860127",
+    "date": "20260502",
+    "team1": "América Mineiro",
+    "score": "1 - 2",
+    "team2": "CRB",
+    "title": "América Mineiro VS CRB",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860127/crb-america-mineiro"
   }
 ]

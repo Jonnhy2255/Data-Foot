@@ -1033,5 +1033,68 @@
     "team2": "Zulte-Waregem",
     "title": "Cercle Brugge KSV VS Zulte-Waregem",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866299/zulte-waregem-cercle-brugge-ksv"
+  },
+  {
+    "gameId": "401866300",
+    "date": "Saturday, May 2, 2026",
+    "team1": "KVC Westerlo",
+    "score": "3 - 3",
+    "team2": "Oud-Heverlee Leuven",
+    "title": "KVC Westerlo VS Oud-Heverlee Leuven",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866300/oud-heverlee-leuven-kvc-westerlo"
+  },
+  {
+    "gameId": "401866301",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Royal Charleroi SC",
+    "score": "2 - 0",
+    "team2": "Racing Genk",
+    "title": "Royal Charleroi SC VS Racing Genk",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866301/racing-genk-royal-charleroi-sc"
+  },
+  {
+    "gameId": "401866302",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Sint-Truidense",
+    "score": "2 - 1",
+    "team2": "Union St.-Gilloise",
+    "title": "Sint-Truidense VS Union St.-Gilloise",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866302/union-st-gilloise-sint-truidense"
+  },
+  {
+    "gameId": "401866303",
+    "date": "Sunday, May 3, 2026",
+    "team1": "KV Mechelen",
+    "score": "1 - 0",
+    "team2": "KAA Gent",
+    "title": "KV Mechelen VS KAA Gent",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866303/kaa-gent-kv-mechelen"
+  },
+  {
+    "gameId": "401866304",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Antwerp",
+    "score": "0 - 5",
+    "team2": "Standard Liege",
+    "title": "Antwerp VS Standard Liege",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866304/standard-liege-antwerp"
+  },
+  {
+    "gameId": "401866305",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Anderlecht",
+    "score": "1 - 3",
+    "team2": "Club Brugge",
+    "title": "Anderlecht VS Club Brugge",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866305/club-brugge-anderlecht"
+  },
+  {
+    "gameId": "401866306",
+    "date": "Sunday, May 3, 2026",
+    "team1": "Dender",
+    "score": "2 - 1",
+    "team2": "RAAL La Louvière",
+    "title": "Dender VS RAAL La Louvière",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866306/raal-la-louviere-dender"
   }
 ]

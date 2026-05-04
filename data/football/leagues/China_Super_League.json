@@ -574,5 +574,32 @@
     "team2": "Chengdu Rongcheng",
     "title": "Shanghai Shenhua VS Chengdu Rongcheng",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861364/chengdu-rongcheng-shanghai-shenhua"
+  },
+  {
+    "gameId": "401861365",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Qingdao Hainiu",
+    "score": "3 - 1",
+    "team2": "Shanghai Port",
+    "title": "Qingdao Hainiu VS Shanghai Port",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861365/shanghai-port-qingdao-hainiu"
+  },
+  {
+    "gameId": "401861366",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Zhejiang Professional FC",
+    "score": "2 - 1",
+    "team2": "Shenzhen Xinpengcheng",
+    "title": "Zhejiang Professional FC VS Shenzhen Xinpengcheng",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861366/shenzhen-xinpengcheng-zhejiang-professional-fc"
+  },
+  {
+    "gameId": "401861367",
+    "date": "Saturday, May 2, 2026",
+    "team1": "Yunnan Yukun",
+    "score": "3 - 3",
+    "team2": "Beijing Guoan",
+    "title": "Yunnan Yukun VS Beijing Guoan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861367/beijing-guoan-yunnan-yukun"
   }
 ]
