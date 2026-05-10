@@ -1672,5 +1672,23 @@
     "team2": "Deportivo Pasto",
     "title": "Atlético Junior VS Deportivo Pasto",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850896/deportivo-pasto-atletico-junior"
+  },
+  {
+    "gameId": "401871518",
+    "date": "20260508",
+    "team1": "Internacional de Bogotá",
+    "score": "1 - 2",
+    "team2": "Atlético Nacional",
+    "title": "Internacional de Bogotá VS Atlético Nacional",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401871518/atletico-nacional-internacional-de-bogota"
+  },
+  {
+    "gameId": "401871519",
+    "date": "20260508",
+    "team1": "Deportes Tolima",
+    "score": "1 - 0",
+    "team2": "Deportivo Pasto",
+    "title": "Deportes Tolima VS Deportivo Pasto",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401871519/deportivo-pasto-deportes-tolima"
   }
 ]

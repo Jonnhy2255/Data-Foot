@@ -601,5 +601,23 @@
     "team2": "Beijing Guoan",
     "title": "Yunnan Yukun VS Beijing Guoan",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861367/beijing-guoan-yunnan-yukun"
+  },
+  {
+    "gameId": "401861535",
+    "date": "Saturday, May 9, 2026",
+    "team1": "Shanghai Shenhua",
+    "score": "2 - 2",
+    "team2": "Chongqing Tonglianglong",
+    "title": "Shanghai Shenhua VS Chongqing Tonglianglong",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861535/chongqing-tonglianglong-shanghai-shenhua"
+  },
+  {
+    "gameId": "401861374",
+    "date": "Saturday, May 9, 2026",
+    "team1": "Chengdu Rongcheng",
+    "score": "3 - 0",
+    "team2": "Henan Songshan Longmen",
+    "title": "Chengdu Rongcheng VS Henan Songshan Longmen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861374/henan-songshan-longmen-chengdu-rongcheng"
   }
 ]

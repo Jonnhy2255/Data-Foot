@@ -538,5 +538,50 @@
     "team2": "CRB",
     "title": "América Mineiro VS CRB",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860127/crb-america-mineiro"
+  },
+  {
+    "gameId": "401860133",
+    "date": "20260508",
+    "team1": "Goiás",
+    "score": "1 - 0",
+    "team2": "Vila Nova",
+    "title": "Goiás VS Vila Nova",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860133/vila-nova-goias"
+  },
+  {
+    "gameId": "401860139",
+    "date": "20260508",
+    "team1": "Athletic",
+    "score": "0 - 0",
+    "team2": "Cuiabá",
+    "title": "Athletic VS Cuiabá",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860139/cuiaba-athletic"
+  },
+  {
+    "gameId": "401860135",
+    "date": "20260508",
+    "team1": "Ponte Preta",
+    "score": "1 - 3",
+    "team2": "Sport",
+    "title": "Ponte Preta VS Sport",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860135/sport-ponte-preta"
+  },
+  {
+    "gameId": "401860141",
+    "date": "20260508",
+    "team1": "Ceará",
+    "score": "0 - 1",
+    "team2": "Atlético Goianiense",
+    "title": "Ceará VS Atlético Goianiense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860141/atletico-goianiense-ceara"
+  },
+  {
+    "gameId": "401860137",
+    "date": "20260508",
+    "team1": "CRB",
+    "score": "3 - 0",
+    "team2": "Operário PR",
+    "title": "CRB VS Operário PR",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860137/operario-pr-crb"
   }
 ]

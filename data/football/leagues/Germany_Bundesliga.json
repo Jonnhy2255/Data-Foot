@@ -1357,5 +1357,59 @@
     "team2": "VfL Wolfsburg",
     "title": "SC Freiburg VS VfL Wolfsburg",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/747003/vfl-wolfsburg-sc-freiburg"
+  },
+  {
+    "gameId": "747008",
+    "date": "Friday, May 8, 2026",
+    "team1": "Borussia Dortmund",
+    "score": "3 - 2",
+    "team2": "Eintracht Frankfurt",
+    "title": "Borussia Dortmund VS Eintracht Frankfurt",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747008/eintracht-frankfurt-borussia-dortmund"
+  },
+  {
+    "gameId": "747009",
+    "date": "Saturday, May 9, 2026",
+    "team1": "FC Augsburg",
+    "score": "3 - 1",
+    "team2": "Borussia Mönchengladbach",
+    "title": "FC Augsburg VS Borussia Mönchengladbach",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747009/borussia-monchengladbach-fc-augsburg"
+  },
+  {
+    "gameId": "747011",
+    "date": "Saturday, May 9, 2026",
+    "team1": "RB Leipzig",
+    "score": "2 - 1",
+    "team2": "St. Pauli",
+    "title": "RB Leipzig VS St. Pauli",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747011/st-pauli-rb-leipzig"
+  },
+  {
+    "gameId": "747012",
+    "date": "Saturday, May 9, 2026",
+    "team1": "TSG Hoffenheim",
+    "score": "1 - 0",
+    "team2": "Werder Bremen",
+    "title": "TSG Hoffenheim VS Werder Bremen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747012/werder-bremen-tsg-hoffenheim"
+  },
+  {
+    "gameId": "747013",
+    "date": "Saturday, May 9, 2026",
+    "team1": "VfB Stuttgart",
+    "score": "3 - 1",
+    "team2": "Bayer Leverkusen",
+    "title": "VfB Stuttgart VS Bayer Leverkusen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747013/bayer-leverkusen-vfb-stuttgart"
+  },
+  {
+    "gameId": "747014",
+    "date": "Saturday, May 9, 2026",
+    "team1": "VfL Wolfsburg",
+    "score": "0 - 1",
+    "team2": "Bayern Munich",
+    "title": "VfL Wolfsburg VS Bayern Munich",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/747014/bayern-munich-vfl-wolfsburg"
   }
 ]

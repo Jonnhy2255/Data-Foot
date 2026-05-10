@@ -340,5 +340,41 @@
     "team2": "AIK",
     "title": "IF Elfsborg VS AIK",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401842698/aik-if-elfsborg"
+  },
+  {
+    "gameId": "401842711",
+    "date": "Friday, May 8, 2026",
+    "team1": "IF Elfsborg",
+    "score": "2 - 0",
+    "team2": "IF Brommapojkarna",
+    "title": "IF Elfsborg VS IF Brommapojkarna",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842711/if-brommapojkarna-if-elfsborg"
+  },
+  {
+    "gameId": "401842712",
+    "date": "Saturday, May 9, 2026",
+    "team1": "Degerfors IF",
+    "score": "1 - 4",
+    "team2": "Mjällby AIF",
+    "title": "Degerfors IF VS Mjällby AIF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842712/mjallby-aif-degerfors-if"
+  },
+  {
+    "gameId": "401842709",
+    "date": "Saturday, May 9, 2026",
+    "team1": "IFK Göteborg",
+    "score": "0 - 1",
+    "team2": "Hammarby IF",
+    "title": "IFK Göteborg VS Hammarby IF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842709/hammarby-if-ifk-goteborg"
+  },
+  {
+    "gameId": "401842713",
+    "date": "Saturday, May 9, 2026",
+    "team1": "Västerås SK",
+    "score": "0 - 1",
+    "team2": "GAIS",
+    "title": "Västerås SK VS GAIS",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842713/gais-vasteras-sk"
   }
 ]

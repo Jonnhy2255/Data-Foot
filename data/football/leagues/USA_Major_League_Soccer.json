@@ -1339,5 +1339,59 @@
     "team2": "St. Louis CITY SC",
     "title": "Austin FC VS St. Louis CITY SC",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761599/st-louis-city-sc-austin-fc"
+  },
+  {
+    "gameId": "761611",
+    "date": "20260508",
+    "team1": "Toronto FC",
+    "score": "2 - 4",
+    "team2": "Inter Miami CF",
+    "title": "Toronto FC VS Inter Miami CF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761611/inter-miami-cf-toronto-fc"
+  },
+  {
+    "gameId": "761600",
+    "date": "20260508",
+    "team1": "Chicago Fire FC",
+    "score": "1 - 3",
+    "team2": "Red Bull New York",
+    "title": "Chicago Fire FC VS Red Bull New York",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761600/red-bull-new-york-chicago-fire-fc"
+  },
+  {
+    "gameId": "761610",
+    "date": "20260508",
+    "team1": "CF Montréal",
+    "score": "2 - 0",
+    "team2": "Orlando City SC",
+    "title": "CF Montréal VS Orlando City SC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761610/orlando-city-sc-cf-montreal"
+  },
+  {
+    "gameId": "761602",
+    "date": "20260508",
+    "team1": "Atlanta United FC",
+    "score": "1 - 2",
+    "team2": "LA Galaxy",
+    "title": "Atlanta United FC VS LA Galaxy",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761602/la-galaxy-atlanta-united-fc"
+  },
+  {
+    "gameId": "761603",
+    "date": "20260508",
+    "team1": "Charlotte FC",
+    "score": "2 - 2",
+    "team2": "FC Cincinnati",
+    "title": "Charlotte FC VS FC Cincinnati",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761603/fc-cincinnati-charlotte-fc"
+  },
+  {
+    "gameId": "761601",
+    "date": "20260508",
+    "team1": "New England Revolution",
+    "score": "2 - 1",
+    "team2": "Philadelphia Union",
+    "title": "New England Revolution VS Philadelphia Union",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761601/philadelphia-union-new-england-revolution"
   }
 ]

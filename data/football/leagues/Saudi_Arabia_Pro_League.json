@@ -1582,5 +1582,32 @@
     "team2": "Al Nassr",
     "title": "Al Qadsiah VS Al Nassr",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/756178/al-nassr-al-qadsiah"
+  },
+  {
+    "gameId": "756189",
+    "date": "Saturday, May 9, 2026",
+    "team1": "Al Khaleej",
+    "score": "0 - 5",
+    "team2": "Al Ettifaq",
+    "title": "Al Khaleej VS Al Ettifaq",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756189/al-ettifaq-al-khaleej"
+  },
+  {
+    "gameId": "756187",
+    "date": "Saturday, May 9, 2026",
+    "team1": "Al Najma",
+    "score": "2 - 2",
+    "team2": "Al Hazem",
+    "title": "Al Najma VS Al Hazem",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756187/al-hazem-al-najma"
+  },
+  {
+    "gameId": "756191",
+    "date": "Saturday, May 9, 2026",
+    "team1": "Al Fayha",
+    "score": "1 - 2",
+    "team2": "Al Qadsiah",
+    "title": "Al Fayha VS Al Qadsiah",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/756191/al-qadsiah-al-fayha"
   }
 ]

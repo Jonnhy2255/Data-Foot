@@ -808,5 +808,23 @@
     "team2": "Deportivo La Guaira",
     "title": "Trujillanos VS Deportivo La Guaira",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850534/deportivo-la-guaira-trujillanos"
+  },
+  {
+    "gameId": "401871028",
+    "date": "Friday, May 8, 2026",
+    "team1": "Metropolitanos FC",
+    "score": "2 - 0",
+    "team2": "Estudiantes de Mérida",
+    "title": "Metropolitanos FC VS Estudiantes de Mérida",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401871028/estudiantes-de-merida-metropolitanos-fc"
+  },
+  {
+    "gameId": "401871025",
+    "date": "20260508",
+    "team1": "Deportivo La Guaira",
+    "score": "1 - 1",
+    "team2": "Portuguesa",
+    "title": "Deportivo La Guaira VS Portuguesa",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401871025/portuguesa-deportivo-la-guaira"
   }
 ]

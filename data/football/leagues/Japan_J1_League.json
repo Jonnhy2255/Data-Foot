@@ -1150,5 +1150,23 @@
     "team2": "Nagoya Grampus",
     "title": "V-Varen Nagasaki VS Nagoya Grampus",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859375/nagoya-grampus-v-varen-nagasaki"
+  },
+  {
+    "gameId": "401859437",
+    "date": "Saturday, May 9, 2026",
+    "team1": "Mito Hollyhock",
+    "score": "1 - 4",
+    "team2": "Urawa Red Diamonds",
+    "title": "Mito Hollyhock VS Urawa Red Diamonds",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859437/urawa-red-diamonds-mito-hollyhock"
+  },
+  {
+    "gameId": "401859384",
+    "date": "Saturday, May 9, 2026",
+    "team1": "Cerezo Osaka",
+    "score": "3 - 2",
+    "team2": "V-Varen Nagasaki",
+    "title": "Cerezo Osaka VS V-Varen Nagasaki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859384/v-varen-nagasaki-cerezo-osaka"
   }
 ]

@@ -1231,5 +1231,14 @@
     "team2": "Stade Rennais",
     "title": "Lyon VS Stade Rennais",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/746692/stade-rennais-lyon"
+  },
+  {
+    "gameId": "746702",
+    "date": "Friday, May 8, 2026",
+    "team1": "Lens",
+    "score": "1 - 0",
+    "team2": "Nantes",
+    "title": "Lens VS Nantes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/746702/nantes-lens"
   }
 ]
