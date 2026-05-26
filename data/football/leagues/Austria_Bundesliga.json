@@ -682,5 +682,14 @@
     "team2": "FC Blau-Weiß Linz",
     "title": "WSG Swarovski Tirol VS FC Blau-Weiß Linz",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401864045/fc-blau-weiß-linz-wsg-swarovski-tirol"
+  },
+  {
+    "gameId": "401873417",
+    "date": "Monday, May 25, 2026",
+    "team1": "Rapid Vienna",
+    "score": "3 - 0",
+    "team2": "SV Josko Ried",
+    "title": "Rapid Vienna VS SV Josko Ried",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873417/sv-josko-ried-rapid-vienna"
   }
 ]

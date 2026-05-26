@@ -1708,5 +1708,104 @@
     "team2": "Gimnasia y Tiro (Salta)",
     "title": "Atletico Rafaela VS Gimnasia y Tiro (Salta)",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843836/gimnasia-y-tiro-salta-atletico-rafaela"
+  },
+  {
+    "gameId": "401843867",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Acassuso",
+    "score": "1 - 0",
+    "team2": "Defensores de Belgrano",
+    "title": "Acassuso VS Defensores de Belgrano",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843867/defensores-de-belgrano-acassuso"
+  },
+  {
+    "gameId": "401843873",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Deportivo Morón",
+    "score": "2 - 0",
+    "team2": "Estudiantes (Buenos Aires)",
+    "title": "Deportivo Morón VS Estudiantes (Buenos Aires)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843873/estudiantes-buenos-aires-deportivo-moron"
+  },
+  {
+    "gameId": "401843870",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Chacarita Juniors",
+    "score": "1 - 0",
+    "team2": "Almagro",
+    "title": "Chacarita Juniors VS Almagro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843870/almagro-chacarita-juniors"
+  },
+  {
+    "gameId": "401843884",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Agropecuario",
+    "score": "0 - 0",
+    "team2": "Quilmes",
+    "title": "Agropecuario VS Quilmes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843884/quilmes-agropecuario"
+  },
+  {
+    "gameId": "401843871",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Chaco For Ever",
+    "score": "1 - 2",
+    "team2": "Deportivo Madryn",
+    "title": "Chaco For Ever VS Deportivo Madryn",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843871/deportivo-madryn-chaco-for-ever"
+  },
+  {
+    "gameId": "401843874",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Ferro Carril Oeste",
+    "score": "1 - 0",
+    "team2": "Central Norte",
+    "title": "Ferro Carril Oeste VS Central Norte",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843874/central-norte-ferro-carril-oeste"
+  },
+  {
+    "gameId": "401843882",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Godoy Cruz Antonio Tomba",
+    "score": "4 - 0",
+    "team2": "All Boys",
+    "title": "Godoy Cruz Antonio Tomba VS All Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843882/all-boys-godoy-cruz-antonio-tomba"
+  },
+  {
+    "gameId": "401843872",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Colón (Santa Fe)",
+    "score": "1 - 1",
+    "team2": "Mitre (Santiago del Estero)",
+    "title": "Colón (Santa Fe) VS Mitre (Santiago del Estero)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843872/mitre-santiago-del-estero-colon-santa-fe"
+  },
+  {
+    "gameId": "401843883",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Gimnasia y Tiro (Salta)",
+    "score": "1 - 1",
+    "team2": "Gimnasia y Esgrima (Jujuy)",
+    "title": "Gimnasia y Tiro (Salta) VS Gimnasia y Esgrima (Jujuy)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843883/gimnasia-y-esgrima-jujuy-gimnasia-y-tiro-salta"
+  },
+  {
+    "gameId": "401843881",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Güemes",
+    "score": "1 - 0",
+    "team2": "Patronato",
+    "title": "Güemes VS Patronato",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843881/patronato-guemes"
+  },
+  {
+    "gameId": "401843877",
+    "date": "Sunday, May 24, 2026",
+    "team1": "San Martín (Tucumán)",
+    "score": "0 - 1",
+    "team2": "Atlanta",
+    "title": "San Martín (Tucumán) VS Atlanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843877/atlanta-san-martin-tucuman"
   }
 ]

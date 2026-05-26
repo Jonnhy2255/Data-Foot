@@ -1348,5 +1348,14 @@
     "team2": "Pumas UNAM",
     "title": "América VS Pumas UNAM",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401870485/pumas-unam-america"
+  },
+  {
+    "gameId": "401873246",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Pumas UNAM",
+    "score": "1 - 2",
+    "team2": "Cruz Azul",
+    "title": "Pumas UNAM VS Cruz Azul",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873246/cruz-azul-pumas-unam"
   }
 ]

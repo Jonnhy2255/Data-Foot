@@ -826,5 +826,23 @@
     "team2": "Portuguesa",
     "title": "Deportivo La Guaira VS Portuguesa",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401871025/portuguesa-deportivo-la-guaira"
+  },
+  {
+    "gameId": "401871039",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Carabobo",
+    "score": "1 - 1",
+    "team2": "Deportivo Táchira",
+    "title": "Carabobo VS Deportivo Táchira",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401871039/deportivo-tachira-carabobo"
+  },
+  {
+    "gameId": "401871040",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Estudiantes de Mérida",
+    "score": "0 - 1",
+    "team2": "Metropolitanos FC",
+    "title": "Estudiantes de Mérida VS Metropolitanos FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401871040/metropolitanos-fc-estudiantes-de-merida"
   }
 ]

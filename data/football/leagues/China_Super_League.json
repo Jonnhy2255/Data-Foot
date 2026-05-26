@@ -619,5 +619,50 @@
     "team2": "Henan Songshan Longmen",
     "title": "Chengdu Rongcheng VS Henan Songshan Longmen",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861374/henan-songshan-longmen-chengdu-rongcheng"
+  },
+  {
+    "gameId": "401861541",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Qingdao Hainiu",
+    "score": "0 - 1",
+    "team2": "Chongqing Tonglianglong",
+    "title": "Qingdao Hainiu VS Chongqing Tonglianglong",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861541/chongqing-tonglianglong-qingdao-hainiu"
+  },
+  {
+    "gameId": "401861395",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Yunnan Yukun",
+    "score": "2 - 3",
+    "team2": "Qingdao West Coast",
+    "title": "Yunnan Yukun VS Qingdao West Coast",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861395/qingdao-west-coast-yunnan-yukun"
+  },
+  {
+    "gameId": "401861396",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Shandong Taishan",
+    "score": "3 - 3",
+    "team2": "Wuhan Three Towns",
+    "title": "Shandong Taishan VS Wuhan Three Towns",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861396/wuhan-three-towns-shandong-taishan"
+  },
+  {
+    "gameId": "401861542",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Zhejiang Professional FC",
+    "score": "0 - 5",
+    "team2": "Liaoning Tieren",
+    "title": "Zhejiang Professional FC VS Liaoning Tieren",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861542/liaoning-tieren-zhejiang-professional-fc"
+  },
+  {
+    "gameId": "401861397",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Shanghai Shenhua",
+    "score": "1 - 2",
+    "team2": "Shenzhen Xinpengcheng",
+    "title": "Shanghai Shenhua VS Shenzhen Xinpengcheng",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861397/shenzhen-xinpengcheng-shanghai-shenhua"
   }
 ]

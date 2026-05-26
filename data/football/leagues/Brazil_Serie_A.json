@@ -1186,5 +1186,50 @@
     "team2": "Vitória",
     "title": "Fluminense VS Vitória",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401841113/vitoria-fluminense"
+  },
+  {
+    "gameId": "401841137",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Cruzeiro",
+    "score": "2 - 1",
+    "team2": "Chapecoense",
+    "title": "Cruzeiro VS Chapecoense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841137/chapecoense-cruzeiro"
+  },
+  {
+    "gameId": "401841133",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Remo",
+    "score": "1 - 2",
+    "team2": "Athletico Paranaense",
+    "title": "Remo VS Athletico Paranaense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841133/athletico-paranaense-remo"
+  },
+  {
+    "gameId": "401841128",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Corinthians",
+    "score": "1 - 0",
+    "team2": "Atlético-MG",
+    "title": "Corinthians VS Atlético-MG",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841128/atletico-mg-corinthians"
+  },
+  {
+    "gameId": "401841131",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Vasco da Gama",
+    "score": "0 - 3",
+    "team2": "Red Bull Bragantino",
+    "title": "Vasco da Gama VS Red Bull Bragantino",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841131/red-bull-bragantino-vasco-da-gama"
+  },
+  {
+    "gameId": "401841129",
+    "date": "Monday, May 25, 2026",
+    "team1": "Coritiba",
+    "score": "3 - 2",
+    "team2": "Bahia",
+    "title": "Coritiba VS Bahia",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401841129/bahia-coritiba"
   }
 ]

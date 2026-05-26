@@ -1393,5 +1393,32 @@
     "team2": "Philadelphia Union",
     "title": "New England Revolution VS Philadelphia Union",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/761601/philadelphia-union-new-england-revolution"
+  },
+  {
+    "gameId": "761656",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Columbus Crew",
+    "score": "2 - 0",
+    "team2": "Atlanta United FC",
+    "title": "Columbus Crew VS Atlanta United FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761656/atlanta-united-fc-columbus-crew"
+  },
+  {
+    "gameId": "761657",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Inter Miami CF",
+    "score": "6 - 4",
+    "team2": "Philadelphia Union",
+    "title": "Inter Miami CF VS Philadelphia Union",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761657/philadelphia-union-inter-miami-cf"
+  },
+  {
+    "gameId": "761658",
+    "date": "Sunday, May 24, 2026",
+    "team1": "LAFC",
+    "score": "1 - 0",
+    "team2": "Seattle Sounders FC",
+    "title": "LAFC VS Seattle Sounders FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/761658/seattle-sounders-fc-lafc"
   }
 ]

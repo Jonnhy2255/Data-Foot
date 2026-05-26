@@ -763,5 +763,32 @@
     "team2": "Coquimbo Unido",
     "title": "Colo Colo VS Coquimbo Unido",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850545/coquimbo-unido-colo-colo"
+  },
+  {
+    "gameId": "401850573",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Deportes Concepcion",
+    "score": "2 - 0",
+    "team2": "Huachipato",
+    "title": "Deportes Concepcion VS Huachipato",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850573/huachipato-deportes-concepcion"
+  },
+  {
+    "gameId": "401850575",
+    "date": "Sunday, May 24, 2026",
+    "team1": "La Serena",
+    "score": "4 - 1",
+    "team2": "Deportes Limache",
+    "title": "La Serena VS Deportes Limache",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850575/deportes-limache-la-serena"
+  },
+  {
+    "gameId": "401850579",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Universidad Católica",
+    "score": "1 - 2",
+    "team2": "Colo Colo",
+    "title": "Universidad Católica VS Colo Colo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850579/colo-colo-universidad-catolica"
   }
 ]

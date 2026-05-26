@@ -988,5 +988,32 @@
     "team2": "Trinidense",
     "title": "Nacional VS Trinidense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401848275/trinidense-nacional"
+  },
+  {
+    "gameId": "401848286",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Cerro Porteño",
+    "score": "2 - 0",
+    "team2": "Rubio Ñú",
+    "title": "Cerro Porteño VS Rubio Ñú",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848286/rubio-nu-cerro-porteno"
+  },
+  {
+    "gameId": "401848289",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Nacional Asunción",
+    "score": "2 - 1",
+    "team2": "Libertad",
+    "title": "Nacional Asunción VS Libertad",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848289/libertad-nacional-asuncion"
+  },
+  {
+    "gameId": "401848287",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Sportivo Ameliano",
+    "score": "1 - 2",
+    "team2": "Sportivo Trinidense",
+    "title": "Sportivo Ameliano VS Sportivo Trinidense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401848287/sportivo-trinidense-sportivo-ameliano"
   }
 ]

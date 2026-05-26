@@ -1132,5 +1132,32 @@
     "team2": "Sint-Truidense",
     "title": "Club Brugge VS Sint-Truidense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401866310/sint-truidense-club-brugge"
+  },
+  {
+    "gameId": "401866330",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Club Brugge",
+    "score": "5 - 0",
+    "team2": "KAA Gent",
+    "title": "Club Brugge VS KAA Gent",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866330/kaa-gent-club-brugge"
+  },
+  {
+    "gameId": "401866331",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Sint-Truidense",
+    "score": "3 - 0",
+    "team2": "KV Mechelen",
+    "title": "Sint-Truidense VS KV Mechelen",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866331/kv-mechelen-sint-truidense"
+  },
+  {
+    "gameId": "401866332",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Union St.-Gilloise",
+    "score": "5 - 1",
+    "team2": "Anderlecht",
+    "title": "Union St.-Gilloise VS Anderlecht",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401866332/anderlecht-union-st-gilloise"
   }
 ]

@@ -1168,5 +1168,32 @@
     "team2": "V-Varen Nagasaki",
     "title": "Cerezo Osaka VS V-Varen Nagasaki",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859384/v-varen-nagasaki-cerezo-osaka"
+  },
+  {
+    "gameId": "401859443",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Mito Hollyhock",
+    "score": "1 - 3",
+    "team2": "Kawasaki Frontale",
+    "title": "Mito Hollyhock VS Kawasaki Frontale",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859443/kawasaki-frontale-mito-hollyhock"
+  },
+  {
+    "gameId": "401859406",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Tokyo Verdy 1969",
+    "score": "0 - 6",
+    "team2": "Yokohama F. Marinos",
+    "title": "Tokyo Verdy 1969 VS Yokohama F. Marinos",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859406/yokohama-f-marinos-tokyo-verdy-1969"
+  },
+  {
+    "gameId": "401859407",
+    "date": "Sunday, May 24, 2026",
+    "team1": "Shimizu S-Pulse",
+    "score": "1 - 2",
+    "team2": "Gamba Osaka",
+    "title": "Shimizu S-Pulse VS Gamba Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401859407/gamba-osaka-shimizu-s-pulse"
   }
 ]
