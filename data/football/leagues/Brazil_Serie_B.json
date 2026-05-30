@@ -637,5 +637,14 @@
     "team2": "Athletic",
     "title": "Botafogo-SP VS Athletic",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860153/athletic-botafogo-sp"
+  },
+  {
+    "gameId": "401860167",
+    "date": "Friday, May 29, 2026",
+    "team1": "Juventude",
+    "score": "3 - 0",
+    "team2": "América Mineiro",
+    "title": "Juventude VS América Mineiro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401860167/america-mineiro-juventude"
   }
 ]

@@ -664,5 +664,14 @@
     "team2": "Shenzhen Xinpengcheng",
     "title": "Shanghai Shenhua VS Shenzhen Xinpengcheng",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861397/shenzhen-xinpengcheng-shanghai-shenhua"
+  },
+  {
+    "gameId": "401861543",
+    "date": "Friday, May 29, 2026",
+    "team1": "Liaoning Tieren",
+    "score": "3 - 2",
+    "team2": "Shanghai Port",
+    "title": "Liaoning Tieren VS Shanghai Port",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861543/shanghai-port-liaoning-tieren"
   }
 ]

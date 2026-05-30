@@ -421,5 +421,14 @@
     "team2": "Mjällby AIF",
     "title": "IFK Göteborg VS Mjällby AIF",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401842727/mjallby-aif-ifk-goteborg"
+  },
+  {
+    "gameId": "401842737",
+    "date": "Friday, May 29, 2026",
+    "team1": "Örgryte IS",
+    "score": "2 - 2",
+    "team2": "IF Elfsborg",
+    "title": "Örgryte IS VS IF Elfsborg",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842737/if-elfsborg-orgryte-is"
   }
 ]
