@@ -1195,5 +1195,95 @@
     "team2": "Gamba Osaka",
     "title": "Shimizu S-Pulse VS Gamba Osaka",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401859407/gamba-osaka-shimizu-s-pulse"
+  },
+  {
+    "gameId": "401873672",
+    "date": "Saturday, June 6, 2026",
+    "team1": "FC Tokyo",
+    "score": "1 - 3",
+    "team2": "Cerezo Osaka",
+    "title": "FC Tokyo VS Cerezo Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873672/cerezo-osaka-fc-tokyo"
+  },
+  {
+    "gameId": "401873673",
+    "date": "Saturday, June 6, 2026",
+    "team1": "JEF United Ichihara-Chiba",
+    "score": "1 - 2",
+    "team2": "Avispa Fukuoka",
+    "title": "JEF United Ichihara-Chiba VS Avispa Fukuoka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873673/avispa-fukuoka-jef-united-ichihara-chiba"
+  },
+  {
+    "gameId": "401873695",
+    "date": "Saturday, June 6, 2026",
+    "team1": "Machida Zelvia",
+    "score": "2 - 1",
+    "team2": "Nagoya Grampus",
+    "title": "Machida Zelvia VS Nagoya Grampus",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873695/nagoya-grampus-machida-zelvia"
+  },
+  {
+    "gameId": "401873696",
+    "date": "Saturday, June 6, 2026",
+    "team1": "Mito Hollyhock",
+    "score": "0 - 1",
+    "team2": "V-Varen Nagasaki",
+    "title": "Mito Hollyhock VS V-Varen Nagasaki",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873696/v-varen-nagasaki-mito-hollyhock"
+  },
+  {
+    "gameId": "401873697",
+    "date": "Saturday, June 6, 2026",
+    "team1": "Tokyo Verdy 1969",
+    "score": "2 - 4",
+    "team2": "Gamba Osaka",
+    "title": "Tokyo Verdy 1969 VS Gamba Osaka",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873697/gamba-osaka-tokyo-verdy-1969"
+  },
+  {
+    "gameId": "401873698",
+    "date": "Saturday, June 6, 2026",
+    "team1": "Urawa Red Diamonds",
+    "score": "0 - 2",
+    "team2": "Fagiano Okayama",
+    "title": "Urawa Red Diamonds VS Fagiano Okayama",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873698/fagiano-okayama-urawa-red-diamonds"
+  },
+  {
+    "gameId": "401873699",
+    "date": "Saturday, June 6, 2026",
+    "team1": "Yokohama F. Marinos",
+    "score": "3 - 0",
+    "team2": "Shimizu S-Pulse",
+    "title": "Yokohama F. Marinos VS Shimizu S-Pulse",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873699/shimizu-s-pulse-yokohama-f-marinos"
+  },
+  {
+    "gameId": "401873700",
+    "date": "Saturday, June 6, 2026",
+    "team1": "Kashiwa Reysol",
+    "score": "0 - 1",
+    "team2": "Kyoto Sanga",
+    "title": "Kashiwa Reysol VS Kyoto Sanga",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873700/kyoto-sanga-kashiwa-reysol"
+  },
+  {
+    "gameId": "401873701",
+    "date": "Saturday, June 6, 2026",
+    "team1": "Kawasaki Frontale",
+    "score": "0 - 1",
+    "team2": "Sanfrecce Hiroshima",
+    "title": "Kawasaki Frontale VS Sanfrecce Hiroshima",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873701/sanfrecce-hiroshima-kawasaki-frontale"
+  },
+  {
+    "gameId": "401873694",
+    "date": "Saturday, June 6, 2026",
+    "team1": "Kashima Antlers",
+    "score": "2 - 0",
+    "team2": "Vissel Kobe",
+    "title": "Kashima Antlers VS Vissel Kobe",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873694/vissel-kobe-kashima-antlers"
   }
 ]

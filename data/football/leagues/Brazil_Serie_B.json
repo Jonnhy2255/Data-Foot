@@ -655,5 +655,23 @@
     "team2": "Botafogo-SP",
     "title": "Ponte Preta VS Botafogo-SP",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860169/botafogo-sp-ponte-preta"
+  },
+  {
+    "gameId": "401873965",
+    "date": "Friday, June 5, 2026",
+    "team1": "Operário PR",
+    "score": "2 - 1",
+    "team2": "Juventude",
+    "title": "Operário PR VS Juventude",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873965/juventude-operario-pr"
+  },
+  {
+    "gameId": "401873959",
+    "date": "Saturday, June 6, 2026",
+    "team1": "Criciúma",
+    "score": "1 - 0",
+    "team2": "Londrina",
+    "title": "Criciúma VS Londrina",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873959/londrina-criciuma"
   }
 ]
