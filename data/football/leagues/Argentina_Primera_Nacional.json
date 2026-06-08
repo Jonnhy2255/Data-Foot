@@ -1879,5 +1879,77 @@
     "team2": "Almagro",
     "title": "Tristán Suárez VS Almagro",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843904/almagro-tristan-suarez"
+  },
+  {
+    "gameId": "401843911",
+    "date": "20260606",
+    "team1": "Deportivo Morón",
+    "score": "1 - 0",
+    "team2": "Almirante Brown",
+    "title": "Deportivo Morón VS Almirante Brown",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843911/almirante-brown-deportivo-moron"
+  },
+  {
+    "gameId": "401843919",
+    "date": "20260606",
+    "team1": "San Telmo",
+    "score": "0 - 0",
+    "team2": "Deportivo Madryn",
+    "title": "San Telmo VS Deportivo Madryn",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843919/deportivo-madryn-san-telmo"
+  },
+  {
+    "gameId": "401874281",
+    "date": "20260606",
+    "team1": "All Boys",
+    "score": "1 - 1",
+    "team2": "Racing (Córdoba)",
+    "title": "All Boys VS Racing (Córdoba)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401874281/racing-cordoba-all-boys"
+  },
+  {
+    "gameId": "401843908",
+    "date": "20260606",
+    "team1": "Chacarita Juniors",
+    "score": "0 - 1",
+    "team2": "Temperley",
+    "title": "Chacarita Juniors VS Temperley",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843908/temperley-chacarita-juniors"
+  },
+  {
+    "gameId": "401843920",
+    "date": "20260606",
+    "team1": "Agropecuario",
+    "score": "1 - 1",
+    "team2": "Patronato",
+    "title": "Agropecuario VS Patronato",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843920/patronato-agropecuario"
+  },
+  {
+    "gameId": "401843909",
+    "date": "20260606",
+    "team1": "Chaco For Ever",
+    "score": "1 - 2",
+    "team2": "Ferro Carril Oeste",
+    "title": "Chaco For Ever VS Ferro Carril Oeste",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843909/ferro-carril-oeste-chaco-for-ever"
+  },
+  {
+    "gameId": "401843914",
+    "date": "20260606",
+    "team1": "Güemes",
+    "score": "1 - 0",
+    "team2": "Deportivo Maipú",
+    "title": "Güemes VS Deportivo Maipú",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843914/deportivo-maipu-guemes"
+  },
+  {
+    "gameId": "401843913",
+    "date": "20260606",
+    "team1": "Godoy Cruz Antonio Tomba",
+    "score": "2 - 1",
+    "team2": "Mitre (Santiago del Estero)",
+    "title": "Godoy Cruz Antonio Tomba VS Mitre (Santiago del Estero)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843913/mitre-santiago-del-estero-godoy-cruz-antonio-tomba"
   }
 ]
