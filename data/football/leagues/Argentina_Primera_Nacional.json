@@ -1951,5 +1951,77 @@
     "team2": "Mitre (Santiago del Estero)",
     "title": "Godoy Cruz Antonio Tomba VS Mitre (Santiago del Estero)",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843913/mitre-santiago-del-estero-godoy-cruz-antonio-tomba"
+  },
+  {
+    "gameId": "401843930",
+    "date": "Saturday, June 13, 2026",
+    "team1": "Midland",
+    "score": "1 - 2",
+    "team2": "Atlanta",
+    "title": "Midland VS Atlanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843930/atlanta-midland"
+  },
+  {
+    "gameId": "401843936",
+    "date": "Saturday, June 13, 2026",
+    "team1": "Colegiales",
+    "score": "2 - 0",
+    "team2": "San Martín (Tucumán)",
+    "title": "Colegiales VS San Martín (Tucumán)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843936/san-martin-tucuman-colegiales"
+  },
+  {
+    "gameId": "401843921",
+    "date": "Saturday, June 13, 2026",
+    "team1": "Almagro",
+    "score": "2 - 1",
+    "team2": "Agropecuario",
+    "title": "Almagro VS Agropecuario",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843921/agropecuario-almagro"
+  },
+  {
+    "gameId": "401843935",
+    "date": "Saturday, June 13, 2026",
+    "team1": "Defensores de Belgrano",
+    "score": "0 - 3",
+    "team2": "Colón (Santa Fe)",
+    "title": "Defensores de Belgrano VS Colón (Santa Fe)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843935/colon-santa-fe-defensores-de-belgrano"
+  },
+  {
+    "gameId": "401843927",
+    "date": "Saturday, June 13, 2026",
+    "team1": "Nueva Chicago",
+    "score": "2 - 0",
+    "team2": "Chacarita Juniors",
+    "title": "Nueva Chicago VS Chacarita Juniors",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843927/chacarita-juniors-nueva-chicago"
+  },
+  {
+    "gameId": "401843937",
+    "date": "Saturday, June 13, 2026",
+    "team1": "Ciudad de Bolívar",
+    "score": "1 - 2",
+    "team2": "Deportivo Morón",
+    "title": "Ciudad de Bolívar VS Deportivo Morón",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843937/deportivo-moron-ciudad-de-bolivar"
+  },
+  {
+    "gameId": "401843925",
+    "date": "Saturday, June 13, 2026",
+    "team1": "Quilmes",
+    "score": "1 - 0",
+    "team2": "Gimnasia y Tiro (Salta)",
+    "title": "Quilmes VS Gimnasia y Tiro (Salta)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843925/gimnasia-y-tiro-salta-quilmes"
+  },
+  {
+    "gameId": "401843929",
+    "date": "Saturday, June 13, 2026",
+    "team1": "Gimnasia y Esgrima (Jujuy)",
+    "score": "2 - 1",
+    "team2": "San Martín (San Juan)",
+    "title": "Gimnasia y Esgrima (Jujuy) VS San Martín (San Juan)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843929/san-martin-san-juan-gimnasia-y-esgrima-jujuy"
   }
 ]
