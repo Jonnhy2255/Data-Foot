@@ -691,5 +691,59 @@
     "team2": "CRB",
     "title": "Atlético Goianiense VS CRB",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401860189/crb-atletico-goianiense"
+  },
+  {
+    "gameId": "401873967",
+    "date": "Sunday, June 14, 2026",
+    "team1": "Juventude",
+    "score": "3 - 0",
+    "team2": "Ponte Preta",
+    "title": "Juventude VS Ponte Preta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873967/ponte-preta-juventude"
+  },
+  {
+    "gameId": "401873947",
+    "date": "Sunday, June 14, 2026",
+    "team1": "São Bernardo",
+    "score": "0 - 0",
+    "team2": "Sport",
+    "title": "São Bernardo VS Sport",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873947/sport-sao-bernardo"
+  },
+  {
+    "gameId": "401873962",
+    "date": "Sunday, June 14, 2026",
+    "team1": "Athletic",
+    "score": "1 - 1",
+    "team2": "Goiás",
+    "title": "Athletic VS Goiás",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873962/goias-athletic"
+  },
+  {
+    "gameId": "401873963",
+    "date": "Sunday, June 14, 2026",
+    "team1": "Cuiabá",
+    "score": "1 - 0",
+    "team2": "Vila Nova",
+    "title": "Cuiabá VS Vila Nova",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873963/vila-nova-cuiaba"
+  },
+  {
+    "gameId": "401873976",
+    "date": "Sunday, June 14, 2026",
+    "team1": "Botafogo-SP",
+    "score": "2 - 1",
+    "team2": "Operário PR",
+    "title": "Botafogo-SP VS Operário PR",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873976/operario-pr-botafogo-sp"
+  },
+  {
+    "gameId": "401873944",
+    "date": "Sunday, June 14, 2026",
+    "team1": "Novorizontino",
+    "score": "2 - 2",
+    "team2": "Náutico",
+    "title": "Novorizontino VS Náutico",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873944/nautico-novorizontino"
   }
 ]

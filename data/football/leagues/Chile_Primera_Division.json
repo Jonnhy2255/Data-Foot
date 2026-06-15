@@ -835,5 +835,32 @@
     "team2": "Huachipato",
     "title": "Ñublense VS Huachipato",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850591/huachipato-nublense"
+  },
+  {
+    "gameId": "401850595",
+    "date": "Sunday, June 14, 2026",
+    "team1": "Deportes Concepcion",
+    "score": "3 - 2",
+    "team2": "Deportes Limache",
+    "title": "Deportes Concepcion VS Deportes Limache",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850595/deportes-limache-deportes-concepcion"
+  },
+  {
+    "gameId": "401850594",
+    "date": "Sunday, June 14, 2026",
+    "team1": "Unión La Calera",
+    "score": "2 - 2",
+    "team2": "Universidad de Chile",
+    "title": "Unión La Calera VS Universidad de Chile",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850594/universidad-de-chile-union-la-calera"
+  },
+  {
+    "gameId": "401850593",
+    "date": "Sunday, June 14, 2026",
+    "team1": "Universidad Católica",
+    "score": "5 - 1",
+    "team2": "Universidad de Concepción",
+    "title": "Universidad Católica VS Universidad de Concepción",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850593/universidad-de-concepcion-universidad-catolica"
   }
 ]

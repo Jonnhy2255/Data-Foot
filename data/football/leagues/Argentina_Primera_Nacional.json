@@ -2023,5 +2023,86 @@
     "team2": "San Martín (San Juan)",
     "title": "Gimnasia y Esgrima (Jujuy) VS San Martín (San Juan)",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843929/san-martin-san-juan-gimnasia-y-esgrima-jujuy"
+  },
+  {
+    "gameId": "401843922",
+    "date": "20260613",
+    "team1": "Almirante Brown",
+    "score": "1 - 0",
+    "team2": "Godoy Cruz Antonio Tomba",
+    "title": "Almirante Brown VS Godoy Cruz Antonio Tomba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843922/godoy-cruz-antonio-tomba-almirante-brown"
+  },
+  {
+    "gameId": "401843934",
+    "date": "20260613",
+    "team1": "Deportivo Madryn",
+    "score": "2 - 2",
+    "team2": "San Miguel",
+    "title": "Deportivo Madryn VS San Miguel",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843934/san-miguel-deportivo-madryn"
+  },
+  {
+    "gameId": "401843932",
+    "date": "20260613",
+    "team1": "Estudiantes (Buenos Aires)",
+    "score": "2 - 1",
+    "team2": "All Boys",
+    "title": "Estudiantes (Buenos Aires) VS All Boys",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843932/all-boys-estudiantes-buenos-aires"
+  },
+  {
+    "gameId": "401843926",
+    "date": "20260613",
+    "team1": "Patronato",
+    "score": "0 - 0",
+    "team2": "Atletico Rafaela",
+    "title": "Patronato VS Atletico Rafaela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843926/atletico-rafaela-patronato"
+  },
+  {
+    "gameId": "401843928",
+    "date": "20260613",
+    "team1": "Mitre (Santiago del Estero)",
+    "score": "0 - 3",
+    "team2": "Los Andes",
+    "title": "Mitre (Santiago del Estero) VS Los Andes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843928/los-andes-mitre-santiago-del-estero"
+  },
+  {
+    "gameId": "401843924",
+    "date": "20260613",
+    "team1": "Racing (Córdoba)",
+    "score": "2 - 0",
+    "team2": "Chaco For Ever",
+    "title": "Racing (Córdoba) VS Chaco For Ever",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843924/chaco-for-ever-racing-cordoba"
+  },
+  {
+    "gameId": "401843923",
+    "date": "20260613",
+    "team1": "Temperley",
+    "score": "4 - 1",
+    "team2": "Güemes",
+    "title": "Temperley VS Güemes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843923/guemes-temperley"
+  },
+  {
+    "gameId": "401843938",
+    "date": "20260613",
+    "team1": "Central Norte",
+    "score": "0 - 0",
+    "team2": "San Telmo",
+    "title": "Central Norte VS San Telmo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843938/san-telmo-central-norte"
+  },
+  {
+    "gameId": "401843933",
+    "date": "20260613",
+    "team1": "Deportivo Maipú",
+    "score": "0 - 1",
+    "team2": "Tristán Suárez",
+    "title": "Deportivo Maipú VS Tristán Suárez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843933/tristan-suarez-deportivo-maipu"
   }
 ]
