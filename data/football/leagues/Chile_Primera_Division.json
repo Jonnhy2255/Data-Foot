@@ -862,5 +862,14 @@
     "team2": "Universidad de Concepción",
     "title": "Universidad Católica VS Universidad de Concepción",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401850593/universidad-de-concepcion-universidad-catolica"
+  },
+  {
+    "gameId": "401850578",
+    "date": "Thursday, June 18, 2026",
+    "team1": "Universidad de Chile",
+    "score": "2 - 0",
+    "team2": "O'Higgins",
+    "title": "Universidad de Chile VS O'Higgins",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401850578/ohiggins-universidad-de-chile"
   }
 ]
