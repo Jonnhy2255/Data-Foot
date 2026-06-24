@@ -754,5 +754,23 @@
     "team2": "Atlético Goianiense",
     "title": "Sport VS Atlético Goianiense",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401873945/atletico-goianiense-sport"
+  },
+  {
+    "gameId": "401873949",
+    "date": "Monday, June 22, 2026",
+    "team1": "Ponte Preta",
+    "score": "0 - 2",
+    "team2": "Novorizontino",
+    "title": "Ponte Preta VS Novorizontino",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873949/novorizontino-ponte-preta"
+  },
+  {
+    "gameId": "401873969",
+    "date": "Tuesday, June 23, 2026",
+    "team1": "América Mineiro",
+    "score": "0 - 1",
+    "team2": "Criciúma",
+    "title": "América Mineiro VS Criciúma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873969/criciuma-america-mineiro"
   }
 ]

@@ -2104,5 +2104,14 @@
     "team2": "Tristán Suárez",
     "title": "Deportivo Maipú VS Tristán Suárez",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843933/tristan-suarez-deportivo-maipu"
+  },
+  {
+    "gameId": "401843672",
+    "date": "Tuesday, June 23, 2026",
+    "team1": "Nueva Chicago",
+    "score": "0 - 0",
+    "team2": "Atletico Rafaela",
+    "title": "Nueva Chicago VS Atletico Rafaela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843672/atletico-rafaela-nueva-chicago"
   }
 ]
