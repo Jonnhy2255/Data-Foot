@@ -781,5 +781,68 @@
     "team2": "Londrina",
     "title": "Cuiabá VS Londrina",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401873972/londrina-cuiaba"
+  },
+  {
+    "gameId": "401873953",
+    "date": "Saturday, June 27, 2026",
+    "team1": "Operário PR",
+    "score": "1 - 0",
+    "team2": "América Mineiro",
+    "title": "Operário PR VS América Mineiro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873953/america-mineiro-operario-pr"
+  },
+  {
+    "gameId": "401873970",
+    "date": "Saturday, June 27, 2026",
+    "team1": "Criciúma",
+    "score": "1 - 0",
+    "team2": "São Bernardo",
+    "title": "Criciúma VS São Bernardo",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873970/sao-bernardo-criciuma"
+  },
+  {
+    "gameId": "401873982",
+    "date": "Sunday, June 28, 2026",
+    "team1": "Athletic",
+    "score": "1 - 0",
+    "team2": "Avaí",
+    "title": "Athletic VS Avaí",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873982/avai-athletic"
+  },
+  {
+    "gameId": "401873950",
+    "date": "Sunday, June 28, 2026",
+    "team1": "Atlético Goianiense",
+    "score": "2 - 0",
+    "team2": "Ponte Preta",
+    "title": "Atlético Goianiense VS Ponte Preta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873950/ponte-preta-atletico-goianiense"
+  },
+  {
+    "gameId": "401874002",
+    "date": "Sunday, June 28, 2026",
+    "team1": "Juventude",
+    "score": "2 - 0",
+    "team2": "Ceará",
+    "title": "Juventude VS Ceará",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401874002/ceara-juventude"
+  },
+  {
+    "gameId": "401873971",
+    "date": "Sunday, June 28, 2026",
+    "team1": "Fortaleza",
+    "score": "2 - 1",
+    "team2": "Sport",
+    "title": "Fortaleza VS Sport",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873971/sport-fortaleza"
+  },
+  {
+    "gameId": "401873973",
+    "date": "Sunday, June 28, 2026",
+    "team1": "Náutico",
+    "score": "0 - 1",
+    "team2": "Goiás",
+    "title": "Náutico VS Goiás",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873973/goias-nautico"
   }
 ]

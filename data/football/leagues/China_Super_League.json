@@ -673,5 +673,68 @@
     "team2": "Shanghai Port",
     "title": "Liaoning Tieren VS Shanghai Port",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861543/shanghai-port-liaoning-tieren"
+  },
+  {
+    "gameId": "401861545",
+    "date": "Saturday, June 27, 2026",
+    "team1": "Liaoning Tieren",
+    "score": "1 - 5",
+    "team2": "Shandong Taishan",
+    "title": "Liaoning Tieren VS Shandong Taishan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861545/shandong-taishan-liaoning-tieren"
+  },
+  {
+    "gameId": "401861405",
+    "date": "Saturday, June 27, 2026",
+    "team1": "Henan Songshan Longmen",
+    "score": "1 - 2",
+    "team2": "Shanghai Port",
+    "title": "Henan Songshan Longmen VS Shanghai Port",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861405/shanghai-port-henan-songshan-longmen"
+  },
+  {
+    "gameId": "401861406",
+    "date": "Saturday, June 27, 2026",
+    "team1": "Shenzhen Xinpengcheng",
+    "score": "2 - 3",
+    "team2": "Chengdu Rongcheng",
+    "title": "Shenzhen Xinpengcheng VS Chengdu Rongcheng",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861406/chengdu-rongcheng-shenzhen-xinpengcheng"
+  },
+  {
+    "gameId": "401861407",
+    "date": "Saturday, June 27, 2026",
+    "team1": "Beijing Guoan",
+    "score": "1 - 0",
+    "team2": "Wuhan Three Towns",
+    "title": "Beijing Guoan VS Wuhan Three Towns",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861407/wuhan-three-towns-beijing-guoan"
+  },
+  {
+    "gameId": "401861546",
+    "date": "Saturday, June 27, 2026",
+    "team1": "Chongqing Tonglianglong",
+    "score": "1 - 0",
+    "team2": "Tianjin Jinmen Tiger",
+    "title": "Chongqing Tonglianglong VS Tianjin Jinmen Tiger",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861546/tianjin-jinmen-tiger-chongqing-tonglianglong"
+  },
+  {
+    "gameId": "401861408",
+    "date": "Sunday, June 28, 2026",
+    "team1": "Qingdao West Coast",
+    "score": "3 - 1",
+    "team2": "Zhejiang Professional FC",
+    "title": "Qingdao West Coast VS Zhejiang Professional FC",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861408/zhejiang-professional-fc-qingdao-west-coast"
+  },
+  {
+    "gameId": "401861409",
+    "date": "Sunday, June 28, 2026",
+    "team1": "Dalian Yingbo",
+    "score": "1 - 4",
+    "team2": "Shanghai Shenhua",
+    "title": "Dalian Yingbo VS Shanghai Shenhua",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861409/shanghai-shenhua-dalian-yingbo"
   }
 ]
