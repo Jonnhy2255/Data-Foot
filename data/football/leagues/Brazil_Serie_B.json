@@ -844,5 +844,14 @@
     "team2": "Goiás",
     "title": "Náutico VS Goiás",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401873973/goias-nautico"
+  },
+  {
+    "gameId": "401873978",
+    "date": "Tuesday, June 30, 2026",
+    "team1": "Botafogo-SP",
+    "score": "0 - 1",
+    "team2": "CRB",
+    "title": "Botafogo-SP VS CRB",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873978/crb-botafogo-sp"
   }
 ]
