@@ -853,5 +853,14 @@
     "team2": "CRB",
     "title": "Botafogo-SP VS CRB",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401873978/crb-botafogo-sp"
+  },
+  {
+    "gameId": "401873977",
+    "date": "20260701",
+    "team1": "Cuiabá",
+    "score": "1 - 0",
+    "team2": "América Mineiro",
+    "title": "Cuiabá VS América Mineiro",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873977/america-mineiro-cuiaba"
   }
 ]
