@@ -736,5 +736,59 @@
     "team2": "Shanghai Shenhua",
     "title": "Dalian Yingbo VS Shanghai Shenhua",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861409/shanghai-shenhua-dalian-yingbo"
+  },
+  {
+    "gameId": "401861410",
+    "date": "Friday, July 3, 2026",
+    "team1": "Yunnan Yukun",
+    "score": "2 - 1",
+    "team2": "Henan",
+    "title": "Yunnan Yukun VS Henan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861410/henan-yunnan-yukun"
+  },
+  {
+    "gameId": "401861547",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Liaoning Tieren",
+    "score": "3 - 1",
+    "team2": "Chongqing Tonglianglong",
+    "title": "Liaoning Tieren VS Chongqing Tonglianglong",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861547/chongqing-tonglianglong-liaoning-tieren"
+  },
+  {
+    "gameId": "401861411",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Qingdao West Coast",
+    "score": "2 - 1",
+    "team2": "Shanghai Port",
+    "title": "Qingdao West Coast VS Shanghai Port",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861411/shanghai-port-qingdao-west-coast"
+  },
+  {
+    "gameId": "401861412",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Beijing Guoan",
+    "score": "2 - 0",
+    "team2": "Shandong Taishan",
+    "title": "Beijing Guoan VS Shandong Taishan",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861412/shandong-taishan-beijing-guoan"
+  },
+  {
+    "gameId": "401861413",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Dalian Yingbo",
+    "score": "3 - 2",
+    "team2": "Wuhan Three Towns",
+    "title": "Dalian Yingbo VS Wuhan Three Towns",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861413/wuhan-three-towns-dalian-yingbo"
+  },
+  {
+    "gameId": "401861414",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Tianjin Jinmen Tiger",
+    "score": "3 - 0",
+    "team2": "Shenzhen Xinpengcheng",
+    "title": "Tianjin Jinmen Tiger VS Shenzhen Xinpengcheng",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861414/shenzhen-xinpengcheng-tianjin-jinmen-tiger"
   }
 ]

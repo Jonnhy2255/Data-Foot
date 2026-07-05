@@ -862,5 +862,41 @@
     "team2": "América Mineiro",
     "title": "Cuiabá VS América Mineiro",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401873977/america-mineiro-cuiaba"
+  },
+  {
+    "gameId": "401873994",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Criciúma",
+    "score": "1 - 0",
+    "team2": "Sport",
+    "title": "Criciúma VS Sport",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873994/sport-criciuma"
+  },
+  {
+    "gameId": "401874008",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Londrina",
+    "score": "5 - 0",
+    "team2": "CRB",
+    "title": "Londrina VS CRB",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401874008/crb-londrina"
+  },
+  {
+    "gameId": "401873997",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Novorizontino",
+    "score": "3 - 0",
+    "team2": "Atlético Goianiense",
+    "title": "Novorizontino VS Atlético Goianiense",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873997/atletico-goianiense-novorizontino"
+  },
+  {
+    "gameId": "401873981",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Goiás",
+    "score": "2 - 0",
+    "team2": "Ceará",
+    "title": "Goiás VS Ceará",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873981/ceara-goias"
   }
 ]

@@ -2113,5 +2113,77 @@
     "team2": "Atletico Rafaela",
     "title": "Nueva Chicago VS Atletico Rafaela",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401843672/atletico-rafaela-nueva-chicago"
+  },
+  {
+    "gameId": "401843951",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Colegiales",
+    "score": "1 - 2",
+    "team2": "Gimnasia y Tiro (Salta)",
+    "title": "Colegiales VS Gimnasia y Tiro (Salta)",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843951/gimnasia-y-tiro-salta-colegiales"
+  },
+  {
+    "gameId": "401843939",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Almagro",
+    "score": "1 - 0",
+    "team2": "Atletico Rafaela",
+    "title": "Almagro VS Atletico Rafaela",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843939/atletico-rafaela-almagro"
+  },
+  {
+    "gameId": "401843955",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Almirante Brown",
+    "score": "1 - 0",
+    "team2": "Los Andes",
+    "title": "Almirante Brown VS Los Andes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843955/los-andes-almirante-brown"
+  },
+  {
+    "gameId": "401843950",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Defensores de Belgrano",
+    "score": "2 - 1",
+    "team2": "Deportivo Morón",
+    "title": "Defensores de Belgrano VS Deportivo Morón",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843950/deportivo-moron-defensores-de-belgrano"
+  },
+  {
+    "gameId": "401843940",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Nueva Chicago",
+    "score": "2 - 0",
+    "team2": "Güemes",
+    "title": "Nueva Chicago VS Güemes",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843940/guemes-nueva-chicago"
+  },
+  {
+    "gameId": "401843943",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Temperley",
+    "score": "1 - 0",
+    "team2": "Tristán Suárez",
+    "title": "Temperley VS Tristán Suárez",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843943/tristan-suarez-temperley"
+  },
+  {
+    "gameId": "401843952",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Ciudad de Bolívar",
+    "score": "3 - 1",
+    "team2": "Godoy Cruz Antonio Tomba",
+    "title": "Ciudad de Bolívar VS Godoy Cruz Antonio Tomba",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843952/godoy-cruz-antonio-tomba-ciudad-de-bolivar"
+  },
+  {
+    "gameId": "401843945",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Quilmes",
+    "score": "2 - 1",
+    "team2": "Atlanta",
+    "title": "Quilmes VS Atlanta",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401843945/atlanta-quilmes"
   }
 ]

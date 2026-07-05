@@ -430,5 +430,32 @@
     "team2": "IF Elfsborg",
     "title": "Örgryte IS VS IF Elfsborg",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401842737/if-elfsborg-orgryte-is"
+  },
+  {
+    "gameId": "401842745",
+    "date": "Friday, July 3, 2026",
+    "team1": "IK Sirius",
+    "score": "4 - 4",
+    "team2": "Mjällby AIF",
+    "title": "IK Sirius VS Mjällby AIF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842745/mjallby-aif-ik-sirius"
+  },
+  {
+    "gameId": "401842743",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Degerfors IF",
+    "score": "0 - 1",
+    "team2": "Malmö FF",
+    "title": "Degerfors IF VS Malmö FF",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842743/malmo-ff-degerfors-if"
+  },
+  {
+    "gameId": "401842741",
+    "date": "Saturday, July 4, 2026",
+    "team1": "Halmstads BK",
+    "score": "1 - 3",
+    "team2": "Västerås SK",
+    "title": "Halmstads BK VS Västerås SK",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401842741/vasteras-sk-halmstads-bk"
   }
 ]
