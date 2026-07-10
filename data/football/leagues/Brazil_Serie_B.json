@@ -898,5 +898,14 @@
     "team2": "Ceará",
     "title": "Goiás VS Ceará",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401873981/ceara-goias"
+  },
+  {
+    "gameId": "401873986",
+    "date": "Wednesday, July 8, 2026",
+    "team1": "Ponte Preta",
+    "score": "1 - 2",
+    "team2": "Criciúma",
+    "title": "Ponte Preta VS Criciúma",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873986/criciuma-ponte-preta"
   }
 ]
