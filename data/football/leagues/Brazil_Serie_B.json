@@ -907,5 +907,50 @@
     "team2": "Criciúma",
     "title": "Ponte Preta VS Criciúma",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401873986/criciuma-ponte-preta"
+  },
+  {
+    "gameId": "401874004",
+    "date": "Sunday, July 12, 2026",
+    "team1": "Operário PR",
+    "score": "2 - 1",
+    "team2": "Novorizontino",
+    "title": "Operário PR VS Novorizontino",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401874004/novorizontino-operario-pr"
+  },
+  {
+    "gameId": "401873984",
+    "date": "Sunday, July 12, 2026",
+    "team1": "Avaí",
+    "score": "2 - 0",
+    "team2": "Náutico",
+    "title": "Avaí VS Náutico",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873984/nautico-avai"
+  },
+  {
+    "gameId": "401874001",
+    "date": "Sunday, July 12, 2026",
+    "team1": "São Bernardo",
+    "score": "2 - 2",
+    "team2": "Cuiabá",
+    "title": "São Bernardo VS Cuiabá",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401874001/cuiaba-sao-bernardo"
+  },
+  {
+    "gameId": "401873998",
+    "date": "Sunday, July 12, 2026",
+    "team1": "Atlético Goianiense",
+    "score": "1 - 0",
+    "team2": "Fortaleza",
+    "title": "Atlético Goianiense VS Fortaleza",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401873998/fortaleza-atletico-goianiense"
+  },
+  {
+    "gameId": "401874000",
+    "date": "Sunday, July 12, 2026",
+    "team1": "CRB",
+    "score": "2 - 2",
+    "team2": "Goiás",
+    "title": "CRB VS Goiás",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401874000/goias-crb"
   }
 ]

@@ -790,5 +790,23 @@
     "team2": "Shenzhen Xinpengcheng",
     "title": "Tianjin Jinmen Tiger VS Shenzhen Xinpengcheng",
     "match_url": "https://www.espn.com/soccer/match/_/gameId/401861414/shenzhen-xinpengcheng-tianjin-jinmen-tiger"
+  },
+  {
+    "gameId": "401861421",
+    "date": "Saturday, July 11, 2026",
+    "team1": "Shenzhen Xinpengcheng",
+    "score": "3 - 0",
+    "team2": "Qingdao West Coast",
+    "title": "Shenzhen Xinpengcheng VS Qingdao West Coast",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861421/qingdao-west-coast-shenzhen-xinpengcheng"
+  },
+  {
+    "gameId": "401861290",
+    "date": "Saturday, July 11, 2026",
+    "team1": "Chengdu Rongcheng",
+    "score": "1 - 1",
+    "team2": "Chongqing Tonglianglong",
+    "title": "Chengdu Rongcheng VS Chongqing Tonglianglong",
+    "match_url": "https://www.espn.com/soccer/match/_/gameId/401861290/chongqing-tonglianglong-chengdu-rongcheng"
   }
 ]
