@@ -1,166 +1,166 @@
 {
-  "all_teams_done": false,
-  "updated_at": "2026-09-05T12:22:35.082959",
+  "all_teams_done": true,
+  "updated_at": "2026-09-05T15:18:23.115800",
   "teams": {
     "349": {
       "team_name": "AFC Bournemouth",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704496",
-      "done": false,
-      "remaining_new_matches": 66
+      "last_match_id": "401879286",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "359": {
       "team_name": "Arsenal",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704410",
-      "done": false,
-      "remaining_new_matches": 112
+      "last_match_id": "401879295",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "362": {
       "team_name": "Aston Villa",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704444",
-      "done": false,
-      "remaining_new_matches": 96
+      "last_match_id": "401879295",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "337": {
       "team_name": "Brentford",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704450",
-      "done": false,
-      "remaining_new_matches": 73
+      "last_match_id": "401879315",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "331": {
       "team_name": "Brighton & Hove Albion",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704497",
-      "done": false,
-      "remaining_new_matches": 71
+      "last_match_id": "401879317",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "363": {
       "team_name": "Chelsea",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "720674",
-      "done": false,
-      "remaining_new_matches": 112
+      "last_match_id": "401879317",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "388": {
       "team_name": "Coventry City",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "707875",
-      "done": false,
-      "remaining_new_matches": 83
+      "last_match_id": "401879316",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "384": {
       "team_name": "Crystal Palace",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704446",
-      "done": false,
-      "remaining_new_matches": 94
+      "last_match_id": "401879294",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "368": {
       "team_name": "Everton",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704489",
-      "done": false,
-      "remaining_new_matches": 69
+      "last_match_id": "401879296",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "370": {
       "team_name": "Fulham",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704503",
-      "done": false,
-      "remaining_new_matches": 69
+      "last_match_id": "401879313",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "306": {
       "team_name": "Hull City",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "707899",
-      "done": false,
-      "remaining_new_matches": 80
+      "last_match_id": "401879316",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "373": {
       "team_name": "Ipswich Town",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704510",
-      "done": false,
-      "remaining_new_matches": 71
+      "last_match_id": "401879288",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "357": {
       "team_name": "Leeds United",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "707921",
-      "done": false,
-      "remaining_new_matches": 78
+      "last_match_id": "401879315",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "364": {
       "team_name": "Liverpool",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704417",
-      "done": false,
-      "remaining_new_matches": 107
+      "last_match_id": "401879288",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "382": {
       "team_name": "Manchester City",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704416",
-      "done": false,
-      "remaining_new_matches": 105
+      "last_match_id": "401879294",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "360": {
       "team_name": "Manchester United",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704410",
-      "done": false,
-      "remaining_new_matches": 91
+      "last_match_id": "401879293",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "361": {
       "team_name": "Newcastle United",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "727880",
-      "done": false,
-      "remaining_new_matches": 92
+      "last_match_id": "401879286",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "393": {
       "team_name": "Nottingham Forest",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704507",
-      "done": false,
-      "remaining_new_matches": 80
+      "last_match_id": "401879314",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "366": {
       "team_name": "Sunderland",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "707891",
-      "done": false,
-      "remaining_new_matches": 77
+      "last_match_id": "401879313",
+      "done": true,
+      "remaining_new_matches": 0
     },
     "367": {
       "team_name": "Tottenham Hotspur",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "704401",
-      "done": false,
-      "remaining_new_matches": 106
+      "last_match_id": "401879312",
+      "done": true,
+      "remaining_new_matches": 0
     }
   }
 }
