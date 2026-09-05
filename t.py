@@ -51,7 +51,7 @@ LEAGUE_FILTER_COUNTRY = "England"
 # fois-ci : ils sont automatiquement repris lors de la prochaine
 # exécution, dans l'ordre chronologique (les plus anciens d'abord).
 # Rien n'est perdu, le traitement est simplement étalé dans le temps.
-MAX_NEW_MATCHES_PER_TEAM_PER_RUN = 26
+MAX_NEW_MATCHES_PER_TEAM_PER_RUN = 10
 
 START_SEASON = 2024
 END_SEASON = datetime.now().year  # saison actuelle incluse
@@ -855,7 +855,13 @@ def extract_match_timeline_halftime(soup, home_score=None, away_score=None):
             first_half = 0
             second_half = 0
             for icon_div in row.select('div[role="button"]'):
-                svg = icon_div.find("svg", attrs={"data-icon": "soccer-goal02"})
+                # Recherche large (contient "goal", insensible à la casse) :
+                # un match strict sur "soccer-goal02" ratait les buts contre
+                # son camp / sur penalty qui utilisent parfois une variante
+                # d'icône différente (ex: "soccer-goal-own"), ce qui faisait
+                # échouer la validation de score plus bas alors que la frise
+                # est pourtant toujours présente sur ESPN.
+                svg = icon_div.find("svg", attrs={"data-icon": re.compile("goal", re.I)})
                 if not svg:
                     continue
                 style = icon_div.get("style", "")
@@ -873,19 +879,33 @@ def extract_match_timeline_halftime(soup, home_score=None, away_score=None):
         away_ht, away_2h = count_goals(icon_rows[1])
 
         # ── Validation contre le score final connu ──
-        # Si la somme des 2 mi-temps ne correspond pas au score final,
-        # l'extraction a probablement échoué silencieusement (icônes
-        # non détectées après un changement de structure ESPN) : on
-        # préfère ne rien renvoyer plutôt qu'un faux 0-0.
+        # La frise "Match Timeline" est TOUJOURS présente sur les pages de
+        # match ESPN : on ne doit donc jamais la faire disparaître pour un
+        # léger écart de comptage (ex: un but particulier avec une icône
+        # non reconnue). On ne l'ignore que dans le cas d'un échec total
+        # et sans ambiguïté : le score final indique des buts marqués mais
+        # AUCUN but n'a été détecté du tout (0-0 alors que ce n'est pas le
+        # score réel) — c'est ce cas précis qui produisait un faux 0-0
+        # systématique auparavant.
         if home_score is not None and away_score is not None:
             try:
-                if (home_ht + home_2h) != int(home_score) or (away_ht + away_2h) != int(away_score):
+                actual_home = int(home_score)
+                actual_away = int(away_score)
+                counted_total = home_ht + home_2h + away_ht + away_2h
+                actual_total = actual_home + actual_away
+                if actual_total > 0 and counted_total == 0:
                     print(
-                        "  ⚠️ Mi-temps incohérente avec le score final "
-                        f"({home_ht}+{home_2h}={home_ht + home_2h} vs {home_score} / "
-                        f"{away_ht}+{away_2h}={away_ht + away_2h} vs {away_score}) — ignorée"
+                        f"  ⚠️ Aucun but détecté dans la frise alors que le score final est "
+                        f"{actual_home}-{actual_away} — mi-temps ignorée"
                     )
                     return None, None
+                if (home_ht + home_2h) != actual_home or (away_ht + away_2h) != actual_away:
+                    print(
+                        "  ℹ️ Léger écart mi-temps/score final "
+                        f"({home_ht}+{home_2h}={home_ht + home_2h} vs {actual_home} / "
+                        f"{away_ht}+{away_2h}={away_ht + away_2h} vs {actual_away}) "
+                        "— valeurs conservées quand même"
+                    )
             except (TypeError, ValueError):
                 pass
 
