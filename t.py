@@ -709,19 +709,24 @@ def group_matches_by_season(matches):
 # ===============================================================
 
 def to_int_stat(value):
-    """Convertit une valeur de statistique brute en entier si possible."""
+    """
+    Convertit une valeur de statistique brute en nombre si possible.
+    Les entiers restent des int ("65%" -> 65). Les valeurs décimales
+    (ex: Expected Goals "3.13") sont conservées en float et NE SONT
+    PLUS arrondies, pour ne pas perdre la précision de l'xG.
+    """
     if value is None:
         return None
     text = str(value).strip().replace("%", "").replace(",", "").strip()
     if re.fullmatch(r"-?\d+", text):
         return int(text)
     if re.fullmatch(r"-?\d+\.\d+", text):
-        return int(round(float(text)))
+        return float(text)
     return value
 
 
 def finalize_stats(stats):
-    """Convertit systématiquement chaque valeur home/away en int."""
+    """Convertit systématiquement chaque valeur home/away en nombre."""
     cleaned = {}
     for label, vals in stats.items():
         if not isinstance(vals, dict):
@@ -732,6 +737,38 @@ def finalize_stats(stats):
             "away": to_int_stat(vals.get("away")),
         }
     return cleaned
+
+
+def stats_are_all_zero(stats):
+    """
+    Détecte un scrape raté (page de stats pas chargée) qui renvoie
+    0-0 pour absolument toutes les statistiques. Dans ce cas, on
+    préfère ne rien injecter plutôt que d'enregistrer des fausses
+    statistiques nulles. Retourne True seulement si TOUTES les
+    valeurs home/away sont numériques et valent 0, et qu'il y a au
+    moins une statistique à examiner.
+    """
+    if not stats:
+        return False
+    found_numeric = False
+    for vals in stats.values():
+        if not isinstance(vals, dict):
+            continue
+        for key in ("home", "away"):
+            raw = vals.get(key)
+            if raw is None:
+                continue
+            text = str(raw).strip().replace("%", "").replace(",", "").strip()
+            if re.fullmatch(r"-?\d+(\.\d+)?", text):
+                found_numeric = True
+                if float(text) != 0:
+                    return False
+            else:
+                # Valeur non numérique rencontrée : on ne peut pas
+                # affirmer que "tout est à zéro", donc on ne déclenche
+                # pas ce filtre par sécurité.
+                return False
+    return found_numeric
 
 
 def extract_match_stats_prism(soup):
@@ -775,10 +812,18 @@ def extract_match_stats_prism(soup):
 # MI-TEMPS / 2NDE MI-TEMPS
 # ===============================================================
 
-def extract_match_timeline_halftime(soup):
+def extract_match_timeline_halftime(soup, home_score=None, away_score=None):
     """
     Extrait le score à la mi-temps et à la 2nde mi-temps depuis la
     frise "Match Timeline".
+
+    Si home_score/away_score (score final connu du match) sont fournis,
+    le résultat est validé : la somme des 2 mi-temps doit correspondre
+    au score final. Si ce n'est pas le cas (ex: ESPN a changé la
+    structure/les icônes de la frise et plus aucun but n'est détecté,
+    ce qui donnait auparavant un faux "0-0" pour tous les matchs), on
+    renvoie (None, None) pour NE PAS injecter un score erroné plutôt
+    que d'injecter des zéros partout.
     """
     try:
         section = None
@@ -826,6 +871,23 @@ def extract_match_timeline_halftime(soup):
 
         home_ht, home_2h = count_goals(icon_rows[0])
         away_ht, away_2h = count_goals(icon_rows[1])
+
+        # ── Validation contre le score final connu ──
+        # Si la somme des 2 mi-temps ne correspond pas au score final,
+        # l'extraction a probablement échoué silencieusement (icônes
+        # non détectées après un changement de structure ESPN) : on
+        # préfère ne rien renvoyer plutôt qu'un faux 0-0.
+        if home_score is not None and away_score is not None:
+            try:
+                if (home_ht + home_2h) != int(home_score) or (away_ht + away_2h) != int(away_score):
+                    print(
+                        "  ⚠️ Mi-temps incohérente avec le score final "
+                        f"({home_ht}+{home_2h}={home_ht + home_2h} vs {home_score} / "
+                        f"{away_ht}+{away_2h}={away_ht + away_2h} vs {away_score}) — ignorée"
+                    )
+                    return None, None
+            except (TypeError, ValueError):
+                pass
 
         return {"home": home_ht, "away": away_ht}, {"home": home_2h, "away": away_2h}
 
@@ -889,14 +951,69 @@ def us_to_decimal(val):
 
 
 def extract_ml_odds(soup):
-    """Extrait les cotes 1X2 (Moneyline) depuis la page du match."""
+    """
+    Extrait les cotes ML (Moneyline / 1X2) depuis le widget de cotes
+    ESPN.
+
+    Nouvelle structure (widget "Open / ML / Total / Spread") : le
+    widget est composé de 2 ou 3 "lignes" (home, away, et
+    optionnellement draw), chacune démarrant par un bloc
+    data-testid="LineLabels", suivi d'un data-testid="OpenCell" puis
+    d'un nombre VARIABLE de cellules contenant chacune un
+    data-testid="OddsCell" (1 cellule si seul le marché ML est
+    proposé, jusqu'à 3 si Total/Spread sont aussi présents).
+
+    Seul le marché ML nous intéresse : c'est la seule cellule dont le
+    contenu ne contient PAS de data-testid="OddsCellBottom" (les
+    cellules Total/Spread affichent toujours 2 lignes : la ligne et
+    le prix, ex "o2.5" / "-170").
+
+    On ne se base plus sur un nombre fixe de cellules (l'ancienne
+    version exigeait exactement >= 7 OddsCell, ce qui échouait dès
+    que Total/Spread n'étaient pas proposés) : chaque ligne (home/
+    away/draw) est traitée indépendamment, peu importe le nombre de
+    marchés qu'elle affiche.
+    """
     try:
-        cells = soup.find_all("div", {"data-testid": "OddsCell"})
-        if len(cells) < 7:
+        line_label_divs = soup.find_all("div", {"data-testid": "LineLabels"})
+        if len(line_label_divs) < 2:
             return None
 
-        def read(cell):
-            return cell.get_text(strip=True) or None
+        container = line_label_divs[0].parent
+        children = container.find_all(recursive=False)
+
+        # Regroupe les enfants du conteneur par ligne (home / away / draw),
+        # chaque nouvelle ligne démarrant à un data-testid="LineLabels".
+        groups = []
+        current_group = None
+        for child in children:
+            if child.get("data-testid") == "LineLabels":
+                current_group = []
+                groups.append(current_group)
+            elif current_group is not None:
+                current_group.append(child)
+
+        if len(groups) < 2:
+            return None
+
+        def read_ml(cells):
+            """Retourne la valeur ML (cote américaine, 1 seule ligne) de la rangée."""
+            for cell_wrapper in cells:
+                odds_cell = (
+                    cell_wrapper
+                    if cell_wrapper.get("data-testid") == "OddsCell"
+                    else cell_wrapper.find("div", {"data-testid": "OddsCell"})
+                )
+                if odds_cell is None:
+                    continue
+                # Total / Spread affichent toujours une 2ème ligne (OddsCellBottom) :
+                # ce n'est donc pas le ML si ce noeud est présent.
+                if odds_cell.find(attrs={"data-testid": "OddsCellBottom"}):
+                    continue
+                text = odds_cell.get_text(strip=True)
+                if text:
+                    return text
+            return None
 
         def is_valid(val):
             if not val:
@@ -907,17 +1024,17 @@ def extract_ml_odds(soup):
             except Exception:
                 return False
 
-        home_us = read(cells[0])
-        away_us = read(cells[3])
-        draw_us = read(cells[6])
+        home_us = read_ml(groups[0])
+        away_us = read_ml(groups[1])
+        draw_us = read_ml(groups[2]) if len(groups) >= 3 else None
 
-        if not all(is_valid(v) for v in [home_us, away_us, draw_us]):
+        if not is_valid(home_us) or not is_valid(away_us):
             return None
 
         return {
             "home": us_to_decimal(home_us),
             "away": us_to_decimal(away_us),
-            "draw": us_to_decimal(draw_us),
+            "draw": us_to_decimal(draw_us) if is_valid(draw_us) else None,
         }
     except Exception as e:
         print(f"  ⚠️ Erreur cotes : {e}")
@@ -1041,7 +1158,8 @@ def compute_upcoming_matchday(soup, home_team_id, away_team_id):
     return max(candidates) + 1
 
 
-def get_match_details_selenium(driver, game_id, home_team_id=None, away_team_id=None, decided_by_penalties=False):
+def get_match_details_selenium(driver, game_id, home_team_id=None, away_team_id=None,
+                                decided_by_penalties=False, home_score=None, away_score=None):
     """
     Charge la page du match via Selenium et retourne
     (stats, odds, round_label, penalty_winner, has_full_stats).
@@ -1099,10 +1217,20 @@ def get_match_details_selenium(driver, game_id, home_team_id=None, away_team_id=
         except Exception as e:
             print(f"    ⚠️  Erreur stats selenium ({game_id}) : {e}")
 
+    # ── Filtre anti "0-0 partout" ──
+    # Si toutes les stats remontées sont numériques et valent 0, la page
+    # n'était probablement pas chargée au moment du scrape : on
+    # n'injecte rien plutôt que de sauvegarder de fausses statistiques.
+    if stats_are_all_zero(stats):
+        print(f"    ⚠️  Statistiques toutes à 0 pour gameId={game_id} — ignorées")
+        stats = {}
+
     has_full_stats = len(stats) > 0
 
     try:
-        halftime, second_half = extract_match_timeline_halftime(soup)
+        halftime, second_half = extract_match_timeline_halftime(
+            soup, home_score=home_score, away_score=away_score
+        )
         if halftime is not None:
             stats["Score 1ère mi-temps"] = {"home": halftime["home"], "away": halftime["away"]}
         if second_half is not None:
@@ -1132,6 +1260,8 @@ def enrich_matches_with_stats_and_odds(driver, all_matches_by_team, only_match_i
                 "home_team_id": m.get("home_team_id"),
                 "away_team_id": m.get("away_team_id"),
                 "decided_by_penalties": m.get("decided_by_penalties", False),
+                "home_score": m.get("home_score"),
+                "away_score": m.get("away_score"),
             }
 
     unique_game_ids = list(game_meta.keys())
@@ -1155,6 +1285,8 @@ def enrich_matches_with_stats_and_odds(driver, all_matches_by_team, only_match_i
                 home_team_id=meta["home_team_id"],
                 away_team_id=meta["away_team_id"],
                 decided_by_penalties=meta["decided_by_penalties"],
+                home_score=meta.get("home_score"),
+                away_score=meta.get("away_score"),
             )
         except Exception as e:
             print(f"    ⚠️ Erreur stats/cotes/round/pens gameId={gid}: {e}")
