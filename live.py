@@ -6,6 +6,7 @@ import json
 import os
 import sys
 import logging
+import random
 from datetime import datetime
 from playwright.async_api import async_playwright, TimeoutError
 
@@ -20,32 +21,49 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Liste de User-Agents réalistes
+USER_AGENTS = [
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+]
+
 class LiveMatchesScraper:
     def __init__(self):
         self.matches_data = []
         self.processed_ids = set()
-        self.max_retries = 2
-        self.timeout = 90000  # 90 secondes
+        self.max_retries = 3
+        self.timeout = 120000  # 120 secondes
         
     async def scrape(self):
-        """Méthode principale de scraping avec gestion d'erreurs"""
+        """Méthode principale de scraping"""
         logger.info("🚀 Démarrage du scraper de matchs en direct")
         
         for attempt in range(self.max_retries):
             try:
                 logger.info(f"Tentative {attempt + 1}/{self.max_retries}")
-                return await self._scrape_attempt()
+                result = await self._scrape_attempt()
+                if result:
+                    return result
+                logger.warning(f"⚠️ Tentative {attempt + 1}: aucun résultat, nouvelle tentative...")
             except Exception as e:
                 logger.error(f"❌ Erreur lors de la tentative {attempt + 1}: {e}")
                 if attempt == self.max_retries - 1:
                     raise
-                await asyncio.sleep(10 * (attempt + 1))
+                wait_time = 15 * (attempt + 1)
+                logger.info(f"⏳ Attente de {wait_time} secondes avant réessayer...")
+                await asyncio.sleep(wait_time)
         
         return []
     
     async def _scrape_attempt(self):
         """Tentative unique de scraping"""
         async with async_playwright() as p:
+            # Sélectionner un User-Agent aléatoire
+            user_agent = random.choice(USER_AGENTS)
+            logger.info(f"📱 User-Agent: {user_agent[:60]}...")
+            
             browser = await p.chromium.launch(
                 headless=True,
                 args=[
@@ -70,18 +88,79 @@ class LiveMatchesScraper:
                     '--no-first-run',
                     '--disable-background-timer-throttling',
                     '--disable-backgrounding-occluded-windows',
-                    '--disable-renderer-backgrounding'
+                    '--disable-renderer-backgrounding',
+                    '--disable-accelerated-2d-canvas',
+                    '--disable-canvas-aa',
+                    '--disable-2d-canvas-clip-aa',
+                    '--disable-gl-drawing-for-tests',
+                    '--disable-breakpad',
+                    '--disable-crash-reporter',
+                    '--disable-component-update',
+                    '--disable-domain-reliability',
+                    '--disable-ipc-flooding-protection',
+                    '--disable-partial-swap',
+                    '--disable-print-preview',
+                    '--disable-prompt-on-repost',
+                    '--disable-renderer-accessibility',
+                    '--disable-speech-api',
+                    '--disable-sync',
+                    '--disable-voice-input',
+                    '--disable-bundled-ppapi-flash',
+                    '--disable-connect-backup-jobs',
+                    '--disable-databases',
+                    '--disable-demo-mode',
+                    '--disable-device-discovery-notifications',
+                    '--disable-file-system',
+                    '--disable-hang-monitor',
+                    '--disable-infobars',
+                    '--disable-javascript-harmony-shipping',
+                    '--disable-media-session-api',
+                    '--disable-notifications',
+                    '--disable-offer-store-unmasked-wallet-cards',
+                    '--disable-password-generation',
+                    '--disable-permissions-api',
+                    '--disable-plugins',
+                    '--disable-plugins-discovery',
+                    '--disable-popup-blocking',
+                    '--disable-prompt-on-rollback',
+                    '--disable-pulseaudio',
+                    '--disable-quic',
+                    '--disable-reading-from-canvas',
+                    '--disable-remote-fonts',
+                    '--disable-remote-playback-api',
+                    '--disable-save-password-bubble',
+                    '--disable-search-geolocation-disclosure',
+                    '--disable-shared-workers',
+                    '--disable-smooth-scrolling',
+                    '--disable-software-compositing-fallback',
+                    '--disable-speech-input',
+                    '--disable-stacked-tab-strip-layout',
+                    '--disable-sync-preferences',
+                    '--disable-tab-for-desktop-share',
+                    '--disable-threaded-animation',
+                    '--disable-threaded-scrolling',
+                    '--disable-top-sites',
+                    '--disable-translate',
+                    '--disable-tts',
+                    '--disable-usb-keyboard-detect',
+                    '--disable-video-capture',
+                    '--disable-video-track-encrypted',
+                    '--disable-web-animations',
+                    '--disable-web-security',
+                    '--disable-webusb',
+                    '--disable-xss-auditor',
+                    '--enable-features=NetworkService,NetworkServiceInProcess'
                 ]
             )
             
             try:
                 context = await browser.new_context(
-                    viewport={'width': 1280, 'height': 720},
-                    user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                    viewport={'width': 1920, 'height': 1080},
+                    user_agent=user_agent,
                     locale='fr-FR',
                     timezone_id='Europe/Paris',
                     extra_http_headers={
-                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
                         'Accept-Language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7',
                         'Accept-Encoding': 'gzip, deflate, br',
                         'Connection': 'keep-alive',
@@ -90,32 +169,55 @@ class LiveMatchesScraper:
                         'Sec-Fetch-Mode': 'navigate',
                         'Sec-Fetch-Site': 'none',
                         'Sec-Fetch-User': '?1',
-                        'Cache-Control': 'no-cache',
+                        'Cache-Control': 'max-age=0',
                         'Pragma': 'no-cache',
-                        'DNT': '1'
+                        'DNT': '1',
+                        'Sec-Ch-Ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+                        'Sec-Ch-Ua-Mobile': '?0',
+                        'Sec-Ch-Ua-Platform': '"Windows"'
                     }
                 )
                 
                 page = await context.new_page()
                 
-                # Intercepter les requêtes pour déboguer
-                async def log_request(request):
-                    if 'api' in request.url.lower() or 'match' in request.url.lower():
-                        logger.debug(f"🔍 Requête: {request.url}")
-                
-                page.on('request', log_request)
+                # Simuler un comportement humain
+                await page.add_init_script("""
+                    Object.defineProperty(navigator, 'webdriver', {
+                        get: () => undefined
+                    });
+                    Object.defineProperty(navigator, 'plugins', {
+                        get: () => [1, 2, 3, 4, 5]
+                    });
+                    Object.defineProperty(navigator, 'languages', {
+                        get: () => ['fr-FR', 'fr']
+                    });
+                    window.chrome = {
+                        runtime: {}
+                    };
+                """)
                 
                 logger.info("🌐 Navigation vers https://1xbet.ci/fr/live")
                 
-                # Aller sur la page avec plus de temps
-                await page.goto('https://1xbet.ci/fr/live', wait_until='commit', timeout=self.timeout)
+                # Aller sur la page avec retry
+                try:
+                    await page.goto('https://1xbet.ci/fr/live', wait_until='domcontentloaded', timeout=self.timeout)
+                except Exception as e:
+                    logger.warning(f"⚠️ Premier chargement échoué: {e}")
+                    # Réessayer avec un autre User-Agent
+                    await page.reload()
                 
-                # Attendre que le DOM soit chargé
-                await page.wait_for_load_state('domcontentloaded', timeout=30000)
+                # Attendre que le body soit visible
+                try:
+                    await page.wait_for_selector('body', state='visible', timeout=30000)
+                except Exception as e:
+                    logger.warning(f"⚠️ Body non visible: {e}")
+                    # Forcer le chargement
+                    await page.evaluate('document.body.style.display = "block"')
+                    await asyncio.sleep(2)
                 
-                # Faire un premier scroll
-                await page.evaluate('window.scrollTo(0, document.body.scrollHeight / 2)')
-                await asyncio.sleep(2)
+                # Faire quelques actions pour simuler un humain
+                await page.mouse.move(random.randint(100, 500), random.randint(100, 500))
+                await asyncio.sleep(1)
                 
                 await self.wait_for_page_ready(page)
                 await self.scroll_to_load_all_matches(page)
@@ -126,12 +228,17 @@ class LiveMatchesScraper:
                 if matches:
                     await self.save_matches(matches)
                 else:
-                    # Essayer une méthode alternative
-                    logger.info("🔄 Tentative de récupération depuis le HTML direct...")
-                    html_matches = await self.extract_from_html(page)
-                    if html_matches:
-                        await self.save_matches(html_matches)
-                        matches = html_matches
+                    # Tentative avec l'URL alternative
+                    logger.info("🔄 Tentative avec l'URL alternative...")
+                    await page.goto('https://1xbet.ci/fr/', wait_until='domcontentloaded')
+                    await asyncio.sleep(3)
+                    await page.goto('https://1xbet.ci/fr/live', wait_until='domcontentloaded')
+                    await asyncio.sleep(3)
+                    
+                    await self.wait_for_page_ready(page)
+                    matches = await self.extract_all_matches(page)
+                    if matches:
+                        await self.save_matches(matches)
                 
                 await browser.close()
                 return matches
@@ -142,30 +249,36 @@ class LiveMatchesScraper:
                 raise
     
     async def wait_for_page_ready(self, page):
-        """Attendre que la page soit prête"""
+        """Attendre que la page soit prête avec plusieurs stratégies"""
         logger.info("⏳ Attente du chargement de la page...")
         
-        # Attendre que le corps soit chargé
-        await page.wait_for_selector('body', timeout=30000)
+        # Stratégie 1: Attendre les cartes de matchs
+        try:
+            await page.wait_for_selector('.ui-game-card', timeout=15000)
+            logger.info("✅ Cartes de matchs chargées")
+            return
+        except:
+            pass
         
-        # Attendre les éléments principaux
-        selectors = [
-            '.ui-game-card',
-            '.betting-layout',
-            '.sports-menu-tabs',
-            '.dashboard-sport-item'
-        ]
+        # Stratégie 2: Attendre n'importe quel élément de pari
+        try:
+            await page.wait_for_selector('.betting-layout, .sports-menu-tabs, .dashboard-sport-item', timeout=10000)
+            logger.info("✅ Éléments de paris chargés")
+            return
+        except:
+            pass
         
-        for selector in selectors:
-            try:
-                await page.wait_for_selector(selector, timeout=5000)
-                logger.info(f"✅ Sélecteur trouvé: {selector}")
-                break
-            except:
-                continue
+        # Stratégie 3: Attendre le chargement du réseau
+        try:
+            await page.wait_for_load_state('networkidle', timeout=15000)
+            logger.info("✅ Réseau au repos")
+            return
+        except:
+            pass
         
-        # Attendre un peu pour que le JS s'exécute
-        await asyncio.sleep(3)
+        # Stratégie 4: Attendre un temps fixe pour que le JS s'exécute
+        logger.info("⏳ Attente de 5 secondes pour le JS...")
+        await asyncio.sleep(5)
         
         # Vérifier la présence de __RCP
         has_rcp = await page.evaluate("""() => {
@@ -176,24 +289,20 @@ class LiveMatchesScraper:
             logger.info("✅ window.__RCP présent")
         else:
             logger.warning("⚠️ window.__RCP non trouvé")
-        
-        # Faire un scroll pour déclencher le chargement
-        await page.evaluate('window.scrollTo(0, 100)')
-        await asyncio.sleep(1)
     
     async def scroll_to_load_all_matches(self, page):
         """Simuler le scroll pour charger tous les matchs"""
         logger.info("🔄 Scroll pour charger tous les matchs...")
         
         scroll_count = 0
-        max_scrolls = 15
+        max_scrolls = 10
         previous_count = 0
         
         for scroll_count in range(max_scrolls):
             try:
-                # Scroll
-                await page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
-                await asyncio.sleep(2)
+                # Scroll avec comportement humain
+                await page.evaluate('window.scrollBy(0, window.innerHeight * 0.8)')
+                await asyncio.sleep(random.uniform(1.5, 3))
                 
                 # Compter les matchs visibles
                 current_count = await page.evaluate("""() => {
@@ -203,8 +312,12 @@ class LiveMatchesScraper:
                 logger.info(f"📊 Scroll {scroll_count + 1}: {current_count} matchs visibles")
                 
                 if current_count == previous_count and scroll_count > 2:
-                    logger.info("📌 Plus de nouveaux matchs chargés")
-                    break
+                    if current_count > 0:
+                        logger.info(f"📌 {current_count} matchs chargés, arrêt du scroll")
+                        break
+                    elif scroll_count > 5:
+                        logger.info("📌 Aucun match trouvé après plusieurs scrolls")
+                        break
                 
                 previous_count = current_count
                 
@@ -287,7 +400,6 @@ class LiveMatchesScraper:
                 matchCards.forEach(card => {
                     let matchId = null;
                     
-                    // Chercher l'ID dans le lien
                     const link = card.querySelector('a.ui-game-card__link');
                     if (link) {
                         const href = link.getAttribute('href');
@@ -297,24 +409,9 @@ class LiveMatchesScraper:
                         }
                     }
                     
-                    // Chercher l'ID dans un attribut data
                     if (!matchId) {
-                        const dataAttrs = card.querySelectorAll('[data-game-id], [data-id], [data-v-]');
-                        for (const el of dataAttrs) {
-                            const id = el.getAttribute('data-game-id') || el.getAttribute('data-id');
-                            if (id && id.match(/^\\d+$/)) {
-                                matchId = id;
-                                break;
-                            }
-                        }
-                    }
-                    
-                    if (!matchId) {
-                        // Utiliser un ID basé sur le contenu
-                        const teams = card.querySelectorAll('.ui-game-card-scoreboard__name');
-                        if (teams.length >= 2) {
-                            matchId = teams[0].textContent.trim() + '-' + teams[1].textContent.trim();
-                        }
+                        const dataId = card.querySelector('[data-game-id]')?.getAttribute('data-game-id');
+                        if (dataId) matchId = dataId;
                     }
                     
                     if (seenIds.has(matchId)) return;
@@ -349,42 +446,25 @@ class LiveMatchesScraper:
         except Exception as e:
             logger.warning(f"⚠️ Erreur extraction DOM: {e}")
         
-        return matches
-    
-    async def extract_from_html(self, page):
-        """Extraire les matchs directement du HTML"""
-        logger.info("📄 Extraction directe du HTML...")
-        
+        # Méthode 3: Extraction directe du HTML
         try:
             content = await page.content()
-            
-            # Chercher les données dans le HTML
             if '__RCP' in content:
                 import re
-                import json
-                
-                # Essayer d'extraire __RCP du HTML
                 match = re.search(r'window\.__RCP\s*=\s*({.*?});', content, re.DOTALL)
                 if match:
                     try:
                         data = json.loads(match.group(1))
                         for key in data:
                             if 'games-live' in data[key]:
-                                logger.info(f"✅ {len(data[key]['games-live'])} matchs trouvés")
+                                logger.info(f"✅ {len(data[key]['games-live'])} matchs trouvés dans le HTML")
                                 return data[key]['games-live']
                     except:
                         pass
-            
-            return []
-            
-        except Exception as e:
-            logger.warning(f"⚠️ Erreur extraction HTML: {e}")
-            return []
-    
-    async def _handle_response(self, response):
-        """Gérer les réponses HTTP"""
-        if response.status >= 400:
-            logger.warning(f"⚠️ Réponse HTTP {response.status}: {response.url}")
+        except:
+            pass
+        
+        return matches
     
     async def save_matches(self, matches):
         """Sauvegarder les matchs en JSON"""
@@ -417,7 +497,7 @@ class LiveMatchesScraper:
         
         sports = {}
         for m in matches:
-            sport = m.get('sportName', 'Inconnu')
+            sport = m.get('sportName', 'Inconnu') or m.get('sport', 'Inconnu')
             sports[sport] = sports.get(sport, 0) + 1
         
         for sport, count in sports.items():
@@ -431,7 +511,6 @@ async def main():
         
         if matches:
             logger.info(f"\n✅ Scraping terminé avec succès! {len(matches)} matchs récupérés.")
-            # Afficher les 5 premiers matchs
             logger.info("\n🔍 Aperçu des 5 premiers matchs:")
             for i, match in enumerate(matches[:5]):
                 name1 = match.get('firstOpponentName', '?') or match.get('homeTeam', '?')
