@@ -24,8 +24,8 @@ class LiveMatchesScraper:
     def __init__(self):
         self.matches_data = []
         self.processed_ids = set()
-        self.max_retries = 3
-        self.timeout = 60000  # 60 secondes
+        self.max_retries = 2
+        self.timeout = 90000  # 90 secondes
         
     async def scrape(self):
         """Méthode principale de scraping avec gestion d'erreurs"""
@@ -39,16 +39,15 @@ class LiveMatchesScraper:
                 logger.error(f"❌ Erreur lors de la tentative {attempt + 1}: {e}")
                 if attempt == self.max_retries - 1:
                     raise
-                await asyncio.sleep(5 * (attempt + 1))  # Backoff exponentiel
+                await asyncio.sleep(10 * (attempt + 1))
         
         return []
     
     async def _scrape_attempt(self):
         """Tentative unique de scraping"""
         async with async_playwright() as p:
-            # Configuration du navigateur pour GitHub Actions
             browser = await p.chromium.launch(
-                headless=True,  # Mode headless pour GitHub Actions
+                headless=True,
                 args=[
                     '--disable-blink-features=AutomationControlled',
                     '--disable-dev-shm-usage',
@@ -62,13 +61,22 @@ class LiveMatchesScraper:
                     '--no-zygote',
                     '--single-process',
                     '--disable-logging',
-                    '--log-level=3'
+                    '--log-level=3',
+                    '--disable-extensions',
+                    '--disable-component-extensions-with-background-pages',
+                    '--disable-default-apps',
+                    '--mute-audio',
+                    '--no-default-browser-check',
+                    '--no-first-run',
+                    '--disable-background-timer-throttling',
+                    '--disable-backgrounding-occluded-windows',
+                    '--disable-renderer-backgrounding'
                 ]
             )
             
             try:
                 context = await browser.new_context(
-                    viewport={'width': 1920, 'height': 1080},
+                    viewport={'width': 1280, 'height': 720},
                     user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
                     locale='fr-FR',
                     timezone_id='Europe/Paris',
@@ -90,19 +98,40 @@ class LiveMatchesScraper:
                 
                 page = await context.new_page()
                 
-                # Gestion des erreurs de page
-                page.on('pageerror', lambda error: logger.error(f"Page error: {error}"))
-                page.on('response', lambda response: self._handle_response(response))
+                # Intercepter les requêtes pour déboguer
+                async def log_request(request):
+                    if 'api' in request.url.lower() or 'match' in request.url.lower():
+                        logger.debug(f"🔍 Requête: {request.url}")
+                
+                page.on('request', log_request)
                 
                 logger.info("🌐 Navigation vers https://1xbet.ci/fr/live")
-                await page.goto('https://1xbet.ci/fr/live', wait_until='domcontentloaded', timeout=self.timeout)
+                
+                # Aller sur la page avec plus de temps
+                await page.goto('https://1xbet.ci/fr/live', wait_until='commit', timeout=self.timeout)
+                
+                # Attendre que le DOM soit chargé
+                await page.wait_for_load_state('domcontentloaded', timeout=30000)
+                
+                # Faire un premier scroll
+                await page.evaluate('window.scrollTo(0, document.body.scrollHeight / 2)')
+                await asyncio.sleep(2)
                 
                 await self.wait_for_page_ready(page)
                 await self.scroll_to_load_all_matches(page)
                 matches = await self.extract_all_matches(page)
                 
                 logger.info(f"✅ {len(matches)} matchs récupérés")
-                await self.save_matches(matches)
+                
+                if matches:
+                    await self.save_matches(matches)
+                else:
+                    # Essayer une méthode alternative
+                    logger.info("🔄 Tentative de récupération depuis le HTML direct...")
+                    html_matches = await self.extract_from_html(page)
+                    if html_matches:
+                        await self.save_matches(html_matches)
+                        matches = html_matches
                 
                 await browser.close()
                 return matches
@@ -116,71 +145,78 @@ class LiveMatchesScraper:
         """Attendre que la page soit prête"""
         logger.info("⏳ Attente du chargement de la page...")
         
-        try:
-            # Attendre les cartes de matchs
-            await page.wait_for_selector('.ui-game-card', timeout=30000)
-            logger.info("✅ Cartes de matchs chargées")
-            
-            # Attendre que le réseau soit calme
-            await page.wait_for_load_state('networkidle', timeout=30000)
-            
-            # Attendre les données JSON
-            await page.wait_for_function(
-                """() => {
-                    return window.__RCP !== undefined && 
-                           window.__RCP[Object.keys(window.__RCP)[0]] !== undefined &&
-                           window.__RCP[Object.keys(window.__RCP)[0]]['games-live'] !== undefined;
-                }""",
-                timeout=15000
-            )
-            logger.info("✅ Données JSON chargées")
-            
-        except TimeoutError:
-            logger.warning("⚠️ Timeout lors du chargement, continuation...")
-        except Exception as e:
-            logger.warning(f"⚠️ Erreur lors du chargement: {e}")
+        # Attendre que le corps soit chargé
+        await page.wait_for_selector('body', timeout=30000)
+        
+        # Attendre les éléments principaux
+        selectors = [
+            '.ui-game-card',
+            '.betting-layout',
+            '.sports-menu-tabs',
+            '.dashboard-sport-item'
+        ]
+        
+        for selector in selectors:
+            try:
+                await page.wait_for_selector(selector, timeout=5000)
+                logger.info(f"✅ Sélecteur trouvé: {selector}")
+                break
+            except:
+                continue
+        
+        # Attendre un peu pour que le JS s'exécute
+        await asyncio.sleep(3)
+        
+        # Vérifier la présence de __RCP
+        has_rcp = await page.evaluate("""() => {
+            return window.__RCP !== undefined;
+        }""")
+        
+        if has_rcp:
+            logger.info("✅ window.__RCP présent")
+        else:
+            logger.warning("⚠️ window.__RCP non trouvé")
+        
+        # Faire un scroll pour déclencher le chargement
+        await page.evaluate('window.scrollTo(0, 100)')
+        await asyncio.sleep(1)
     
     async def scroll_to_load_all_matches(self, page):
         """Simuler le scroll pour charger tous les matchs"""
         logger.info("🔄 Scroll pour charger tous les matchs...")
         
         scroll_count = 0
-        max_scrolls = 20
-        previous_height = 0
-        no_change_counter = 0
+        max_scrolls = 15
+        previous_count = 0
         
-        while scroll_count < max_scrolls:
+        for scroll_count in range(max_scrolls):
             try:
+                # Scroll
                 await page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
-                await asyncio.sleep(1.5)
+                await asyncio.sleep(2)
                 
-                current_height = await page.evaluate('document.body.scrollHeight')
+                # Compter les matchs visibles
+                current_count = await page.evaluate("""() => {
+                    return document.querySelectorAll('.ui-game-card').length;
+                }""")
                 
-                if current_height == previous_height:
-                    no_change_counter += 1
-                    if no_change_counter >= 3:
-                        logger.info("📌 Plus de nouveaux matchs chargés")
-                        break
-                else:
-                    no_change_counter = 0
-                    if scroll_count % 5 == 0:
-                        logger.info(f"📜 Scroll {scroll_count + 1}: Nouveaux matchs chargés")
+                logger.info(f"📊 Scroll {scroll_count + 1}: {current_count} matchs visibles")
                 
-                previous_height = current_height
-                scroll_count += 1
+                if current_count == previous_count and scroll_count > 2:
+                    logger.info("📌 Plus de nouveaux matchs chargés")
+                    break
+                
+                previous_count = current_count
                 
             except Exception as e:
                 logger.warning(f"⚠️ Erreur lors du scroll: {e}")
                 break
         
-        # Remonter légèrement
-        try:
-            await page.evaluate('window.scrollTo(0, document.body.scrollHeight / 2)')
-            await asyncio.sleep(1)
-        except Exception as e:
-            logger.warning(f"⚠️ Erreur lors du repositionnement: {e}")
+        # Remonter en haut
+        await page.evaluate('window.scrollTo(0, 0)')
+        await asyncio.sleep(1)
         
-        logger.info(f"✅ Scroll terminé: {scroll_count} scrolls")
+        logger.info(f"✅ Scroll terminé: {scroll_count + 1} scrolls")
     
     async def extract_all_matches(self, page):
         """Extraire les matchs avec leurs IDs"""
@@ -192,9 +228,11 @@ class LiveMatchesScraper:
         try:
             json_data = await page.evaluate("""() => {
                 if (window.__RCP) {
-                    const firstKey = Object.keys(window.__RCP)[0];
-                    if (firstKey && window.__RCP[firstKey]['games-live']) {
-                        return window.__RCP[firstKey]['games-live'];
+                    const keys = Object.keys(window.__RCP);
+                    for (const key of keys) {
+                        if (window.__RCP[key] && window.__RCP[key]['games-live']) {
+                            return window.__RCP[key]['games-live'];
+                        }
                     }
                 }
                 return null;
@@ -231,13 +269,14 @@ class LiveMatchesScraper:
                     
                     matches.append(match_data)
                 
-                return matches
+                if matches:
+                    return matches
                 
         except Exception as e:
             logger.warning(f"⚠️ Erreur extraction JSON: {e}")
         
         # Méthode 2: Depuis le DOM
-        logger.info("🔄 Utilisation de la méthode DOM (fallback)...")
+        logger.info("🔄 Utilisation de la méthode DOM...")
         
         try:
             dom_matches = await page.evaluate("""() => {
@@ -247,6 +286,8 @@ class LiveMatchesScraper:
                 
                 matchCards.forEach(card => {
                     let matchId = null;
+                    
+                    // Chercher l'ID dans le lien
                     const link = card.querySelector('a.ui-game-card__link');
                     if (link) {
                         const href = link.getAttribute('href');
@@ -256,10 +297,24 @@ class LiveMatchesScraper:
                         }
                     }
                     
+                    // Chercher l'ID dans un attribut data
                     if (!matchId) {
-                        const dataId = card.getAttribute('data-v-') || 
-                                      card.querySelector('[data-game-id]')?.getAttribute('data-game-id');
-                        if (dataId) matchId = dataId;
+                        const dataAttrs = card.querySelectorAll('[data-game-id], [data-id], [data-v-]');
+                        for (const el of dataAttrs) {
+                            const id = el.getAttribute('data-game-id') || el.getAttribute('data-id');
+                            if (id && id.match(/^\\d+$/)) {
+                                matchId = id;
+                                break;
+                            }
+                        }
+                    }
+                    
+                    if (!matchId) {
+                        // Utiliser un ID basé sur le contenu
+                        const teams = card.querySelectorAll('.ui-game-card-scoreboard__name');
+                        if (teams.length >= 2) {
+                            matchId = teams[0].textContent.trim() + '-' + teams[1].textContent.trim();
+                        }
                     }
                     
                     if (seenIds.has(matchId)) return;
@@ -270,7 +325,6 @@ class LiveMatchesScraper:
                     const champ = card.querySelector('.ui-game-card__name');
                     const time = card.querySelector('.ui-game-card__data');
                     const period = card.querySelector('.ui-game-card__period');
-                    const isLive = card.classList.contains('ui-game-card--live');
                     
                     results.push({
                         id: matchId || 'unknown',
@@ -281,7 +335,7 @@ class LiveMatchesScraper:
                         championship: champ?.textContent?.trim() || '',
                         time: time?.textContent?.trim() || '',
                         period: period?.textContent?.trim() || '',
-                        isLive: isLive
+                        isLive: card.classList.contains('ui-game-card--live')
                     });
                 });
                 
@@ -297,8 +351,38 @@ class LiveMatchesScraper:
         
         return matches
     
+    async def extract_from_html(self, page):
+        """Extraire les matchs directement du HTML"""
+        logger.info("📄 Extraction directe du HTML...")
+        
+        try:
+            content = await page.content()
+            
+            # Chercher les données dans le HTML
+            if '__RCP' in content:
+                import re
+                import json
+                
+                # Essayer d'extraire __RCP du HTML
+                match = re.search(r'window\.__RCP\s*=\s*({.*?});', content, re.DOTALL)
+                if match:
+                    try:
+                        data = json.loads(match.group(1))
+                        for key in data:
+                            if 'games-live' in data[key]:
+                                logger.info(f"✅ {len(data[key]['games-live'])} matchs trouvés")
+                                return data[key]['games-live']
+                    except:
+                        pass
+            
+            return []
+            
+        except Exception as e:
+            logger.warning(f"⚠️ Erreur extraction HTML: {e}")
+            return []
+    
     async def _handle_response(self, response):
-        """Gérer les réponses HTTP (pour logging)"""
+        """Gérer les réponses HTTP"""
         if response.status >= 400:
             logger.warning(f"⚠️ Réponse HTTP {response.status}: {response.url}")
     
@@ -350,10 +434,12 @@ async def main():
             # Afficher les 5 premiers matchs
             logger.info("\n🔍 Aperçu des 5 premiers matchs:")
             for i, match in enumerate(matches[:5]):
-                name1 = match.get('firstOpponentName', '?')
-                name2 = match.get('secondOpponentName', '?')
-                champ = match.get('champName', 'Championnat inconnu')
-                logger.info(f"   {i+1}. {name1} vs {name2} ({champ})")
+                name1 = match.get('firstOpponentName', '?') or match.get('homeTeam', '?')
+                name2 = match.get('secondOpponentName', '?') or match.get('awayTeam', '?')
+                champ = match.get('champName', 'Championnat inconnu') or match.get('championship', 'Championnat inconnu')
+                score_h = match.get('score_home', '0') or match.get('scoreHome', '0')
+                score_a = match.get('score_away', '0') or match.get('scoreAway', '0')
+                logger.info(f"   {i+1}. {name1} {score_h} - {score_a} {name2} ({champ})")
             
             sys.exit(0)
         else:
