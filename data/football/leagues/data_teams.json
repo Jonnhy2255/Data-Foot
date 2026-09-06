@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-09-05T23:37:03.125618",
+  "scraped_at": "2026-09-06T03:59:14.764145",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 31,
-      "scraped_at": "2026-09-05T23:35:14.664150",
+      "scraped_at": "2026-09-06T03:57:29.612021",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -38,9 +38,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.15,
-              "away": 3.25,
-              "draw": 3.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -78,9 +78,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.25,
-              "away": 3.2,
-              "draw": 3.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -118,9 +118,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.47,
-              "away": 6.5,
-              "draw": 4.8
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -143,7 +143,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Mainz",
             "home_team_id": "2950",
@@ -158,9 +158,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.75,
-              "away": 2.2,
-              "draw": 3.85
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -183,7 +183,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Real Betis",
             "home_team_id": "244",
@@ -198,16 +198,16 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.6,
-              "away": 2.4,
-              "draw": 3.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Mainz",
               "opponent_id": "2950",
               "home_or_away": "away",
@@ -282,7 +282,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Real Betis",
               "opponent_id": "244",
               "home_or_away": "away",
@@ -2153,7 +2153,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 33,
-      "scraped_at": "2026-09-05T23:35:20.333823",
+      "scraped_at": "2026-09-06T03:57:35.241749",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2175,9 +2175,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 7.0,
-              "away": 1.47,
-              "draw": 4.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -2215,9 +2215,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.2,
-              "away": 15.0,
-              "draw": 7.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -2240,7 +2240,7 @@
             "date": "2026-08-16",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "English FA Community Shield",
             "home_team": "Arsenal",
             "home_team_id": "359",
@@ -2255,61 +2255,12 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.7,
-              "away": 2.55,
-              "draw": 3.2
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 41,
-                "away": 59
-              },
-              "Shots on Goal": {
-                "home": 5,
-                "away": 5
-              },
-              "Shots Off Target": {
-                "home": 4,
-                "away": 7
-              },
-              "Accurate Passes": {
-                "home": 352,
-                "away": 519
-              },
-              "Passes": {
-                "home": 413,
-                "away": 582
-              },
-              "Corners Won": {
-                "home": 2,
-                "away": 4
-              },
-              "Offsides": {
-                "home": 3,
-                "away": 1
-              },
-              "Tackles": {
-                "home": 10,
-                "away": 8
-              },
-              "Clearances": {
-                "home": 16,
-                "away": 15
-              },
-              "Shots Blocked": {
-                "home": 1,
-                "away": 1
-              },
-              "Saves": {
-                "home": 4,
-                "away": 2
-              },
-              "Fouls Committed": {
-                "home": 12,
-                "away": 11
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Premier League",
               "matchday": 1,
@@ -2329,7 +2280,7 @@
             "date": "2026-08-12",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Arsenal",
             "home_team_id": "359",
@@ -2341,56 +2292,19 @@
             "away_score": 1,
             "result": "FT-Pens",
             "decided_by_penalties": true,
-            "penalty_winner": "home",
-            "team_result": "V",
+            "penalty_winner": null,
+            "team_result": "N",
             "odds": {
-              "home": 1.71,
-              "away": 4.1,
-              "draw": 4.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 55,
-                "away": 45
-              },
-              "Shots on Goal": {
-                "home": 5,
-                "away": 4
-              },
-              "Big Chances Created": {
-                "home": 5,
-                "away": 0
-              },
-              "Corners Won": {
-                "home": 10,
-                "away": 2
-              },
-              "Accurate Passes": {
-                "home": 378,
-                "away": 309
-              },
-              "Passes": {
-                "home": 416,
-                "away": 359
-              },
-              "Duels Won": {
-                "home": 47,
-                "away": 41
-              },
-              "Saves": {
-                "home": 3,
-                "away": 3
-              },
-              "Fouls Committed": {
-                "home": 15,
-                "away": 11
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "FA Community Shield",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Manchester City",
               "opponent_id": "382",
               "home_or_away": "home",
@@ -2406,7 +2320,7 @@
             "date": "2026-08-09",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Emirates Cup",
             "home_team": "Arsenal",
             "home_team_id": "359",
@@ -2418,68 +2332,19 @@
             "away_score": 3,
             "result": "FT-Pens",
             "decided_by_penalties": true,
-            "penalty_winner": "home",
+            "penalty_winner": null,
             "team_result": "D",
             "odds": {
               "home": null,
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 56,
-                "away": 44
-              },
-              "Shots on Goal": {
-                "home": 7,
-                "away": 4
-              },
-              "Shots Off Target": {
-                "home": 7,
-                "away": 4
-              },
-              "Accurate Passes": {
-                "home": 438,
-                "away": 322
-              },
-              "Passes": {
-                "home": 489,
-                "away": 380
-              },
-              "Corners Won": {
-                "home": 8,
-                "away": 3
-              },
-              "Offsides": {
-                "home": 5,
-                "away": 0
-              },
-              "Tackles": {
-                "home": 5,
-                "away": 9
-              },
-              "Clearances": {
-                "home": 9,
-                "away": 18
-              },
-              "Shots Blocked": {
-                "home": 2,
-                "away": 2
-              },
-              "Saves": {
-                "home": 1,
-                "away": 6
-              },
-              "Fouls Committed": {
-                "home": 17,
-                "away": 16
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Como",
               "opponent_id": "2572",
               "home_or_away": "home",
@@ -2495,7 +2360,7 @@
             "date": "2026-08-05",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Arsenal",
             "home_team_id": "359",
@@ -2514,49 +2379,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 56,
-                "away": 44
-              },
-              "Shots on Goal": {
-                "home": 2,
-                "away": 7
-              },
-              "Big Chances Created": {
-                "home": 3,
-                "away": 3
-              },
-              "Corners Won": {
-                "home": 2,
-                "away": 2
-              },
-              "Accurate Passes": {
-                "home": 544,
-                "away": 407
-              },
-              "Passes": {
-                "home": 593,
-                "away": 462
-              },
-              "Duels Won": {
-                "home": 51,
-                "away": 44
-              },
-              "Saves": {
-                "home": 4,
-                "away": 1
-              },
-              "Fouls Committed": {
-                "home": 13,
-                "away": 14
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Emirates Cup",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Borussia Dortmund",
               "opponent_id": "124",
               "home_or_away": "home",
@@ -2572,7 +2400,7 @@
             "date": "2026-08-01",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Girona",
             "home_team_id": "9812",
@@ -2587,61 +2415,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 4.3,
-              "away": 1.65,
-              "draw": 4.2
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 47,
-                "away": 53
-              },
-              "Shots on Goal": {
-                "home": 6,
-                "away": 5
-              },
-              "Big Chances Created": {
-                "home": 3,
-                "away": 3
-              },
-              "Corners Won": {
-                "home": 5,
-                "away": 4
-              },
-              "Accurate Passes": {
-                "home": 372,
-                "away": 424
-              },
-              "Passes": {
-                "home": 408,
-                "away": 462
-              },
-              "Duels Won": {
-                "home": 34,
-                "away": 32
-              },
-              "Saves": {
-                "home": 1,
-                "away": 5
-              },
-              "Fouls Committed": {
-                "home": 10,
-                "away": 11
-              },
-              "Score 1ère mi-temps": {
-                "home": 0,
-                "away": 2
-              },
-              "Score 2nde mi-temps": {
-                "home": 1,
-                "away": 2
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Real Betis",
               "opponent_id": "244",
               "home_or_away": "home",
@@ -2716,7 +2499,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Girona",
               "opponent_id": "9812",
               "home_or_away": "away",
@@ -4448,7 +4231,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 32,
-      "scraped_at": "2026-09-05T23:35:25.909732",
+      "scraped_at": "2026-09-06T03:57:40.800164",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4470,9 +4253,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 3.95,
-              "away": 1.91,
-              "draw": 3.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -4510,9 +4293,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 7.0,
-              "away": 1.47,
-              "draw": 4.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -4550,9 +4333,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.1,
-              "away": 3.6,
-              "draw": 3.45
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -4575,7 +4358,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Borussia Monchengladbach",
             "home_team_id": "268",
@@ -4590,9 +4373,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.2,
-              "away": 2.8,
-              "draw": 3.8
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -4615,7 +4398,7 @@
             "date": "2026-08-12",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "UEFA Super Cup",
             "home_team": "Paris Saint Germain",
             "home_team_id": "160",
@@ -4630,65 +4413,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.61,
-              "away": 5.0,
-              "draw": 3.9
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 61,
-                "away": 39
-              },
-              "Shots on Goal": {
-                "home": 6,
-                "away": 4
-              },
-              "Shots Off Target": {
-                "home": 6,
-                "away": 11
-              },
-              "Accurate Passes": {
-                "home": 525,
-                "away": 289
-              },
-              "Passes": {
-                "home": 588,
-                "away": 368
-              },
-              "Corners Won": {
-                "home": 0,
-                "away": 2
-              },
-              "Offsides": {
-                "home": 2,
-                "away": 0
-              },
-              "Tackles": {
-                "home": 17,
-                "away": 10
-              },
-              "Clearances": {
-                "home": 28,
-                "away": 13
-              },
-              "Shots Blocked": {
-                "home": 1,
-                "away": 3
-              },
-              "Saves": {
-                "home": 3,
-                "away": 4
-              },
-              "Fouls Committed": {
-                "home": 11,
-                "away": 13
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Borussia Monchengladbach",
               "opponent_id": "268",
               "home_or_away": "away",
@@ -4704,7 +4438,7 @@
             "date": "2026-08-07",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Bayern Munich",
             "home_team_id": "132",
@@ -4719,53 +4453,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.95,
-              "away": 3.1,
-              "draw": 4.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 56,
-                "away": 44
-              },
-              "Shots on Goal": {
-                "home": 8,
-                "away": 3
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 1
-              },
-              "Corners Won": {
-                "home": 7,
-                "away": 3
-              },
-              "Accurate Passes": {
-                "home": 461,
-                "away": 336
-              },
-              "Passes": {
-                "home": 511,
-                "away": 404
-              },
-              "Duels Won": {
-                "home": 38,
-                "away": 59
-              },
-              "Saves": {
-                "home": 2,
-                "away": 5
-              },
-              "Fouls Committed": {
-                "home": 18,
-                "away": 9
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "UEFA Super Cup",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Paris Saint Germain",
               "opponent_id": "160",
               "home_or_away": "away",
@@ -4840,7 +4537,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Bayern Munich",
               "opponent_id": "132",
               "home_or_away": "away",
@@ -6775,7 +6472,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 32,
-      "scraped_at": "2026-09-05T23:35:31.792495",
+      "scraped_at": "2026-09-06T03:57:46.413981",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -6797,9 +6494,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 1.69,
-              "away": 5.0,
-              "draw": 3.85
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -6837,9 +6534,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.8,
-              "away": 2.5,
-              "draw": 3.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -6862,7 +6559,7 @@
             "date": "2026-08-25",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Birmingham City",
             "home_team_id": "392",
@@ -6877,9 +6574,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 4.1,
-              "away": 1.8,
-              "draw": 3.55
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -6917,16 +6614,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.05,
-              "away": 3.45,
-              "draw": 3.75
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "Birmingham City",
               "opponent_id": "392",
               "home_or_away": "away",
@@ -6942,7 +6639,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Brentford",
             "home_team_id": "337",
@@ -6957,49 +6654,12 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.87,
-              "away": 3.4,
-              "draw": 3.95
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 52,
-                "away": 48
-              },
-              "Shots on Goal": {
-                "home": 9,
-                "away": 5
-              },
-              "Big Chances Created": {
-                "home": 4,
-                "away": 0
-              },
-              "Corners Won": {
-                "home": 7,
-                "away": 6
-              },
-              "Accurate Passes": {
-                "home": 318,
-                "away": 288
-              },
-              "Passes": {
-                "home": 386,
-                "away": 353
-              },
-              "Duels Won": {
-                "home": 49,
-                "away": 31
-              },
-              "Saves": {
-                "home": 5,
-                "away": 2
-              },
-              "Fouls Committed": {
-                "home": 5,
-                "away": 13
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Premier League",
               "matchday": 1,
@@ -7019,7 +6679,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Stade Rennais",
             "home_team_id": "169",
@@ -7043,7 +6703,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Eintracht Frankfurt",
               "opponent_id": "125",
               "home_or_away": "home",
@@ -7126,7 +6786,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Stade Rennais",
               "opponent_id": "169",
               "home_or_away": "away",
@@ -8906,7 +8566,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-05T23:35:37.536882",
+      "scraped_at": "2026-09-06T03:57:51.981898",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -8928,9 +8588,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 1.95,
-              "away": 3.8,
-              "draw": 3.65
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -8968,9 +8628,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.87,
-              "away": 4.0,
-              "draw": 3.8
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -8993,7 +8653,7 @@
             "date": "2026-08-27",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "UEFA Conference League Qualifying",
             "home_team": "Brighton Hove Albion",
             "home_team_id": "331",
@@ -9008,9 +8668,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.12,
-              "away": 15.0,
-              "draw": 8.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -9048,16 +8708,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.1,
-              "away": 3.6,
-              "draw": 3.45
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "UEFA Conference League Qualifying",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Tromso",
               "opponent_id": "5270",
               "home_or_away": "home",
@@ -9073,7 +8733,7 @@
             "date": "2026-08-20",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "UEFA Conference League Qualifying",
             "home_team": "Tromso",
             "home_team_id": "5270",
@@ -9088,9 +8748,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 5.75,
-              "away": 1.48,
-              "draw": 4.3
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -9113,7 +8773,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Brighton Hove Albion",
             "home_team_id": "331",
@@ -9128,16 +8788,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.56,
-              "away": 5.0,
-              "draw": 4.1
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "UEFA Conference League Qualifying",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Tromso",
               "opponent_id": "5270",
               "home_or_away": "away",
@@ -9153,7 +8813,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Brighton Hove Albion",
             "home_team_id": "331",
@@ -9172,49 +8832,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 60,
-                "away": 40
-              },
-              "Shots on Goal": {
-                "home": 6,
-                "away": 0
-              },
-              "Big Chances Created": {
-                "home": 4,
-                "away": 0
-              },
-              "Corners Won": {
-                "home": 4,
-                "away": 5
-              },
-              "Accurate Passes": {
-                "home": 488,
-                "away": 291
-              },
-              "Passes": {
-                "home": 567,
-                "away": 369
-              },
-              "Duels Won": {
-                "home": 31,
-                "away": 35
-              },
-              "Saves": {
-                "home": 0,
-                "away": 3
-              },
-              "Fouls Committed": {
-                "home": 17,
-                "away": 5
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Bologna",
               "opponent_id": "107",
               "home_or_away": "home",
@@ -9230,7 +8853,7 @@
             "date": "2026-08-01",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Brighton Hove Albion",
             "home_team_id": "331",
@@ -9254,7 +8877,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "AS Roma",
               "opponent_id": "104",
               "home_or_away": "home",
@@ -9329,7 +8952,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Strasbourg",
               "opponent_id": "180",
               "home_or_away": "home",
@@ -11208,7 +10831,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 33,
-      "scraped_at": "2026-09-05T23:35:42.961693",
+      "scraped_at": "2026-09-06T03:57:57.373677",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -11230,9 +10853,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.87,
-              "away": 4.0,
-              "draw": 3.8
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -11255,7 +10878,7 @@
             "date": "2026-08-27",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Chelsea",
             "home_team_id": "363",
@@ -11270,9 +10893,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.09,
-              "away": 18.0,
-              "draw": 9.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -11310,16 +10933,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 3.7,
-              "away": 2.05,
-              "draw": 3.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "Luton Town",
               "opponent_id": "301",
               "home_or_away": "home",
@@ -11335,7 +10958,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Chelsea",
             "home_team_id": "363",
@@ -11350,49 +10973,12 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.48,
-              "away": 5.25,
-              "draw": 4.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 59,
-                "away": 41
-              },
-              "Shots on Goal": {
-                "home": 5,
-                "away": 4
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 0
-              },
-              "Corners Won": {
-                "home": 4,
-                "away": 2
-              },
-              "Accurate Passes": {
-                "home": 449,
-                "away": 301
-              },
-              "Passes": {
-                "home": 492,
-                "away": 343
-              },
-              "Duels Won": {
-                "home": 29,
-                "away": 32
-              },
-              "Saves": {
-                "home": 3,
-                "away": 2
-              },
-              "Fouls Committed": {
-                "home": 5,
-                "away": 12
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Premier League",
               "matchday": 1,
@@ -11412,7 +10998,7 @@
             "date": "2026-08-09",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Johor Darul Tazim",
             "home_team_id": "17689",
@@ -11427,53 +11013,16 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 4.7,
-              "away": 1.53,
-              "draw": 4.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 40,
-                "away": 60
-              },
-              "Shots on Goal": {
-                "home": 6,
-                "away": 5
-              },
-              "Big Chances Created": {
-                "home": 3,
-                "away": 0
-              },
-              "Corners Won": {
-                "home": 0,
-                "away": 4
-              },
-              "Accurate Passes": {
-                "home": 228,
-                "away": 391
-              },
-              "Passes": {
-                "home": 292,
-                "away": 442
-              },
-              "Duels Won": {
-                "home": 42,
-                "away": 45
-              },
-              "Saves": {
-                "home": 3,
-                "away": 4
-              },
-              "Fouls Committed": {
-                "home": 19,
-                "away": 15
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Real Sociedad",
               "opponent_id": "89",
               "home_or_away": "home",
@@ -11489,7 +11038,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Chelsea",
             "home_team_id": "363",
@@ -11504,53 +11053,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.8,
-              "away": 3.75,
-              "draw": 3.85
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 50,
-                "away": 50
-              },
-              "Shots on Goal": {
-                "home": 8,
-                "away": 0
-              },
-              "Big Chances Created": {
-                "home": 7,
-                "away": 0
-              },
-              "Corners Won": {
-                "home": 7,
-                "away": 2
-              },
-              "Accurate Passes": {
-                "home": 434,
-                "away": 434
-              },
-              "Passes": {
-                "home": 484,
-                "away": 499
-              },
-              "Duels Won": {
-                "home": 51,
-                "away": 38
-              },
-              "Saves": {
-                "home": 0,
-                "away": 5
-              },
-              "Fouls Committed": {
-                "home": 11,
-                "away": 17
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Johor Darul Tazim",
               "opponent_id": "17689",
               "home_or_away": "away",
@@ -11566,7 +11078,7 @@
             "date": "2026-08-05",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Chelsea",
             "home_team_id": "363",
@@ -11581,53 +11093,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.35,
-              "away": 2.6,
-              "draw": 3.7
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 57,
-                "away": 43
-              },
-              "Shots on Goal": {
-                "home": 4,
-                "away": 2
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 1
-              },
-              "Corners Won": {
-                "home": 5,
-                "away": 1
-              },
-              "Accurate Passes": {
-                "home": 486,
-                "away": 365
-              },
-              "Passes": {
-                "home": 561,
-                "away": 430
-              },
-              "Duels Won": {
-                "home": 54,
-                "away": 36
-              },
-              "Saves": {
-                "home": 1,
-                "away": 4
-              },
-              "Fouls Committed": {
-                "home": 5,
-                "away": 19
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "AC Milan",
               "opponent_id": "103",
               "home_or_away": "home",
@@ -11710,7 +11185,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Juventus",
               "opponent_id": "111",
               "home_or_away": "home",
@@ -13393,7 +12868,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 32,
-      "scraped_at": "2026-09-05T23:35:48.732142",
+      "scraped_at": "2026-09-06T03:58:02.737787",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -13415,9 +12890,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.2,
-              "away": 13.0,
-              "draw": 7.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -13455,9 +12930,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.71,
-              "away": 4.9,
-              "draw": 3.85
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -13480,7 +12955,7 @@
             "date": "2026-08-25",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Plymouth Argyle",
             "home_team_id": "307",
@@ -13495,9 +12970,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 5.25,
-              "away": 1.57,
-              "draw": 3.9
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -13535,16 +13010,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.2,
-              "away": 15.0,
-              "draw": 7.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "Plymouth Argyle",
               "opponent_id": "307",
               "home_or_away": "away",
@@ -13560,7 +13035,7 @@
             "date": "2026-08-14",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Coventry City",
             "home_team_id": "388",
@@ -13575,9 +13050,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.15,
-              "away": 2.85,
-              "draw": 3.85
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -13600,7 +13075,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Coventry City",
             "home_team_id": "388",
@@ -13615,16 +13090,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.15,
-              "away": 3.0,
-              "draw": 3.45
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "AS Monaco",
               "opponent_id": "174",
               "home_or_away": "home",
@@ -13666,7 +13141,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Espanyol",
               "opponent_id": "88",
               "home_or_away": "home",
@@ -14885,7 +14360,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 33,
-      "scraped_at": "2026-09-05T23:35:54.351724",
+      "scraped_at": "2026-09-06T03:58:08.189930",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -14907,9 +14382,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.15,
-              "away": 3.45,
-              "draw": 3.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -14947,9 +14422,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 5.25,
-              "away": 1.62,
-              "draw": 4.2
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -14987,9 +14462,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.35,
-              "away": 3.05,
-              "draw": 3.35
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -15012,7 +14487,7 @@
             "date": "2026-08-07",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Fulham",
             "home_team_id": "370",
@@ -15052,7 +14527,7 @@
             "date": "2026-07-31",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Crystal Palace",
             "home_team_id": "384",
@@ -15076,7 +14551,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Fulham",
               "opponent_id": "370",
               "home_or_away": "away",
@@ -15092,7 +14567,7 @@
             "date": "2026-07-25",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Bromley",
             "home_team_id": "3129",
@@ -15116,7 +14591,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Al Ula",
               "opponent_id": "131747",
               "home_or_away": "home",
@@ -15132,7 +14607,7 @@
             "date": "2026-07-18",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Crystal Palace",
             "home_team_id": "384",
@@ -15156,7 +14631,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Bromley",
               "opponent_id": "3129",
               "home_or_away": "away",
@@ -15231,7 +14706,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Swindon Town",
               "opponent_id": "341",
               "home_or_away": "home",
@@ -17019,7 +16494,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 32,
-      "scraped_at": "2026-09-05T23:35:59.975337",
+      "scraped_at": "2026-09-06T03:58:13.544077",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -17041,9 +16516,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.25,
-              "away": 3.2,
-              "draw": 3.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -17066,7 +16541,7 @@
             "date": "2026-08-26",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Preston North End",
             "home_team_id": "394",
@@ -17081,9 +16556,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 8.0,
-              "away": 1.31,
-              "draw": 5.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -17121,16 +16596,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.35,
-              "away": 3.05,
-              "draw": 3.35
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "Preston North End",
               "opponent_id": "394",
               "home_or_away": "away",
@@ -17146,7 +16621,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Everton",
             "home_team_id": "368",
@@ -17161,9 +16636,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.1,
-              "away": 3.1,
-              "draw": 3.55
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -17186,7 +16661,7 @@
             "date": "2026-08-12",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Newcastle United",
             "home_team_id": "361",
@@ -17201,16 +16676,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.25,
-              "away": 2.85,
-              "draw": 3.55
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Lille",
               "opponent_id": "166",
               "home_or_away": "home",
@@ -17226,7 +16701,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "VFB Stuttgart",
             "home_team_id": "134",
@@ -17241,16 +16716,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.15,
-              "away": 2.95,
-              "draw": 3.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Newcastle United",
               "opponent_id": "361",
               "home_or_away": "away",
@@ -17325,7 +16800,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "VFB Stuttgart",
               "opponent_id": "134",
               "home_or_away": "away",
@@ -19179,7 +18654,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 33,
-      "scraped_at": "2026-09-05T23:36:05.587935",
+      "scraped_at": "2026-09-06T03:58:19.064287",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -19201,9 +18676,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.15,
-              "away": 3.45,
-              "draw": 3.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -19241,9 +18716,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.25,
-              "away": 3.3,
-              "draw": 3.3
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -19266,7 +18741,7 @@
             "date": "2026-08-27",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Fulham",
             "home_team_id": "370",
@@ -19281,9 +18756,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.15,
-              "away": 13.0,
-              "draw": 7.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -19321,16 +18796,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 3.7,
-              "away": 2.05,
-              "draw": 3.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "AFC Wimbledon",
               "opponent_id": "3802",
               "home_or_away": "home",
@@ -19346,7 +18821,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Fulham",
             "home_team_id": "370",
@@ -19361,9 +18836,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.3,
-              "away": 2.65,
-              "draw": 3.8
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -19386,7 +18861,7 @@
             "date": "2026-08-12",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Malaga",
             "home_team_id": "99",
@@ -19410,7 +18885,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "VFB Stuttgart",
               "opponent_id": "134",
               "home_or_away": "home",
@@ -19426,7 +18901,7 @@
             "date": "2026-08-07",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Fulham",
             "home_team_id": "370",
@@ -19450,7 +18925,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Malaga",
               "opponent_id": "99",
               "home_or_away": "away",
@@ -19525,7 +19000,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Crystal Palace",
               "opponent_id": "384",
               "home_or_away": "home",
@@ -21428,7 +20903,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 32,
-      "scraped_at": "2026-09-05T23:36:11.290912",
+      "scraped_at": "2026-09-06T03:58:24.493679",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -21450,9 +20925,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 3.95,
-              "away": 1.91,
-              "draw": 3.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -21490,9 +20965,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.71,
-              "away": 4.9,
-              "draw": 3.85
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -21515,7 +20990,7 @@
             "date": "2026-08-25",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Stoke City",
             "home_team_id": "336",
@@ -21530,9 +21005,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.3,
-              "away": 2.9,
-              "draw": 3.3
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -21570,16 +21045,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 8.0,
-              "away": 1.37,
-              "draw": 5.25
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "Stoke City",
               "opponent_id": "336",
               "home_or_away": "away",
@@ -21595,7 +21070,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Hull City",
             "home_team_id": "306",
@@ -21610,9 +21085,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.3,
-              "away": 2.95,
-              "draw": 3.25
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -21635,7 +21110,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Eintracht Frankfurt",
             "home_team_id": "125",
@@ -21650,16 +21125,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.71,
-              "away": 3.75,
-              "draw": 4.3
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Nice",
               "opponent_id": "2502",
               "home_or_away": "home",
@@ -21710,7 +21185,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Eintracht Frankfurt",
               "opponent_id": "125",
               "home_or_away": "away",
@@ -22880,7 +22355,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 32,
-      "scraped_at": "2026-09-05T23:36:17.227804",
+      "scraped_at": "2026-09-06T03:58:30.252209",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -22902,9 +22377,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 4.9,
-              "away": 1.62,
-              "draw": 4.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -22942,9 +22417,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.37,
-              "away": 7.5,
-              "draw": 5.25
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -22967,7 +22442,7 @@
             "date": "2026-08-25",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Ipswich Town",
             "home_team_id": "373",
@@ -22982,9 +22457,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.43,
-              "away": 6.0,
-              "draw": 4.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -23022,16 +22497,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.85,
-              "away": 2.6,
-              "draw": 3.25
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "Leicester City",
               "opponent_id": "375",
               "home_or_away": "home",
@@ -23047,7 +22522,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "1 FC Union Berlin",
             "home_team_id": "598",
@@ -23062,9 +22537,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.9,
-              "away": 2.25,
-              "draw": 3.45
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -23087,7 +22562,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Ipswich Town",
             "home_team_id": "373",
@@ -23102,16 +22577,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.2,
-              "away": 2.9,
-              "draw": 3.55
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "1 FC Union Berlin",
               "opponent_id": "598",
               "home_or_away": "away",
@@ -23186,7 +22661,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Rayo Vallecano",
               "opponent_id": "101",
               "home_or_away": "home",
@@ -25065,7 +24540,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-05T23:36:22.909648",
+      "scraped_at": "2026-09-06T03:58:35.711987",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -25087,9 +24562,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 1.95,
-              "away": 3.8,
-              "draw": 3.65
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -25127,9 +24602,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.8,
-              "away": 2.5,
-              "draw": 3.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -25152,7 +24627,7 @@
             "date": "2026-08-25",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Nottingham Forest",
             "home_team_id": "393",
@@ -25167,9 +24642,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.35,
-              "away": 2.8,
-              "draw": 3.35
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -25207,16 +24682,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.5,
-              "away": 3.0,
-              "draw": 3.2
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "Nottingham Forest",
               "opponent_id": "393",
               "home_or_away": "away",
@@ -25232,7 +24707,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Leeds United",
             "home_team_id": "357",
@@ -25247,9 +24722,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.62,
-              "away": 4.7,
-              "draw": 4.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -25272,7 +24747,7 @@
             "date": "2026-08-12",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Manchester United",
             "home_team_id": "360",
@@ -25284,56 +24759,19 @@
             "away_score": 1,
             "result": "FT-Pens",
             "decided_by_penalties": true,
-            "penalty_winner": "home",
-            "team_result": "D",
+            "penalty_winner": null,
+            "team_result": "N",
             "odds": {
-              "home": 1.91,
-              "away": 3.45,
-              "draw": 3.7
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 59,
-                "away": 41
-              },
-              "Shots on Goal": {
-                "home": 4,
-                "away": 5
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 2
-              },
-              "Corners Won": {
-                "home": 8,
-                "away": 0
-              },
-              "Accurate Passes": {
-                "home": 528,
-                "away": 357
-              },
-              "Passes": {
-                "home": 585,
-                "away": 416
-              },
-              "Duels Won": {
-                "home": 32,
-                "away": 45
-              },
-              "Saves": {
-                "home": 4,
-                "away": 3
-              },
-              "Fouls Committed": {
-                "home": 12,
-                "away": 7
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "FC Augsburg",
               "opponent_id": "3841",
               "home_or_away": "home",
@@ -25349,7 +24787,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Leeds United",
             "home_team_id": "357",
@@ -25368,49 +24806,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 41,
-                "away": 59
-              },
-              "Shots on Goal": {
-                "home": 2,
-                "away": 1
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 0
-              },
-              "Corners Won": {
-                "home": 1,
-                "away": 0
-              },
-              "Accurate Passes": {
-                "home": 129,
-                "away": 201
-              },
-              "Passes": {
-                "home": 157,
-                "away": 232
-              },
-              "Duels Won": {
-                "home": 10,
-                "away": 16
-              },
-              "Saves": {
-                "home": 1,
-                "away": 1
-              },
-              "Fouls Committed": {
-                "home": 6,
-                "away": 5
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Manchester United",
               "opponent_id": "360",
               "home_or_away": "away",
@@ -25426,7 +24827,7 @@
             "date": "2026-08-02",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Liverpool",
             "home_team_id": "364",
@@ -25445,49 +24846,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 57,
-                "away": 43
-              },
-              "Shots on Goal": {
-                "home": 3,
-                "away": 7
-              },
-              "Big Chances Created": {
-                "home": 2,
-                "away": 4
-              },
-              "Corners Won": {
-                "home": 3,
-                "away": 7
-              },
-              "Accurate Passes": {
-                "home": 441,
-                "away": 301
-              },
-              "Passes": {
-                "home": 505,
-                "away": 377
-              },
-              "Duels Won": {
-                "home": 32,
-                "away": 47
-              },
-              "Saves": {
-                "home": 3,
-                "away": 1
-              },
-              "Fouls Committed": {
-                "home": 11,
-                "away": 10
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Rb Leipzig",
               "opponent_id": "11420",
               "home_or_away": "home",
@@ -25503,7 +24867,7 @@
             "date": "2026-07-30",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Sunderland",
             "home_team_id": "366",
@@ -25527,7 +24891,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Liverpool",
               "opponent_id": "364",
               "home_or_away": "away",
@@ -25543,7 +24907,7 @@
             "date": "2026-07-25",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Wrexham",
             "home_team_id": "352",
@@ -25567,7 +24931,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Sunderland",
               "opponent_id": "366",
               "home_or_away": "away",
@@ -25618,7 +24982,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Wrexham",
               "opponent_id": "352",
               "home_or_away": "away",
@@ -26837,7 +26201,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-05T23:36:28.652657",
+      "scraped_at": "2026-09-06T03:58:41.238811",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -26859,9 +26223,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 4.9,
-              "away": 1.62,
-              "draw": 4.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -26899,9 +26263,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 1.48,
-              "away": 6.5,
-              "draw": 4.7
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -26939,9 +26303,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 3.65,
-              "away": 1.95,
-              "draw": 3.9
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -26964,7 +26328,7 @@
             "date": "2026-08-16",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Liverpool",
             "home_team_id": "364",
@@ -26979,53 +26343,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.67,
-              "away": 4.0,
-              "draw": 4.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 42,
-                "away": 58
-              },
-              "Shots on Goal": {
-                "home": 2,
-                "away": 4
-              },
-              "Big Chances Created": {
-                "home": 3,
-                "away": 1
-              },
-              "Corners Won": {
-                "home": 4,
-                "away": 8
-              },
-              "Accurate Passes": {
-                "home": 315,
-                "away": 475
-              },
-              "Passes": {
-                "home": 376,
-                "away": 540
-              },
-              "Duels Won": {
-                "home": 49,
-                "away": 36
-              },
-              "Saves": {
-                "home": 4,
-                "away": 0
-              },
-              "Fouls Committed": {
-                "home": 10,
-                "away": 9
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Como",
               "opponent_id": "2572",
               "home_or_away": "home",
@@ -27041,7 +26368,7 @@
             "date": "2026-08-16",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Liverpool",
             "home_team_id": "364",
@@ -27061,16 +26388,7 @@
               "draw": null
             },
             "has_full_stats": false,
-            "stats": {
-              "Score 1ère mi-temps": {
-                "home": 0,
-                "away": 0
-              },
-              "Score 2nde mi-temps": {
-                "home": 0,
-                "away": 0
-              }
-            },
+            "stats": {},
             "next_game": {
               "context": "Premier League",
               "matchday": 1,
@@ -27090,7 +26408,7 @@
             "date": "2026-08-09",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Liverpool",
             "home_team_id": "364",
@@ -27109,49 +26427,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 52,
-                "away": 48
-              },
-              "Shots on Goal": {
-                "home": 6,
-                "away": 8
-              },
-              "Big Chances Created": {
-                "home": 2,
-                "away": 2
-              },
-              "Corners Won": {
-                "home": 1,
-                "away": 4
-              },
-              "Accurate Passes": {
-                "home": 431,
-                "away": 399
-              },
-              "Passes": {
-                "home": 500,
-                "away": 469
-              },
-              "Duels Won": {
-                "home": 34,
-                "away": 30
-              },
-              "Saves": {
-                "home": 5,
-                "away": 4
-              },
-              "Fouls Committed": {
-                "home": 9,
-                "away": 8
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Como",
               "opponent_id": "2572",
               "home_or_away": "home",
@@ -27167,7 +26448,7 @@
             "date": "2026-08-02",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Liverpool",
             "home_team_id": "364",
@@ -27186,49 +26467,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 57,
-                "away": 43
-              },
-              "Shots on Goal": {
-                "home": 3,
-                "away": 7
-              },
-              "Big Chances Created": {
-                "home": 2,
-                "away": 4
-              },
-              "Corners Won": {
-                "home": 3,
-                "away": 7
-              },
-              "Accurate Passes": {
-                "home": 441,
-                "away": 301
-              },
-              "Passes": {
-                "home": 505,
-                "away": 377
-              },
-              "Duels Won": {
-                "home": 32,
-                "away": 47
-              },
-              "Saves": {
-                "home": 3,
-                "away": 1
-              },
-              "Fouls Committed": {
-                "home": 11,
-                "away": 10
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "AS Monaco",
               "opponent_id": "174",
               "home_or_away": "home",
@@ -27244,7 +26488,7 @@
             "date": "2026-07-29",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Liverpool",
             "home_team_id": "364",
@@ -27263,49 +26507,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 61,
-                "away": 39
-              },
-              "Shots on Goal": {
-                "home": 4,
-                "away": 3
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 4
-              },
-              "Corners Won": {
-                "home": 3,
-                "away": 4
-              },
-              "Accurate Passes": {
-                "home": 581,
-                "away": 329
-              },
-              "Passes": {
-                "home": 651,
-                "away": 408
-              },
-              "Duels Won": {
-                "home": 26,
-                "away": 38
-              },
-              "Saves": {
-                "home": 3,
-                "away": 3
-              },
-              "Fouls Committed": {
-                "home": 10,
-                "away": 10
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Leeds United",
               "opponent_id": "357",
               "home_or_away": "home",
@@ -27321,7 +26528,7 @@
             "date": "2026-07-25",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Liverpool",
             "home_team_id": "364",
@@ -27340,49 +26547,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 64,
-                "away": 36
-              },
-              "Shots on Goal": {
-                "home": 6,
-                "away": 5
-              },
-              "Big Chances Created": {
-                "home": 4,
-                "away": 1
-              },
-              "Corners Won": {
-                "home": 4,
-                "away": 1
-              },
-              "Accurate Passes": {
-                "home": 467,
-                "away": 233
-              },
-              "Passes": {
-                "home": 517,
-                "away": 297
-              },
-              "Duels Won": {
-                "home": 30,
-                "away": 41
-              },
-              "Saves": {
-                "home": 2,
-                "away": 2
-              },
-              "Fouls Committed": {
-                "home": 18,
-                "away": 9
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Wrexham",
               "opponent_id": "352",
               "home_or_away": "home",
@@ -27457,7 +26627,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Sunderland",
               "opponent_id": "366",
               "home_or_away": "home",
@@ -29165,7 +28335,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 32,
-      "scraped_at": "2026-09-05T23:36:34.518610",
+      "scraped_at": "2026-09-06T03:58:46.828894",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -29187,9 +28357,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.2,
-              "away": 13.0,
-              "draw": 7.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -29227,9 +28397,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 5.25,
-              "away": 1.62,
-              "draw": 4.2
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -29267,9 +28437,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.47,
-              "away": 6.5,
-              "draw": 4.8
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -29292,7 +28462,7 @@
             "date": "2026-08-16",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "English FA Community Shield",
             "home_team": "Arsenal",
             "home_team_id": "359",
@@ -29307,61 +28477,12 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.7,
-              "away": 2.55,
-              "draw": 3.2
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 41,
-                "away": 59
-              },
-              "Shots on Goal": {
-                "home": 5,
-                "away": 5
-              },
-              "Shots Off Target": {
-                "home": 4,
-                "away": 7
-              },
-              "Accurate Passes": {
-                "home": 352,
-                "away": 519
-              },
-              "Passes": {
-                "home": 413,
-                "away": 582
-              },
-              "Corners Won": {
-                "home": 2,
-                "away": 4
-              },
-              "Offsides": {
-                "home": 3,
-                "away": 1
-              },
-              "Tackles": {
-                "home": 10,
-                "away": 8
-              },
-              "Clearances": {
-                "home": 16,
-                "away": 15
-              },
-              "Shots Blocked": {
-                "home": 1,
-                "away": 1
-              },
-              "Saves": {
-                "home": 4,
-                "away": 2
-              },
-              "Fouls Committed": {
-                "home": 12,
-                "away": 11
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Premier League",
               "matchday": 1,
@@ -29381,7 +28502,7 @@
             "date": "2026-08-09",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Manchester City",
             "home_team_id": "382",
@@ -29396,53 +28517,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.77,
-              "away": 3.75,
-              "draw": 4.1
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 54,
-                "away": 46
-              },
-              "Shots on Goal": {
-                "home": 9,
-                "away": 3
-              },
-              "Big Chances Created": {
-                "home": 5,
-                "away": 1
-              },
-              "Corners Won": {
-                "home": 3,
-                "away": 5
-              },
-              "Accurate Passes": {
-                "home": 474,
-                "away": 385
-              },
-              "Passes": {
-                "home": 514,
-                "away": 442
-              },
-              "Duels Won": {
-                "home": 43,
-                "away": 40
-              },
-              "Saves": {
-                "home": 2,
-                "away": 6
-              },
-              "Fouls Committed": {
-                "home": 5,
-                "away": 11
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "FA Community Shield",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Arsenal",
               "opponent_id": "359",
               "home_or_away": "away",
@@ -29458,7 +28542,7 @@
             "date": "2026-08-01",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Manchester City",
             "home_team_id": "382",
@@ -29473,53 +28557,16 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.25,
-              "away": 2.65,
-              "draw": 3.9
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 64,
-                "away": 36
-              },
-              "Shots on Goal": {
-                "home": 7,
-                "away": 4
-              },
-              "Big Chances Created": {
-                "home": 3,
-                "away": 2
-              },
-              "Corners Won": {
-                "home": 9,
-                "away": 3
-              },
-              "Accurate Passes": {
-                "home": 623,
-                "away": 321
-              },
-              "Passes": {
-                "home": 670,
-                "away": 370
-              },
-              "Duels Won": {
-                "home": 40,
-                "away": 41
-              },
-              "Saves": {
-                "home": 3,
-                "away": 5
-              },
-              "Fouls Committed": {
-                "home": 12,
-                "away": 11
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Atletico Madrid",
               "opponent_id": "1068",
               "home_or_away": "home",
@@ -29594,7 +28641,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Internazionale",
               "opponent_id": "110",
               "home_or_away": "home",
@@ -31406,7 +30453,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-05T23:36:40.384503",
+      "scraped_at": "2026-09-06T03:58:52.402837",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -31428,9 +30475,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.37,
-              "away": 7.5,
-              "draw": 5.25
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -31468,9 +30515,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 8.0,
-              "away": 1.37,
-              "draw": 5.25
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -31493,7 +30540,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Manchester United",
             "home_team_id": "360",
@@ -31508,49 +30555,12 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.51,
-              "away": 5.0,
-              "draw": 4.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 39,
-                "away": 61
-              },
-              "Shots on Goal": {
-                "home": 6,
-                "away": 9
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 6
-              },
-              "Corners Won": {
-                "home": 4,
-                "away": 2
-              },
-              "Accurate Passes": {
-                "home": 303,
-                "away": 522
-              },
-              "Passes": {
-                "home": 363,
-                "away": 573
-              },
-              "Duels Won": {
-                "home": 38,
-                "away": 30
-              },
-              "Saves": {
-                "home": 5,
-                "away": 4
-              },
-              "Fouls Committed": {
-                "home": 14,
-                "away": 14
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Premier League",
               "matchday": 1,
@@ -31570,7 +30580,7 @@
             "date": "2026-08-12",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Manchester United",
             "home_team_id": "360",
@@ -31582,56 +30592,19 @@
             "away_score": 1,
             "result": "FT-Pens",
             "decided_by_penalties": true,
-            "penalty_winner": "home",
-            "team_result": "V",
+            "penalty_winner": null,
+            "team_result": "N",
             "odds": {
-              "home": 1.91,
-              "away": 3.45,
-              "draw": 3.7
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 59,
-                "away": 41
-              },
-              "Shots on Goal": {
-                "home": 4,
-                "away": 5
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 2
-              },
-              "Corners Won": {
-                "home": 8,
-                "away": 0
-              },
-              "Accurate Passes": {
-                "home": 528,
-                "away": 357
-              },
-              "Passes": {
-                "home": 585,
-                "away": 416
-              },
-              "Duels Won": {
-                "home": 32,
-                "away": 45
-              },
-              "Saves": {
-                "home": 4,
-                "away": 3
-              },
-              "Fouls Committed": {
-                "home": 12,
-                "away": 7
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "AC Milan",
               "opponent_id": "103",
               "home_or_away": "home",
@@ -31647,7 +30620,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Paris Saint Germain",
             "home_team_id": "160",
@@ -31666,49 +30639,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 59,
-                "away": 41
-              },
-              "Shots on Goal": {
-                "home": 3,
-                "away": 7
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 1
-              },
-              "Corners Won": {
-                "home": 3,
-                "away": 3
-              },
-              "Accurate Passes": {
-                "home": 546,
-                "away": 359
-              },
-              "Passes": {
-                "home": 602,
-                "away": 419
-              },
-              "Duels Won": {
-                "home": 33,
-                "away": 32
-              },
-              "Saves": {
-                "home": 5,
-                "away": 2
-              },
-              "Fouls Committed": {
-                "home": 7,
-                "away": 12
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Leeds United",
               "opponent_id": "357",
               "home_or_away": "home",
@@ -31724,7 +30660,7 @@
             "date": "2026-08-01",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Manchester United",
             "home_team_id": "360",
@@ -31739,53 +30675,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.95,
-              "away": 3.15,
-              "draw": 4.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 53,
-                "away": 47
-              },
-              "Shots on Goal": {
-                "home": 5,
-                "away": 4
-              },
-              "Big Chances Created": {
-                "home": 0,
-                "away": 1
-              },
-              "Corners Won": {
-                "home": 4,
-                "away": 2
-              },
-              "Accurate Passes": {
-                "home": 445,
-                "away": 388
-              },
-              "Passes": {
-                "home": 507,
-                "away": 444
-              },
-              "Duels Won": {
-                "home": 36,
-                "away": 32
-              },
-              "Saves": {
-                "home": 3,
-                "away": 3
-              },
-              "Fouls Committed": {
-                "home": 16,
-                "away": 16
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Paris Saint Germain",
               "opponent_id": "160",
               "home_or_away": "away",
@@ -31801,7 +30700,7 @@
             "date": "2026-07-24",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Rosenborg",
             "home_team_id": "438",
@@ -31820,49 +30719,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 0,
-                "away": 100
-              },
-              "Shots on Goal": {
-                "home": 0,
-                "away": 0
-              },
-              "Big Chances Created": {
-                "home": 0,
-                "away": 0
-              },
-              "Corners Won": {
-                "home": 0,
-                "away": 0
-              },
-              "Accurate Passes": {
-                "home": 0,
-                "away": 4
-              },
-              "Passes": {
-                "home": 0,
-                "away": 4
-              },
-              "Duels Won": {
-                "home": 0,
-                "away": 1
-              },
-              "Saves": {
-                "home": 0,
-                "away": 0
-              },
-              "Fouls Committed": {
-                "home": 0,
-                "away": 0
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Atletico Madrid",
               "opponent_id": "1068",
               "home_or_away": "home",
@@ -31878,7 +30740,7 @@
             "date": "2026-07-18",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Manchester United",
             "home_team_id": "360",
@@ -31897,49 +30759,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 58,
-                "away": 42
-              },
-              "Shots on Goal": {
-                "home": 2,
-                "away": 2
-              },
-              "Big Chances Created": {
-                "home": 0,
-                "away": 1
-              },
-              "Corners Won": {
-                "home": 3,
-                "away": 1
-              },
-              "Accurate Passes": {
-                "home": 602,
-                "away": 413
-              },
-              "Passes": {
-                "home": 664,
-                "away": 475
-              },
-              "Duels Won": {
-                "home": 29,
-                "away": 31
-              },
-              "Saves": {
-                "home": 1,
-                "away": 2
-              },
-              "Fouls Committed": {
-                "home": 4,
-                "away": 8
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Rosenborg",
               "opponent_id": "438",
               "home_or_away": "away",
@@ -32014,7 +30839,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Wrexham",
               "opponent_id": "352",
               "home_or_away": "home",
@@ -33810,7 +32635,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-05T23:36:46.302709",
+      "scraped_at": "2026-09-06T03:58:57.863427",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -33832,9 +32657,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.15,
-              "away": 3.25,
-              "draw": 3.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -33872,9 +32697,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.2,
-              "away": 3.1,
-              "draw": 3.75
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -33897,7 +32722,7 @@
             "date": "2026-08-26",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Newcastle United",
             "home_team_id": "361",
@@ -33912,9 +32737,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.29,
-              "away": 8.0,
-              "draw": 5.75
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -33952,16 +32777,16 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 3.65,
-              "away": 1.95,
-              "draw": 3.9
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "West Bromwich Albion",
               "opponent_id": "383",
               "home_or_away": "home",
@@ -33977,7 +32802,7 @@
             "date": "2026-08-16",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Newcastle United",
             "home_team_id": "361",
@@ -33992,9 +32817,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 1.87,
-              "away": 3.45,
-              "draw": 3.85
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -34017,7 +32842,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Newcastle United",
             "home_team_id": "361",
@@ -34032,16 +32857,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.15,
-              "away": 2.85,
-              "draw": 3.7
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Strasbourg",
               "opponent_id": "180",
               "home_or_away": "home",
@@ -34057,7 +32882,7 @@
             "date": "2026-08-12",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Newcastle United",
             "home_team_id": "361",
@@ -34072,16 +32897,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.25,
-              "away": 2.85,
-              "draw": 3.55
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Bayer Leverkusen",
               "opponent_id": "131",
               "home_or_away": "home",
@@ -34097,7 +32922,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Valencia",
             "home_team_id": "94",
@@ -34112,16 +32937,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.9,
-              "away": 2.2,
-              "draw": 3.55
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Everton",
               "opponent_id": "368",
               "home_or_away": "home",
@@ -34137,7 +32962,7 @@
             "date": "2026-07-29",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Bristol City",
             "home_team_id": "333",
@@ -34156,49 +32981,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 27,
-                "away": 73
-              },
-              "Shots on Goal": {
-                "home": 5,
-                "away": 3
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 2
-              },
-              "Corners Won": {
-                "home": 1,
-                "away": 17
-              },
-              "Accurate Passes": {
-                "home": 155,
-                "away": 540
-              },
-              "Passes": {
-                "home": 229,
-                "away": 614
-              },
-              "Duels Won": {
-                "home": 34,
-                "away": 40
-              },
-              "Saves": {
-                "home": 3,
-                "away": 2
-              },
-              "Fouls Committed": {
-                "home": 8,
-                "away": 8
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Valencia",
               "opponent_id": "94",
               "home_or_away": "away",
@@ -34273,7 +33061,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Bristol City",
               "opponent_id": "333",
               "home_or_away": "away",
@@ -36217,7 +35005,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 32,
-      "scraped_at": "2026-09-05T23:36:51.959286",
+      "scraped_at": "2026-09-06T03:59:03.675876",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -36239,9 +35027,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.7,
-              "away": 2.65,
-              "draw": 3.35
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -36279,9 +35067,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 1.48,
-              "away": 6.5,
-              "draw": 4.7
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -36304,7 +35092,7 @@
             "date": "2026-08-25",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Nottingham Forest",
             "home_team_id": "393",
@@ -36319,9 +35107,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.35,
-              "away": 2.8,
-              "draw": 3.35
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -36359,16 +35147,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.5,
-              "away": 3.0,
-              "draw": 3.2
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "Leeds United",
               "opponent_id": "357",
               "home_or_away": "home",
@@ -36384,7 +35172,7 @@
             "date": "2026-08-16",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Nottingham Forest",
             "home_team_id": "393",
@@ -36399,9 +35187,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.8,
-              "away": 3.8,
-              "draw": 3.75
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -36424,7 +35212,7 @@
             "date": "2026-08-12",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Nottingham Forest",
             "home_team_id": "393",
@@ -36439,16 +35227,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.3,
-              "away": 2.6,
-              "draw": 3.85
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Brest",
               "opponent_id": "6997",
               "home_or_away": "home",
@@ -36523,7 +35311,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Bayer Leverkusen",
               "opponent_id": "131",
               "home_or_away": "home",
@@ -38362,7 +37150,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-05T23:36:57.426951",
+      "scraped_at": "2026-09-06T03:59:09.349150",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -38384,9 +37172,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 1.69,
-              "away": 5.0,
-              "draw": 3.85
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -38424,9 +37212,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.25,
-              "away": 3.3,
-              "draw": 3.3
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -38464,9 +37252,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.85,
-              "away": 2.6,
-              "draw": 3.25
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -38489,7 +37277,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Sunderland",
             "home_team_id": "366",
@@ -38504,9 +37292,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.15,
-              "away": 3.05,
-              "draw": 3.45
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -38529,7 +37317,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Lens",
             "home_team_id": "175",
@@ -38544,16 +37332,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.55,
-              "away": 2.5,
-              "draw": 3.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Stade Rennais",
               "opponent_id": "169",
               "home_or_away": "home",
@@ -38569,7 +37357,7 @@
             "date": "2026-08-02",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Sunderland",
             "home_team_id": "366",
@@ -38593,7 +37381,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Lens",
               "opponent_id": "175",
               "home_or_away": "away",
@@ -38609,7 +37397,7 @@
             "date": "2026-07-30",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Sunderland",
             "home_team_id": "366",
@@ -38633,7 +37421,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Wrexham",
               "opponent_id": "352",
               "home_or_away": "home",
@@ -38649,7 +37437,7 @@
             "date": "2026-07-25",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Liverpool",
             "home_team_id": "364",
@@ -38668,49 +37456,12 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 64,
-                "away": 36
-              },
-              "Shots on Goal": {
-                "home": 6,
-                "away": 5
-              },
-              "Big Chances Created": {
-                "home": 4,
-                "away": 1
-              },
-              "Corners Won": {
-                "home": 4,
-                "away": 1
-              },
-              "Accurate Passes": {
-                "home": 467,
-                "away": 233
-              },
-              "Passes": {
-                "home": 517,
-                "away": 297
-              },
-              "Duels Won": {
-                "home": 30,
-                "away": 41
-              },
-              "Saves": {
-                "home": 2,
-                "away": 2
-              },
-              "Fouls Committed": {
-                "home": 18,
-                "away": 9
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Leeds United",
               "opponent_id": "357",
               "home_or_away": "home",
@@ -38752,7 +37503,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Liverpool",
               "opponent_id": "364",
               "home_or_away": "away",
@@ -39948,7 +38699,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-05T23:37:03.125410",
+      "scraped_at": "2026-09-06T03:59:14.763894",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -39970,9 +38721,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.7,
-              "away": 2.65,
-              "draw": 3.35
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -40010,9 +38761,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.2,
-              "away": 3.1,
-              "draw": 3.75
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -40035,7 +38786,7 @@
             "date": "2026-08-26",
             "season": "2026/2027",
             "matchday": null,
-            "round": 2,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Tottenham Hotspur",
             "home_team_id": "367",
@@ -40050,9 +38801,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.13,
-              "away": 15.0,
-              "draw": 7.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -40090,16 +38841,16 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.05,
-              "away": 3.45,
-              "draw": 3.75
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 2,
+              "round": null,
               "opponent": "Charlton Athletic",
               "opponent_id": "372",
               "home_or_away": "home",
@@ -40115,7 +38866,7 @@
             "date": "2026-08-16",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Tottenham Hotspur",
             "home_team_id": "367",
@@ -40134,45 +38885,8 @@
               "away": null,
               "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 61,
-                "away": 39
-              },
-              "Shots on Goal": {
-                "home": 3,
-                "away": 6
-              },
-              "Big Chances Created": {
-                "home": 3,
-                "away": 2
-              },
-              "Corners Won": {
-                "home": 2,
-                "away": 6
-              },
-              "Accurate Passes": {
-                "home": 556,
-                "away": 329
-              },
-              "Passes": {
-                "home": 634,
-                "away": 391
-              },
-              "Duels Won": {
-                "home": 57,
-                "away": 47
-              },
-              "Saves": {
-                "home": 4,
-                "away": 1
-              },
-              "Fouls Committed": {
-                "home": 8,
-                "away": 22
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Premier League",
               "matchday": 1,
@@ -40192,7 +38906,7 @@
             "date": "2026-08-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Tottenham Hotspur",
             "home_team_id": "367",
@@ -40207,53 +38921,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.87,
-              "away": 3.5,
-              "draw": 3.85
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 53,
-                "away": 47
-              },
-              "Shots on Goal": {
-                "home": 5,
-                "away": 3
-              },
-              "Big Chances Created": {
-                "home": 3,
-                "away": 0
-              },
-              "Corners Won": {
-                "home": 2,
-                "away": 4
-              },
-              "Accurate Passes": {
-                "home": 467,
-                "away": 399
-              },
-              "Passes": {
-                "home": 519,
-                "away": 460
-              },
-              "Duels Won": {
-                "home": 47,
-                "away": 31
-              },
-              "Saves": {
-                "home": 3,
-                "away": 2
-              },
-              "Fouls Committed": {
-                "home": 6,
-                "away": 13
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Tsg Hoffenheim",
               "opponent_id": "7911",
               "home_or_away": "home",
@@ -40269,7 +38946,7 @@
             "date": "2026-08-08",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Tottenham Hotspur",
             "home_team_id": "367",
@@ -40284,53 +38961,16 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 1.91,
-              "away": 3.55,
-              "draw": 3.75
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 66,
-                "away": 34
-              },
-              "Shots on Goal": {
-                "home": 6,
-                "away": 1
-              },
-              "Big Chances Created": {
-                "home": 3,
-                "away": 1
-              },
-              "Corners Won": {
-                "home": 4,
-                "away": 1
-              },
-              "Accurate Passes": {
-                "home": 403,
-                "away": 188
-              },
-              "Passes": {
-                "home": 438,
-                "away": 227
-              },
-              "Duels Won": {
-                "home": 34,
-                "away": 25
-              },
-              "Saves": {
-                "home": 0,
-                "away": 5
-              },
-              "Fouls Committed": {
-                "home": 7,
-                "away": 13
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Tsg Hoffenheim",
               "opponent_id": "7911",
               "home_or_away": "home",
@@ -40346,7 +38986,7 @@
             "date": "2026-07-26",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Auckland FC",
             "home_team_id": "22344",
@@ -40361,53 +39001,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 5.75,
-              "away": 1.32,
-              "draw": 6.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 37,
-                "away": 63
-              },
-              "Shots on Goal": {
-                "home": 3,
-                "away": 6
-              },
-              "Big Chances Created": {
-                "home": 1,
-                "away": 3
-              },
-              "Corners Won": {
-                "home": 3,
-                "away": 10
-              },
-              "Accurate Passes": {
-                "home": 281,
-                "away": 535
-              },
-              "Passes": {
-                "home": 342,
-                "away": 580
-              },
-              "Duels Won": {
-                "home": 43,
-                "away": 39
-              },
-              "Saves": {
-                "home": 4,
-                "away": 3
-              },
-              "Fouls Committed": {
-                "home": 11,
-                "away": 9
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Getafe",
               "opponent_id": "2922",
               "home_or_away": "home",
@@ -40423,7 +39026,7 @@
             "date": "2026-07-22",
             "season": "2026/2027",
             "matchday": null,
-            "round": 0,
+            "round": null,
             "competition": "Club Friendly",
             "home_team": "Tottenham Hotspur",
             "home_team_id": "367",
@@ -40438,53 +39041,16 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.27,
-              "away": 8.5,
-              "draw": 5.75
+              "home": null,
+              "away": null,
+              "draw": null
             },
-            "has_full_stats": true,
-            "stats": {
-              "Possession": {
-                "home": 71,
-                "away": 29
-              },
-              "Shots on Goal": {
-                "home": 4,
-                "away": 3
-              },
-              "Big Chances Created": {
-                "home": 2,
-                "away": 0
-              },
-              "Corners Won": {
-                "home": 5,
-                "away": 6
-              },
-              "Accurate Passes": {
-                "home": 693,
-                "away": 246
-              },
-              "Passes": {
-                "home": 738,
-                "away": 290
-              },
-              "Duels Won": {
-                "home": 28,
-                "away": 30
-              },
-              "Saves": {
-                "home": 3,
-                "away": 3
-              },
-              "Fouls Committed": {
-                "home": 10,
-                "away": 9
-              }
-            },
+            "has_full_stats": false,
+            "stats": {},
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Auckland FC",
               "opponent_id": "22344",
               "home_or_away": "away",
@@ -40567,7 +39133,7 @@
             "next_game": {
               "context": "Club Friendly",
               "matchday": null,
-              "round": 0,
+              "round": null,
               "opponent": "Milton Keynes Dons",
               "opponent_id": "390",
               "home_or_away": "home",
