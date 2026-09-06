@@ -9,10 +9,6 @@ import logging
 from datetime import datetime
 from playwright.async_api import async_playwright, TimeoutError
 
-# Récupération des variables d'environnement
-MAX_SCROLLS = int(os.environ.get('MAX_SCROLLS', '20'))
-HEADLESS = os.environ.get('HEADLESS', 'true').lower() == 'true'
-
 # Configuration des logs
 logging.basicConfig(
     level=logging.INFO,
@@ -29,13 +25,11 @@ class LiveMatchesScraper:
         self.matches_data = []
         self.processed_ids = set()
         self.max_retries = 3
-        self.timeout = 60000
-        self.max_scrolls = MAX_SCROLLS
+        self.timeout = 60000  # 60 secondes
         
     async def scrape(self):
-        """Méthode principale de scraping"""
+        """Méthode principale de scraping avec gestion d'erreurs"""
         logger.info("🚀 Démarrage du scraper de matchs en direct")
-        logger.info(f"📋 Configuration: max_scrolls={self.max_scrolls}, headless={HEADLESS}")
         
         for attempt in range(self.max_retries):
             try:
@@ -45,15 +39,16 @@ class LiveMatchesScraper:
                 logger.error(f"❌ Erreur lors de la tentative {attempt + 1}: {e}")
                 if attempt == self.max_retries - 1:
                     raise
-                await asyncio.sleep(5 * (attempt + 1))
+                await asyncio.sleep(5 * (attempt + 1))  # Backoff exponentiel
         
         return []
     
     async def _scrape_attempt(self):
         """Tentative unique de scraping"""
         async with async_playwright() as p:
+            # Configuration du navigateur pour GitHub Actions
             browser = await p.chromium.launch(
-                headless=HEADLESS,
+                headless=True,  # Mode headless pour GitHub Actions
                 args=[
                     '--disable-blink-features=AutomationControlled',
                     '--disable-dev-shm-usage',
@@ -62,7 +57,12 @@ class LiveMatchesScraper:
                     '--disable-web-security',
                     '--disable-features=IsolateOrigins,site-per-process',
                     '--disable-gpu',
-                    '--disable-software-rasterizer'
+                    '--disable-software-rasterizer',
+                    '--disable-dev-tools',
+                    '--no-zygote',
+                    '--single-process',
+                    '--disable-logging',
+                    '--log-level=3'
                 ]
             )
             
@@ -90,6 +90,10 @@ class LiveMatchesScraper:
                 
                 page = await context.new_page()
                 
+                # Gestion des erreurs de page
+                page.on('pageerror', lambda error: logger.error(f"Page error: {error}"))
+                page.on('response', lambda response: self._handle_response(response))
+                
                 logger.info("🌐 Navigation vers https://1xbet.ci/fr/live")
                 await page.goto('https://1xbet.ci/fr/live', wait_until='domcontentloaded', timeout=self.timeout)
                 
@@ -113,11 +117,14 @@ class LiveMatchesScraper:
         logger.info("⏳ Attente du chargement de la page...")
         
         try:
+            # Attendre les cartes de matchs
             await page.wait_for_selector('.ui-game-card', timeout=30000)
             logger.info("✅ Cartes de matchs chargées")
             
+            # Attendre que le réseau soit calme
             await page.wait_for_load_state('networkidle', timeout=30000)
             
+            # Attendre les données JSON
             await page.wait_for_function(
                 """() => {
                     return window.__RCP !== undefined && 
@@ -135,13 +142,14 @@ class LiveMatchesScraper:
     
     async def scroll_to_load_all_matches(self, page):
         """Simuler le scroll pour charger tous les matchs"""
-        logger.info(f"🔄 Scroll pour charger tous les matchs (max: {self.max_scrolls})...")
+        logger.info("🔄 Scroll pour charger tous les matchs...")
         
         scroll_count = 0
+        max_scrolls = 20
         previous_height = 0
         no_change_counter = 0
         
-        while scroll_count < self.max_scrolls:
+        while scroll_count < max_scrolls:
             try:
                 await page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
                 await asyncio.sleep(1.5)
@@ -165,6 +173,7 @@ class LiveMatchesScraper:
                 logger.warning(f"⚠️ Erreur lors du scroll: {e}")
                 break
         
+        # Remonter légèrement
         try:
             await page.evaluate('window.scrollTo(0, document.body.scrollHeight / 2)')
             await asyncio.sleep(1)
@@ -288,6 +297,11 @@ class LiveMatchesScraper:
         
         return matches
     
+    async def _handle_response(self, response):
+        """Gérer les réponses HTTP (pour logging)"""
+        if response.status >= 400:
+            logger.warning(f"⚠️ Réponse HTTP {response.status}: {response.url}")
+    
     async def save_matches(self, matches):
         """Sauvegarder les matchs en JSON"""
         if not matches:
@@ -333,6 +347,14 @@ async def main():
         
         if matches:
             logger.info(f"\n✅ Scraping terminé avec succès! {len(matches)} matchs récupérés.")
+            # Afficher les 5 premiers matchs
+            logger.info("\n🔍 Aperçu des 5 premiers matchs:")
+            for i, match in enumerate(matches[:5]):
+                name1 = match.get('firstOpponentName', '?')
+                name2 = match.get('secondOpponentName', '?')
+                champ = match.get('champName', 'Championnat inconnu')
+                logger.info(f"   {i+1}. {name1} vs {name2} ({champ})")
+            
             sys.exit(0)
         else:
             logger.error("❌ Aucun match récupéré.")
