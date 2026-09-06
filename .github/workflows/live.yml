@@ -1,0 +1,125 @@
+name: Live Matches Scraper
+
+on:
+  # Déclenchement manuel depuis l'interface GitHub
+  workflow_dispatch:
+
+jobs:
+  scrape-live-matches:
+    runs-on: ubuntu-latest
+    
+    # Stratégie de sécurité et de gestion des erreurs
+    strategy:
+      fail-fast: false  # Ne pas annuler les autres jobs en cas d'échec
+      max-parallel: 1   # Une seule instance à la fois
+    
+    steps:
+      # 1. Checkout du code
+      - name: 📥 Checkout du code
+        uses: actions/checkout@v4
+        
+      # 2. Configuration de Python
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          
+      # 3. Installation des dépendances
+      - name: 📦 Installation des dépendances
+        run: |
+          pip install --upgrade pip
+          pip install playwright asyncio
+          pip install -r requirements.txt || echo "No requirements.txt found"
+          
+      # 4. Installation des navigateurs Playwright
+      - name: 🌐 Installation des navigateurs Playwright
+        run: |
+          playwright install chromium
+          playwright install-deps
+          
+      # 5. Exécution du script
+      - name: 🚀 Exécution du scraper
+        id: scraper
+        run: |
+          python live.py
+        continue-on-error: true  # Continuer même en cas d'erreur
+        
+      # 6. Vérification des résultats
+      - name: 📊 Vérification des résultats
+        id: check_results
+        run: |
+          if [ -f "matches_live.json" ]; then
+            echo "✅ Fichier matches_live.json trouvé"
+            echo "matches_found=true" >> $GITHUB_OUTPUT
+            echo "file_size=$(du -h matches_live.json | cut -f1)" >> $GITHUB_OUTPUT
+            # Compter les matchs
+            matches_count=$(python -c "import json; data=json.load(open('matches_live.json')); print(len(data['matches']))" 2>/dev/null || echo "0")
+            echo "matches_count=$matches_count" >> $GITHUB_OUTPUT
+          else
+            echo "❌ Fichier matches_live.json non trouvé"
+            echo "matches_found=false" >> $GITHUB_OUTPUT
+          fi
+        continue-on-error: true
+        
+      # 7. Sauvegarde des résultats en artefact
+      - name: 💾 Sauvegarde des artefacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: live-matches-${{ github.run_id }}
+          path: |
+            matches_live.json
+            matches_live_*.json
+          retention-days: 7
+          compression-level: 6
+          
+      # 8. Sauvegarde des logs en cas d'erreur
+      - name: 📝 Sauvegarde des logs
+        if: always()  # Toujours exécuté, même en cas d'échec
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-${{ github.run_id }}
+          path: |
+            *.log
+            *.txt
+            !matches_live.json
+          retention-days: 3
+          if-no-files-found: ignore
+          
+      # 9. Notification Slack (optionnel)
+      - name: 💬 Notification Slack
+        if: always()  # Exécuté à la fin pour informer du statut (succès ou échec)
+        uses: 8398a7/action-slack@v3
+        with:
+          status: ${{ job.status }}
+          fields: repo,message,commit,author,action,eventName,ref,workflow
+          text: |
+            📊 Scraping des matchs en direct terminé (Déclenchement manuel)
+            - Status: ${{ job.status }}
+            - Matchs trouvés: ${{ steps.check_results.outputs.matches_count || 'N/A' }}
+            - Fichier: ${{ steps.check_results.outputs.file_size || 'N/A' }}
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        continue-on-error: true
+        
+      # 10. Notification par email (optionnel)
+      - name: 📧 Notification email
+        if: failure()  # Seulement en cas d'échec du workflow
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: ❌ Échec du scraper live (Manuel) - ${{ github.repository }}
+          to: ${{ secrets.NOTIFICATION_EMAIL }}
+          from: GitHub Actions
+          body: |
+            Le workflow de scraping des matchs en direct a échoué.
+            
+            Repository: ${{ github.repository }}
+            Run ID: ${{ github.run_id }}
+            Run URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+            
+            Veuillez vérifier les logs pour plus d'informations.
+        continue-on-error: true
