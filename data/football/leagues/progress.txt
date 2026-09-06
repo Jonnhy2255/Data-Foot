@@ -1,6 +1,6 @@
 {
   "all_teams_done": true,
-  "updated_at": "2026-09-06T15:21:56.077452",
+  "updated_at": "2026-09-06T20:21:40.405918",
   "teams": {
     "349": {
       "team_name": "AFC Bournemouth",
@@ -14,7 +14,7 @@
       "team_name": "Arsenal",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401879295",
+      "last_match_id": "401879292",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -46,7 +46,7 @@
       "team_name": "Chelsea",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401879317",
+      "last_match_id": "401879292",
       "done": true,
       "remaining_new_matches": 0
     },
