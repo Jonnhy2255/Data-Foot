@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-09-16T04:17:41.082600",
+  "scraped_at": "2026-09-16T11:19:47.609711",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 33,
-      "scraped_at": "2026-09-16T04:16:03.535461",
+      "scraped_at": "2026-09-16T11:18:02.431999",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2233,14 +2233,14 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-16T04:16:08.650423",
+      "scraped_at": "2026-09-16T11:18:08.218825",
       "matches_by_season": {
         "2026/2027": [
           {
             "date": "2026-09-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 3,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Ipswich Town",
             "home_team_id": "373",
@@ -2255,9 +2255,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 7.0,
-              "away": 1.35,
-              "draw": 5.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -2304,7 +2304,7 @@
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 3,
+              "round": null,
               "opponent": "Ipswich Town",
               "opponent_id": "373",
               "home_or_away": "away",
@@ -4471,7 +4471,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-16T04:16:13.824194",
+      "scraped_at": "2026-09-16T11:18:13.681970",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -6792,14 +6792,14 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-16T04:16:18.837084",
+      "scraped_at": "2026-09-16T11:18:19.386381",
       "matches_by_season": {
         "2026/2027": [
           {
             "date": "2026-09-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 3,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Reading",
             "home_team_id": "338",
@@ -6814,9 +6814,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 11.0,
-              "away": 1.2,
-              "draw": 6.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -6863,7 +6863,7 @@
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 3,
+              "round": null,
               "opponent": "Reading",
               "opponent_id": "338",
               "home_or_away": "away",
@@ -8966,7 +8966,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-16T04:16:24.047295",
+      "scraped_at": "2026-09-16T11:18:24.837325",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -11271,7 +11271,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-16T04:16:29.179095",
+      "scraped_at": "2026-09-16T11:18:30.228194",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -13428,7 +13428,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 33,
-      "scraped_at": "2026-09-16T04:16:34.179602",
+      "scraped_at": "2026-09-16T11:18:35.891683",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -14960,7 +14960,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-16T04:16:39.244421",
+      "scraped_at": "2026-09-16T11:18:41.373165",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -17174,7 +17174,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-16T04:16:44.371372",
+      "scraped_at": "2026-09-16T11:18:46.871693",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -19414,7 +19414,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-16T04:16:49.557720",
+      "scraped_at": "2026-09-16T11:18:52.455520",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -21743,7 +21743,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-16T04:16:54.598795",
+      "scraped_at": "2026-09-16T11:18:57.969295",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -23275,14 +23275,14 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-16T04:16:59.773948",
+      "scraped_at": "2026-09-16T11:19:03.178627",
       "matches_by_season": {
         "2026/2027": [
           {
             "date": "2026-09-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 3,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Ipswich Town",
             "home_team_id": "373",
@@ -23297,9 +23297,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 7.0,
-              "away": 1.35,
-              "draw": 5.0
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -23346,7 +23346,7 @@
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 3,
+              "round": null,
               "opponent": "Arsenal",
               "opponent_id": "359",
               "home_or_away": "home",
@@ -25540,7 +25540,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-16T04:17:04.945634",
+      "scraped_at": "2026-09-16T11:19:08.767481",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -27281,14 +27281,14 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-16T04:17:10.197581",
+      "scraped_at": "2026-09-16T11:19:14.449339",
       "matches_by_season": {
         "2026/2027": [
           {
             "date": "2026-09-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 3,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Liverpool",
             "home_team_id": "364",
@@ -27303,9 +27303,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.0,
-              "away": 3.3,
-              "draw": 3.65
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -27352,7 +27352,7 @@
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 3,
+              "round": null,
               "opponent": "Tottenham Hotspur",
               "opponent_id": "367",
               "home_or_away": "home",
@@ -29535,7 +29535,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-16T04:17:15.325074",
+      "scraped_at": "2026-09-16T11:19:19.897887",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -31733,7 +31733,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-16T04:17:20.320687",
+      "scraped_at": "2026-09-16T11:19:25.373308",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -34035,7 +34035,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-16T04:17:25.386529",
+      "scraped_at": "2026-09-16T11:19:30.888416",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -36485,7 +36485,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 33,
-      "scraped_at": "2026-09-16T04:17:30.614090",
+      "scraped_at": "2026-09-16T11:19:36.497410",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -38670,7 +38670,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-16T04:17:35.876593",
+      "scraped_at": "2026-09-16T11:19:41.847733",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -40299,14 +40299,14 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-16T04:17:41.082454",
+      "scraped_at": "2026-09-16T11:19:47.609485",
       "matches_by_season": {
         "2026/2027": [
           {
             "date": "2026-09-15",
             "season": "2026/2027",
             "matchday": null,
-            "round": 3,
+            "round": null,
             "competition": "English Carabao Cup",
             "home_team": "Liverpool",
             "home_team_id": "364",
@@ -40321,9 +40321,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.0,
-              "away": 3.3,
-              "draw": 3.65
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -40370,7 +40370,7 @@
             "next_game": {
               "context": "Carabao Cup",
               "matchday": null,
-              "round": 3,
+              "round": null,
               "opponent": "Liverpool",
               "opponent_id": "364",
               "home_or_away": "away",
