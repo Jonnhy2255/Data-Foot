@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-09-18T20:49:08.371168",
+  "scraped_at": "2026-09-18T23:17:14.299410",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-18T20:47:15.606660",
+      "scraped_at": "2026-09-18T23:15:34.204674",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2273,7 +2273,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-18T20:47:20.895040",
+      "scraped_at": "2026-09-18T23:15:39.537569",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4511,7 +4511,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-18T20:47:26.297028",
+      "scraped_at": "2026-09-18T23:15:44.792096",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -6871,10 +6871,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 34,
-      "scraped_at": "2026-09-18T20:47:35.575225",
+      "total_matches": 35,
+      "scraped_at": "2026-09-18T23:15:50.342495",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-09-18",
+            "season": "2026/2027",
+            "matchday": 5,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Brentford",
+            "home_team_id": "337",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+            "home_score": 3,
+            "away_team": "Chelsea",
+            "away_team_id": "363",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 2.55,
+              "away": 2.6,
+              "draw": 3.65
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 6,
+              "round": null,
+              "opponent": "Aston Villa",
+              "opponent_id": "362",
+              "home_or_away": "away",
+              "date": "Sat, Oct 10",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878776/brentford-aston-villa",
+              "game_id": "401878776"
+            },
+            "match_id": "401879275",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879275/chelsea-brentford"
+          },
           {
             "date": "2026-09-15",
             "season": "2026/2027",
@@ -6907,9 +6947,9 @@
               "opponent": "Chelsea",
               "opponent_id": "363",
               "home_or_away": "home",
-              "date": "Fri, Sep 18",
+              "date": "2026-09-18",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879275",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879275/chelsea-brentford",
               "game_id": "401879275"
             },
             "match_id": "401914285",
@@ -9046,7 +9086,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-18T20:47:41.852137",
+      "scraped_at": "2026-09-18T23:15:55.488447",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -11390,10 +11430,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 36,
-      "scraped_at": "2026-09-18T20:47:50.916327",
+      "total_matches": 37,
+      "scraped_at": "2026-09-18T23:16:00.685141",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-09-18",
+            "season": "2026/2027",
+            "matchday": 5,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Brentford",
+            "home_team_id": "337",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+            "home_score": 3,
+            "away_team": "Chelsea",
+            "away_team_id": "363",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "D",
+            "odds": {
+              "home": 2.55,
+              "away": 2.6,
+              "draw": 3.65
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 6,
+              "round": null,
+              "opponent": "AFC Bournemouth",
+              "opponent_id": "349",
+              "home_or_away": "home",
+              "date": "Sat, Oct 10",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878775/afc-bournemouth-chelsea",
+              "game_id": "401878775"
+            },
+            "match_id": "401879275",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879275/chelsea-brentford"
+          },
           {
             "date": "2026-09-12",
             "season": "2026/2027",
@@ -11426,9 +11506,9 @@
               "opponent": "Brentford",
               "opponent_id": "337",
               "home_or_away": "away",
-              "date": "Fri, Sep 18",
+              "date": "2026-09-18",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879275",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879275/chelsea-brentford",
               "game_id": "401879275"
             },
             "match_id": "401879283",
@@ -13548,7 +13628,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-18T20:47:57.169221",
+      "scraped_at": "2026-09-18T23:16:06.073072",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15120,7 +15200,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-18T20:48:02.788500",
+      "scraped_at": "2026-09-18T23:16:11.374502",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -17374,7 +17454,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-18T20:48:08.314287",
+      "scraped_at": "2026-09-18T23:16:16.510920",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -19654,7 +19734,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-18T20:48:13.848155",
+      "scraped_at": "2026-09-18T23:16:21.750270",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -21983,7 +22063,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-18T20:48:19.420236",
+      "scraped_at": "2026-09-18T23:16:26.935516",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -23515,7 +23595,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-18T20:48:24.908904",
+      "scraped_at": "2026-09-18T23:16:32.179166",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -25780,7 +25860,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-18T20:48:30.327623",
+      "scraped_at": "2026-09-18T23:16:37.263780",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -27521,7 +27601,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-18T20:48:35.829675",
+      "scraped_at": "2026-09-18T23:16:42.762137",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -29775,7 +29855,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-18T20:48:41.418941",
+      "scraped_at": "2026-09-18T23:16:47.807572",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -32013,7 +32093,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-18T20:48:46.625988",
+      "scraped_at": "2026-09-18T23:16:52.697458",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -34355,7 +34435,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-18T20:48:51.993040",
+      "scraped_at": "2026-09-18T23:16:58.083639",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -36805,7 +36885,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 33,
-      "scraped_at": "2026-09-18T20:48:57.340005",
+      "scraped_at": "2026-09-18T23:17:03.150615",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -38990,7 +39070,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-18T20:49:02.894904",
+      "scraped_at": "2026-09-18T23:17:09.279089",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -40659,7 +40739,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-18T20:49:08.371021",
+      "scraped_at": "2026-09-18T23:17:14.299255",
       "matches_by_season": {
         "2026/2027": [
           {
