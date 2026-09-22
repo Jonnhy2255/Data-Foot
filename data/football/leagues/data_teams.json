@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-09-22T16:46:45.247811",
+  "scraped_at": "2026-09-22T21:12:40.202062",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-22T16:45:02.404461",
+      "scraped_at": "2026-09-22T21:11:02.290241",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -53,7 +53,7 @@
               "home_or_away": "away",
               "date": "Sat, Oct 10",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878775%2Fafc-bournemouth-chelsea",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878775/afc-bournemouth-chelsea",
               "game_id": "401878775"
             },
             "match_id": "401879276",
@@ -65,7 +65,7 @@
             "matchday": null,
             "round": null,
             "competition": "UEFA Europa League",
-            "home_team": "Real%20Sociedad",
+            "home_team": "Real Sociedad",
             "home_team_id": "89",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
             "home_score": 1,
@@ -97,7 +97,7 @@
               "game_id": "401879276"
             },
             "match_id": "401915583",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401915583%2Fafc-bournemouth-real-sociedad"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401915583/afc-bournemouth-real-sociedad"
           },
           {
             "date": "2026-09-12",
@@ -128,16 +128,16 @@
               "context": "UEFA Europa League",
               "matchday": null,
               "round": null,
-              "opponent": "Real%20Sociedad",
+              "opponent": "Real Sociedad",
               "opponent_id": "89",
               "home_or_away": "away",
               "date": "2026-09-17",
               "competition": "UEFA Europa League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915583%2Fafc-bournemouth-real-sociedad",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915583/afc-bournemouth-real-sociedad",
               "game_id": "401915583"
             },
             "match_id": "401879285",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879285%2Fbrentford-afc-bournemouth"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879285/brentford-afc-bournemouth"
           },
           {
             "date": "2026-09-08",
@@ -145,7 +145,7 @@
             "matchday": null,
             "round": null,
             "competition": "English Carabao Cup",
-            "home_team": "Afc%20Bournemouth",
+            "home_team": "AFC Bournemouth",
             "home_team_id": "349",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
             "home_score": 4,
@@ -173,7 +173,7 @@
               "home_or_away": "home",
               "date": "2026-09-12",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879285%2Fbrentford-afc-bournemouth",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879285/brentford-afc-bournemouth",
               "game_id": "401879285"
             },
             "match_id": "401914267",
@@ -2313,7 +2313,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-22T16:45:07.889415",
+      "scraped_at": "2026-09-22T21:11:07.493853",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2322,7 +2322,7 @@
             "matchday": 5,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Brighton%20%26%20Hove%20Albion",
+            "home_team": "Brighton Hove Albion",
             "home_team_id": "331",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
             "home_score": 3,
@@ -2350,7 +2350,7 @@
               "home_or_away": "home",
               "date": "Sat, Oct 10",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879268%2Fleeds-united-arsenal",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879268/leeds-united-arsenal",
               "game_id": "401879268"
             },
             "match_id": "401879274",
@@ -2385,7 +2385,7 @@
               "context": "Premier League",
               "matchday": 5,
               "round": null,
-              "opponent": "Brighton%20%26%20Hove%20Albion",
+              "opponent": "Brighton Hove Albion",
               "opponent_id": "331",
               "home_or_away": "away",
               "date": "2026-09-19",
@@ -2514,7 +2514,7 @@
               "game_id": "401915423"
             },
             "match_id": "401879292",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879292%2Fchelsea-arsenal"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879292/chelsea-arsenal"
           },
           {
             "date": "2026-08-31",
@@ -2550,11 +2550,11 @@
               "home_or_away": "home",
               "date": "2026-09-06",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879292%2Fchelsea-arsenal",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879292/chelsea-arsenal",
               "game_id": "401879292"
             },
             "match_id": "401879295",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879295%2Farsenal-aston-villa"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879295/arsenal-aston-villa"
           },
           {
             "date": "2026-08-21",
@@ -2590,7 +2590,7 @@
               "home_or_away": "away",
               "date": "2026-08-31",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879295%2Farsenal-aston-villa",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879295/arsenal-aston-villa",
               "game_id": "401879295"
             },
             "match_id": "401879301",
@@ -2674,7 +2674,7 @@
               "game_id": "401875219"
             },
             "match_id": "401886555",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401886555%2Fcomo-arsenal"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401886555/como-arsenal"
           },
           {
             "date": "2026-08-09",
@@ -2710,7 +2710,7 @@
               "home_or_away": "home",
               "date": "2026-08-12",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401886555%2Fcomo-arsenal",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401886555/como-arsenal",
               "game_id": "401886555"
             },
             "match_id": "401881706",
@@ -2726,7 +2726,7 @@
             "home_team_id": "359",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
             "home_score": 1,
-            "away_team": "Real%20Betis",
+            "away_team": "Real Betis",
             "away_team_id": "244",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
             "away_score": 3,
@@ -2754,7 +2754,7 @@
               "game_id": "401881706"
             },
             "match_id": "401867142",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401867142%2Freal-betis-arsenal"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401867142/real-betis-arsenal"
           },
           {
             "date": "2026-08-01",
@@ -2785,12 +2785,12 @@
               "context": "Club Friendly",
               "matchday": null,
               "round": null,
-              "opponent": "Real%20Betis",
+              "opponent": "Real Betis",
               "opponent_id": "244",
               "home_or_away": "home",
               "date": "2026-08-05",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401867142%2Freal-betis-arsenal",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401867142/real-betis-arsenal",
               "game_id": "401867142"
             },
             "match_id": "401886553",
@@ -4591,7 +4591,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-22T16:45:13.363898",
+      "scraped_at": "2026-09-22T21:11:12.576616",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4628,11 +4628,11 @@
               "home_or_away": "home",
               "date": "Sat, Oct 10",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878776%2Fbrentford-aston-villa",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878776/brentford-aston-villa",
               "game_id": "401878776"
             },
             "match_id": "401879269",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879269%2Faston-villa-tottenham-hotspur"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879269/aston-villa-tottenham-hotspur"
           },
           {
             "date": "2026-09-16",
@@ -4668,7 +4668,7 @@
               "home_or_away": "away",
               "date": "2026-09-19",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879269%2Faston-villa-tottenham-hotspur",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879269/aston-villa-tottenham-hotspur",
               "game_id": "401879269"
             },
             "match_id": "401914258",
@@ -4684,7 +4684,7 @@
             "home_team_id": "362",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
             "home_score": 1,
-            "away_team": "Nottingham%20Forest",
+            "away_team": "Nottingham Forest",
             "away_team_id": "393",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "away_score": 2,
@@ -4724,7 +4724,7 @@
             "home_team_id": "570",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
             "home_score": 2,
-            "away_team": "Aston%20Villa",
+            "away_team": "Aston Villa",
             "away_team_id": "362",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
             "away_score": 3,
@@ -4743,7 +4743,7 @@
               "context": "Premier League",
               "matchday": 4,
               "round": null,
-              "opponent": "Nottingham%20Forest",
+              "opponent": "Nottingham Forest",
               "opponent_id": "393",
               "home_or_away": "home",
               "date": "2026-09-12",
@@ -4832,7 +4832,7 @@
               "game_id": "401878781"
             },
             "match_id": "401879295",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879295%2Farsenal-aston-villa"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879295/arsenal-aston-villa"
           },
           {
             "date": "2026-08-23",
@@ -4840,7 +4840,7 @@
             "matchday": 1,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Brighton%20%26%20Hove%20Albion",
+            "home_team": "Brighton Hove Albion",
             "home_team_id": "331",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
             "home_score": 4,
@@ -4868,7 +4868,7 @@
               "home_or_away": "home",
               "date": "2026-08-31",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879295%2Farsenal-aston-villa",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879295/arsenal-aston-villa",
               "game_id": "401879295"
             },
             "match_id": "401879297",
@@ -4903,7 +4903,7 @@
               "context": "Premier League",
               "matchday": 1,
               "round": null,
-              "opponent": "Brighton%20%26%20Hove%20Albion",
+              "opponent": "Brighton Hove Albion",
               "opponent_id": "331",
               "home_or_away": "away",
               "date": "2026-08-23",
@@ -6992,7 +6992,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-22T16:45:18.775571",
+      "scraped_at": "2026-09-22T21:11:17.791901",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7029,7 +7029,7 @@
               "home_or_away": "away",
               "date": "Sat, Oct 10",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878776%2Fbrentford-aston-villa",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878776/brentford-aston-villa",
               "game_id": "401878776"
             },
             "match_id": "401879275",
@@ -7353,7 +7353,7 @@
               "game_id": "401899728"
             },
             "match_id": "401905954",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401905954%2Fbrentford-stade-rennais"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401905954/brentford-stade-rennais"
           }
         ],
         "2024/2025": [
@@ -7432,7 +7432,7 @@
               "home_or_away": "away",
               "date": "2026-08-08",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401905954%2Fbrentford-stade-rennais",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401905954/brentford-stade-rennais",
               "game_id": "401905954"
             },
             "match_id": "704450",
@@ -9206,7 +9206,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-22T16:45:24.013520",
+      "scraped_at": "2026-09-22T21:11:23.004357",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -9215,7 +9215,7 @@
             "matchday": 5,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Brighton%20%26%20Hove%20Albion",
+            "home_team": "Brighton Hove Albion",
             "home_team_id": "331",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
             "home_score": 3,
@@ -9243,7 +9243,7 @@
               "home_or_away": "away",
               "date": "Sat, Oct 10",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878772%2Fbrighton-hove-albion-sunderland",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878772/brighton-hove-albion-sunderland",
               "game_id": "401878772"
             },
             "match_id": "401879274",
@@ -9299,7 +9299,7 @@
             "home_team_id": "388",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
             "home_score": 0,
-            "away_team": "Brighton%20%26%20Hove%20Albion",
+            "away_team": "Brighton Hove Albion",
             "away_team_id": "331",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
             "away_score": 5,
@@ -9335,7 +9335,7 @@
             "matchday": 3,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Brighton%20%26%20Hove%20Albion",
+            "home_team": "Brighton Hove Albion",
             "home_team_id": "331",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
             "home_score": 1,
@@ -9379,7 +9379,7 @@
             "home_team_id": "363",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
             "home_score": 4,
-            "away_team": "Brighton%20%26%20Hove%20Albion",
+            "away_team": "Brighton Hove Albion",
             "away_team_id": "331",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
             "away_score": 3,
@@ -9447,7 +9447,7 @@
               "game_id": "401879317"
             },
             "match_id": "401909618",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401909618%2Ftromso-brighton-hove-albion"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401909618/tromso-brighton-hove-albion"
           },
           {
             "date": "2026-08-23",
@@ -9455,7 +9455,7 @@
             "matchday": 1,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Brighton%20%26%20Hove%20Albion",
+            "home_team": "Brighton Hove Albion",
             "home_team_id": "331",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
             "home_score": 4,
@@ -9483,7 +9483,7 @@
               "home_or_away": "home",
               "date": "2026-08-27",
               "competition": "UEFA Conference League Qualifying",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401909618%2Ftromso-brighton-hove-albion",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401909618/tromso-brighton-hove-albion",
               "game_id": "401909618"
             },
             "match_id": "401879297",
@@ -11591,7 +11591,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-22T16:45:29.083366",
+      "scraped_at": "2026-09-22T21:11:28.026919",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -11628,11 +11628,11 @@
               "home_or_away": "home",
               "date": "Sat, Oct 10",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878775%2Fafc-bournemouth-chelsea",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878775/afc-bournemouth-chelsea",
               "game_id": "401878775"
             },
             "match_id": "401879275",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879275%2Fchelsea-brentford"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879275/chelsea-brentford"
           },
           {
             "date": "2026-09-12",
@@ -11668,7 +11668,7 @@
               "home_or_away": "away",
               "date": "2026-09-18",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879275%2Fchelsea-brentford",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879275/chelsea-brentford",
               "game_id": "401879275"
             },
             "match_id": "401879283",
@@ -11712,7 +11712,7 @@
               "game_id": "401879283"
             },
             "match_id": "401914256",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401914256%2Fleeds-united-chelsea"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401914256/leeds-united-chelsea"
           },
           {
             "date": "2026-09-06",
@@ -11748,7 +11748,7 @@
               "home_or_away": "home",
               "date": "2026-09-09",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401914256%2Fleeds-united-chelsea",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401914256/leeds-united-chelsea",
               "game_id": "401914256"
             },
             "match_id": "401879292",
@@ -11920,7 +11920,7 @@
             "matchday": null,
             "round": null,
             "competition": "Club Friendly",
-            "home_team": "Johor%20Darul%20Ta'Zim",
+            "home_team": "Johor Darul Tazim",
             "home_team_id": "17689",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/17689.png",
             "home_score": 3,
@@ -11952,7 +11952,7 @@
               "game_id": "401900324"
             },
             "match_id": "401886559",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401886559%2Fchelsea-johor-darul-tazim"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401886559/chelsea-johor-darul-tazim"
           },
           {
             "date": "2026-08-08",
@@ -11983,12 +11983,12 @@
               "context": "Club Friendly",
               "matchday": null,
               "round": null,
-              "opponent": "Johor%20Darul%20Ta'Zim",
+              "opponent": "Johor Darul Tazim",
               "opponent_id": "17689",
               "home_or_away": "away",
               "date": "2026-08-09",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401886559%2Fchelsea-johor-darul-tazim",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401886559/chelsea-johor-darul-tazim",
               "game_id": "401886559"
             },
             "match_id": "401871495",
@@ -13788,7 +13788,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-22T16:45:34.596298",
+      "scraped_at": "2026-09-22T21:11:33.393470",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -13841,7 +13841,7 @@
             "home_team_id": "388",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
             "home_score": 1,
-            "away_team": "Aston%20Villa",
+            "away_team": "Aston Villa",
             "away_team_id": "362",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
             "away_score": 3,
@@ -13900,7 +13900,7 @@
               "context": "Carabao Cup",
               "matchday": null,
               "round": null,
-              "opponent": "Aston%20Villa",
+              "opponent": "Aston Villa",
               "opponent_id": "362",
               "home_or_away": "home",
               "date": "2026-09-16",
@@ -13917,7 +13917,7 @@
             "matchday": 3,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Manchester%20City",
+            "home_team": "Manchester City",
             "home_team_id": "382",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
             "home_score": 1,
@@ -13980,7 +13980,7 @@
               "context": "Premier League",
               "matchday": 3,
               "round": null,
-              "opponent": "Manchester%20City",
+              "opponent": "Manchester City",
               "opponent_id": "382",
               "home_or_away": "away",
               "date": "2026-09-05",
@@ -14029,7 +14029,7 @@
               "game_id": "401879316"
             },
             "match_id": "401908416",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401908416%2Fcoventry-city-plymouth-argyle"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401908416/coventry-city-plymouth-argyle"
           },
           {
             "date": "2026-08-21",
@@ -14065,7 +14065,7 @@
               "home_or_away": "away",
               "date": "2026-08-25",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401908416%2Fcoventry-city-plymouth-argyle",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401908416/coventry-city-plymouth-argyle",
               "game_id": "401908416"
             },
             "match_id": "401879301",
@@ -14077,7 +14077,7 @@
             "matchday": null,
             "round": null,
             "competition": "Club Friendly",
-            "home_team": "Coventry%20City",
+            "home_team": "Coventry City",
             "home_team_id": "388",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
             "home_score": 2,
@@ -14117,7 +14117,7 @@
             "matchday": null,
             "round": null,
             "competition": "Club Friendly",
-            "home_team": "Coventry%20City",
+            "home_team": "Coventry City",
             "home_team_id": "388",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
             "home_score": 3,
@@ -14149,7 +14149,7 @@
               "game_id": "401906447"
             },
             "match_id": "401906322",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401906322%2Fespanyol-coventry-city"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401906322/espanyol-coventry-city"
           }
         ],
         "2024/2025": [
@@ -14187,7 +14187,7 @@
               "home_or_away": "home",
               "date": "2026-08-08",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401906322%2Fespanyol-coventry-city",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401906322/espanyol-coventry-city",
               "game_id": "401906322"
             },
             "match_id": "707875",
@@ -15400,7 +15400,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-22T16:45:41.031728",
+      "scraped_at": "2026-09-22T21:11:38.921018",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15493,7 +15493,7 @@
             "home_team_id": "384",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
             "home_score": 2,
-            "away_team": "Ipswich%20Town",
+            "away_team": "Ipswich Town",
             "away_team_id": "373",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "away_score": 3,
@@ -15552,7 +15552,7 @@
               "context": "Premier League",
               "matchday": 4,
               "round": null,
-              "opponent": "Ipswich%20Town",
+              "opponent": "Ipswich Town",
               "opponent_id": "373",
               "home_or_away": "home",
               "date": "2026-09-12",
@@ -15601,7 +15601,7 @@
               "game_id": "401914269"
             },
             "match_id": "401879289",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879289%2Fcrystal-palace-fulham"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879289/crystal-palace-fulham"
           },
           {
             "date": "2026-08-28",
@@ -15637,7 +15637,7 @@
               "home_or_away": "away",
               "date": "2026-09-05",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879289%2Fcrystal-palace-fulham",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879289/crystal-palace-fulham",
               "game_id": "401879289"
             },
             "match_id": "401879294",
@@ -15761,7 +15761,7 @@
               "game_id": "401902745"
             },
             "match_id": "401902746",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401902746%2Fal-ula-crystal-palace"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401902746/al-ula-crystal-palace"
           },
           {
             "date": "2026-07-25",
@@ -15797,7 +15797,7 @@
               "home_or_away": "home",
               "date": "2026-07-31",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401902746%2Fal-ula-crystal-palace",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401902746/al-ula-crystal-palace",
               "game_id": "401902746"
             },
             "match_id": "401891770",
@@ -17694,7 +17694,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-22T16:45:46.534881",
+      "scraped_at": "2026-09-22T21:11:44.382230",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -17707,7 +17707,7 @@
             "home_team_id": "368",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
             "home_score": 1,
-            "away_team": "Ipswich%20Town",
+            "away_team": "Ipswich Town",
             "away_team_id": "373",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "away_score": 0,
@@ -17766,7 +17766,7 @@
               "context": "Premier League",
               "matchday": 5,
               "round": null,
-              "opponent": "Ipswich%20Town",
+              "opponent": "Ipswich Town",
               "opponent_id": "373",
               "home_or_away": "home",
               "date": "2026-09-19",
@@ -17815,7 +17815,7 @@
               "game_id": "401914282"
             },
             "match_id": "401879277",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879277%2Feverton-tottenham-hotspur"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879277/everton-tottenham-hotspur"
           },
           {
             "date": "2026-09-06",
@@ -17851,7 +17851,7 @@
               "home_or_away": "away",
               "date": "2026-09-12",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879277%2Feverton-tottenham-hotspur",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879277/everton-tottenham-hotspur",
               "game_id": "401879277"
             },
             "match_id": "401879291",
@@ -17863,7 +17863,7 @@
             "matchday": 2,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Afc%20Bournemouth",
+            "home_team": "AFC Bournemouth",
             "home_team_id": "349",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
             "home_score": 1,
@@ -17926,7 +17926,7 @@
               "context": "Premier League",
               "matchday": 2,
               "round": null,
-              "opponent": "Afc%20Bournemouth",
+              "opponent": "AFC Bournemouth",
               "opponent_id": "349",
               "home_or_away": "away",
               "date": "2026-08-29",
@@ -17935,7 +17935,7 @@
               "game_id": "401879296"
             },
             "match_id": "401908123",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401908123%2Feverton-preston-north-end"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401908123/everton-preston-north-end"
           },
           {
             "date": "2026-08-22",
@@ -17947,7 +17947,7 @@
             "home_team_id": "368",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
             "home_score": 2,
-            "away_team": "Crystal%20Palace",
+            "away_team": "Crystal Palace",
             "away_team_id": "384",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
             "away_score": 0,
@@ -17971,7 +17971,7 @@
               "home_or_away": "away",
               "date": "2026-08-26",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401908123%2Feverton-preston-north-end",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401908123/everton-preston-north-end",
               "game_id": "401908123"
             },
             "match_id": "401879300",
@@ -18006,7 +18006,7 @@
               "context": "Premier League",
               "matchday": 1,
               "round": null,
-              "opponent": "Crystal%20Palace",
+              "opponent": "Crystal Palace",
               "opponent_id": "384",
               "home_or_away": "home",
               "date": "2026-08-22",
@@ -18055,7 +18055,7 @@
               "game_id": "401905958"
             },
             "match_id": "401905959",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401905959%2Feverton-newcastle-united"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401905959/everton-newcastle-united"
           },
           {
             "date": "2026-08-08",
@@ -18091,7 +18091,7 @@
               "home_or_away": "away",
               "date": "2026-08-12",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401905959%2Feverton-newcastle-united",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401905959/everton-newcastle-united",
               "game_id": "401905959"
             },
             "match_id": "401905960",
@@ -20014,7 +20014,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-22T16:45:52.073381",
+      "scraped_at": "2026-09-22T21:11:49.473133",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -20135,7 +20135,7 @@
               "game_id": "401914283"
             },
             "match_id": "401879279",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879279%2Ffulham-liverpool"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879279/fulham-liverpool"
           },
           {
             "date": "2026-09-05",
@@ -20171,7 +20171,7 @@
               "home_or_away": "away",
               "date": "2026-09-12",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879279%2Ffulham-liverpool",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879279/fulham-liverpool",
               "game_id": "401879279"
             },
             "match_id": "401879289",
@@ -20387,7 +20387,7 @@
             "home_team_id": "370",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
             "home_score": 1,
-            "away_team": "Crystal%20Palace",
+            "away_team": "Crystal Palace",
             "away_team_id": "384",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
             "away_score": 2,
@@ -20481,7 +20481,7 @@
               "context": "Club Friendly",
               "matchday": null,
               "round": null,
-              "opponent": "Crystal%20Palace",
+              "opponent": "Crystal Palace",
               "opponent_id": "384",
               "home_or_away": "home",
               "date": "2026-08-07",
@@ -22383,7 +22383,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-22T16:45:57.341573",
+      "scraped_at": "2026-09-22T21:11:54.486481",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -22396,7 +22396,7 @@
             "home_team_id": "361",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
             "home_score": 2,
-            "away_team": "Hull%20City",
+            "away_team": "Hull City",
             "away_team_id": "306",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
             "away_score": 1,
@@ -22424,7 +22424,7 @@
               "game_id": "401878774"
             },
             "match_id": "401879271",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879271%2Fhull-city-newcastle-united"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879271/hull-city-newcastle-united"
           },
           {
             "date": "2026-09-12",
@@ -22436,7 +22436,7 @@
             "home_team_id": "363",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
             "home_score": 2,
-            "away_team": "Hull%20City",
+            "away_team": "Hull City",
             "away_team_id": "306",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
             "away_score": 2,
@@ -22460,7 +22460,7 @@
               "home_or_away": "away",
               "date": "2026-09-19",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879271%2Fhull-city-newcastle-united",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879271/hull-city-newcastle-united",
               "game_id": "401879271"
             },
             "match_id": "401879283",
@@ -22512,7 +22512,7 @@
             "matchday": 3,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Hull%20City",
+            "home_team": "Hull City",
             "home_team_id": "306",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
             "home_score": 0,
@@ -22552,11 +22552,11 @@
             "matchday": 2,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Coventry%20City",
+            "home_team": "Coventry City",
             "home_team_id": "388",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
             "home_score": 0,
-            "away_team": "Hull%20City",
+            "away_team": "Hull City",
             "away_team_id": "306",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
             "away_score": 1,
@@ -22615,7 +22615,7 @@
               "context": "Premier League",
               "matchday": 2,
               "round": null,
-              "opponent": "Coventry%20City",
+              "opponent": "Coventry City",
               "opponent_id": "388",
               "home_or_away": "away",
               "date": "2026-08-29",
@@ -22632,7 +22632,7 @@
             "matchday": 1,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Hull%20City",
+            "home_team": "Hull City",
             "home_team_id": "306",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
             "home_score": 2,
@@ -23955,7 +23955,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-22T16:46:02.510416",
+      "scraped_at": "2026-09-22T21:11:59.564444",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -23968,7 +23968,7 @@
             "home_team_id": "368",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
             "home_score": 1,
-            "away_team": "Ipswich%20Town",
+            "away_team": "Ipswich Town",
             "away_team_id": "373",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "away_score": 0,
@@ -24048,7 +24048,7 @@
             "home_team_id": "384",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
             "home_score": 2,
-            "away_team": "Ipswich%20Town",
+            "away_team": "Ipswich Town",
             "away_team_id": "373",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "away_score": 3,
@@ -24084,7 +24084,7 @@
             "matchday": 3,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Ipswich%20Town",
+            "home_team": "Ipswich Town",
             "home_team_id": "373",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "home_score": 0,
@@ -24128,7 +24128,7 @@
             "home_team_id": "360",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
             "home_score": 5,
-            "away_team": "Ipswich%20Town",
+            "away_team": "Ipswich Town",
             "away_team_id": "373",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "away_score": 2,
@@ -24204,7 +24204,7 @@
             "matchday": 1,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Ipswich%20Town",
+            "home_team": "Ipswich Town",
             "home_team_id": "373",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "home_score": 2,
@@ -24236,7 +24236,7 @@
               "game_id": "401907954"
             },
             "match_id": "401879299",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879299%2Fsunderland-ipswich-town"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879299/sunderland-ipswich-town"
           },
           {
             "date": "2026-08-15",
@@ -24248,7 +24248,7 @@
             "home_team_id": "598",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
             "home_score": 2,
-            "away_team": "Ipswich%20Town",
+            "away_team": "Ipswich Town",
             "away_team_id": "373",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "away_score": 4,
@@ -24272,7 +24272,7 @@
               "home_or_away": "home",
               "date": "2026-08-22",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879299%2Fsunderland-ipswich-town",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879299/sunderland-ipswich-town",
               "game_id": "401879299"
             },
             "match_id": "401906457",
@@ -24284,7 +24284,7 @@
             "matchday": null,
             "round": null,
             "competition": "Club Friendly",
-            "home_team": "Ipswich%20Town",
+            "home_team": "Ipswich Town",
             "home_team_id": "373",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "home_score": 3,
@@ -26260,7 +26260,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-09-22T16:46:07.861020",
+      "scraped_at": "2026-09-22T21:12:04.800379",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -26297,7 +26297,7 @@
               "home_or_away": "away",
               "date": "Sat, Oct 10",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879268%2Fleeds-united-arsenal",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879268/leeds-united-arsenal",
               "game_id": "401879268"
             },
             "match_id": "401879273",
@@ -26353,7 +26353,7 @@
             "home_team_id": "363",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
             "home_score": 6,
-            "away_team": "Leeds%20United",
+            "away_team": "Leeds United",
             "away_team_id": "357",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
             "away_score": 3,
@@ -26389,7 +26389,7 @@
             "matchday": 3,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Brighton%20%26%20Hove%20Albion",
+            "home_team": "Brighton Hove Albion",
             "home_team_id": "331",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
             "home_score": 1,
@@ -26452,7 +26452,7 @@
               "context": "Premier League",
               "matchday": 3,
               "round": null,
-              "opponent": "Brighton%20%26%20Hove%20Albion",
+              "opponent": "Brighton Hove Albion",
               "opponent_id": "331",
               "home_or_away": "away",
               "date": "2026-09-05",
@@ -26461,7 +26461,7 @@
               "game_id": "401879290"
             },
             "match_id": "401879315",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879315%2Fbrentford-leeds-united"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879315/brentford-leeds-united"
           },
           {
             "date": "2026-08-25",
@@ -26473,7 +26473,7 @@
             "home_team_id": "393",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "home_score": 0,
-            "away_team": "Leeds%20United",
+            "away_team": "Leeds United",
             "away_team_id": "357",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
             "away_score": 2,
@@ -26497,7 +26497,7 @@
               "home_or_away": "home",
               "date": "2026-08-30",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879315%2Fbrentford-leeds-united",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879315/brentford-leeds-united",
               "game_id": "401879315"
             },
             "match_id": "401908138",
@@ -26509,7 +26509,7 @@
             "matchday": 1,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Nottingham%20Forest",
+            "home_team": "Nottingham Forest",
             "home_team_id": "393",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "home_score": 0,
@@ -26541,7 +26541,7 @@
               "game_id": "401908138"
             },
             "match_id": "401879298",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879298%2Fleeds-united-nottingham-forest"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879298/leeds-united-nottingham-forest"
           },
           {
             "date": "2026-08-15",
@@ -26572,12 +26572,12 @@
               "context": "Premier League",
               "matchday": 1,
               "round": null,
-              "opponent": "Nottingham%20Forest",
+              "opponent": "Nottingham Forest",
               "opponent_id": "393",
               "home_or_away": "away",
               "date": "2026-08-22",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879298%2Fleeds-united-nottingham-forest",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879298/leeds-united-nottingham-forest",
               "game_id": "401879298"
             },
             "match_id": "401906024",
@@ -26589,7 +26589,7 @@
             "matchday": null,
             "round": null,
             "competition": "Club Friendly",
-            "home_team": "Manchester%20United",
+            "home_team": "Manchester United",
             "home_team_id": "360",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
             "home_score": 1,
@@ -26652,7 +26652,7 @@
               "context": "Club Friendly",
               "matchday": null,
               "round": null,
-              "opponent": "Manchester%20United",
+              "opponent": "Manchester United",
               "opponent_id": "360",
               "home_or_away": "away",
               "date": "2026-08-12",
@@ -26661,7 +26661,7 @@
               "game_id": "401867394"
             },
             "match_id": "401905333",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401905333%2Frb-leipzig-leeds-united"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401905333/rb-leipzig-leeds-united"
           },
           {
             "date": "2026-08-02",
@@ -26697,7 +26697,7 @@
               "home_or_away": "home",
               "date": "2026-08-08",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401905333%2Frb-leipzig-leeds-united",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401905333/rb-leipzig-leeds-united",
               "game_id": "401905333"
             },
             "match_id": "401863533",
@@ -28041,7 +28041,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-09-22T16:46:13.280041",
+      "scraped_at": "2026-09-22T21:12:09.705916",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -28082,7 +28082,7 @@
               "game_id": "401879264"
             },
             "match_id": "401879276",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879276%2Fliverpool-afc-bournemouth"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879276/liverpool-afc-bournemouth"
           },
           {
             "date": "2026-09-15",
@@ -28094,7 +28094,7 @@
             "home_team_id": "364",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
             "home_score": 3,
-            "away_team": "Tottenham%20Hotspur",
+            "away_team": "Tottenham Hotspur",
             "away_team_id": "367",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
             "away_score": 1,
@@ -28118,7 +28118,7 @@
               "home_or_away": "away",
               "date": "2026-09-20",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879276%2Fliverpool-afc-bournemouth",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879276/liverpool-afc-bournemouth",
               "game_id": "401879276"
             },
             "match_id": "401914257",
@@ -28153,7 +28153,7 @@
               "context": "Carabao Cup",
               "matchday": null,
               "round": null,
-              "opponent": "Tottenham%20Hotspur",
+              "opponent": "Tottenham Hotspur",
               "opponent_id": "367",
               "home_or_away": "home",
               "date": "2026-09-15",
@@ -28162,7 +28162,7 @@
               "game_id": "401914257"
             },
             "match_id": "401879279",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879279%2Ffulham-liverpool"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879279/fulham-liverpool"
           },
           {
             "date": "2026-09-09",
@@ -28174,7 +28174,7 @@
             "home_team_id": "364",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
             "home_score": 2,
-            "away_team": "Atl%C3%A9Tico%20Madrid",
+            "away_team": "Atletico Madrid",
             "away_team_id": "1068",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
             "away_score": 1,
@@ -28198,7 +28198,7 @@
               "home_or_away": "home",
               "date": "2026-09-12",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879279%2Ffulham-liverpool",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879279/fulham-liverpool",
               "game_id": "401879279"
             },
             "match_id": "401915446",
@@ -28210,7 +28210,7 @@
             "matchday": 3,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Ipswich%20Town",
+            "home_team": "Ipswich Town",
             "home_team_id": "373",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "home_score": 0,
@@ -28233,7 +28233,7 @@
               "context": "UEFA Champions League",
               "matchday": null,
               "round": null,
-              "opponent": "Atl%C3%A9Tico%20Madrid",
+              "opponent": "Atletico Madrid",
               "opponent_id": "1068",
               "home_or_away": "home",
               "date": "2026-09-09",
@@ -28273,7 +28273,7 @@
               "context": "Premier League",
               "matchday": 3,
               "round": null,
-              "opponent": "Ipswich%20Town",
+              "opponent": "Ipswich Town",
               "opponent_id": "373",
               "home_or_away": "away",
               "date": "2026-09-04",
@@ -28358,7 +28358,7 @@
               "home_or_away": "home",
               "date": "2026-08-16",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401911290%2Fcomo-liverpool",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401911290/como-liverpool",
               "game_id": "401911290"
             },
             "match_id": "401886535",
@@ -28402,7 +28402,7 @@
               "game_id": "401879319"
             },
             "match_id": "401911290",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401911290%2Fcomo-liverpool"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401911290/como-liverpool"
           },
           {
             "date": "2026-08-09",
@@ -30335,7 +30335,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-22T16:46:18.413753",
+      "scraped_at": "2026-09-22T21:12:14.786001",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -30416,7 +30416,7 @@
               "game_id": "401879272"
             },
             "match_id": "401914260",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401914260%2Fnorwich-city-manchester-city"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401914260/norwich-city-manchester-city"
           },
           {
             "date": "2026-09-13",
@@ -30452,7 +30452,7 @@
               "home_or_away": "home",
               "date": "2026-09-17",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401914260%2Fnorwich-city-manchester-city",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401914260/norwich-city-manchester-city",
               "game_id": "401914260"
             },
             "match_id": "401879278",
@@ -32613,7 +32613,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-09-22T16:46:23.787354",
+      "scraped_at": "2026-09-22T21:12:19.881878",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -32666,7 +32666,7 @@
             "home_team_id": "360",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
             "home_score": 2,
-            "away_team": "Brighton%20%26%20Hove%20Albion",
+            "away_team": "Brighton Hove Albion",
             "away_team_id": "331",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
             "away_score": 3,
@@ -32725,7 +32725,7 @@
               "context": "Carabao Cup",
               "matchday": null,
               "round": null,
-              "opponent": "Brighton%20%26%20Hove%20Albion",
+              "opponent": "Brighton Hove Albion",
               "opponent_id": "331",
               "home_or_away": "home",
               "date": "2026-09-16",
@@ -32742,7 +32742,7 @@
             "matchday": null,
             "round": null,
             "competition": "UEFA Champions League",
-            "home_team": "Manchester%20United",
+            "home_team": "Manchester United",
             "home_team_id": "360",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
             "home_score": 4,
@@ -32826,7 +32826,7 @@
             "home_team_id": "360",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
             "home_score": 5,
-            "away_team": "Ipswich%20Town",
+            "away_team": "Ipswich Town",
             "away_team_id": "373",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "away_score": 2,
@@ -32854,7 +32854,7 @@
               "game_id": "401879291"
             },
             "match_id": "401879293",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879293%2Fipswich-town-manchester-united"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879293/ipswich-town-manchester-united"
           },
           {
             "date": "2026-08-22",
@@ -32885,12 +32885,12 @@
               "context": "Premier League",
               "matchday": 2,
               "round": null,
-              "opponent": "Ipswich%20Town",
+              "opponent": "Ipswich Town",
               "opponent_id": "373",
               "home_or_away": "home",
               "date": "2026-08-30",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879293%2Fipswich-town-manchester-united",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879293/ipswich-town-manchester-united",
               "game_id": "401879293"
             },
             "match_id": "401879322",
@@ -32974,7 +32974,7 @@
               "game_id": "401886562"
             },
             "match_id": "401867394",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401867394%2Fleeds-united-manchester-united"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401867394/leeds-united-manchester-united"
           },
           {
             "date": "2026-08-08",
@@ -33010,7 +33010,7 @@
               "home_or_away": "home",
               "date": "2026-08-12",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401867394%2Fleeds-united-manchester-united",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401867394/leeds-united-manchester-united",
               "game_id": "401867394"
             },
             "match_id": "401868048",
@@ -34995,7 +34995,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-22T16:46:29.168072",
+      "scraped_at": "2026-09-22T21:12:25.002100",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -35032,7 +35032,7 @@
               "home_or_away": "away",
               "date": "Mon, Oct 12",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879267%2Fnewcastle-united-coventry-city",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879267/newcastle-united-coventry-city",
               "game_id": "401879267"
             },
             "match_id": "401879271",
@@ -35356,7 +35356,7 @@
               "game_id": "401905967"
             },
             "match_id": "401905961",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401905961%2Fbayer-leverkusen-newcastle-united"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401905961/bayer-leverkusen-newcastle-united"
           },
           {
             "date": "2026-08-12",
@@ -35392,7 +35392,7 @@
               "home_or_away": "home",
               "date": "2026-08-15",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401905961%2Fbayer-leverkusen-newcastle-united",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401905961/bayer-leverkusen-newcastle-united",
               "game_id": "401905961"
             },
             "match_id": "401905959",
@@ -37485,7 +37485,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-22T16:46:34.423012",
+      "scraped_at": "2026-09-22T21:12:30.062014",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -37494,7 +37494,7 @@
             "matchday": 5,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Nottingham%20Forest",
+            "home_team": "Nottingham Forest",
             "home_team_id": "393",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "home_score": 0,
@@ -37526,7 +37526,7 @@
               "game_id": "401879266"
             },
             "match_id": "401879270",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879270%2Fcoventry-city-nottingham-forest"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879270/coventry-city-nottingham-forest"
           },
           {
             "date": "2026-09-12",
@@ -37538,7 +37538,7 @@
             "home_team_id": "362",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
             "home_score": 1,
-            "away_team": "Nottingham%20Forest",
+            "away_team": "Nottingham Forest",
             "away_team_id": "393",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "away_score": 2,
@@ -37562,7 +37562,7 @@
               "home_or_away": "home",
               "date": "2026-09-19",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879270%2Fcoventry-city-nottingham-forest",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879270/coventry-city-nottingham-forest",
               "game_id": "401879270"
             },
             "match_id": "401879284",
@@ -37574,7 +37574,7 @@
             "matchday": 3,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Nottingham%20Forest",
+            "home_team": "Nottingham Forest",
             "home_team_id": "393",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "home_score": 0,
@@ -37618,7 +37618,7 @@
             "home_team_id": "364",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
             "home_score": 2,
-            "away_team": "Nottingham%20Forest",
+            "away_team": "Nottingham Forest",
             "away_team_id": "393",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "away_score": 2,
@@ -37658,7 +37658,7 @@
             "home_team_id": "393",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "home_score": 0,
-            "away_team": "Leeds%20United",
+            "away_team": "Leeds United",
             "away_team_id": "357",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
             "away_score": 2,
@@ -37694,7 +37694,7 @@
             "matchday": 1,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Nottingham%20Forest",
+            "home_team": "Nottingham Forest",
             "home_team_id": "393",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
             "home_score": 0,
@@ -37717,7 +37717,7 @@
               "context": "Carabao Cup",
               "matchday": null,
               "round": null,
-              "opponent": "Leeds%20United",
+              "opponent": "Leeds United",
               "opponent_id": "357",
               "home_or_away": "home",
               "date": "2026-08-25",
@@ -37726,7 +37726,7 @@
               "game_id": "401908138"
             },
             "match_id": "401879298",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879298%2Fleeds-united-nottingham-forest"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879298/leeds-united-nottingham-forest"
           },
           {
             "date": "2026-08-16",
@@ -37762,7 +37762,7 @@
               "home_or_away": "home",
               "date": "2026-08-22",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879298%2Fleeds-united-nottingham-forest",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879298/leeds-united-nottingham-forest",
               "game_id": "401879298"
             },
             "match_id": "401906461",
@@ -39710,7 +39710,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-22T16:46:39.762516",
+      "scraped_at": "2026-09-22T21:12:35.124390",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -39747,11 +39747,11 @@
               "home_or_away": "home",
               "date": "Sat, Oct 10",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878772%2Fbrighton-hove-albion-sunderland",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878772/brighton-hove-albion-sunderland",
               "game_id": "401878772"
             },
             "match_id": "401879272",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879272/sunderland-manchester-city"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879272%2Fsunderland-manchester-city"
           },
           {
             "date": "2026-09-16",
@@ -39787,11 +39787,11 @@
               "home_or_away": "away",
               "date": "2026-09-20",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879272/sunderland-manchester-city",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879272%2Fsunderland-manchester-city",
               "game_id": "401879272"
             },
             "match_id": "401915592",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401915592%2Faz-alkmaar-sunderland"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401915592/az-alkmaar-sunderland"
           },
           {
             "date": "2026-09-12",
@@ -39827,7 +39827,7 @@
               "home_or_away": "home",
               "date": "2026-09-16",
               "competition": "UEFA Europa League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915592%2Faz-alkmaar-sunderland",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915592/az-alkmaar-sunderland",
               "game_id": "401915592"
             },
             "match_id": "401878779",
@@ -39911,7 +39911,7 @@
               "game_id": "401914259"
             },
             "match_id": "401879311",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879311%2Fsunderland-brentford"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879311/sunderland-brentford"
           },
           {
             "date": "2026-08-30",
@@ -39947,7 +39947,7 @@
               "home_or_away": "away",
               "date": "2026-09-05",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879311%2Fsunderland-brentford",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879311/sunderland-brentford",
               "game_id": "401879311"
             },
             "match_id": "401879313",
@@ -40031,7 +40031,7 @@
               "game_id": "401879299"
             },
             "match_id": "401906443",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401906443%2Fstade-rennais-sunderland"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401906443/stade-rennais-sunderland"
           },
           {
             "date": "2026-08-08",
@@ -40067,11 +40067,11 @@
               "home_or_away": "home",
               "date": "2026-08-15",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401906443%2Fstade-rennais-sunderland",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401906443/stade-rennais-sunderland",
               "game_id": "401906443"
             },
             "match_id": "401906436",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401906436%2Fsunderland-lens"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401906436/sunderland-lens"
           },
           {
             "date": "2026-08-02",
@@ -40107,7 +40107,7 @@
               "home_or_away": "away",
               "date": "2026-08-08",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401906436%2Fsunderland-lens",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401906436/sunderland-lens",
               "game_id": "401906436"
             },
             "match_id": "401897751",
@@ -40191,7 +40191,7 @@
               "game_id": "401897750"
             },
             "match_id": "401869427",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401869427/sunderland-liverpool"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401869427%2Fsunderland-liverpool"
           }
         ],
         "2024/2025": [
@@ -40229,7 +40229,7 @@
               "home_or_away": "away",
               "date": "2026-07-25",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401869427/sunderland-liverpool",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401869427%2Fsunderland-liverpool",
               "game_id": "401869427"
             },
             "match_id": "707891",
@@ -41419,7 +41419,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-22T16:46:45.247487",
+      "scraped_at": "2026-09-22T21:12:40.201930",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -41472,7 +41472,7 @@
             "home_team_id": "364",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
             "home_score": 3,
-            "away_team": "Tottenham%20Hotspur",
+            "away_team": "Tottenham Hotspur",
             "away_team_id": "367",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
             "away_score": 1,
@@ -41628,7 +41628,7 @@
             "matchday": null,
             "round": null,
             "competition": "English Carabao Cup",
-            "home_team": "Tottenham%20Hotspur",
+            "home_team": "Tottenham Hotspur",
             "home_team_id": "367",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
             "home_score": 5,
@@ -41660,7 +41660,7 @@
               "game_id": "401879312"
             },
             "match_id": "401908140",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401908140%2Fcharlton-athletic-tottenham-hotspur"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401908140/charlton-athletic-tottenham-hotspur"
           },
           {
             "date": "2026-08-22",
@@ -41696,7 +41696,7 @@
               "home_or_away": "home",
               "date": "2026-08-26",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401908140%2Fcharlton-athletic-tottenham-hotspur",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401908140/charlton-athletic-tottenham-hotspur",
               "game_id": "401908140"
             },
             "match_id": "401879321",
@@ -41712,7 +41712,7 @@
             "home_team_id": "367",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
             "home_score": 2,
-            "away_team": "Tsg%20Hoffenheim",
+            "away_team": "Tsg Hoffenheim",
             "away_team_id": "7911",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
             "away_score": 2,
@@ -41740,7 +41740,7 @@
               "game_id": "401879321"
             },
             "match_id": "401886558",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401886558%2Ftsg-hoffenheim-tottenham-hotspur"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401886558/tsg-hoffenheim-tottenham-hotspur"
           },
           {
             "date": "2026-08-15",
@@ -41752,7 +41752,7 @@
             "home_team_id": "367",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
             "home_score": 3,
-            "away_team": "Tsg%20Hoffenheim",
+            "away_team": "Tsg Hoffenheim",
             "away_team_id": "7911",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
             "away_score": 0,
@@ -41771,12 +41771,12 @@
               "context": "Club Friendly",
               "matchday": null,
               "round": null,
-              "opponent": "Tsg%20Hoffenheim",
+              "opponent": "Tsg Hoffenheim",
               "opponent_id": "7911",
               "home_or_away": "home",
               "date": "2026-08-16",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401886558%2Ftsg-hoffenheim-tottenham-hotspur",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401886558/tsg-hoffenheim-tottenham-hotspur",
               "game_id": "401886558"
             },
             "match_id": "401886534",
@@ -41811,7 +41811,7 @@
               "context": "Club Friendly",
               "matchday": null,
               "round": null,
-              "opponent": "Tsg%20Hoffenheim",
+              "opponent": "Tsg Hoffenheim",
               "opponent_id": "7911",
               "home_or_away": "home",
               "date": "2026-08-15",
