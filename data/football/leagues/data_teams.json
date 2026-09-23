@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-09-22T21:12:40.202062",
+  "scraped_at": "2026-09-23T04:14:28.969614",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-22T21:11:02.290241",
+      "scraped_at": "2026-09-23T04:12:41.426649",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2313,7 +2313,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-22T21:11:07.493853",
+      "scraped_at": "2026-09-23T04:12:47.151816",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4591,7 +4591,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-22T21:11:12.576616",
+      "scraped_at": "2026-09-23T04:12:52.797794",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -6992,7 +6992,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-22T21:11:17.791901",
+      "scraped_at": "2026-09-23T04:12:58.287282",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -9206,7 +9206,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-22T21:11:23.004357",
+      "scraped_at": "2026-09-23T04:13:03.928754",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -11591,7 +11591,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-22T21:11:28.026919",
+      "scraped_at": "2026-09-23T04:13:09.404573",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -13788,7 +13788,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-22T21:11:33.393470",
+      "scraped_at": "2026-09-23T04:13:15.083121",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15400,7 +15400,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-09-22T21:11:38.921018",
+      "scraped_at": "2026-09-23T04:13:20.623648",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -17694,7 +17694,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-22T21:11:44.382230",
+      "scraped_at": "2026-09-23T04:13:26.232997",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -20014,7 +20014,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-22T21:11:49.473133",
+      "scraped_at": "2026-09-23T04:13:32.215973",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -22383,7 +22383,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-22T21:11:54.486481",
+      "scraped_at": "2026-09-23T04:13:37.913639",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -23955,7 +23955,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-09-22T21:11:59.564444",
+      "scraped_at": "2026-09-23T04:13:43.404507",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -26260,7 +26260,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-09-22T21:12:04.800379",
+      "scraped_at": "2026-09-23T04:13:48.804825",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -28041,7 +28041,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-09-22T21:12:09.705916",
+      "scraped_at": "2026-09-23T04:13:54.315084",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -30335,7 +30335,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-09-22T21:12:14.786001",
+      "scraped_at": "2026-09-23T04:13:59.987933",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -32613,7 +32613,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-09-22T21:12:19.881878",
+      "scraped_at": "2026-09-23T04:14:06.893952",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -34995,7 +34995,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-22T21:12:25.002100",
+      "scraped_at": "2026-09-23T04:14:12.432100",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -37485,7 +37485,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-09-22T21:12:30.062014",
+      "scraped_at": "2026-09-23T04:14:17.928356",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -39710,7 +39710,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-22T21:12:35.124390",
+      "scraped_at": "2026-09-23T04:14:23.414085",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -39751,7 +39751,7 @@
               "game_id": "401878772"
             },
             "match_id": "401879272",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879272%2Fsunderland-manchester-city"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879272/sunderland-manchester-city"
           },
           {
             "date": "2026-09-16",
@@ -39787,7 +39787,7 @@
               "home_or_away": "away",
               "date": "2026-09-20",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879272%2Fsunderland-manchester-city",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879272/sunderland-manchester-city",
               "game_id": "401879272"
             },
             "match_id": "401915592",
@@ -39843,7 +39843,7 @@
             "home_team_id": "366",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
             "home_score": 1,
-            "away_team": "Hull%20City",
+            "away_team": "Hull City",
             "away_team_id": "306",
             "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
             "away_score": 0,
@@ -39902,7 +39902,7 @@
               "context": "Carabao Cup",
               "matchday": null,
               "round": null,
-              "opponent": "Hull%20City",
+              "opponent": "Hull City",
               "opponent_id": "306",
               "home_or_away": "home",
               "date": "2026-09-08",
@@ -39959,7 +39959,7 @@
             "matchday": 1,
             "round": null,
             "competition": "English Premier League",
-            "home_team": "Ipswich%20Town",
+            "home_team": "Ipswich Town",
             "home_team_id": "373",
             "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
             "home_score": 2,
@@ -40022,7 +40022,7 @@
               "context": "Premier League",
               "matchday": 1,
               "round": null,
-              "opponent": "Ipswich%20Town",
+              "opponent": "Ipswich Town",
               "opponent_id": "373",
               "home_or_away": "away",
               "date": "2026-08-22",
@@ -40191,7 +40191,7 @@
               "game_id": "401897750"
             },
             "match_id": "401869427",
-            "match_url": "https://www.espn.com/soccer/match/_/gameId/401869427%2Fsunderland-liverpool"
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401869427/sunderland-liverpool"
           }
         ],
         "2024/2025": [
@@ -40229,7 +40229,7 @@
               "home_or_away": "away",
               "date": "2026-07-25",
               "competition": "Club Friendly",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401869427%2Fsunderland-liverpool",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401869427/sunderland-liverpool",
               "game_id": "401869427"
             },
             "match_id": "707891",
@@ -41419,7 +41419,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-09-22T21:12:40.201930",
+      "scraped_at": "2026-09-23T04:14:28.969400",
       "matches_by_season": {
         "2026/2027": [
           {
