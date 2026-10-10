@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-10-10T17:19:41.787846",
+  "scraped_at": "2026-10-10T21:31:21.273387",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-10T17:17:52.980552",
+      "scraped_at": "2026-10-10T21:29:45.582247",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -38,9 +38,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.83,
-              "away": 4.1,
-              "draw": 3.95
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -2353,7 +2353,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-10T17:17:58.651535",
+      "scraped_at": "2026-10-10T21:29:50.566893",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2375,9 +2375,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.47,
-              "away": 7.5,
-              "draw": 4.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -4671,7 +4671,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-10T17:18:04.512237",
+      "scraped_at": "2026-10-10T21:29:55.759821",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4693,9 +4693,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.55,
-              "away": 2.65,
-              "draw": 3.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -7152,7 +7152,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-10T17:18:10.096072",
+      "scraped_at": "2026-10-10T21:30:00.819390",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7174,9 +7174,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.55,
-              "away": 2.65,
-              "draw": 3.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -9406,7 +9406,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-10T17:18:15.574496",
+      "scraped_at": "2026-10-10T21:30:06.185286",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -9428,9 +9428,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 3.05,
-              "away": 2.4,
-              "draw": 3.35
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -11831,7 +11831,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-10T17:18:21.192957",
+      "scraped_at": "2026-10-10T21:30:11.280769",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -11853,9 +11853,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.83,
-              "away": 4.1,
-              "draw": 3.95
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -14068,7 +14068,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-10-10T17:18:26.769159",
+      "scraped_at": "2026-10-10T21:30:16.359864",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15680,7 +15680,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-10T17:18:32.193316",
+      "scraped_at": "2026-10-10T21:30:21.491141",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -18014,7 +18014,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-10T17:18:37.585778",
+      "scraped_at": "2026-10-10T21:30:26.516492",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -20334,7 +20334,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-10T17:18:43.202415",
+      "scraped_at": "2026-10-10T21:30:31.436485",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -20356,9 +20356,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 3.05,
-              "away": 2.35,
-              "draw": 3.45
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -22743,7 +22743,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-10-10T17:18:48.589955",
+      "scraped_at": "2026-10-10T21:30:36.354249",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -24315,7 +24315,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-10T17:18:54.152217",
+      "scraped_at": "2026-10-10T21:30:41.397273",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -24337,9 +24337,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 3.05,
-              "away": 2.35,
-              "draw": 3.45
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -26660,7 +26660,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-10T17:18:59.629985",
+      "scraped_at": "2026-10-10T21:30:46.280955",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -26682,9 +26682,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.47,
-              "away": 7.5,
-              "draw": 4.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -28481,7 +28481,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-10T17:19:05.042981",
+      "scraped_at": "2026-10-10T21:30:51.264419",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -30775,7 +30775,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-10T17:19:10.490531",
+      "scraped_at": "2026-10-10T21:30:56.188625",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -33052,10 +33052,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 39,
-      "scraped_at": "2026-10-10T17:19:16.622986",
+      "total_matches": 40,
+      "scraped_at": "2026-10-10T21:31:01.431593",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-10",
+            "season": "2026/2027",
+            "matchday": 6,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Manchester United",
+            "home_team_id": "360",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+            "home_score": 1,
+            "away_team": "Tottenham Hotspur",
+            "away_team_id": "367",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "N",
+            "odds": {
+              "home": 1.71,
+              "away": 4.5,
+              "draw": 4.2
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "UEFA Champions League",
+              "matchday": null,
+              "round": null,
+              "opponent": "Atletico Madrid",
+              "opponent_id": "1068",
+              "home_or_away": "away",
+              "date": "Tue, Oct 13",
+              "competition": "UEFA Champions League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915412/manchester-united-atletico-madrid",
+              "game_id": "401915412"
+            },
+            "match_id": "401878773",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401878773/tottenham-hotspur-manchester-united"
+          },
           {
             "date": "2026-09-20",
             "season": "2026/2027",
@@ -33088,9 +33128,9 @@
               "opponent": "Tottenham Hotspur",
               "opponent_id": "367",
               "home_or_away": "home",
-              "date": "Sat, Oct 10",
+              "date": "2026-10-10",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878773",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878773/tottenham-hotspur-manchester-united",
               "game_id": "401878773"
             },
             "match_id": "401878777",
@@ -35435,7 +35475,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-10T17:19:22.906827",
+      "scraped_at": "2026-10-10T21:31:06.354392",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -37925,7 +37965,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 34,
-      "scraped_at": "2026-10-10T17:19:28.467746",
+      "scraped_at": "2026-10-10T21:31:11.242834",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -40150,7 +40190,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-10T17:19:33.959634",
+      "scraped_at": "2026-10-10T21:31:16.397125",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -40172,9 +40212,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 3.05,
-              "away": 2.4,
-              "draw": 3.35
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -41898,10 +41938,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 38,
-      "scraped_at": "2026-10-10T17:19:41.787605",
+      "total_matches": 39,
+      "scraped_at": "2026-10-10T21:31:21.273267",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-10",
+            "season": "2026/2027",
+            "matchday": 6,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Manchester United",
+            "home_team_id": "360",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+            "home_score": 1,
+            "away_team": "Tottenham Hotspur",
+            "away_team_id": "367",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "N",
+            "odds": {
+              "home": 1.71,
+              "away": 4.5,
+              "draw": 4.2
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 7,
+              "round": null,
+              "opponent": "Coventry City",
+              "opponent_id": "388",
+              "home_or_away": "home",
+              "date": "Mon, Oct 19",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879257/coventry-city-tottenham-hotspur",
+              "game_id": "401879257"
+            },
+            "match_id": "401878773",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401878773/tottenham-hotspur-manchester-united"
+          },
           {
             "date": "2026-09-19",
             "season": "2026/2027",
@@ -41934,9 +42014,9 @@
               "opponent": "Manchester United",
               "opponent_id": "360",
               "home_or_away": "away",
-              "date": "Sat, Oct 10",
+              "date": "2026-10-10",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878773",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878773/tottenham-hotspur-manchester-united",
               "game_id": "401878773"
             },
             "match_id": "401879269",
