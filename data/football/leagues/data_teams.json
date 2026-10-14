@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-10-14T17:00:34.956577",
+  "scraped_at": "2026-10-14T21:35:54.017935",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-14T16:58:53.188332",
+      "scraped_at": "2026-10-14T21:34:06.991204",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2353,7 +2353,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-14T16:58:58.258111",
+      "scraped_at": "2026-10-14T21:34:12.635849",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4710,10 +4710,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 38,
-      "scraped_at": "2026-10-14T16:59:03.675583",
+      "total_matches": 39,
+      "scraped_at": "2026-10-14T21:34:18.393219",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-14",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "UEFA Champions League",
+            "home_team": "Aston Villa",
+            "home_team_id": "362",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+            "home_score": 6,
+            "away_team": "Fenerbahce",
+            "away_team_id": "436",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 1.62,
+              "away": 5.25,
+              "draw": 4.2
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 7,
+              "round": null,
+              "opponent": "Newcastle United",
+              "opponent_id": "361",
+              "home_or_away": "away",
+              "date": "Sat, Oct 17",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879258/aston-villa-newcastle-united",
+              "game_id": "401879258"
+            },
+            "match_id": "401915409",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401915409/fenerbahce-aston-villa"
+          },
           {
             "date": "2026-10-10",
             "season": "2026/2027",
@@ -4746,7 +4786,7 @@
               "opponent": "Fenerbahce",
               "opponent_id": "436",
               "home_or_away": "home",
-              "date": "Wed, Oct 14",
+              "date": "2026-10-14",
               "competition": "UEFA Champions League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401915409/fenerbahce-aston-villa",
               "game_id": "401915409"
@@ -7192,7 +7232,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-14T16:59:08.978913",
+      "scraped_at": "2026-10-14T21:34:23.829186",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -9446,7 +9486,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-14T16:59:14.176962",
+      "scraped_at": "2026-10-14T21:34:29.402050",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -11871,7 +11911,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-14T16:59:19.340501",
+      "scraped_at": "2026-10-14T21:34:35.147385",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -14108,7 +14148,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-14T16:59:24.614662",
+      "scraped_at": "2026-10-14T21:34:40.833370",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15760,7 +15800,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-14T16:59:29.788026",
+      "scraped_at": "2026-10-14T21:34:46.790197",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -18134,7 +18174,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-14T16:59:34.904551",
+      "scraped_at": "2026-10-14T21:34:52.275299",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -20494,7 +20534,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-14T16:59:40.113035",
+      "scraped_at": "2026-10-14T21:34:58.132937",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -22903,7 +22943,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-14T16:59:45.300044",
+      "scraped_at": "2026-10-14T21:35:03.640700",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -24515,7 +24555,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-14T16:59:50.794404",
+      "scraped_at": "2026-10-14T21:35:09.380657",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -26860,7 +26900,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-14T16:59:56.037055",
+      "scraped_at": "2026-10-14T21:35:15.085214",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -28680,10 +28720,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 40,
-      "scraped_at": "2026-10-14T17:00:03.229187",
+      "total_matches": 41,
+      "scraped_at": "2026-10-14T21:35:20.644187",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-14",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "UEFA Champions League",
+            "home_team": "Lask Linz",
+            "home_team_id": "4411",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
+            "home_score": 3,
+            "away_team": "Liverpool",
+            "away_team_id": "364",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+            "away_score": 6,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 6.5,
+              "away": 1.47,
+              "draw": 4.7
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 7,
+              "round": null,
+              "opponent": "Brentford",
+              "opponent_id": "337",
+              "home_or_away": "away",
+              "date": "Sat, Oct 17",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879262/liverpool-brentford",
+              "game_id": "401879262"
+            },
+            "match_id": "401915415",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401915415/liverpool-lask-linz"
+          },
           {
             "date": "2026-10-11",
             "season": "2026/2027",
@@ -28716,9 +28796,9 @@
               "opponent": "Lask Linz",
               "opponent_id": "4411",
               "home_or_away": "away",
-              "date": "Wed, Oct 14",
+              "date": "2026-10-14",
               "competition": "UEFA Champions League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915415",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915415/liverpool-lask-linz",
               "game_id": "401915415"
             },
             "match_id": "401879264",
@@ -31014,10 +31094,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 37,
-      "scraped_at": "2026-10-14T17:00:09.168014",
+      "total_matches": 38,
+      "scraped_at": "2026-10-14T21:35:26.302305",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-14",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "UEFA Champions League",
+            "home_team": "Manchester City",
+            "home_team_id": "382",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+            "home_score": 2,
+            "away_team": "Paris Saint Germain",
+            "away_team_id": "160",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+            "away_score": 4,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "D",
+            "odds": {
+              "home": 1.91,
+              "away": 3.45,
+              "draw": 4.2
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 7,
+              "round": null,
+              "opponent": "Ipswich Town",
+              "opponent_id": "373",
+              "home_or_away": "home",
+              "date": "Sat, Oct 17",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879259/ipswich-town-manchester-city",
+              "game_id": "401879259"
+            },
+            "match_id": "401915407",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401915407/paris-saint-germain-manchester-city"
+          },
           {
             "date": "2026-10-11",
             "season": "2026/2027",
@@ -31050,7 +31170,7 @@
               "opponent": "Paris Saint Germain",
               "opponent_id": "160",
               "home_or_away": "home",
-              "date": "Wed, Oct 14",
+              "date": "2026-10-14",
               "competition": "UEFA Champions League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401915407/paris-saint-germain-manchester-city",
               "game_id": "401915407"
@@ -33333,7 +33453,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-14T17:00:14.045595",
+      "scraped_at": "2026-10-14T21:35:31.898238",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -35795,7 +35915,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-14T17:00:19.509703",
+      "scraped_at": "2026-10-14T21:35:37.321426",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -38325,7 +38445,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-10-14T17:00:24.611064",
+      "scraped_at": "2026-10-14T21:35:42.811661",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -40590,7 +40710,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-14T17:00:29.718235",
+      "scraped_at": "2026-10-14T21:35:48.540866",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -42339,7 +42459,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-14T17:00:34.956427",
+      "scraped_at": "2026-10-14T21:35:54.017711",
       "matches_by_season": {
         "2026/2027": [
           {
