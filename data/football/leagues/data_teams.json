@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-10-16T16:30:59.387408",
+  "scraped_at": "2026-10-16T20:53:09.958307",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-16T16:29:17.004156",
+      "scraped_at": "2026-10-16T20:51:23.455678",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2393,7 +2393,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-16T16:29:22.345305",
+      "scraped_at": "2026-10-16T20:51:29.069996",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4751,7 +4751,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-16T16:29:27.797637",
+      "scraped_at": "2026-10-16T20:51:34.603719",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7272,7 +7272,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-16T16:29:33.306557",
+      "scraped_at": "2026-10-16T20:51:40.069148",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -9526,7 +9526,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-16T16:29:38.837982",
+      "scraped_at": "2026-10-16T20:51:45.643177",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -11991,7 +11991,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-16T16:29:44.057982",
+      "scraped_at": "2026-10-16T20:51:51.078078",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -14228,7 +14228,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-16T16:29:49.678730",
+      "scraped_at": "2026-10-16T20:51:56.489111",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15880,7 +15880,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-16T16:29:54.953647",
+      "scraped_at": "2026-10-16T20:52:01.844871",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -18294,7 +18294,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-16T16:30:00.169779",
+      "scraped_at": "2026-10-16T20:52:07.107511",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -20654,7 +20654,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-16T16:30:05.642416",
+      "scraped_at": "2026-10-16T20:52:12.629042",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -23063,7 +23063,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-16T16:30:10.952020",
+      "scraped_at": "2026-10-16T20:52:17.943591",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -24675,7 +24675,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-16T16:30:16.465254",
+      "scraped_at": "2026-10-16T20:52:23.281178",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -27020,7 +27020,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-16T16:30:21.952868",
+      "scraped_at": "2026-10-16T20:52:28.647499",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -28841,7 +28841,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-16T16:30:27.216033",
+      "scraped_at": "2026-10-16T20:52:33.896019",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -31215,7 +31215,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-16T16:30:32.591925",
+      "scraped_at": "2026-10-16T20:52:39.368710",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -33573,7 +33573,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-16T16:30:37.896860",
+      "scraped_at": "2026-10-16T20:52:44.707093",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -36035,7 +36035,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-16T16:30:43.379463",
+      "scraped_at": "2026-10-16T20:52:51.878169",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -38565,7 +38565,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-10-16T16:30:48.593510",
+      "scraped_at": "2026-10-16T20:52:59.226205",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -40830,7 +40830,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-16T16:30:53.951910",
+      "scraped_at": "2026-10-16T20:53:04.594062",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -42619,7 +42619,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-16T16:30:59.387158",
+      "scraped_at": "2026-10-16T20:53:09.958151",
       "matches_by_season": {
         "2026/2027": [
           {
