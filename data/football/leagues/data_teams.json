@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-10-15T21:16:53.648030",
+  "scraped_at": "2026-10-16T04:03:56.158153",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -15,10 +15,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 36,
-      "scraped_at": "2026-10-15T21:15:09.167065",
+      "total_matches": 37,
+      "scraped_at": "2026-10-16T04:02:13.441468",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-15",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "UEFA Europa League",
+            "home_team": "AFC Bournemouth",
+            "home_team_id": "349",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+            "home_score": 3,
+            "away_team": "Sk Sturm Graz",
+            "away_team_id": "3746",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 1.17,
+              "away": 15.0,
+              "draw": 8.0
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 7,
+              "round": null,
+              "opponent": "Sunderland",
+              "opponent_id": "366",
+              "home_or_away": "home",
+              "date": "Sun, Oct 18",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879263/sunderland-afc-bournemouth",
+              "game_id": "401879263"
+            },
+            "match_id": "401915571",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401915571/sk-sturm-graz-afc-bournemouth"
+          },
           {
             "date": "2026-10-10",
             "season": "2026/2027",
@@ -45,16 +85,16 @@
             "has_full_stats": false,
             "stats": {},
             "next_game": {
-              "context": "Premier League",
-              "matchday": 7,
+              "context": "UEFA Europa League",
+              "matchday": null,
               "round": null,
-              "opponent": "Sunderland",
-              "opponent_id": "366",
+              "opponent": "Sk Sturm Graz",
+              "opponent_id": "3746",
               "home_or_away": "home",
-              "date": "Sun, Oct 18",
-              "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879263/sunderland-afc-bournemouth",
-              "game_id": "401879263"
+              "date": "2026-10-15",
+              "competition": "UEFA Europa League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915571/sk-sturm-graz-afc-bournemouth",
+              "game_id": "401915571"
             },
             "match_id": "401878775",
             "match_url": "https://www.espn.com/soccer/match/_/gameId/401878775/afc-bournemouth-chelsea"
@@ -2353,7 +2393,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-15T21:15:14.623951",
+      "scraped_at": "2026-10-16T04:02:18.718773",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4711,7 +4751,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-15T21:15:20.163265",
+      "scraped_at": "2026-10-16T04:02:24.039867",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7232,7 +7272,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-15T21:15:25.840218",
+      "scraped_at": "2026-10-16T04:02:29.676344",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -9485,10 +9525,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 38,
-      "scraped_at": "2026-10-15T21:15:31.468672",
+      "total_matches": 39,
+      "scraped_at": "2026-10-16T04:02:35.178300",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-15",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "UEFA Conference League",
+            "home_team": "Brighton Hove Albion",
+            "home_team_id": "331",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+            "home_score": 4,
+            "away_team": "Kauno Zalgiris",
+            "away_team_id": "20028",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 1.03,
+              "away": 31.0,
+              "draw": 21.0
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 7,
+              "round": null,
+              "opponent": "Crystal Palace",
+              "opponent_id": "384",
+              "home_or_away": "home",
+              "date": "Sun, Oct 18",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879261/crystal-palace-brighton-hove-albion",
+              "game_id": "401879261"
+            },
+            "match_id": "401915853",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401915853/kauno-zalgiris-brighton-hove-albion"
+          },
           {
             "date": "2026-10-10",
             "season": "2026/2027",
@@ -9515,16 +9595,16 @@
             "has_full_stats": false,
             "stats": {},
             "next_game": {
-              "context": "Premier League",
-              "matchday": 7,
+              "context": "UEFA Conference League",
+              "matchday": null,
               "round": null,
-              "opponent": "Crystal Palace",
-              "opponent_id": "384",
+              "opponent": "Kauno Zalgiris",
+              "opponent_id": "20028",
               "home_or_away": "home",
-              "date": "Sun, Oct 18",
-              "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879261/crystal-palace-brighton-hove-albion",
-              "game_id": "401879261"
+              "date": "2026-10-15",
+              "competition": "UEFA Conference League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915853/kauno-zalgiris-brighton-hove-albion",
+              "game_id": "401915853"
             },
             "match_id": "401878772",
             "match_url": "https://www.espn.com/soccer/match/_/gameId/401878772/brighton-hove-albion-sunderland"
@@ -11911,7 +11991,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-15T21:15:36.965294",
+      "scraped_at": "2026-10-16T04:02:40.522232",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -14148,7 +14228,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-15T21:15:42.401572",
+      "scraped_at": "2026-10-16T04:02:46.107870",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15800,7 +15880,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-15T21:15:47.831745",
+      "scraped_at": "2026-10-16T04:02:51.413585",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15822,9 +15902,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.6,
-              "away": 2.6,
-              "draw": 3.6
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -18214,7 +18294,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-15T21:15:53.206635",
+      "scraped_at": "2026-10-16T04:02:56.852472",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -20574,7 +20654,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-15T21:15:58.787654",
+      "scraped_at": "2026-10-16T04:03:02.238085",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -22983,7 +23063,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-15T21:16:04.118762",
+      "scraped_at": "2026-10-16T04:03:07.551811",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -24595,7 +24675,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-15T21:16:09.854138",
+      "scraped_at": "2026-10-16T04:03:12.945489",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -26940,7 +27020,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-15T21:16:15.738046",
+      "scraped_at": "2026-10-16T04:03:18.326508",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -28761,7 +28841,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-15T21:16:20.966516",
+      "scraped_at": "2026-10-16T04:03:23.729537",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -31135,7 +31215,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-15T21:16:26.545028",
+      "scraped_at": "2026-10-16T04:03:29.154732",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -33493,7 +33573,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-15T21:16:32.009783",
+      "scraped_at": "2026-10-16T04:03:34.584617",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -35955,7 +36035,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-15T21:16:37.242941",
+      "scraped_at": "2026-10-16T04:03:39.866594",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -38485,7 +38565,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 35,
-      "scraped_at": "2026-10-15T21:16:42.731596",
+      "scraped_at": "2026-10-16T04:03:45.454016",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -40750,7 +40830,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-15T21:16:48.175629",
+      "scraped_at": "2026-10-16T04:03:50.804547",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -40772,9 +40852,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 11.0,
-              "away": 1.29,
-              "draw": 5.75
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -42539,7 +42619,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-15T21:16:53.647884",
+      "scraped_at": "2026-10-16T04:03:56.157978",
       "matches_by_season": {
         "2026/2027": [
           {
