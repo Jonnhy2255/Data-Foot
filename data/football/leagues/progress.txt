@@ -1,6 +1,6 @@
 {
   "all_teams_done": true,
-  "updated_at": "2026-10-17T15:25:36.377051",
+  "updated_at": "2026-10-17T20:30:43.140584",
   "teams": {
     "349": {
       "team_name": "AFC Bournemouth",
@@ -22,7 +22,7 @@
       "team_name": "Aston Villa",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401915409",
+      "last_match_id": "401879258",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -30,7 +30,7 @@
       "team_name": "Brentford",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401878776",
+      "last_match_id": "401879262",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -78,7 +78,7 @@
       "team_name": "Fulham",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401879265",
+      "last_match_id": "401878770",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -86,7 +86,7 @@
       "team_name": "Hull City",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401878774",
+      "last_match_id": "401878770",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -94,7 +94,7 @@
       "team_name": "Ipswich Town",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401879265",
+      "last_match_id": "401879259",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -110,7 +110,7 @@
       "team_name": "Liverpool",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401915415",
+      "last_match_id": "401879262",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -118,7 +118,7 @@
       "team_name": "Manchester City",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401915407",
+      "last_match_id": "401879259",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -134,7 +134,7 @@
       "team_name": "Newcastle United",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401879267",
+      "last_match_id": "401879258",
       "done": true,
       "remaining_new_matches": 0
     },
