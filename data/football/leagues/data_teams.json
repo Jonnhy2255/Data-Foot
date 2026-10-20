@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-10-20T00:18:31.900686",
+  "scraped_at": "2026-10-20T08:28:29.998980",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-20T00:16:52.412409",
+      "scraped_at": "2026-10-20T08:26:43.218468",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2433,7 +2433,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-20T00:16:57.609393",
+      "scraped_at": "2026-10-20T08:26:48.920600",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4831,7 +4831,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-20T00:17:02.856239",
+      "scraped_at": "2026-10-20T08:26:54.424756",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7392,7 +7392,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-20T00:17:08.092622",
+      "scraped_at": "2026-10-20T08:26:59.988103",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -9686,7 +9686,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-20T00:17:13.284107",
+      "scraped_at": "2026-10-20T08:27:05.528709",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -12191,7 +12191,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-20T00:17:18.625092",
+      "scraped_at": "2026-10-20T08:27:11.105706",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -14468,7 +14468,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-20T00:17:23.875066",
+      "scraped_at": "2026-10-20T08:27:16.936098",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -14490,9 +14490,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.56,
-              "away": 5.5,
-              "draw": 4.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -16160,7 +16160,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-20T00:17:29.157031",
+      "scraped_at": "2026-10-20T08:27:22.499127",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -18614,7 +18614,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-20T00:17:34.261424",
+      "scraped_at": "2026-10-20T08:27:28.067103",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -21014,7 +21014,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-20T00:17:39.334932",
+      "scraped_at": "2026-10-20T08:27:33.765004",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -23463,7 +23463,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-20T00:17:44.500776",
+      "scraped_at": "2026-10-20T08:27:39.322671",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -25115,7 +25115,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-20T00:17:50.049804",
+      "scraped_at": "2026-10-20T08:27:44.886136",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -27500,7 +27500,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-20T00:17:55.319568",
+      "scraped_at": "2026-10-20T08:27:50.488161",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -29361,7 +29361,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-20T00:18:00.752726",
+      "scraped_at": "2026-10-20T08:27:56.306111",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -31775,7 +31775,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-20T00:18:06.090185",
+      "scraped_at": "2026-10-20T08:28:02.208965",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -34173,7 +34173,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-20T00:18:11.398010",
+      "scraped_at": "2026-10-20T08:28:07.884746",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -36675,7 +36675,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-20T00:18:16.523312",
+      "scraped_at": "2026-10-20T08:28:13.380924",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -39245,7 +39245,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 36,
-      "scraped_at": "2026-10-20T00:18:21.577180",
+      "scraped_at": "2026-10-20T08:28:18.752128",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -41550,7 +41550,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-20T00:18:26.827253",
+      "scraped_at": "2026-10-20T08:28:24.448521",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -43379,7 +43379,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-20T00:18:31.900549",
+      "scraped_at": "2026-10-20T08:28:29.998743",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -43401,9 +43401,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.56,
-              "away": 5.5,
-              "draw": 4.5
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},

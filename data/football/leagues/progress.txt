@@ -1,6 +1,6 @@
 {
   "all_teams_done": true,
-  "updated_at": "2026-10-20T00:18:31.944567",
+  "updated_at": "2026-10-20T08:28:30.073455",
   "teams": {
     "349": {
       "team_name": "AFC Bournemouth",
