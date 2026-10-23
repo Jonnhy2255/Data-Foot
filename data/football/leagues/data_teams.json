@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-10-23T16:55:28.495244",
+  "scraped_at": "2026-10-23T21:21:54.806686",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-23T16:53:46.864405",
+      "scraped_at": "2026-10-23T21:20:11.280067",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2473,7 +2473,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-23T16:53:52.321632",
+      "scraped_at": "2026-10-23T21:20:16.641842",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4911,7 +4911,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-23T16:53:57.719671",
+      "scraped_at": "2026-10-23T21:20:22.202460",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7512,7 +7512,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-23T16:54:03.276186",
+      "scraped_at": "2026-10-23T21:20:27.799132",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -9806,7 +9806,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-23T16:54:08.662408",
+      "scraped_at": "2026-10-23T21:20:33.288231",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -12351,7 +12351,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-23T16:54:14.097718",
+      "scraped_at": "2026-10-23T21:20:38.999372",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -14628,7 +14628,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-23T16:54:19.502579",
+      "scraped_at": "2026-10-23T21:20:44.424263",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -16320,7 +16320,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-23T16:54:24.965626",
+      "scraped_at": "2026-10-23T21:20:50.062228",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -18814,7 +18814,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-23T16:54:30.097673",
+      "scraped_at": "2026-10-23T21:20:55.465378",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -21214,7 +21214,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-23T16:54:35.610641",
+      "scraped_at": "2026-10-23T21:21:00.769378",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -23663,7 +23663,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-23T16:54:40.843071",
+      "scraped_at": "2026-10-23T21:21:06.164683",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -25315,7 +25315,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-23T16:54:46.259915",
+      "scraped_at": "2026-10-23T21:21:11.618441",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -25347,13 +25347,13 @@
               "context": "Premier League",
               "matchday": 8,
               "round": null,
-              "opponent": "Nottingham Forest",
-              "opponent_id": "393",
-              "home_or_away": "home",
-              "date": "Fri, Oct 23",
+              "opponent": "Hull City",
+              "opponent_id": "306",
+              "home_or_away": "away",
+              "date": "Sat, Oct 31",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879253/nottingham-forest-ipswich-town",
-              "game_id": "401879253"
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878763/ipswich-town-hull-city",
+              "game_id": "401878763"
             },
             "match_id": "401879259",
             "match_url": "https://www.espn.com/soccer/match/_/gameId/401879259/ipswich-town-manchester-city"
@@ -27700,7 +27700,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-23T16:54:51.629228",
+      "scraped_at": "2026-10-23T21:21:17.059494",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -29561,7 +29561,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-10-23T16:54:56.653987",
+      "scraped_at": "2026-10-23T21:21:22.348575",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -32015,7 +32015,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-23T16:55:01.892862",
+      "scraped_at": "2026-10-23T21:21:27.688952",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -34453,7 +34453,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-10-23T16:55:07.074817",
+      "scraped_at": "2026-10-23T21:21:33.180341",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -36995,7 +36995,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-23T16:55:12.295144",
+      "scraped_at": "2026-10-23T21:21:38.619132",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -39564,10 +39564,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 36,
-      "scraped_at": "2026-10-23T16:55:17.921561",
+      "total_matches": 37,
+      "scraped_at": "2026-10-23T21:21:44.214415",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-23",
+            "season": "2026/2027",
+            "matchday": 8,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Ipswich Town",
+            "home_team_id": "373",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+            "home_score": 1,
+            "away_team": "Nottingham Forest",
+            "away_team_id": "393",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "N",
+            "odds": {
+              "home": 3.25,
+              "away": 2.25,
+              "draw": 3.4
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Brentford",
+              "opponent_id": "337",
+              "home_or_away": "away",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879249/nottingham-forest-brentford",
+              "game_id": "401879249"
+            },
+            "match_id": "401879253",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879253/nottingham-forest-ipswich-town"
+          },
           {
             "date": "2026-10-18",
             "season": "2026/2027",
@@ -39600,7 +39640,7 @@
               "opponent": "Ipswich Town",
               "opponent_id": "373",
               "home_or_away": "away",
-              "date": "Fri, Oct 23",
+              "date": "2026-10-23",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401879253/nottingham-forest-ipswich-town",
               "game_id": "401879253"
@@ -41870,7 +41910,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-23T16:55:23.175019",
+      "scraped_at": "2026-10-23T21:21:49.543021",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -43739,7 +43779,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-23T16:55:28.495104",
+      "scraped_at": "2026-10-23T21:21:54.806491",
       "matches_by_season": {
         "2026/2027": [
           {
