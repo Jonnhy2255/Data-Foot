@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-10-23T21:21:54.806686",
+  "scraped_at": "2026-10-24T04:07:58.857927",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-23T21:20:11.280067",
+      "scraped_at": "2026-10-24T04:06:16.342131",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2473,7 +2473,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-23T21:20:16.641842",
+      "scraped_at": "2026-10-24T04:06:21.784638",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -4911,7 +4911,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-23T21:20:22.202460",
+      "scraped_at": "2026-10-24T04:06:27.363864",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7512,7 +7512,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-23T21:20:27.799132",
+      "scraped_at": "2026-10-24T04:06:32.701363",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -9806,7 +9806,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-23T21:20:33.288231",
+      "scraped_at": "2026-10-24T04:06:38.157392",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -12351,7 +12351,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-23T21:20:38.999372",
+      "scraped_at": "2026-10-24T04:06:43.613814",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -14628,7 +14628,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-23T21:20:44.424263",
+      "scraped_at": "2026-10-24T04:06:48.992592",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -16320,7 +16320,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-23T21:20:50.062228",
+      "scraped_at": "2026-10-24T04:06:54.339800",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -18814,7 +18814,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-23T21:20:55.465378",
+      "scraped_at": "2026-10-24T04:06:59.837200",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -21214,7 +21214,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-23T21:21:00.769378",
+      "scraped_at": "2026-10-24T04:07:05.269971",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -23663,7 +23663,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-23T21:21:06.164683",
+      "scraped_at": "2026-10-24T04:07:10.643647",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -25314,10 +25314,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 37,
-      "scraped_at": "2026-10-23T21:21:11.618441",
+      "total_matches": 38,
+      "scraped_at": "2026-10-24T04:07:16.241986",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-23",
+            "season": "2026/2027",
+            "matchday": 8,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Ipswich Town",
+            "home_team_id": "373",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+            "home_score": 1,
+            "away_team": "Nottingham Forest",
+            "away_team_id": "393",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "N",
+            "odds": {
+              "home": 3.25,
+              "away": 2.25,
+              "draw": 3.4
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Hull City",
+              "opponent_id": "306",
+              "home_or_away": "away",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878763/ipswich-town-hull-city",
+              "game_id": "401878763"
+            },
+            "match_id": "401879253",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879253/nottingham-forest-ipswich-town"
+          },
           {
             "date": "2026-10-17",
             "season": "2026/2027",
@@ -25347,13 +25387,13 @@
               "context": "Premier League",
               "matchday": 8,
               "round": null,
-              "opponent": "Hull City",
-              "opponent_id": "306",
-              "home_or_away": "away",
-              "date": "Sat, Oct 31",
+              "opponent": "Nottingham Forest",
+              "opponent_id": "393",
+              "home_or_away": "home",
+              "date": "2026-10-23",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878763/ipswich-town-hull-city",
-              "game_id": "401878763"
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879253/nottingham-forest-ipswich-town",
+              "game_id": "401879253"
             },
             "match_id": "401879259",
             "match_url": "https://www.espn.com/soccer/match/_/gameId/401879259/ipswich-town-manchester-city"
@@ -27700,7 +27740,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-23T21:21:17.059494",
+      "scraped_at": "2026-10-24T04:07:21.660800",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -29561,7 +29601,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-10-23T21:21:22.348575",
+      "scraped_at": "2026-10-24T04:07:26.993589",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -32015,7 +32055,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-23T21:21:27.688952",
+      "scraped_at": "2026-10-24T04:07:32.482888",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -34453,7 +34493,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-10-23T21:21:33.180341",
+      "scraped_at": "2026-10-24T04:07:37.731019",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -36995,7 +37035,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-23T21:21:38.619132",
+      "scraped_at": "2026-10-24T04:07:42.973231",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -39565,7 +39605,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-23T21:21:44.214415",
+      "scraped_at": "2026-10-24T04:07:48.315629",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -41910,7 +41950,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-23T21:21:49.543021",
+      "scraped_at": "2026-10-24T04:07:53.529976",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -43779,7 +43819,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-23T21:21:54.806491",
+      "scraped_at": "2026-10-24T04:07:58.857773",
       "matches_by_season": {
         "2026/2027": [
           {
