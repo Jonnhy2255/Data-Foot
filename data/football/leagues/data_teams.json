@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-10-28T20:19:29.493041",
+  "scraped_at": "2026-10-29T00:51:12.948338",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -15,10 +15,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 40,
-      "scraped_at": "2026-10-28T20:17:15.999102",
+      "total_matches": 41,
+      "scraped_at": "2026-10-29T00:49:30.556771",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-28",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "English Carabao Cup",
+            "home_team": "AFC Bournemouth",
+            "home_team_id": "349",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+            "home_score": 3,
+            "away_team": "Aston Villa",
+            "away_team_id": "362",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 2.05,
+              "away": 3.1,
+              "draw": 3.65
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Leeds United",
+              "opponent_id": "357",
+              "home_or_away": "home",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879251/leeds-united-afc-bournemouth",
+              "game_id": "401879251"
+            },
+            "match_id": "401921840",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401921840/aston-villa-afc-bournemouth"
+          },
           {
             "date": "2026-10-25",
             "season": "2026/2027",
@@ -51,9 +91,9 @@
               "opponent": "Aston Villa",
               "opponent_id": "362",
               "home_or_away": "home",
-              "date": "Wed, Oct 28",
+              "date": "2026-10-28",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921840",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921840/aston-villa-afc-bournemouth",
               "game_id": "401921840"
             },
             "match_id": "401879252",
@@ -2513,7 +2553,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 44,
-      "scraped_at": "2026-10-28T20:17:22.362246",
+      "scraped_at": "2026-10-29T00:49:35.990762",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -5030,10 +5070,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 42,
-      "scraped_at": "2026-10-28T20:17:29.432712",
+      "total_matches": 43,
+      "scraped_at": "2026-10-29T00:49:41.305168",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-28",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "English Carabao Cup",
+            "home_team": "AFC Bournemouth",
+            "home_team_id": "349",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+            "home_score": 3,
+            "away_team": "Aston Villa",
+            "away_team_id": "362",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "D",
+            "odds": {
+              "home": 2.05,
+              "away": 3.1,
+              "draw": 3.65
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Fulham",
+              "opponent_id": "370",
+              "home_or_away": "home",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250/fulham-aston-villa",
+              "game_id": "401879250"
+            },
+            "match_id": "401921840",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401921840/aston-villa-afc-bournemouth"
+          },
           {
             "date": "2026-10-24",
             "season": "2026/2027",
@@ -5066,9 +5146,9 @@
               "opponent": "AFC Bournemouth",
               "opponent_id": "349",
               "home_or_away": "away",
-              "date": "Wed, Oct 28",
+              "date": "2026-10-28",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921840",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921840/aston-villa-afc-bournemouth",
               "game_id": "401921840"
             },
             "match_id": "401879256",
@@ -7672,7 +7752,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-28T20:17:39.521036",
+      "scraped_at": "2026-10-29T00:49:46.865371",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7701,16 +7781,16 @@
             "has_full_stats": false,
             "stats": {},
             "next_game": {
-              "context": "Carabao Cup",
-              "matchday": null,
+              "context": "Premier League",
+              "matchday": 9,
               "round": null,
-              "opponent": "Sunderland",
-              "opponent_id": "366",
-              "home_or_away": "away",
-              "date": "Wed, Oct 28",
-              "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921843",
-              "game_id": "401921843"
+              "opponent": "Nottingham Forest",
+              "opponent_id": "393",
+              "home_or_away": "home",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879249/nottingham-forest-brentford",
+              "game_id": "401879249"
             },
             "match_id": "401878766",
             "match_url": "https://www.espn.com/soccer/match/_/gameId/401878766/brentford-hull-city"
@@ -10005,10 +10085,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 42,
-      "scraped_at": "2026-10-28T20:17:47.899147",
+      "total_matches": 43,
+      "scraped_at": "2026-10-29T00:49:52.213841",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-28",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "English Carabao Cup",
+            "home_team": "Manchester City",
+            "home_team_id": "382",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+            "home_score": 2,
+            "away_team": "Brighton Hove Albion",
+            "away_team_id": "331",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+            "away_score": 2,
+            "result": "FT-Pens",
+            "decided_by_penalties": true,
+            "penalty_winner": "home",
+            "team_result": "D",
+            "odds": {
+              "home": 1.83,
+              "away": 3.55,
+              "draw": 3.95
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Manchester City",
+              "opponent_id": "382",
+              "home_or_away": "away",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879245/brighton-hove-albion-manchester-city",
+              "game_id": "401879245"
+            },
+            "match_id": "401921834",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401921834/brighton-hove-albion-manchester-city"
+          },
           {
             "date": "2026-10-25",
             "season": "2026/2027",
@@ -10041,9 +10161,9 @@
               "opponent": "Manchester City",
               "opponent_id": "382",
               "home_or_away": "away",
-              "date": "Wed, Oct 28",
+              "date": "2026-10-28",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921834",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921834/brighton-hove-albion-manchester-city",
               "game_id": "401921834"
             },
             "match_id": "401878765",
@@ -12590,10 +12710,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 40,
-      "scraped_at": "2026-10-28T20:17:56.631012",
+      "total_matches": 41,
+      "scraped_at": "2026-10-29T00:49:57.685988",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-28",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "English Carabao Cup",
+            "home_team": "Liverpool",
+            "home_team_id": "364",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+            "home_score": 1,
+            "away_team": "Chelsea",
+            "away_team_id": "363",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+            "away_score": 1,
+            "result": "FT-Pens",
+            "decided_by_penalties": true,
+            "penalty_winner": "home",
+            "team_result": "D",
+            "odds": {
+              "home": 2.4,
+              "away": 2.65,
+              "draw": 3.45
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Manchester United",
+              "opponent_id": "360",
+              "home_or_away": "home",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879248/manchester-united-chelsea",
+              "game_id": "401879248"
+            },
+            "match_id": "401921842",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401921842/chelsea-liverpool"
+          },
           {
             "date": "2026-10-24",
             "season": "2026/2027",
@@ -12626,9 +12786,9 @@
               "opponent": "Liverpool",
               "opponent_id": "364",
               "home_or_away": "away",
-              "date": "Wed, Oct 28",
+              "date": "2026-10-28",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921842",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921842/chelsea-liverpool",
               "game_id": "401921842"
             },
             "match_id": "401878767",
@@ -14908,7 +15068,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-28T20:18:02.627513",
+      "scraped_at": "2026-10-29T00:50:03.217126",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -16639,10 +16799,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 43,
-      "scraped_at": "2026-10-28T20:18:11.077924",
+      "total_matches": 44,
+      "scraped_at": "2026-10-29T00:50:08.436047",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-28",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "English Carabao Cup",
+            "home_team": "Fulham",
+            "home_team_id": "370",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+            "home_score": 0,
+            "away_team": "Crystal Palace",
+            "away_team_id": "384",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 1.67,
+              "away": 4.5,
+              "draw": 3.85
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Tottenham Hotspur",
+              "opponent_id": "367",
+              "home_or_away": "away",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878761/crystal-palace-tottenham-hotspur",
+              "game_id": "401878761"
+            },
+            "match_id": "401921841",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401921841/crystal-palace-fulham"
+          },
           {
             "date": "2026-10-25",
             "season": "2026/2027",
@@ -16675,9 +16875,9 @@
               "opponent": "Fulham",
               "opponent_id": "370",
               "home_or_away": "away",
-              "date": "Wed, Oct 28",
+              "date": "2026-10-28",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921841",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921841/crystal-palace-fulham",
               "game_id": "401921841"
             },
             "match_id": "401879254",
@@ -19174,7 +19374,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-28T20:18:17.051356",
+      "scraped_at": "2026-10-29T00:50:14.052411",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -21613,10 +21813,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 39,
-      "scraped_at": "2026-10-28T20:18:25.084801",
+      "total_matches": 40,
+      "scraped_at": "2026-10-29T00:50:19.177485",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-28",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "English Carabao Cup",
+            "home_team": "Fulham",
+            "home_team_id": "370",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+            "home_score": 0,
+            "away_team": "Crystal Palace",
+            "away_team_id": "384",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "D",
+            "odds": {
+              "home": 1.67,
+              "away": 4.5,
+              "draw": 3.85
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Aston Villa",
+              "opponent_id": "362",
+              "home_or_away": "away",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250/fulham-aston-villa",
+              "game_id": "401879250"
+            },
+            "match_id": "401921841",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401921841/crystal-palace-fulham"
+          },
           {
             "date": "2026-10-24",
             "season": "2026/2027",
@@ -21649,9 +21889,9 @@
               "opponent": "Crystal Palace",
               "opponent_id": "384",
               "home_or_away": "home",
-              "date": "Wed, Oct 28",
+              "date": "2026-10-28",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921841",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921841/crystal-palace-fulham",
               "game_id": "401921841"
             },
             "match_id": "401879255",
@@ -24103,7 +24343,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-28T20:18:31.205070",
+      "scraped_at": "2026-10-29T00:50:24.491670",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -25795,7 +26035,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-28T20:18:36.629451",
+      "scraped_at": "2026-10-29T00:50:29.872968",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -28220,7 +28460,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-28T20:18:42.208709",
+      "scraped_at": "2026-10-29T00:50:35.151794",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -30120,10 +30360,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 44,
-      "scraped_at": "2026-10-28T20:18:48.710258",
+      "total_matches": 45,
+      "scraped_at": "2026-10-29T00:50:40.524773",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-28",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "English Carabao Cup",
+            "home_team": "Liverpool",
+            "home_team_id": "364",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+            "home_score": 1,
+            "away_team": "Chelsea",
+            "away_team_id": "363",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+            "away_score": 1,
+            "result": "FT-Pens",
+            "decided_by_penalties": true,
+            "penalty_winner": "home",
+            "team_result": "V",
+            "odds": {
+              "home": 2.4,
+              "away": 2.65,
+              "draw": 3.45
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Arsenal",
+              "opponent_id": "359",
+              "home_or_away": "home",
+              "date": "Sun, Nov 1",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879246/arsenal-liverpool",
+              "game_id": "401879246"
+            },
+            "match_id": "401921842",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401921842/chelsea-liverpool"
+          },
           {
             "date": "2026-10-25",
             "season": "2026/2027",
@@ -30156,9 +30436,9 @@
               "opponent": "Chelsea",
               "opponent_id": "363",
               "home_or_away": "home",
-              "date": "Wed, Oct 28",
+              "date": "2026-10-28",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921842",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921842/chelsea-liverpool",
               "game_id": "401921842"
             },
             "match_id": "401878765",
@@ -32614,10 +32894,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 41,
-      "scraped_at": "2026-10-28T20:18:57.195471",
+      "total_matches": 42,
+      "scraped_at": "2026-10-29T00:50:46.145548",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-28",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "English Carabao Cup",
+            "home_team": "Manchester City",
+            "home_team_id": "382",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+            "home_score": 2,
+            "away_team": "Brighton Hove Albion",
+            "away_team_id": "331",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+            "away_score": 2,
+            "result": "FT-Pens",
+            "decided_by_penalties": true,
+            "penalty_winner": "home",
+            "team_result": "V",
+            "odds": {
+              "home": 1.83,
+              "away": 3.55,
+              "draw": 3.95
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Brighton Hove Albion",
+              "opponent_id": "331",
+              "home_or_away": "home",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879245/brighton-hove-albion-manchester-city",
+              "game_id": "401879245"
+            },
+            "match_id": "401921834",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401921834/brighton-hove-albion-manchester-city"
+          },
           {
             "date": "2026-10-24",
             "season": "2026/2027",
@@ -32650,9 +32970,9 @@
               "opponent": "Brighton Hove Albion",
               "opponent_id": "331",
               "home_or_away": "home",
-              "date": "Wed, Oct 28",
+              "date": "2026-10-28",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921834",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921834/brighton-hove-albion-manchester-city",
               "game_id": "401921834"
             },
             "match_id": "401879256",
@@ -35093,7 +35413,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 44,
-      "scraped_at": "2026-10-28T20:19:04.518973",
+      "scraped_at": "2026-10-29T00:50:51.544450",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -37675,7 +37995,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-28T20:19:10.011542",
+      "scraped_at": "2026-10-29T00:50:57.074202",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -40285,7 +40605,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 37,
-      "scraped_at": "2026-10-28T20:19:15.452022",
+      "scraped_at": "2026-10-29T00:51:02.579810",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -42629,10 +42949,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 43,
-      "scraped_at": "2026-10-28T20:19:22.302300",
+      "total_matches": 44,
+      "scraped_at": "2026-10-29T00:51:07.434232",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-28",
+            "season": "2026/2027",
+            "matchday": null,
+            "round": null,
+            "competition": "English Carabao Cup",
+            "home_team": "Sunderland",
+            "home_team_id": "366",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+            "home_score": 3,
+            "away_team": "Brentford",
+            "away_team_id": "337",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+            "away_score": 2,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 5.0,
+              "away": 1.57,
+              "draw": 4.1
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 9,
+              "round": null,
+              "opponent": "Coventry City",
+              "opponent_id": "388",
+              "home_or_away": "away",
+              "date": "Sat, Oct 31",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879247/sunderland-coventry-city",
+              "game_id": "401879247"
+            },
+            "match_id": "401921843",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401921843/brentford-sunderland"
+          },
           {
             "date": "2026-10-25",
             "season": "2026/2027",
@@ -42665,9 +43025,9 @@
               "opponent": "Brentford",
               "opponent_id": "337",
               "home_or_away": "home",
-              "date": "Wed, Oct 28",
+              "date": "2026-10-28",
               "competition": "English Carabao Cup",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921843",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401921843/brentford-sunderland",
               "game_id": "401921843"
             },
             "match_id": "401878764",
@@ -44539,7 +44899,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-10-28T20:19:29.492790",
+      "scraped_at": "2026-10-29T00:51:12.948170",
       "matches_by_season": {
         "2026/2027": [
           {
