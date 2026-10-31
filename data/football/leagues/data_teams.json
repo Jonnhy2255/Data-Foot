@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-10-31T17:20:28.796045",
+  "scraped_at": "2026-10-31T21:24:36.109091",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-31T17:18:40.974435",
+      "scraped_at": "2026-10-31T21:22:40.914454",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -38,9 +38,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.05,
-              "away": 3.7,
-              "draw": 3.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -2593,7 +2593,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 44,
-      "scraped_at": "2026-10-31T17:18:46.445302",
+      "scraped_at": "2026-10-31T21:22:46.695854",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -5111,7 +5111,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-10-31T17:18:52.298506",
+      "scraped_at": "2026-10-31T21:22:54.305475",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -5148,7 +5148,7 @@
               "home_or_away": "home",
               "date": "Sat, Oct 31",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250/fulham-aston-villa",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250",
               "game_id": "401879250"
             },
             "match_id": "401921840",
@@ -7791,10 +7791,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 39,
-      "scraped_at": "2026-10-31T17:18:57.736335",
+      "total_matches": 40,
+      "scraped_at": "2026-10-31T21:23:02.091250",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-31",
+            "season": "2026/2027",
+            "matchday": 9,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Brentford",
+            "home_team_id": "337",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+            "home_score": 2,
+            "away_team": "Nottingham Forest",
+            "away_team_id": "393",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 2.15,
+              "away": 3.25,
+              "draw": 3.55
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 10,
+              "round": null,
+              "opponent": "Brighton Hove Albion",
+              "opponent_id": "331",
+              "home_or_away": "away",
+              "date": "Sun, Nov 8",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879244/brentford-brighton-hove-albion",
+              "game_id": "401879244"
+            },
+            "match_id": "401879249",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879249/nottingham-forest-brentford"
+          },
           {
             "date": "2026-10-28",
             "season": "2026/2027",
@@ -7822,15 +7862,15 @@
             "stats": {},
             "next_game": {
               "context": "Premier League",
-              "matchday": 10,
+              "matchday": 9,
               "round": null,
-              "opponent": "Brighton Hove Albion",
-              "opponent_id": "331",
-              "home_or_away": "away",
-              "date": "Sun, Nov 8",
+              "opponent": "Nottingham Forest",
+              "opponent_id": "393",
+              "home_or_away": "home",
+              "date": "2026-10-31",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879244/brentford-brighton-hove-albion",
-              "game_id": "401879244"
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879249/nottingham-forest-brentford",
+              "game_id": "401879249"
             },
             "match_id": "401921843",
             "match_url": "https://www.espn.com/soccer/match/_/gameId/401921843/brentford-sunderland"
@@ -10166,7 +10206,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 44,
-      "scraped_at": "2026-10-31T17:19:03.354160",
+      "scraped_at": "2026-10-31T21:23:07.646285",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -10188,9 +10228,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.69,
-              "away": 4.6,
-              "draw": 4.2
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -12831,7 +12871,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-31T17:19:09.185690",
+      "scraped_at": "2026-10-31T21:23:13.553367",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -12853,9 +12893,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.25,
-              "away": 3.05,
-              "draw": 3.7
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -15227,10 +15267,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 38,
-      "scraped_at": "2026-10-31T17:19:14.862253",
+      "total_matches": 39,
+      "scraped_at": "2026-10-31T21:23:19.145179",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-31",
+            "season": "2026/2027",
+            "matchday": 9,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Coventry City",
+            "home_team_id": "388",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+            "home_score": 3,
+            "away_team": "Sunderland",
+            "away_team_id": "366",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 3.1,
+              "away": 2.35,
+              "draw": 3.35
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 10,
+              "round": null,
+              "opponent": "Everton",
+              "opponent_id": "368",
+              "home_or_away": "away",
+              "date": "Fri, Nov 6",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879242/coventry-city-everton",
+              "game_id": "401879242"
+            },
+            "match_id": "401879247",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879247/sunderland-coventry-city"
+          },
           {
             "date": "2026-10-24",
             "season": "2026/2027",
@@ -15260,13 +15340,13 @@
               "context": "Premier League",
               "matchday": 9,
               "round": null,
-              "opponent": "Everton",
-              "opponent_id": "368",
-              "home_or_away": "away",
-              "date": "Fri, Nov 6",
+              "opponent": "Sunderland",
+              "opponent_id": "366",
+              "home_or_away": "home",
+              "date": "2026-10-31",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879242/coventry-city-everton",
-              "game_id": "401879242"
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879247/sunderland-coventry-city",
+              "game_id": "401879247"
             },
             "match_id": "401879255",
             "match_url": "https://www.espn.com/soccer/match/_/gameId/401879255/fulham-coventry-city"
@@ -16959,10 +17039,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 44,
-      "scraped_at": "2026-10-31T17:19:20.626527",
+      "total_matches": 45,
+      "scraped_at": "2026-10-31T21:23:24.892489",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-31",
+            "season": "2026/2027",
+            "matchday": 9,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Tottenham Hotspur",
+            "home_team_id": "367",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+            "home_score": 2,
+            "away_team": "Crystal Palace",
+            "away_team_id": "384",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "D",
+            "odds": {
+              "home": 1.65,
+              "away": 5.0,
+              "draw": 4.1
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "UEFA Europa League",
+              "matchday": null,
+              "round": null,
+              "opponent": "Tsg Hoffenheim",
+              "opponent_id": "7911",
+              "home_or_away": "home",
+              "date": "Thu, Nov 5",
+              "competition": "UEFA Europa League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915526/tsg-hoffenheim-crystal-palace",
+              "game_id": "401915526"
+            },
+            "match_id": "401878761",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401878761/crystal-palace-tottenham-hotspur"
+          },
           {
             "date": "2026-10-28",
             "season": "2026/2027",
@@ -16995,7 +17115,7 @@
               "opponent": "Tottenham Hotspur",
               "opponent_id": "367",
               "home_or_away": "away",
-              "date": "Sat, Oct 31",
+              "date": "2026-10-31",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401878761/crystal-palace-tottenham-hotspur",
               "game_id": "401878761"
@@ -19534,7 +19654,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-31T17:19:26.532600",
+      "scraped_at": "2026-10-31T21:23:30.464402",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -22014,7 +22134,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-31T17:19:32.218500",
+      "scraped_at": "2026-10-31T21:23:37.993565",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -22051,7 +22171,7 @@
               "home_or_away": "away",
               "date": "Sat, Oct 31",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250/fulham-aston-villa",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250",
               "game_id": "401879250"
             },
             "match_id": "401921841",
@@ -24543,7 +24663,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-31T17:19:37.830138",
+      "scraped_at": "2026-10-31T21:23:45.575049",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -24565,9 +24685,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.9,
-              "away": 2.45,
-              "draw": 3.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -26275,7 +26395,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-31T17:19:43.550306",
+      "scraped_at": "2026-10-31T21:23:51.177893",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -26297,9 +26417,9 @@
             "penalty_winner": null,
             "team_result": "N",
             "odds": {
-              "home": 2.9,
-              "away": 2.45,
-              "draw": 3.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -28740,7 +28860,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-10-31T17:19:48.787990",
+      "scraped_at": "2026-10-31T21:23:56.845869",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -28762,9 +28882,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.05,
-              "away": 3.7,
-              "draw": 3.4
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -30681,7 +30801,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-10-31T17:19:54.205349",
+      "scraped_at": "2026-10-31T21:24:02.294687",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -33215,7 +33335,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-10-31T17:20:00.075829",
+      "scraped_at": "2026-10-31T21:24:08.103209",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -33237,9 +33357,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.69,
-              "away": 4.6,
-              "draw": 4.2
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -35773,7 +35893,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-10-31T17:20:05.852125",
+      "scraped_at": "2026-10-31T21:24:13.883002",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -35795,9 +35915,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.25,
-              "away": 3.05,
-              "draw": 3.7
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -38395,7 +38515,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-31T17:20:11.619428",
+      "scraped_at": "2026-10-31T21:24:18.974537",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -41044,10 +41164,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 37,
-      "scraped_at": "2026-10-31T17:20:17.199556",
+      "total_matches": 38,
+      "scraped_at": "2026-10-31T21:24:24.701128",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-31",
+            "season": "2026/2027",
+            "matchday": 9,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Brentford",
+            "home_team_id": "337",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+            "home_score": 2,
+            "away_team": "Nottingham Forest",
+            "away_team_id": "393",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "D",
+            "odds": {
+              "home": 2.15,
+              "away": 3.25,
+              "draw": 3.55
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 10,
+              "round": null,
+              "opponent": "Manchester City",
+              "opponent_id": "382",
+              "home_or_away": "home",
+              "date": "Sat, Nov 7",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878757/manchester-city-nottingham-forest",
+              "game_id": "401878757"
+            },
+            "match_id": "401879249",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879249/nottingham-forest-brentford"
+          },
           {
             "date": "2026-10-23",
             "season": "2026/2027",
@@ -41075,15 +41235,15 @@
             "stats": {},
             "next_game": {
               "context": "Premier League",
-              "matchday": 10,
+              "matchday": 9,
               "round": null,
-              "opponent": "Manchester City",
-              "opponent_id": "382",
-              "home_or_away": "home",
-              "date": "Sat, Nov 7",
+              "opponent": "Brentford",
+              "opponent_id": "337",
+              "home_or_away": "away",
+              "date": "2026-10-31",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878757/manchester-city-nottingham-forest",
-              "game_id": "401878757"
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879249/nottingham-forest-brentford",
+              "game_id": "401879249"
             },
             "match_id": "401879253",
             "match_url": "https://www.espn.com/soccer/match/_/gameId/401879253/nottingham-forest-ipswich-town"
@@ -43390,7 +43550,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-10-31T17:20:23.067747",
+      "scraped_at": "2026-10-31T21:24:30.501235",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -45378,10 +45538,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 41,
-      "scraped_at": "2026-10-31T17:20:28.795727",
+      "total_matches": 42,
+      "scraped_at": "2026-10-31T21:24:36.108872",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-31",
+            "season": "2026/2027",
+            "matchday": 9,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Tottenham Hotspur",
+            "home_team_id": "367",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+            "home_score": 2,
+            "away_team": "Crystal Palace",
+            "away_team_id": "384",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 1.65,
+              "away": 5.0,
+              "draw": 4.1
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 10,
+              "round": null,
+              "opponent": "Leeds United",
+              "opponent_id": "357",
+              "home_or_away": "away",
+              "date": "Sat, Nov 7",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878758/tottenham-hotspur-leeds-united",
+              "game_id": "401878758"
+            },
+            "match_id": "401878761",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401878761/crystal-palace-tottenham-hotspur"
+          },
           {
             "date": "2026-10-24",
             "season": "2026/2027",
@@ -45414,7 +45614,7 @@
               "opponent": "Crystal Palace",
               "opponent_id": "384",
               "home_or_away": "home",
-              "date": "Sat, Oct 31",
+              "date": "2026-10-31",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401878761/crystal-palace-tottenham-hotspur",
               "game_id": "401878761"
