@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-10-31T21:24:36.109091",
+  "scraped_at": "2026-11-01T05:26:09.650841",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-31T21:22:40.914454",
+      "scraped_at": "2026-11-01T05:24:20.390362",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2593,7 +2593,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 44,
-      "scraped_at": "2026-10-31T21:22:46.695854",
+      "scraped_at": "2026-11-01T05:24:26.147560",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -5110,10 +5110,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 43,
-      "scraped_at": "2026-10-31T21:22:54.305475",
+      "total_matches": 44,
+      "scraped_at": "2026-11-01T05:24:32.168823",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-31",
+            "season": "2026/2027",
+            "matchday": 9,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Aston Villa",
+            "home_team_id": "362",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+            "home_score": 1,
+            "away_team": "Fulham",
+            "away_team_id": "370",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "N",
+            "odds": {
+              "home": 2.0,
+              "away": 3.7,
+              "draw": 3.65
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "UEFA Champions League",
+              "matchday": null,
+              "round": null,
+              "opponent": "Barcelona",
+              "opponent_id": "83",
+              "home_or_away": "away",
+              "date": "Tue, Nov 3",
+              "competition": "UEFA Champions League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401915387/aston-villa-barcelona",
+              "game_id": "401915387"
+            },
+            "match_id": "401879250",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250/fulham-aston-villa"
+          },
           {
             "date": "2026-10-28",
             "season": "2026/2027",
@@ -5146,9 +5186,9 @@
               "opponent": "Fulham",
               "opponent_id": "370",
               "home_or_away": "home",
-              "date": "Sat, Oct 31",
+              "date": "2026-10-31",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250/fulham-aston-villa",
               "game_id": "401879250"
             },
             "match_id": "401921840",
@@ -7792,7 +7832,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-31T21:23:02.091250",
+      "scraped_at": "2026-11-01T05:24:37.703697",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7814,9 +7854,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 2.15,
-              "away": 3.25,
-              "draw": 3.55
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -10206,7 +10246,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 44,
-      "scraped_at": "2026-10-31T21:23:07.646285",
+      "scraped_at": "2026-11-01T05:24:43.487810",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -12871,7 +12911,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-31T21:23:13.553367",
+      "scraped_at": "2026-11-01T05:24:49.102549",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15268,7 +15308,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-31T21:23:19.145179",
+      "scraped_at": "2026-11-01T05:24:54.834267",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15290,9 +15330,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 3.1,
-              "away": 2.35,
-              "draw": 3.35
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -17040,7 +17080,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-10-31T21:23:24.892489",
+      "scraped_at": "2026-11-01T05:25:00.664098",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -17062,9 +17102,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 1.65,
-              "away": 5.0,
-              "draw": 4.1
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -19654,7 +19694,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-10-31T21:23:30.464402",
+      "scraped_at": "2026-11-01T05:25:06.333079",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -22133,10 +22173,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 40,
-      "scraped_at": "2026-10-31T21:23:37.993565",
+      "total_matches": 41,
+      "scraped_at": "2026-11-01T05:25:12.033481",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-10-31",
+            "season": "2026/2027",
+            "matchday": 9,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Aston Villa",
+            "home_team_id": "362",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+            "home_score": 1,
+            "away_team": "Fulham",
+            "away_team_id": "370",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "N",
+            "odds": {
+              "home": 2.0,
+              "away": 3.7,
+              "draw": 3.65
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 10,
+              "round": null,
+              "opponent": "Newcastle United",
+              "opponent_id": "361",
+              "home_or_away": "home",
+              "date": "Sat, Nov 7",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879241/newcastle-united-fulham",
+              "game_id": "401879241"
+            },
+            "match_id": "401879250",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250/fulham-aston-villa"
+          },
           {
             "date": "2026-10-28",
             "season": "2026/2027",
@@ -22169,9 +22249,9 @@
               "opponent": "Aston Villa",
               "opponent_id": "362",
               "home_or_away": "away",
-              "date": "Sat, Oct 31",
+              "date": "2026-10-31",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879250/fulham-aston-villa",
               "game_id": "401879250"
             },
             "match_id": "401921841",
@@ -24663,7 +24743,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-31T21:23:45.575049",
+      "scraped_at": "2026-11-01T05:25:17.583133",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -26395,7 +26475,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-10-31T21:23:51.177893",
+      "scraped_at": "2026-11-01T05:25:23.218968",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -28860,7 +28940,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-10-31T21:23:56.845869",
+      "scraped_at": "2026-11-01T05:25:28.929344",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -30801,7 +30881,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-10-31T21:24:02.294687",
+      "scraped_at": "2026-11-01T05:25:34.743810",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -33335,7 +33415,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-10-31T21:24:08.103209",
+      "scraped_at": "2026-11-01T05:25:40.696438",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -35893,7 +35973,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-10-31T21:24:13.883002",
+      "scraped_at": "2026-11-01T05:25:46.528896",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -38515,7 +38595,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-31T21:24:18.974537",
+      "scraped_at": "2026-11-01T05:25:52.290460",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -41165,7 +41245,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-10-31T21:24:24.701128",
+      "scraped_at": "2026-11-01T05:25:58.044948",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -41187,9 +41267,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 2.15,
-              "away": 3.25,
-              "draw": 3.55
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -43550,7 +43630,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-10-31T21:24:30.501235",
+      "scraped_at": "2026-11-01T05:26:04.050359",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -43572,9 +43652,9 @@
             "penalty_winner": null,
             "team_result": "D",
             "odds": {
-              "home": 3.1,
-              "away": 2.35,
-              "draw": 3.35
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
@@ -45539,7 +45619,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-10-31T21:24:36.108872",
+      "scraped_at": "2026-11-01T05:26:09.650575",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -45561,9 +45641,9 @@
             "penalty_winner": null,
             "team_result": "V",
             "odds": {
-              "home": 1.65,
-              "away": 5.0,
-              "draw": 4.1
+              "home": null,
+              "away": null,
+              "draw": null
             },
             "has_full_stats": false,
             "stats": {},
