@@ -1,12 +1,12 @@
 {
   "all_teams_done": true,
-  "updated_at": "2026-11-05T19:52:49.356532",
+  "updated_at": "2026-11-06T01:36:31.926260",
   "teams": {
     "349": {
       "team_name": "AFC Bournemouth",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401879251",
+      "last_match_id": "401915528",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -38,7 +38,7 @@
       "team_name": "Brighton & Hove Albion",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401879245",
+      "last_match_id": "401915821",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -62,7 +62,7 @@
       "team_name": "Crystal Palace",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401878761",
+      "last_match_id": "401915526",
       "done": true,
       "remaining_new_matches": 0
     },
@@ -150,7 +150,7 @@
       "team_name": "Sunderland",
       "league_name": "England_Premier_League",
       "country": "England",
-      "last_match_id": "401879247",
+      "last_match_id": "401915523",
       "done": true,
       "remaining_new_matches": 0
     },
