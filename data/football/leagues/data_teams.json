@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-11-06T19:16:09.568561",
+  "scraped_at": "2026-11-07T00:54:04.306529",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-11-06T19:13:54.859419",
+      "scraped_at": "2026-11-07T00:52:17.195969",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2633,7 +2633,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 46,
-      "scraped_at": "2026-11-06T19:14:02.357291",
+      "scraped_at": "2026-11-07T00:52:22.822746",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -5231,7 +5231,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-11-06T19:14:09.590308",
+      "scraped_at": "2026-11-07T00:52:28.406169",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7992,7 +7992,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-11-06T19:14:17.199471",
+      "scraped_at": "2026-11-07T00:52:33.929225",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -10406,7 +10406,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-11-06T19:14:23.919226",
+      "scraped_at": "2026-11-07T00:52:39.414536",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -13111,7 +13111,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-11-06T19:14:31.575227",
+      "scraped_at": "2026-11-07T00:52:45.030025",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15507,10 +15507,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 39,
-      "scraped_at": "2026-11-06T19:14:38.052328",
+      "total_matches": 40,
+      "scraped_at": "2026-11-07T00:52:50.680444",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-11-06",
+            "season": "2026/2027",
+            "matchday": 10,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Everton",
+            "home_team_id": "368",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+            "home_score": 3,
+            "away_team": "Coventry City",
+            "away_team_id": "388",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "D",
+            "odds": {
+              "home": 1.67,
+              "away": 4.9,
+              "draw": 4.1
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 11,
+              "round": null,
+              "opponent": "Crystal Palace",
+              "opponent_id": "384",
+              "home_or_away": "home",
+              "date": "Sat, Nov 21",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879235/crystal-palace-coventry-city",
+              "game_id": "401879235"
+            },
+            "match_id": "401879242",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879242/coventry-city-everton"
+          },
           {
             "date": "2026-10-31",
             "season": "2026/2027",
@@ -15543,7 +15583,7 @@
               "opponent": "Everton",
               "opponent_id": "368",
               "home_or_away": "away",
-              "date": "Fri, Nov 6",
+              "date": "2026-11-06",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401879242/coventry-city-everton",
               "game_id": "401879242"
@@ -17280,7 +17320,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 46,
-      "scraped_at": "2026-11-06T19:14:45.414290",
+      "scraped_at": "2026-11-07T00:52:56.266063",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -19933,10 +19973,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 41,
-      "scraped_at": "2026-11-06T19:14:52.575974",
+      "total_matches": 42,
+      "scraped_at": "2026-11-07T00:53:02.228259",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-11-06",
+            "season": "2026/2027",
+            "matchday": 10,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Everton",
+            "home_team_id": "368",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+            "home_score": 3,
+            "away_team": "Coventry City",
+            "away_team_id": "388",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 1.67,
+              "away": 4.9,
+              "draw": 4.1
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 11,
+              "round": null,
+              "opponent": "Brentford",
+              "opponent_id": "337",
+              "home_or_away": "away",
+              "date": "Mon, Nov 23",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879237/everton-brentford",
+              "game_id": "401879237"
+            },
+            "match_id": "401879242",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879242/coventry-city-everton"
+          },
           {
             "date": "2026-11-02",
             "season": "2026/2027",
@@ -19969,7 +20049,7 @@
               "opponent": "Coventry City",
               "opponent_id": "388",
               "home_or_away": "home",
-              "date": "Fri, Nov 6",
+              "date": "2026-11-06",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401879242/coventry-city-everton",
               "game_id": "401879242"
@@ -22454,7 +22534,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-11-06T19:15:00.132166",
+      "scraped_at": "2026-11-07T00:53:07.971544",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -25023,7 +25103,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-11-06T19:15:06.410206",
+      "scraped_at": "2026-11-07T00:53:14.067491",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -26755,7 +26835,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-11-06T19:15:13.185608",
+      "scraped_at": "2026-11-07T00:53:19.668790",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -29220,7 +29300,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-11-06T19:15:20.059776",
+      "scraped_at": "2026-11-07T00:53:25.336259",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -31161,7 +31241,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 47,
-      "scraped_at": "2026-11-06T19:15:27.834507",
+      "scraped_at": "2026-11-07T00:53:30.683970",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -33775,7 +33855,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 44,
-      "scraped_at": "2026-11-06T19:15:35.414804",
+      "scraped_at": "2026-11-07T00:53:36.238556",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -36373,7 +36453,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 46,
-      "scraped_at": "2026-11-06T19:15:42.317183",
+      "scraped_at": "2026-11-07T00:53:42.015622",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -39035,7 +39115,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-11-06T19:15:49.121360",
+      "scraped_at": "2026-11-07T00:53:47.505967",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -41725,7 +41805,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-11-06T19:15:55.988724",
+      "scraped_at": "2026-11-07T00:53:53.091062",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -44110,7 +44190,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 46,
-      "scraped_at": "2026-11-06T19:16:02.759002",
+      "scraped_at": "2026-11-07T00:53:58.778794",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -46139,7 +46219,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-11-06T19:16:09.568339",
+      "scraped_at": "2026-11-07T00:54:04.306393",
       "matches_by_season": {
         "2026/2027": [
           {
