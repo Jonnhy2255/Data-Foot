@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-11-07T09:56:00.576411",
+  "scraped_at": "2026-11-07T17:47:40.708646",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-11-07T09:54:13.165319",
+      "scraped_at": "2026-11-07T17:45:36.623472",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2632,10 +2632,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 46,
-      "scraped_at": "2026-11-07T09:54:18.776755",
+      "total_matches": 47,
+      "scraped_at": "2026-11-07T17:45:42.604375",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-11-07",
+            "season": "2026/2027",
+            "matchday": 10,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Arsenal",
+            "home_team_id": "359",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+            "home_score": 1,
+            "away_team": "Hull City",
+            "away_team_id": "306",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 1.14,
+              "away": 20.0,
+              "draw": 8.0
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 11,
+              "round": null,
+              "opponent": "Newcastle United",
+              "opponent_id": "361",
+              "home_or_away": "away",
+              "date": "Sat, Nov 21",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879232/arsenal-newcastle-united",
+              "game_id": "401879232"
+            },
+            "match_id": "401878760",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401878760/hull-city-arsenal"
+          },
           {
             "date": "2026-11-04",
             "season": "2026/2027",
@@ -2668,7 +2708,7 @@
               "opponent": "Hull City",
               "opponent_id": "306",
               "home_or_away": "home",
-              "date": "Sat, Nov 7",
+              "date": "2026-11-07",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401878760/hull-city-arsenal",
               "game_id": "401878760"
@@ -5231,7 +5271,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-11-07T09:54:24.744988",
+      "scraped_at": "2026-11-07T17:45:48.464011",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -7992,7 +8032,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-11-07T09:54:30.429789",
+      "scraped_at": "2026-11-07T17:45:54.280168",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -10406,7 +10446,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-11-07T09:54:36.088494",
+      "scraped_at": "2026-11-07T17:45:59.980313",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -13111,7 +13151,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-11-07T09:54:41.776732",
+      "scraped_at": "2026-11-07T17:46:05.897982",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -15508,7 +15548,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-11-07T09:54:47.327012",
+      "scraped_at": "2026-11-07T17:46:11.745833",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -17320,7 +17360,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 46,
-      "scraped_at": "2026-11-07T09:54:52.925285",
+      "scraped_at": "2026-11-07T17:46:18.268714",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -19974,7 +20014,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-11-07T09:54:58.799030",
+      "scraped_at": "2026-11-07T17:46:24.089638",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -22533,10 +22573,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 41,
-      "scraped_at": "2026-11-07T09:55:04.444603",
+      "total_matches": 42,
+      "scraped_at": "2026-11-07T17:46:30.471213",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-11-07",
+            "season": "2026/2027",
+            "matchday": 10,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Fulham",
+            "home_team_id": "370",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+            "home_score": 1,
+            "away_team": "Newcastle United",
+            "away_team_id": "361",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "N",
+            "odds": {
+              "home": 1.95,
+              "away": 3.6,
+              "draw": 3.8
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 11,
+              "round": null,
+              "opponent": "Manchester City",
+              "opponent_id": "382",
+              "home_or_away": "away",
+              "date": "Sat, Nov 21",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879233/fulham-manchester-city",
+              "game_id": "401879233"
+            },
+            "match_id": "401879241",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879241/newcastle-united-fulham"
+          },
           {
             "date": "2026-10-31",
             "season": "2026/2027",
@@ -22569,7 +22649,7 @@
               "opponent": "Newcastle United",
               "opponent_id": "361",
               "home_or_away": "home",
-              "date": "Sat, Nov 7",
+              "date": "2026-11-07",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401879241/newcastle-united-fulham",
               "game_id": "401879241"
@@ -25102,10 +25182,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 39,
-      "scraped_at": "2026-11-07T09:55:10.093457",
+      "total_matches": 40,
+      "scraped_at": "2026-11-07T17:46:36.557213",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-11-07",
+            "season": "2026/2027",
+            "matchday": 10,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Arsenal",
+            "home_team_id": "359",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+            "home_score": 1,
+            "away_team": "Hull City",
+            "away_team_id": "306",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "D",
+            "odds": {
+              "home": 1.14,
+              "away": 20.0,
+              "draw": 8.0
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 11,
+              "round": null,
+              "opponent": "Brighton Hove Albion",
+              "opponent_id": "331",
+              "home_or_away": "home",
+              "date": "Sun, Nov 22",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879234/brighton-hove-albion-hull-city",
+              "game_id": "401879234"
+            },
+            "match_id": "401878760",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401878760/hull-city-arsenal"
+          },
           {
             "date": "2026-10-31",
             "season": "2026/2027",
@@ -25138,7 +25258,7 @@
               "opponent": "Arsenal",
               "opponent_id": "359",
               "home_or_away": "away",
-              "date": "Sat, Nov 7",
+              "date": "2026-11-07",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401878760/hull-city-arsenal",
               "game_id": "401878760"
@@ -26835,7 +26955,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 39,
-      "scraped_at": "2026-11-07T09:55:15.721645",
+      "scraped_at": "2026-11-07T17:46:42.876850",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -29299,10 +29419,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 43,
-      "scraped_at": "2026-11-07T09:55:21.328021",
+      "total_matches": 44,
+      "scraped_at": "2026-11-07T17:46:48.822744",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-11-07",
+            "season": "2026/2027",
+            "matchday": 10,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Leeds United",
+            "home_team_id": "357",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+            "home_score": 1,
+            "away_team": "Tottenham Hotspur",
+            "away_team_id": "367",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "V",
+            "odds": {
+              "home": 2.8,
+              "away": 2.55,
+              "draw": 3.35
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 11,
+              "round": null,
+              "opponent": "Chelsea",
+              "opponent_id": "363",
+              "home_or_away": "away",
+              "date": "Sat, Nov 21",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879236/leeds-united-chelsea",
+              "game_id": "401879236"
+            },
+            "match_id": "401878758",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401878758/tottenham-hotspur-leeds-united"
+          },
           {
             "date": "2026-10-31",
             "season": "2026/2027",
@@ -29335,7 +29495,7 @@
               "opponent": "Tottenham Hotspur",
               "opponent_id": "367",
               "home_or_away": "home",
-              "date": "Sat, Nov 7",
+              "date": "2026-11-07",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401878758/tottenham-hotspur-leeds-united",
               "game_id": "401878758"
@@ -31241,7 +31401,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 47,
-      "scraped_at": "2026-11-07T09:55:26.835094",
+      "scraped_at": "2026-11-07T17:46:54.702957",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -33855,7 +34015,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 44,
-      "scraped_at": "2026-11-07T09:55:32.561516",
+      "scraped_at": "2026-11-07T17:47:05.290428",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -33892,7 +34052,7 @@
               "home_or_away": "away",
               "date": "Sat, Nov 7",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878757/manchester-city-nottingham-forest",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878757",
               "game_id": "401878757"
             },
             "match_id": "401915306",
@@ -36453,7 +36613,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 46,
-      "scraped_at": "2026-11-07T09:55:38.131792",
+      "scraped_at": "2026-11-07T17:47:12.053404",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -39114,10 +39274,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 43,
-      "scraped_at": "2026-11-07T09:55:43.685901",
+      "total_matches": 44,
+      "scraped_at": "2026-11-07T17:47:17.921960",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-11-07",
+            "season": "2026/2027",
+            "matchday": 10,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Fulham",
+            "home_team_id": "370",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+            "home_score": 1,
+            "away_team": "Newcastle United",
+            "away_team_id": "361",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+            "away_score": 1,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "N",
+            "odds": {
+              "home": 1.95,
+              "away": 3.6,
+              "draw": 3.8
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 11,
+              "round": null,
+              "opponent": "Arsenal",
+              "opponent_id": "359",
+              "home_or_away": "home",
+              "date": "Sat, Nov 21",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879232/arsenal-newcastle-united",
+              "game_id": "401879232"
+            },
+            "match_id": "401879241",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401879241/newcastle-united-fulham"
+          },
           {
             "date": "2026-11-02",
             "season": "2026/2027",
@@ -39150,7 +39350,7 @@
               "opponent": "Fulham",
               "opponent_id": "370",
               "home_or_away": "away",
-              "date": "Sat, Nov 7",
+              "date": "2026-11-07",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401879241/newcastle-united-fulham",
               "game_id": "401879241"
@@ -41805,7 +42005,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 38,
-      "scraped_at": "2026-11-07T09:55:49.541108",
+      "scraped_at": "2026-11-07T17:47:28.582344",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -41842,7 +42042,7 @@
               "home_or_away": "home",
               "date": "Sat, Nov 7",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878757/manchester-city-nottingham-forest",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878757",
               "game_id": "401878757"
             },
             "match_id": "401879249",
@@ -44190,7 +44390,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 46,
-      "scraped_at": "2026-11-07T09:55:55.060463",
+      "scraped_at": "2026-11-07T17:47:34.810941",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -46218,10 +46418,50 @@
       "league_id": "eng.1",
       "league_name": "England_Premier_League",
       "country": "England",
-      "total_matches": 42,
-      "scraped_at": "2026-11-07T09:56:00.576274",
+      "total_matches": 43,
+      "scraped_at": "2026-11-07T17:47:40.708479",
       "matches_by_season": {
         "2026/2027": [
+          {
+            "date": "2026-11-07",
+            "season": "2026/2027",
+            "matchday": 10,
+            "round": null,
+            "competition": "English Premier League",
+            "home_team": "Leeds United",
+            "home_team_id": "357",
+            "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+            "home_score": 1,
+            "away_team": "Tottenham Hotspur",
+            "away_team_id": "367",
+            "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+            "away_score": 0,
+            "result": "FT",
+            "decided_by_penalties": false,
+            "penalty_winner": null,
+            "team_result": "D",
+            "odds": {
+              "home": 2.8,
+              "away": 2.55,
+              "draw": 3.35
+            },
+            "has_full_stats": false,
+            "stats": {},
+            "next_game": {
+              "context": "Premier League",
+              "matchday": 11,
+              "round": null,
+              "opponent": "Ipswich Town",
+              "opponent_id": "373",
+              "home_or_away": "home",
+              "date": "Sat, Nov 21",
+              "competition": "English Premier League",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401878754/ipswich-town-tottenham-hotspur",
+              "game_id": "401878754"
+            },
+            "match_id": "401878758",
+            "match_url": "https://www.espn.com/soccer/match/_/gameId/401878758/tottenham-hotspur-leeds-united"
+          },
           {
             "date": "2026-10-31",
             "season": "2026/2027",
@@ -46254,7 +46494,7 @@
               "opponent": "Leeds United",
               "opponent_id": "357",
               "home_or_away": "away",
-              "date": "Sat, Nov 7",
+              "date": "2026-11-07",
               "competition": "English Premier League",
               "match_url": "https://www.espn.com/soccer/match/_/gameId/401878758/tottenham-hotspur-leeds-united",
               "game_id": "401878758"
