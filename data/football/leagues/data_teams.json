@@ -6,7 +6,7 @@
     }
   ],
   "nb_teams": 20,
-  "scraped_at": "2026-11-27T12:03:58.366461",
+  "scraped_at": "2026-11-27T21:05:11.198566",
   "teams": [
     {
       "team_name": "AFC Bournemouth",
@@ -16,7 +16,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 46,
-      "scraped_at": "2026-11-27T12:01:55.638583",
+      "scraped_at": "2026-11-27T21:02:51.612707",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -2753,7 +2753,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 49,
-      "scraped_at": "2026-11-27T12:02:02.440906",
+      "scraped_at": "2026-11-27T21:02:58.360872",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -5471,7 +5471,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 48,
-      "scraped_at": "2026-11-27T12:02:08.835021",
+      "scraped_at": "2026-11-27T21:03:05.135265",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -8352,7 +8352,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 42,
-      "scraped_at": "2026-11-27T12:02:15.422774",
+      "scraped_at": "2026-11-27T21:03:11.806656",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -10846,7 +10846,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 48,
-      "scraped_at": "2026-11-27T12:02:22.069026",
+      "scraped_at": "2026-11-27T21:03:18.401668",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -13671,7 +13671,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 44,
-      "scraped_at": "2026-11-27T12:02:28.343918",
+      "scraped_at": "2026-11-27T21:03:31.526379",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -13708,7 +13708,7 @@
               "home_or_away": "away",
               "date": "Fri, Nov 27",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879225/chelsea-nottingham-forest",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879225",
               "game_id": "401879225"
             },
             "match_id": "401879236",
@@ -16148,7 +16148,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-11-27T12:02:34.989000",
+      "scraped_at": "2026-11-27T21:03:38.836685",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -18000,7 +18000,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 49,
-      "scraped_at": "2026-11-27T12:02:41.700998",
+      "scraped_at": "2026-11-27T21:03:45.559175",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -20774,7 +20774,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-11-27T12:02:48.048113",
+      "scraped_at": "2026-11-27T21:03:51.971155",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -23374,7 +23374,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 43,
-      "scraped_at": "2026-11-27T12:02:54.345511",
+      "scraped_at": "2026-11-27T21:03:58.555456",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -26023,7 +26023,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-11-27T12:03:00.841610",
+      "scraped_at": "2026-11-27T21:04:05.122326",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -27835,7 +27835,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 41,
-      "scraped_at": "2026-11-27T12:03:07.082622",
+      "scraped_at": "2026-11-27T21:04:11.476453",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -30380,7 +30380,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-11-27T12:03:13.644644",
+      "scraped_at": "2026-11-27T21:04:17.879221",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -32401,7 +32401,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 50,
-      "scraped_at": "2026-11-27T12:03:20.222872",
+      "scraped_at": "2026-11-27T21:04:24.229817",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -35135,7 +35135,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 47,
-      "scraped_at": "2026-11-27T12:03:26.148705",
+      "scraped_at": "2026-11-27T21:04:30.888743",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -37853,7 +37853,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 49,
-      "scraped_at": "2026-11-27T12:03:32.557640",
+      "scraped_at": "2026-11-27T21:04:37.331369",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -40635,7 +40635,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 45,
-      "scraped_at": "2026-11-27T12:03:39.077419",
+      "scraped_at": "2026-11-27T21:04:43.812258",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -43405,7 +43405,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 40,
-      "scraped_at": "2026-11-27T12:03:45.800495",
+      "scraped_at": "2026-11-27T21:04:57.161907",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -43442,7 +43442,7 @@
               "home_or_away": "home",
               "date": "Fri, Nov 27",
               "competition": "English Premier League",
-              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879225/chelsea-nottingham-forest",
+              "match_url": "https://www.espn.com/soccer/match/_/gameId/401879225",
               "game_id": "401879225"
             },
             "match_id": "401879238",
@@ -45870,7 +45870,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 49,
-      "scraped_at": "2026-11-27T12:03:52.322386",
+      "scraped_at": "2026-11-27T21:05:05.011285",
       "matches_by_season": {
         "2026/2027": [
           {
@@ -48019,7 +48019,7 @@
       "league_name": "England_Premier_League",
       "country": "England",
       "total_matches": 44,
-      "scraped_at": "2026-11-27T12:03:58.366300",
+      "scraped_at": "2026-11-27T21:05:11.198360",
       "matches_by_season": {
         "2026/2027": [
           {
